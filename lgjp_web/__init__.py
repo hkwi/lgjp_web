@@ -1,12 +1,15 @@
+import os.path
 import concurrent.futures
 import logging
 import requests
 import rdflib
-from rdflib.namespace import XSD, DCTERMS, FOAF, RDFS, SKOS
+import datetime
+from rdflib.namespace import RDF, XSD, DCTERMS, FOAF, RDFS, SKOS
 JITI = rdflib.Namespace("http://hkwi.github.com/denshijiti/#")
 JITIS = rdflib.Namespace("http://hkwi.github.com/denshijiti/terms#")
 IC = rdflib.Namespace("http://imi.ipa.go.jp/ns/core/rdf#")
-LGW = rdflib.Namespace("http://hkwi.github.com/lgjp_web/terms#")
+LGW = rdflib.Namespace("http://hkwi.github.com/lgjp_web/#")
+LGWS = rdflib.Namespace("http://hkwi.github.com/lgjp_web/terms#")
 
 def use_ns(g):
 	ns = dict(
@@ -18,6 +21,7 @@ def use_ns(g):
 		jiti=JITI,
 		jitis=JITIS,
 		lgw=LGW,
+		lgws=LGWS,
 	)
 	for k,v in ns.items():
 		g.bind(k,v)
@@ -85,34 +89,66 @@ def build(fn):
 	
 	return g
 
-def scan_url(base):
+def scan_url(urls, hb):
+	base = rdflib.Graph()
+	use_ns(base)
+	base.load(urls, format="turtle")
+	if hb and os.path.exists(hb):
+		base.load(hb, format="turtle")
+	
 	g = rdflib.Graph()
 	use_ns(g)
+	if hb and os.path.exists(hb):
+		g.load(hb, format="turtle")
 	
-	q = '''
-	SELECT ?s ?c ?L WHERE {
-		?s jitis:code ?c ;
+	q1 = '''
+	SELECT ?c ?L WHERE {
+		?s1 jitis:code ?c ;
 			foaf:homepage ?L .
+		FILTER NOT EXISTS {
+			?s a lgws:Poll ;
+				jitis:code ?c ;
+				lgws:tm ?tm .
+		}
 	}
+	LIMIT 200
+	'''
+	
+	q2 = '''
+	SELECT ?c ?L WHERE {
+		?s1 jitis:code ?c ;
+			foaf:homepage ?L .
+		?s a lgws:Poll ;
+			jitis:code ?c ;
+			lgws:tm ?tm .
+	}
+	ORDER BY ASC(?tm) LIMIT 200
 	'''
 	with concurrent.futures.ThreadPoolExecutor(max_workers=4) as wks:
 		def proc(args):
-			s,c,L = args
-			g.add((s, FOAF["homepage"], L))
+			c,L = args
+			s = LGW[c]
 			g.add((s, JITIS["code"], c))
+			
+			s = LGW[c]
+			g.add((s, RDF.type, LGWS["Poll"]))
+			g.add((s, JITIS["code"], c))
+			dti = int(datetime.datetime.now().timestamp())
+			g.add((s, LGWS["tm"], rdflib.Literal(str(dti), datatype=XSD.integer)))
 			info, err = poll_url(L)
 			for k,v in info.items():
 				if k=="land":
-					g.add((s, LGW[k], rdflib.URIRef(v)))
+					g.add((s, LGWS[k], rdflib.URIRef(v)))
 				else:
-					g.add((s, LGW[k], rdflib.Literal(v)))
+					g.add((s, LGWS[k], rdflib.Literal(v)))
 			
 			if err:
 				logstr = "%s %s" % (L, repr(err))
 				logging.error(logstr)
 				return logstr
 		
-		err = [z for z in wks.map(proc, base.query(q)) if z]
+		err = [z for z in wks.map(proc, base.query(q1)) if z]
+		err += [z for z in wks.map(proc, base.query(q2)) if z]
 		assert not err, repr(err)
 	
 	return g
