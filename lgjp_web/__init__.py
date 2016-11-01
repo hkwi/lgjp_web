@@ -4,6 +4,8 @@ import logging
 import requests
 import rdflib
 import datetime
+import itertools
+
 from rdflib.namespace import RDF, XSD, DCTERMS, FOAF, RDFS, SKOS
 JITI = rdflib.Namespace("http://hkwi.github.com/denshijiti/#")
 JITIS = rdflib.Namespace("http://hkwi.github.com/denshijiti/terms#")
@@ -124,37 +126,35 @@ def scan_url(urls, hb):
 	}
 	ORDER BY ASC(?tm) LIMIT 200
 	'''
+	err = {}
 	with concurrent.futures.ThreadPoolExecutor(max_workers=4) as wks:
-		def proc(args):
-			c,L = args
-			s = LGW[c]
-			g.add((s, JITIS["code"], c))
+		i = 0
+		for c,L in itertools.chain(base.query(q1), base.query(q2)):
+			if i > 200:
+				break
 			
+			i += 1
 			s = LGW[c]
 			for p,v in g.query("SELECT ?p ?v WHERE { <%s> ?p ?v . }" % s):
 				g.remove((s,p,v))
 			
-			g.add((s, RDF.type, LGWS["Poll"]))
-			g.add((s, JITIS["code"], c))
 			dti = int(datetime.datetime.now().timestamp())
 			g.add((s, LGWS["tm"], rdflib.Literal(str(dti), datatype=XSD.integer)))
-			info, err = poll_url(L)
+			g.add((s, RDF.type, LGWS["Poll"]))
+			g.add((s, JITIS["code"], c))
+			info, se = poll_url(L)
 			for k,v in info.items():
 				if k=="land":
 					g.add((s, LGWS[k], rdflib.URIRef(v)))
 				else:
 					g.add((s, LGWS[k], rdflib.Literal(v)))
 			
-			if err:
-				logstr = "%s %s" % (L, repr(err))
+			if se:
+				err[L] = se
+				logstr = "%s %s" % (L, repr(se))
 				logging.error(logstr)
-				return logstr
-		
-		err = [z for z in wks.map(proc, base.query(q1)) if z]
-		err += [z for z in wks.map(proc, base.query(q2)) if z]
-		assert not err, repr(err)
 	
-	return g
+	return g, err
 
 def poll_url(url):
 	err_hist = []

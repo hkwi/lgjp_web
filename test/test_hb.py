@@ -20,6 +20,7 @@ class TestHeartBeat(unittest.TestCase):
 			g.serialize(destination=w, format="turtle")
 	
 	def test_hb(self):
-		g = lgjp_web.scan_url("docs/urls.ttl", "docs/hb.ttl")
+		g,err = lgjp_web.scan_url("docs/urls.ttl", "docs/hb.ttl")
+		assert not err, repr(err)
 		with open("docs/hb.ttl","wb") as w:
 			g.serialize(destination=w, format="turtle")
