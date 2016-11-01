@@ -20,7 +20,7 @@ class TestHeartBeat(unittest.TestCase):
 		
 		assert not c, repr(c)
 	
-	@unittest.skipIf(os.environ.get("TRAVIS"))
+	@unittest.skipIf(os.environ.get("TRAVIS"), "some lg looks limiting access only from Japan")
 	def test_hb(self):
 		g = lgjp_web.scan_url("docs/urls.ttl")
 		with open("docs/hb.ttl","wb") as w:
