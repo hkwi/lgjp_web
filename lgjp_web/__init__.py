@@ -131,6 +131,9 @@ def scan_url(urls, hb):
 			g.add((s, JITIS["code"], c))
 			
 			s = LGW[c]
+			for p,v in g.query("SELECT ?p ?v WHERE { <%s> ?p ?v . }" % s):
+				g.remove((s,p,v))
+			
 			g.add((s, RDF.type, LGWS["Poll"]))
 			g.add((s, JITIS["code"], c))
 			dti = int(datetime.datetime.now().timestamp())
