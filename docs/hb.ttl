@@ -24,6 +24,18 @@
     lgws:tm 1478000201,
         1478000581 .
 
+<http://hkwi.github.com/lgjp_web/#012041> a lgws:Poll ;
+    jitis:code "012041" ;
+    lgws:etag "\"41f621-8241-5403af5996d8b\"" ;
+    lgws:land <http://www.city.asahikawa.hokkaido.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 10:40:56 GMT" ;
+    lgws:tm 1478003731 .
+
+<http://hkwi.github.com/lgjp_web/#012068> a lgws:Poll ;
+    jitis:code "012068" ;
+    lgws:land <http://www.city.kushiro.lg.jp/> ;
+    lgws:tm 1478003540 .
+
 <http://hkwi.github.com/lgjp_web/#012092> a lgws:Poll ;
     jitis:code "012092" ;
     lgws:land <http://www.city.yubari.lg.jp/> ;
@@ -53,6 +65,17 @@
     lgws:tm 1478000199,
         1478000568 .
 
+<http://hkwi.github.com/lgjp_web/#012220> a lgws:Poll ;
+    jitis:code "012220" ;
+    lgws:land <http://www.city.mikasa.hokkaido.jp/> ;
+    lgws:tm 1478003635 .
+
+<http://hkwi.github.com/lgjp_web/#012238> a lgws:Poll ;
+    jitis:code "012238" ;
+    lgws:land <http://www.city.nemuro.hokkaido.jp/dcitynd.nsf> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:36:32 GMT" ;
+    lgws:tm 1478003789 .
+
 <http://hkwi.github.com/lgjp_web/#012297> a lgws:Poll ;
     jitis:code "012297" ;
     lgws:etag "\"1e11c1-e5fc-54035a38fad68\"" ;
@@ -60,6 +83,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 04:20:05 GMT" ;
     lgws:tm 1478000201,
         1478000580 .
+
+<http://hkwi.github.com/lgjp_web/#012319> a lgws:Poll ;
+    jitis:code "012319" ;
+    lgws:etag "\"2c2c41-5fab-7d1fba40\"" ;
+    lgws:land <http://www.city.eniwa.hokkaido.jp/www/toppage/0000000000000/APM03000.html> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:25 GMT" ;
+    lgws:tm 1478003681 .
 
 <http://hkwi.github.com/lgjp_web/#012335> a lgws:Poll ;
     jitis:code "012335" ;
@@ -78,6 +108,12 @@
     lgws:land <http://www.vill.shinshinotsu.hokkaido.jp/> ;
     lgws:tm 1478000511 .
 
+<http://hkwi.github.com/lgjp_web/#013315> a lgws:Poll ;
+    jitis:code "013315" ;
+    lgws:land <http://www.e-matsumae.com/> ;
+    lgws:last-modified "Fri, 28 Oct 2016 08:45:19 GMT" ;
+    lgws:tm 1478003640 .
+
 <http://hkwi.github.com/lgjp_web/#013323> a lgws:Poll ;
     jitis:code "013323" ;
     lgws:land <http://www.town.fukushima.hokkaido.jp/> ;
@@ -89,6 +125,11 @@
     lgws:land <http://www.town.nanae.hokkaido.jp/> ;
     lgws:tm 1478000204,
         1478000595 .
+
+<http://hkwi.github.com/lgjp_web/#013439> a lgws:Poll ;
+    jitis:code "013439" ;
+    lgws:land <http://www.town.shikabe.lg.jp/> ;
+    lgws:tm 1478003744 .
 
 <http://hkwi.github.com/lgjp_web/#013455> a lgws:Poll ;
     jitis:code "013455" ;
@@ -112,10 +153,20 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:41:50 GMT" ;
     lgws:tm 1478000509 .
 
+<http://hkwi.github.com/lgjp_web/#013625> a lgws:Poll ;
+    jitis:code "013625" ;
+    lgws:land <http://www.town.kaminokuni.lg.jp/> ;
+    lgws:tm 1478003679 .
+
 <http://hkwi.github.com/lgjp_web/#013706> a lgws:Poll ;
     jitis:code "013706" ;
     lgws:land <http://www.town.imakane.lg.jp/> ;
     lgws:tm 1478000489 .
+
+<http://hkwi.github.com/lgjp_web/#013919> a lgws:Poll ;
+    jitis:code "013919" ;
+    lgws:land <http://www.vill.shimamaki.lg.jp/> ;
+    lgws:tm 1478003569 .
 
 <http://hkwi.github.com/lgjp_web/#013935> a lgws:Poll ;
     jitis:code "013935" ;
@@ -138,6 +189,11 @@
     lgws:land <http://www.town.shakotan.hokkaido.jp/> ;
     lgws:last-modified "Sun, 30 Mar 2008 15:00:00 GMT" ;
     lgws:tm 1478000504 .
+
+<http://hkwi.github.com/lgjp_web/#014231> a lgws:Poll ;
+    jitis:code "014231" ;
+    lgws:land <http://www.town.nanporo.hokkaido.jp/> ;
+    lgws:tm 1478003762 .
 
 <http://hkwi.github.com/lgjp_web/#014281> a lgws:Poll ;
     jitis:code "014281" ;
@@ -175,6 +231,18 @@
     lgws:tm 1478000201,
         1478000579 .
 
+<http://hkwi.github.com/lgjp_web/#014648> a lgws:Poll ;
+    jitis:code "014648" ;
+    lgws:land <http://www.town.wassamu.hokkaido.jp/> ;
+    lgws:tm 1478003746 .
+
+<http://hkwi.github.com/lgjp_web/#014818> a lgws:Poll ;
+    jitis:code "014818" ;
+    lgws:etag "\"33683b-4477-53e26de037080\"" ;
+    lgws:land <http://www.town.mashike.hokkaido.jp/> ;
+    lgws:last-modified "Wed, 05 Oct 2016 23:52:18 GMT" ;
+    lgws:tm 1478003672 .
+
 <http://hkwi.github.com/lgjp_web/#014834> a lgws:Poll ;
     jitis:code "014834" ;
     lgws:etag "\"20168c44-510c-54031fb862140\"" ;
@@ -190,13 +258,26 @@
     lgws:tm 1478000202,
         1478000583 .
 
+<http://hkwi.github.com/lgjp_web/#015202> a lgws:Poll ;
+    jitis:code "015202" ;
+    lgws:etag "\"1e0aad-544a-540370c30e6ef\"" ;
+    lgws:land <http://www.town.horonobe.hokkaido.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 06:00:55 GMT" ;
+    lgws:tm 1478003620 .
+
+<http://hkwi.github.com/lgjp_web/#015431> a lgws:Poll ;
+    jitis:code "015431" ;
+    lgws:etag "\"1908039-6b72-21ec4880\"" ;
+    lgws:land <http://www.town.bihoro.hokkaido.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:30:10 GMT" ;
+    lgws:tm 1478003776 .
+
 <http://hkwi.github.com/lgjp_web/#015440> a lgws:Poll ;
     jitis:code "015440" ;
-    lgws:etag "\"2b6a56-987d-3a111740\"" ;
+    lgws:etag "\"2b6a56-987d-10957900\"" ;
     lgws:land <http://www.town.tsubetsu.hokkaido.jp/> ;
-    lgws:last-modified "Tue, 01 Nov 2016 11:00:05 GMT" ;
-    lgws:tm 1478000196,
-        1478000556 .
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:04 GMT" ;
+    lgws:tm 1478003806 .
 
 <http://hkwi.github.com/lgjp_web/#015458> a lgws:Poll ;
     jitis:code "015458" ;
@@ -218,12 +299,26 @@
     lgws:land <http://engaru.jp/> ;
     lgws:tm 1478000510 .
 
+<http://hkwi.github.com/lgjp_web/#015610> a lgws:Poll ;
+    jitis:code "015610" ;
+    lgws:etag "\"2f08b1-5d15-5817dc8a\"" ;
+    lgws:land <http://www.town.okoppe.lg.jp/cms/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 00:06:34 GMT" ;
+    lgws:tm 1478003627 .
+
 <http://hkwi.github.com/lgjp_web/#015628> a lgws:Poll ;
     jitis:code "015628" ;
     lgws:etag "\"18c24a5-4037-313dcac0\"" ;
     lgws:land <http://www.vill.nishiokoppe.hokkaido.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 08:34:27 GMT" ;
     lgws:tm 1478000537 .
+
+<http://hkwi.github.com/lgjp_web/#015784> a lgws:Poll ;
+    jitis:code "015784" ;
+    lgws:etag "\"0c859ae3b34d21:0\"" ;
+    lgws:land <http://www.town.shiraoi.hokkaido.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:08 GMT" ;
+    lgws:tm 1478003658 .
 
 <http://hkwi.github.com/lgjp_web/#015849> a lgws:Poll ;
     jitis:code "015849" ;
@@ -268,6 +363,27 @@
     lgws:last-modified "Tue, 01 Nov 2016 07:53:01 GMT" ;
     lgws:tm 1478000512 .
 
+<http://hkwi.github.com/lgjp_web/#016420> a lgws:Poll ;
+    jitis:code "016420" ;
+    lgws:etag "\"8163e-4078-5403666bba1e1\"" ;
+    lgws:land <http://www.town.hiroo.hokkaido.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 05:14:39 GMT" ;
+    lgws:tm 1478003708 .
+
+<http://hkwi.github.com/lgjp_web/#016454> a lgws:Poll ;
+    jitis:code "016454" ;
+    lgws:etag "\"2e00c8-851c-540366f19e37b\"" ;
+    lgws:land <http://www.toyokoro.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 05:16:59 GMT" ;
+    lgws:tm 1478003558 .
+
+<http://hkwi.github.com/lgjp_web/#016497> a lgws:Poll ;
+    jitis:code "016497" ;
+    lgws:etag "\"c3420-be65-5403c10e51c66\"" ;
+    lgws:land <http://www.urahoro.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:09 GMT" ;
+    lgws:tm 1478003624 .
+
 <http://hkwi.github.com/lgjp_web/#016616> a lgws:Poll ;
     jitis:code "016616" ;
     lgws:land <http://www.town.kushiro.lg.jp/> ;
@@ -281,6 +397,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 02:23:33 GMT" ;
     lgws:tm 1478000200,
         1478000574 .
+
+<http://hkwi.github.com/lgjp_web/#016675> a lgws:Poll ;
+    jitis:code "016675" ;
+    lgws:etag "\"81ee7a6-7aa7-540327e983500\"" ;
+    lgws:land <http://www.vill.tsurui.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 00:35:00 GMT" ;
+    lgws:tm 1478003632 .
 
 <http://hkwi.github.com/lgjp_web/#016934> a lgws:Poll ;
     jitis:code "016934" ;
@@ -308,6 +431,23 @@
     lgws:last-modified "Mon, 25 May 2015 00:31:20 GMT" ;
     lgws:tm 1478000205,
         1478000599 .
+
+<http://hkwi.github.com/lgjp_web/#023213> a lgws:Poll ;
+    jitis:code "023213" ;
+    lgws:land <http://www.town.ajigasawa.lg.jp/> ;
+    lgws:tm 1478003541 .
+
+<http://hkwi.github.com/lgjp_web/#023612> a lgws:Poll ;
+    jitis:code "023612" ;
+    lgws:land <http://www.town.fujisaki.lg.jp/> ;
+    lgws:tm 1478003665 .
+
+<http://hkwi.github.com/lgjp_web/#024121> a lgws:Poll ;
+    jitis:code "024121" ;
+    lgws:etag "\"88b001-8264-5403c867b5b80\"" ;
+    lgws:land <http://www.town.oirase.aomori.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:33:02 GMT" ;
+    lgws:tm 1478003648 .
 
 <http://hkwi.github.com/lgjp_web/#024252> a lgws:Poll ;
     jitis:code "024252" ;
@@ -369,6 +509,11 @@
     lgws:last-modified "Thu, 01 Oct 2015 09:34:47 GMT" ;
     lgws:tm 1478000534 .
 
+<http://hkwi.github.com/lgjp_web/#034851> a lgws:Poll ;
+    jitis:code "034851" ;
+    lgws:land <http://www.vill.fudai.iwate.jp/> ;
+    lgws:tm 1478003622 .
+
 <http://hkwi.github.com/lgjp_web/#035033> a lgws:Poll ;
     jitis:code "035033" ;
     lgws:land <http://www.vill.noda.iwate.jp/> ;
@@ -414,16 +559,41 @@
     lgws:last-modified "Tue, 01 Nov 2016 09:00:19 GMT" ;
     lgws:tm 1478000547 .
 
+<http://hkwi.github.com/lgjp_web/#042056> a lgws:Poll ;
+    jitis:code "042056" ;
+    lgws:etag "\"148018-145e-53f1e9599b2c0\"" ;
+    lgws:land <http://www.kesennuma.miyagi.jp/> ;
+    lgws:last-modified "Tue, 18 Oct 2016 07:24:35 GMT" ;
+    lgws:tm 1478003626 .
+
 <http://hkwi.github.com/lgjp_web/#042081> a lgws:Poll ;
     jitis:code "042081" ;
     lgws:land <http://www.city.kakuda.lg.jp/> ;
     lgws:tm 1478000200,
         1478000573 .
 
+<http://hkwi.github.com/lgjp_web/#042137> a lgws:Poll ;
+    jitis:code "042137" ;
+    lgws:land <http://www.kuriharacity.jp/> ;
+    lgws:tm 1478003583 .
+
+<http://hkwi.github.com/lgjp_web/#042161> a lgws:Poll ;
+    jitis:code "042161" ;
+    lgws:etag "\"10a2-5403c7df559c0\"" ;
+    lgws:land <http://www.tomiya-city.miyagi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:39 GMT" ;
+    lgws:tm 1478003778 .
+
 <http://hkwi.github.com/lgjp_web/#043028> a lgws:Poll ;
     jitis:code "043028" ;
     lgws:land <http://www.town.shichikashuku.miyagi.jp/> ;
     lgws:tm 1478000549 .
+
+<http://hkwi.github.com/lgjp_web/#043214> a lgws:Poll ;
+    jitis:code "043214" ;
+    lgws:land <http://www.town.ogawara.miyagi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:32:24 GMT" ;
+    lgws:tm 1478003564 .
 
 <http://hkwi.github.com/lgjp_web/#043222> a lgws:Poll ;
     jitis:code "043222" ;
@@ -431,6 +601,11 @@
     lgws:land <http://www.town.murata.miyagi.jp/> ;
     lgws:last-modified "Mon, 31 Oct 2016 08:21:06 GMT" ;
     lgws:tm 1478000534 .
+
+<http://hkwi.github.com/lgjp_web/#043231> a lgws:Poll ;
+    jitis:code "043231" ;
+    lgws:land <http://www.town.shibata.miyagi.jp/> ;
+    lgws:tm 1478003741 .
 
 <http://hkwi.github.com/lgjp_web/#044067> a lgws:Poll ;
     jitis:code "044067" ;
@@ -453,6 +628,11 @@
     lgws:last-modified "Mon, 31 Oct 2016 21:00:11 GMT" ;
     lgws:tm 1478000510 .
 
+<http://hkwi.github.com/lgjp_web/#045811> a lgws:Poll ;
+    jitis:code "045811" ;
+    lgws:land <http://www.town.onagawa.miyagi.jp/> ;
+    lgws:tm 1478003764 .
+
 <http://hkwi.github.com/lgjp_web/#052027> a lgws:Poll ;
     jitis:code "052027" ;
     lgws:land <http://www.city.noshiro.akita.jp/> ;
@@ -462,6 +642,11 @@
     jitis:code "052060" ;
     lgws:land <http://www.city.oga.akita.jp/> ;
     lgws:tm 1478000504 .
+
+<http://hkwi.github.com/lgjp_web/#052078> a lgws:Poll ;
+    jitis:code "052078" ;
+    lgws:land <http://www.city-yuzawa.jp/> ;
+    lgws:tm 1478003612 .
 
 <http://hkwi.github.com/lgjp_web/#052108> a lgws:Poll ;
     jitis:code "052108" ;
@@ -478,10 +663,22 @@
     lgws:land <http://www.city.nikaho.akita.jp/> ;
     lgws:tm 1478000503 .
 
+<http://hkwi.github.com/lgjp_web/#052159> a lgws:Poll ;
+    jitis:code "052159" ;
+    lgws:land <http://www.city.semboku.akita.jp/> ;
+    lgws:tm 1478003748 .
+
 <http://hkwi.github.com/lgjp_web/#053031> a lgws:Poll ;
     jitis:code "053031" ;
     lgws:land <http://www.town.kosaka.akita.jp/> ;
     lgws:tm 1478000544 .
+
+<http://hkwi.github.com/lgjp_web/#053660> a lgws:Poll ;
+    jitis:code "053660" ;
+    lgws:etag "\"1650763-5d36-7bee8d40\"" ;
+    lgws:land <http://www.town.ikawa.akita.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:05 GMT" ;
+    lgws:tm 1478003713 .
 
 <http://hkwi.github.com/lgjp_web/#062031> a lgws:Poll ;
     jitis:code "062031" ;
@@ -501,6 +698,11 @@
     lgws:land <http://www.city.nanyo.yamagata.jp/> ;
     lgws:tm 1478000502 .
 
+<http://hkwi.github.com/lgjp_web/#063215> a lgws:Poll ;
+    jitis:code "063215" ;
+    lgws:land <http://www.town.kahoku.yamagata.jp/> ;
+    lgws:tm 1478003736 .
+
 <http://hkwi.github.com/lgjp_web/#063649> a lgws:Poll ;
     jitis:code "063649" ;
     lgws:etag "\"c007d8-6240-53ff82c382b28\"" ;
@@ -517,6 +719,17 @@
     lgws:tm 1478000209,
         1478000616 .
 
+<http://hkwi.github.com/lgjp_web/#064025> a lgws:Poll ;
+    jitis:code "064025" ;
+    lgws:land <http://www.town.shirataka.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:32:44 GMT" ;
+    lgws:tm 1478003561 .
+
+<http://hkwi.github.com/lgjp_web/#072052> a lgws:Poll ;
+    jitis:code "072052" ;
+    lgws:land <http://www.city.shirakawa.fukushima.jp/> ;
+    lgws:tm 1478003574 .
+
 <http://hkwi.github.com/lgjp_web/#072087> a lgws:Poll ;
     jitis:code "072087" ;
     lgws:etag "\"590001-7c83-5403bb70ec580\"",
@@ -526,6 +739,13 @@
         "Tue, 01 Nov 2016 11:40:02 GMT" ;
     lgws:tm 1478000199,
         1478000570 .
+
+<http://hkwi.github.com/lgjp_web/#072095> a lgws:Poll ;
+    jitis:code "072095" ;
+    lgws:etag "\"45f186773a34d21:0\"" ;
+    lgws:land <http://www.city.soma.fukushima.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:21:26 GMT" ;
+    lgws:tm 1478003638 .
 
 <http://hkwi.github.com/lgjp_web/#073679> a lgws:Poll ;
     jitis:code "073679" ;
@@ -553,10 +773,22 @@
     lgws:tm 1478000209,
         1478000615 .
 
+<http://hkwi.github.com/lgjp_web/#074667> a lgws:Poll ;
+    jitis:code "074667" ;
+    lgws:land <http://www.town.yabuki.fukushima.jp/> ;
+    lgws:tm 1478003621 .
+
 <http://hkwi.github.com/lgjp_web/#074829> a lgws:Poll ;
     jitis:code "074829" ;
     lgws:land <http://www.town.yamatsuri.fukushima.jp/> ;
     lgws:tm 1478000536 .
+
+<http://hkwi.github.com/lgjp_web/#075647> a lgws:Poll ;
+    jitis:code "075647" ;
+    lgws:etag "ts77068552.7" ;
+    lgws:land <http://www.vill.iitate.fukushima.jp/> ;
+    lgws:last-modified "Wed, 21 Aug 2013 07:02:32 GMT" ;
+    lgws:tm 1478003777 .
 
 <http://hkwi.github.com/lgjp_web/#082058> a lgws:Poll ;
     jitis:code "082058" ;
@@ -567,6 +799,11 @@
         "Tue, 01 Nov 2016 11:41:38 GMT" ;
     lgws:tm 1478000198,
         1478000565 .
+
+<http://hkwi.github.com/lgjp_web/#082121> a lgws:Poll ;
+    jitis:code "082121" ;
+    lgws:land <http://www.city.hitachiota.ibaraki.jp/> ;
+    lgws:tm 1478003760 .
 
 <http://hkwi.github.com/lgjp_web/#082201> a lgws:Poll ;
     jitis:code "082201" ;
@@ -603,6 +840,18 @@
     lgws:tm 1478000197,
         1478000560 .
 
+<http://hkwi.github.com/lgjp_web/#082295> a lgws:Poll ;
+    jitis:code "082295" ;
+    lgws:land <http://www.city.inashiki.lg.jp/index.html> ;
+    lgws:tm 1478003570 .
+
+<http://hkwi.github.com/lgjp_web/#082309> a lgws:Poll ;
+    jitis:code "082309" ;
+    lgws:etag "\"2e100d9-7371-540344de6c640\"" ;
+    lgws:land <http://www.city.kasumigaura.ibaraki.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 02:44:33 GMT" ;
+    lgws:tm 1478003698 .
+
 <http://hkwi.github.com/lgjp_web/#082325> a lgws:Poll ;
     jitis:code "082325" ;
     lgws:land <http://www.city.kamisu.ibaraki.jp/> ;
@@ -610,6 +859,11 @@
         "Tue, 01 Nov 2016 11:42:39 GMT" ;
     lgws:tm 1478000197,
         1478000559 .
+
+<http://hkwi.github.com/lgjp_web/#082350> a lgws:Poll ;
+    jitis:code "082350" ;
+    lgws:land <http://www.city.tsukubamirai.lg.jp/> ;
+    lgws:tm 1478003539 .
 
 <http://hkwi.github.com/lgjp_web/#082368> a lgws:Poll ;
     jitis:code "082368" ;
@@ -621,6 +875,11 @@
     jitis:code "083097" ;
     lgws:land <http://www.town.oarai.lg.jp/> ;
     lgws:tm 1478000546 .
+
+<http://hkwi.github.com/lgjp_web/#083640> a lgws:Poll ;
+    jitis:code "083640" ;
+    lgws:land <http://www.town.daigo.ibaraki.jp/> ;
+    lgws:tm 1478003614 .
 
 <http://hkwi.github.com/lgjp_web/#084425> a lgws:Poll ;
     jitis:code "084425" ;
@@ -647,12 +906,46 @@
     lgws:tm 1478000206,
         1478000604 .
 
+<http://hkwi.github.com/lgjp_web/#092088> a lgws:Poll ;
+    jitis:code "092088" ;
+    lgws:land <http://www.city.oyama.tochigi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 11:00:02 GMT" ;
+    lgws:tm 1478003686 .
+
 <http://hkwi.github.com/lgjp_web/#092096> a lgws:Poll ;
     jitis:code "092096" ;
     lgws:etag "\"be111f-9f45-a221f040\"" ;
     lgws:land <http://www.city.moka.tochigi.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 09:06:01 GMT" ;
     lgws:tm 1478000552 .
+
+<http://hkwi.github.com/lgjp_web/#092100> a lgws:Poll ;
+    jitis:code "092100" ;
+    lgws:etag "\"56a1d6-ad93-54038b674afc0\"" ;
+    lgws:land <http://www.city.ohtawara.tochigi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:00:07 GMT" ;
+    lgws:tm 1478003685 .
+
+<http://hkwi.github.com/lgjp_web/#092118> a lgws:Poll ;
+    jitis:code "092118" ;
+    lgws:etag "\"18046-6b48-5403c7e6f6bc0\"" ;
+    lgws:land <http://www.city.yaita.tochigi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:47 GMT" ;
+    lgws:tm 1478003661 .
+
+<http://hkwi.github.com/lgjp_web/#092142> a lgws:Poll ;
+    jitis:code "092142" ;
+    lgws:etag "\"3b0b2b-6d55-5403c8188e0c0\"" ;
+    lgws:land <http://www.city.tochigi-sakura.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:31:39 GMT" ;
+    lgws:tm 1478003780 .
+
+<http://hkwi.github.com/lgjp_web/#092169> a lgws:Poll ;
+    jitis:code "092169" ;
+    lgws:etag "\"22ef5-b250-540389e78a5bf\"" ;
+    lgws:land <http://www.city.shimotsuke.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 07:53:24 GMT" ;
+    lgws:tm 1478003619 .
 
 <http://hkwi.github.com/lgjp_web/#093424> a lgws:Poll ;
     jitis:code "093424" ;
@@ -680,6 +973,20 @@
     lgws:tm 1478000208,
         1478000612 .
 
+<http://hkwi.github.com/lgjp_web/#102024> a lgws:Poll ;
+    jitis:code "102024" ;
+    lgws:etag "\"1c59bb-5ec6-540324ac8dd1c\"" ;
+    lgws:land <http://www.city.takasaki.gunma.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 00:20:30 GMT" ;
+    lgws:tm 1478003700 .
+
+<http://hkwi.github.com/lgjp_web/#102083> a lgws:Poll ;
+    jitis:code "102083" ;
+    lgws:etag "\"27fb57-9214-5403ad92b38e6\"" ;
+    lgws:land <http://www.city.shibukawa.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 10:32:59 GMT" ;
+    lgws:tm 1478003753 .
+
 <http://hkwi.github.com/lgjp_web/#103675> a lgws:Poll ;
     jitis:code "103675" ;
     lgws:land <http://www.town.kanna.gunma.jp/> ;
@@ -691,6 +998,13 @@
     lgws:land <http://www1.town.higashiagatsuma.gunma.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 11:46:05 GMT" ;
     lgws:tm 1478000488 .
+
+<http://hkwi.github.com/lgjp_web/#104434> a lgws:Poll ;
+    jitis:code "104434" ;
+    lgws:etag "\"c17ea-c699-5403c10aa18af\"" ;
+    lgws:land <http://www.vill.katashina.gunma.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:05 GMT" ;
+    lgws:tm 1478003677 .
 
 <http://hkwi.github.com/lgjp_web/#104442> a lgws:Poll ;
     jitis:code "104442" ;
@@ -726,6 +1040,13 @@
     lgws:tm 1478000211,
         1478000623 .
 
+<http://hkwi.github.com/lgjp_web/#111023> a lgws:Poll ;
+    jitis:code "111023" ;
+    lgws:etag "\"1a09ae-9b59-54032800100b5\"" ;
+    lgws:land <http://www.city.saitama.jp/kita/index.html> ;
+    lgws:last-modified "Tue, 01 Nov 2016 00:35:23 GMT" ;
+    lgws:tm 1478003703 .
+
 <http://hkwi.github.com/lgjp_web/#111031> a lgws:Poll ;
     jitis:code "111031" ;
     lgws:etag "\"1a09b0-8301-5403418dceb49\"" ;
@@ -758,6 +1079,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:00:09 GMT" ;
     lgws:tm 1478000510 .
 
+<http://hkwi.github.com/lgjp_web/#112356> a lgws:Poll ;
+    jitis:code "112356" ;
+    lgws:etag "\"1e4d51-8023-5403c10874597\"" ;
+    lgws:land <http://www.city.fujimi.saitama.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:03 GMT" ;
+    lgws:tm 1478003697 .
+
 <http://hkwi.github.com/lgjp_web/#112453> a lgws:Poll ;
     jitis:code "112453" ;
     lgws:etag "\"a04bb-998d-5403bbed0b7e3\"",
@@ -768,6 +1096,33 @@
     lgws:tm 1478000204,
         1478000592 .
 
+<http://hkwi.github.com/lgjp_web/#112461> a lgws:Poll ;
+    jitis:code "112461" ;
+    lgws:land <http://www.city.shiraoka.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:34:03 GMT" ;
+    lgws:tm 1478003644 .
+
+<http://hkwi.github.com/lgjp_web/#113018> a lgws:Poll ;
+    jitis:code "113018" ;
+    lgws:etag "\"d021a1-862a-5403c7bc0c680\"" ;
+    lgws:land <http://www.town.saitama-ina.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:02 GMT" ;
+    lgws:tm 1478003707 .
+
+<http://hkwi.github.com/lgjp_web/#113247> a lgws:Poll ;
+    jitis:code "113247" ;
+    lgws:etag "\"863cc4-874e-244ea280\"" ;
+    lgws:land <http://www.town.saitama-miyoshi.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:30:50 GMT" ;
+    lgws:tm 1478003605 .
+
+<http://hkwi.github.com/lgjp_web/#113417> a lgws:Poll ;
+    jitis:code "113417" ;
+    lgws:etag "\"3918-54034418632ab\"" ;
+    lgws:land <http://www.town.namegawa.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 02:41:05 GMT" ;
+    lgws:tm 1478003768 .
+
 <http://hkwi.github.com/lgjp_web/#113425> a lgws:Poll ;
     jitis:code "113425" ;
     lgws:etag "\"3e0bbc-8586-5403b39d40e40\"" ;
@@ -775,6 +1130,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:00:01 GMT" ;
     lgws:tm 1478000211,
         1478000621 .
+
+<http://hkwi.github.com/lgjp_web/#113433> a lgws:Poll ;
+    jitis:code "113433" ;
+    lgws:etag "\"422d70-8b3e-5403c1076f480\"" ;
+    lgws:land <http://www.town.ogawa.saitama.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:02 GMT" ;
+    lgws:tm 1478003747 .
 
 <http://hkwi.github.com/lgjp_web/#113492> a lgws:Poll ;
     jitis:code "113492" ;
@@ -820,6 +1182,19 @@
     lgws:land <http://www.city.chiba.jp/mihama/> ;
     lgws:last-modified "Sun, 30 Oct 2016 15:32:12 GMT" ;
     lgws:tm 1478000550 .
+
+<http://hkwi.github.com/lgjp_web/#122025> a lgws:Poll ;
+    jitis:code "122025" ;
+    lgws:land <http://www.city.choshi.chiba.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:03 GMT" ;
+    lgws:tm 1478003774 .
+
+<http://hkwi.github.com/lgjp_web/#122068> a lgws:Poll ;
+    jitis:code "122068" ;
+    lgws:etag "\"648b32-9199-5403b59d2ee10\"" ;
+    lgws:land <http://www.city.kisarazu.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 11:08:57 GMT" ;
+    lgws:tm 1478003553 .
 
 <http://hkwi.github.com/lgjp_web/#122122> a lgws:Poll ;
     jitis:code "122122" ;
@@ -872,6 +1247,13 @@
     lgws:tm 1478000207,
         1478000609 .
 
+<http://hkwi.github.com/lgjp_web/#122335> a lgws:Poll ;
+    jitis:code "122335" ;
+    lgws:etag "\"788eb9-8d2c-5403c1067b240\"" ;
+    lgws:land <http://www.city.tomisato.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:01 GMT" ;
+    lgws:tm 1478003701 .
+
 <http://hkwi.github.com/lgjp_web/#122351> a lgws:Poll ;
     jitis:code "122351" ;
     lgws:land <http://www.city.sosa.lg.jp/> ;
@@ -893,6 +1275,13 @@
     jitis:code "124214" ;
     lgws:land <http://www.town.ichinomiya.chiba.jp/> ;
     lgws:tm 1478000503 .
+
+<http://hkwi.github.com/lgjp_web/#124249> a lgws:Poll ;
+    jitis:code "124249" ;
+    lgws:etag "\"14209c-6370-5403c1067b240\"" ;
+    lgws:land <http://www.town.shirako.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:01 GMT" ;
+    lgws:tm 1478003563 .
 
 <http://hkwi.github.com/lgjp_web/#124419> a lgws:Poll ;
     jitis:code "124419" ;
@@ -921,12 +1310,26 @@
     lgws:tm 1478000203,
         1478000586 .
 
+<http://hkwi.github.com/lgjp_web/#131130> a lgws:Poll ;
+    jitis:code "131130" ;
+    lgws:etag "\"2d9ada-94ca-54039266a661a\"" ;
+    lgws:land <http://www.city.shibuya.tokyo.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:31:25 GMT" ;
+    lgws:tm 1478003583 .
+
 <http://hkwi.github.com/lgjp_web/#131199> a lgws:Poll ;
     jitis:code "131199" ;
     lgws:etag "\"207eaf-7550-5403b4f587a80\"" ;
     lgws:land <http://www.city.itabashi.tokyo.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 11:06:02 GMT" ;
     lgws:tm 1478000544 .
+
+<http://hkwi.github.com/lgjp_web/#131202> a lgws:Poll ;
+    jitis:code "131202" ;
+    lgws:etag "\"900dd7-8461-54038b74a4f40\"" ;
+    lgws:land <http://www.city.nerima.tokyo.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:00:21 GMT" ;
+    lgws:tm 1478003779 .
 
 <http://hkwi.github.com/lgjp_web/#132039> a lgws:Poll ;
     jitis:code "132039" ;
@@ -962,12 +1365,26 @@
     lgws:land <http://www.city.kunitachi.tokyo.jp/> ;
     lgws:tm 1478000525 .
 
+<http://hkwi.github.com/lgjp_web/#132217> a lgws:Poll ;
+    jitis:code "132217" ;
+    lgws:etag "\"22071c-6acb-540336eacad07\"" ;
+    lgws:land <http://www.city.kiyose.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 01:42:07 GMT" ;
+    lgws:tm 1478003642 .
+
 <http://hkwi.github.com/lgjp_web/#132225> a lgws:Poll ;
     jitis:code "132225" ;
     lgws:etag "\"86fe-54038c94a76c0\"" ;
     lgws:land <http://www.city.higashikurume.lg.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 08:05:23 GMT" ;
     lgws:tm 1478000508 .
+
+<http://hkwi.github.com/lgjp_web/#132233> a lgws:Poll ;
+    jitis:code "132233" ;
+    lgws:etag "\"b263-5403b4c9a9300\"" ;
+    lgws:land <http://www.city.musashimurayama.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 11:05:16 GMT" ;
+    lgws:tm 1478003590 .
 
 <http://hkwi.github.com/lgjp_web/#132250> a lgws:Poll ;
     jitis:code "132250" ;
@@ -990,6 +1407,13 @@
     lgws:tm 1478000208,
         1478000610 .
 
+<http://hkwi.github.com/lgjp_web/#133825> a lgws:Poll ;
+    jitis:code "133825" ;
+    lgws:etag "\"2102-53fbff11bfd00\"" ;
+    lgws:land <http://www.mikurasima.jp/> ;
+    lgws:last-modified "Wed, 26 Oct 2016 07:55:00 GMT" ;
+    lgws:tm 1478003609 .
+
 <http://hkwi.github.com/lgjp_web/#134023> a lgws:Poll ;
     jitis:code "134023" ;
     lgws:etag "\"22da4-6d0-52efcb5e6ee80\"" ;
@@ -1004,17 +1428,35 @@
     lgws:last-modified "Tue, 01 Nov 2016 01:00:52 GMT" ;
     lgws:tm 1478000534 .
 
+<http://hkwi.github.com/lgjp_web/#141071> a lgws:Poll ;
+    jitis:code "141071" ;
+    lgws:land <http://www.city.yokohama.lg.jp/isogo/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 05:24:35 GMT" ;
+    lgws:tm 1478003652 .
+
 <http://hkwi.github.com/lgjp_web/#141089> a lgws:Poll ;
     jitis:code "141089" ;
     lgws:land <http://www.city.yokohama.lg.jp/kanazawa/> ;
     lgws:last-modified "Tue, 01 Nov 2016 00:31:57 GMT" ;
     lgws:tm 1478000502 .
 
+<http://hkwi.github.com/lgjp_web/#141097> a lgws:Poll ;
+    jitis:code "141097" ;
+    lgws:land <http://www.city.yokohama.lg.jp/kohoku/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 06:28:14 GMT" ;
+    lgws:tm 1478003743 .
+
 <http://hkwi.github.com/lgjp_web/#141101> a lgws:Poll ;
     jitis:code "141101" ;
     lgws:land <http://www.city.yokohama.lg.jp/totsuka/> ;
     lgws:last-modified "Tue, 01 Nov 2016 04:33:12 GMT" ;
     lgws:tm 1478000527 .
+
+<http://hkwi.github.com/lgjp_web/#141160> a lgws:Poll ;
+    jitis:code "141160" ;
+    lgws:land <http://www.city.yokohama.lg.jp/izumi/> ;
+    lgws:last-modified "Mon, 31 Oct 2016 23:31:00 GMT" ;
+    lgws:tm 1478003773 .
 
 <http://hkwi.github.com/lgjp_web/#142018> a lgws:Poll ;
     jitis:code "142018" ;
@@ -1057,6 +1499,12 @@
     lgws:tm 1478000207,
         1478000606 .
 
+<http://hkwi.github.com/lgjp_web/#151017> a lgws:Poll ;
+    jitis:code "151017" ;
+    lgws:land <http://www.city.niigata.lg.jp/kita/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 11:05:15 GMT" ;
+    lgws:tm 1478003769 .
+
 <http://hkwi.github.com/lgjp_web/#151025> a lgws:Poll ;
     jitis:code "151025" ;
     lgws:land <http://www.city.niigata.lg.jp/higashi/> ;
@@ -1082,6 +1530,11 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:05:15 GMT" ;
     lgws:tm 1478000520 .
 
+<http://hkwi.github.com/lgjp_web/#152048> a lgws:Poll ;
+    jitis:code "152048" ;
+    lgws:land <http://www.city.sanjo.niigata.jp/> ;
+    lgws:tm 1478003592 .
+
 <http://hkwi.github.com/lgjp_web/#152064> a lgws:Poll ;
     jitis:code "152064" ;
     lgws:land <http://www.city.shibata.niigata.jp/> ;
@@ -1097,6 +1550,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:30:29 GMT" ;
     lgws:tm 1478000493 .
 
+<http://hkwi.github.com/lgjp_web/#152137> a lgws:Poll ;
+    jitis:code "152137" ;
+    lgws:etag "\"92dd28-8c22-25dbdcc0\"" ;
+    lgws:land <http://www.city.tsubame.niigata.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 09:42:51 GMT" ;
+    lgws:tm 1478003783 .
+
 <http://hkwi.github.com/lgjp_web/#152161> a lgws:Poll ;
     jitis:code "152161" ;
     lgws:land <http://www.city.itoigawa.lg.jp/> ;
@@ -1109,6 +1569,20 @@
     jitis:code "152170" ;
     lgws:land <http://www.city.myoko.niigata.jp/> ;
     lgws:tm 1478000520 .
+
+<http://hkwi.github.com/lgjp_web/#153427> a lgws:Poll ;
+    jitis:code "153427" ;
+    lgws:etag "\"5bc002-4bb9-5816eae9\"" ;
+    lgws:land <http://www.vill.yahiko.niigata.jp/> ;
+    lgws:last-modified "Mon, 31 Oct 2016 06:55:37 GMT" ;
+    lgws:tm 1478003702 .
+
+<http://hkwi.github.com/lgjp_web/#154059> a lgws:Poll ;
+    jitis:code "154059" ;
+    lgws:etag "\"4902f5-700c-5401d8e77d300\"" ;
+    lgws:land <http://www.town.izumozaki.niigata.jp/> ;
+    lgws:last-modified "Sun, 30 Oct 2016 23:36:12 GMT" ;
+    lgws:tm 1478003669 .
 
 <http://hkwi.github.com/lgjp_web/#162043> a lgws:Poll ;
     jitis:code "162043" ;
@@ -1164,6 +1638,11 @@
     lgws:land <http://www.town.uchinada.lg.jp/webapps/www/index.jsp> ;
     lgws:tm 1478000544 .
 
+<http://hkwi.github.com/lgjp_web/#182061> a lgws:Poll ;
+    jitis:code "182061" ;
+    lgws:land <http://www.city.katsuyama.fukui.jp/> ;
+    lgws:tm 1478003670 .
+
 <http://hkwi.github.com/lgjp_web/#182087> a lgws:Poll ;
     jitis:code "182087" ;
     lgws:etag "\"bec691bfa33d21:0\"" ;
@@ -1207,6 +1686,11 @@
     lgws:tm 1478000200,
         1478000575 .
 
+<http://hkwi.github.com/lgjp_web/#192040> a lgws:Poll ;
+    jitis:code "192040" ;
+    lgws:land <http://www.city.tsuru.yamanashi.jp/forms/top/top.aspx> ;
+    lgws:tm 1478003694 .
+
 <http://hkwi.github.com/lgjp_web/#192121> a lgws:Poll ;
     jitis:code "192121" ;
     lgws:land <http://www.city.uenohara.yamanashi.jp/> ;
@@ -1225,6 +1709,29 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:30:13 GMT" ;
     lgws:tm 1478000198,
         1478000564 .
+
+<http://hkwi.github.com/lgjp_web/#193640> a lgws:Poll ;
+    jitis:code "193640" ;
+    lgws:etag "\"7d9b-5403c7832baa1\"" ;
+    lgws:land <http://www.town.hayakawa.yamanashi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:29:02 GMT" ;
+    lgws:tm 1478003578 .
+
+<http://hkwi.github.com/lgjp_web/#194425> a lgws:Poll ;
+    jitis:code "194425" ;
+    lgws:land <http://www.vill.kosuge.yamanashi.jp/> ;
+    lgws:tm 1478003773 .
+
+<http://hkwi.github.com/lgjp_web/#202070> a lgws:Poll ;
+    jitis:code "202070" ;
+    lgws:land <http://www.city.suzaka.nagano.jp/> ;
+    lgws:tm 1478003545 .
+
+<http://hkwi.github.com/lgjp_web/#202096> a lgws:Poll ;
+    jitis:code "202096" ;
+    lgws:land <http://www.inacity.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:10 GMT" ;
+    lgws:tm 1478003565 .
 
 <http://hkwi.github.com/lgjp_web/#203033> a lgws:Poll ;
     jitis:code "203033" ;
@@ -1246,6 +1753,11 @@
     lgws:land <http://www.minamimakimura.jp/> ;
     lgws:tm 1478000519 .
 
+<http://hkwi.github.com/lgjp_web/#203068> a lgws:Poll ;
+    jitis:code "203068" ;
+    lgws:land <http://www.minamiaiki.jp/> ;
+    lgws:tm 1478003634 .
+
 <http://hkwi.github.com/lgjp_web/#203076> a lgws:Poll ;
     jitis:code "203076" ;
     lgws:land <http://www.vill.kitaaiki.nagano.jp/> ;
@@ -1260,6 +1772,13 @@
     lgws:tm 1478000197,
         1478000559 .
 
+<http://hkwi.github.com/lgjp_web/#203238> a lgws:Poll ;
+    jitis:code "203238" ;
+    lgws:etag "\"224b6-5403c81370dd2\"" ;
+    lgws:land <http://www.town.miyota.nagano.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:31:33 GMT" ;
+    lgws:tm 1478003656 .
+
 <http://hkwi.github.com/lgjp_web/#203246> a lgws:Poll ;
     jitis:code "203246" ;
     lgws:etag "\"18048464-667a-5403b39d40e40\"" ;
@@ -1272,6 +1791,13 @@
     jitis:code "203491" ;
     lgws:land <http://www.vill.aoki.nagano.jp/> ;
     lgws:tm 1478000535 .
+
+<http://hkwi.github.com/lgjp_web/#203629> a lgws:Poll ;
+    jitis:code "203629" ;
+    lgws:etag "\"2cbb-5403c7e3b7f01\"" ;
+    lgws:land <http://www.town.fujimi.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:43 GMT" ;
+    lgws:tm 1478003699 .
 
 <http://hkwi.github.com/lgjp_web/#203840> a lgws:Poll ;
     jitis:code "203840" ;
@@ -1302,6 +1828,18 @@
     lgws:tm 1478000203,
         1478000590 .
 
+<http://hkwi.github.com/lgjp_web/#204161> a lgws:Poll ;
+    jitis:code "204161" ;
+    lgws:etag "\"bfb95-6d9c-5402c23902f5e\"" ;
+    lgws:land <http://www.vill.nagano-toyooka.lg.jp/> ;
+    lgws:last-modified "Mon, 31 Oct 2016 17:00:02 GMT" ;
+    lgws:tm 1478003658 .
+
+<http://hkwi.github.com/lgjp_web/#204170> a lgws:Poll ;
+    jitis:code "204170" ;
+    lgws:land <http://www.vill.ooshika.nagano.jp/> ;
+    lgws:tm 1478003737 .
+
 <http://hkwi.github.com/lgjp_web/#204234> a lgws:Poll ;
     jitis:code "204234" ;
     lgws:etag "\"2c0000000282f2-988d-5403851d70ea0\"" ;
@@ -1330,6 +1868,25 @@
     lgws:land <http://www.vill.yamagata.nagano.jp/forms/top/top.aspx> ;
     lgws:tm 1478000210,
         1478000619 .
+
+<http://hkwi.github.com/lgjp_web/#204510> a lgws:Poll ;
+    jitis:code "204510" ;
+    lgws:land <http://www.vill.asahi.nagano.jp/> ;
+    lgws:tm 1478003781 .
+
+<http://hkwi.github.com/lgjp_web/#204811> a lgws:Poll ;
+    jitis:code "204811" ;
+    lgws:etag "\"873e931-64fd-5403c1076f480\"" ;
+    lgws:land <http://www.ikedamachi.net/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:02 GMT" ;
+    lgws:tm 1478003616 .
+
+<http://hkwi.github.com/lgjp_web/#205419> a lgws:Poll ;
+    jitis:code "205419" ;
+    lgws:etag "\"34832b-6f5f-5403c7e3262c0\"" ;
+    lgws:land <http://www.town.obuse.nagano.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:43 GMT" ;
+    lgws:tm 1478003737 .
 
 <http://hkwi.github.com/lgjp_web/#205435> a lgws:Poll ;
     jitis:code "205435" ;
@@ -1417,6 +1974,18 @@
     lgws:tm 1478000206,
         1478000602 .
 
+<http://hkwi.github.com/lgjp_web/#213837> a lgws:Poll ;
+    jitis:code "213837" ;
+    lgws:land <http://www.town.anpachi.gifu.jp/> ;
+    lgws:tm 1478003711 .
+
+<http://hkwi.github.com/lgjp_web/#214019> a lgws:Poll ;
+    jitis:code "214019" ;
+    lgws:etag "\"8044927-638e-5403c1067b240\"" ;
+    lgws:land <http://www.town.ibigawa.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:01 GMT" ;
+    lgws:tm 1478003686 .
+
 <http://hkwi.github.com/lgjp_web/#214213> a lgws:Poll ;
     jitis:code "214213" ;
     lgws:etag "\"1e494-54039442f9c84\"" ;
@@ -1429,6 +1998,13 @@
     jitis:code "215040" ;
     lgws:land <http://www.hichiso.jp/> ;
     lgws:tm 1478000495 .
+
+<http://hkwi.github.com/lgjp_web/#221031> a lgws:Poll ;
+    jitis:code "221031" ;
+    lgws:etag "\"1eb9821-6e53-54039ab037f80\"" ;
+    lgws:land <http://www.city.shizuoka.jp/shimizu.html> ;
+    lgws:last-modified "Tue, 01 Nov 2016 09:08:30 GMT" ;
+    lgws:tm 1478003566 .
 
 <http://hkwi.github.com/lgjp_web/#221350> a lgws:Poll ;
     jitis:code "221350" ;
@@ -1453,10 +2029,35 @@
     lgws:land <http://www.city.susono.shizuoka.jp/> ;
     lgws:tm 1478000512 .
 
+<http://hkwi.github.com/lgjp_web/#222259> a lgws:Poll ;
+    jitis:code "222259" ;
+    lgws:etag "\"378fd8-9610-54033b4e57680\"" ;
+    lgws:land <http://www.city.izunokuni.shizuoka.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 02:01:46 GMT" ;
+    lgws:tm 1478003765 .
+
 <http://hkwi.github.com/lgjp_web/#223026> a lgws:Poll ;
     jitis:code "223026" ;
     lgws:land <http://www.town.kawazu.shizuoka.jp/> ;
     lgws:tm 1478000531 .
+
+<http://hkwi.github.com/lgjp_web/#223051> a lgws:Poll ;
+    jitis:code "223051" ;
+    lgws:etag "\"22123-6142-54033f9eb2400\"" ;
+    lgws:land <http://www.town.matsuzaki.shizuoka.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 02:21:04 GMT" ;
+    lgws:tm 1478003718 .
+
+<http://hkwi.github.com/lgjp_web/#223255> a lgws:Poll ;
+    jitis:code "223255" ;
+    lgws:land <http://www.town.kannami.shizuoka.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:43 GMT" ;
+    lgws:tm 1478003589 .
+
+<http://hkwi.github.com/lgjp_web/#223417> a lgws:Poll ;
+    jitis:code "223417" ;
+    lgws:land <http://www.town.shimizu.shizuoka.jp/> ;
+    lgws:tm 1478003732 .
 
 <http://hkwi.github.com/lgjp_web/#224243> a lgws:Poll ;
     jitis:code "224243" ;
@@ -1472,6 +2073,13 @@
     lgws:land <http://www.city.nagoya.jp/nakamura/> ;
     lgws:last-modified "Tue, 01 Nov 2016 08:03:55 GMT" ;
     lgws:tm 1478000518 .
+
+<http://hkwi.github.com/lgjp_web/#231088> a lgws:Poll ;
+    jitis:code "231088" ;
+    lgws:etag "\"92137e-6277-54038c4101cec\"" ;
+    lgws:land <http://www.city.nagoya.jp/mizuho/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:03:55 GMT" ;
+    lgws:tm 1478003662 .
 
 <http://hkwi.github.com/lgjp_web/#231100> a lgws:Poll ;
     jitis:code "231100" ;
@@ -1518,6 +2126,27 @@
     lgws:tm 1478000199,
         1478000569 .
 
+<http://hkwi.github.com/lgjp_web/#232114> a lgws:Poll ;
+    jitis:code "232114" ;
+    lgws:etag "\"b338-54038ee3ee9c0\"" ;
+    lgws:land <http://www.city.toyota.aichi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:15:43 GMT" ;
+    lgws:tm 1478003751 .
+
+<http://hkwi.github.com/lgjp_web/#232122> a lgws:Poll ;
+    jitis:code "232122" ;
+    lgws:etag "\"260005-67d7-54038be8ee150\"" ;
+    lgws:land <http://www.city.anjo.aichi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:02:22 GMT" ;
+    lgws:tm 1478003720 .
+
+<http://hkwi.github.com/lgjp_web/#232173> a lgws:Poll ;
+    jitis:code "232173" ;
+    lgws:etag "\"50001d-5105-54036e7a34ca9\"" ;
+    lgws:land <http://www.city.konan.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 05:50:42 GMT" ;
+    lgws:tm 1478003733 .
+
 <http://hkwi.github.com/lgjp_web/#232211> a lgws:Poll ;
     jitis:code "232211" ;
     lgws:land <http://www.city.shinshiro.lg.jp/> ;
@@ -1557,6 +2186,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 02:00:06 GMT" ;
     lgws:tm 1478000494 .
 
+<http://hkwi.github.com/lgjp_web/#232378> a lgws:Poll ;
+    jitis:code "232378" ;
+    lgws:etag "\"7b1d-24d67780\"" ;
+    lgws:land <http://www.city.ama.aichi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 04:56:14 GMT" ;
+    lgws:tm 1478003680 .
+
 <http://hkwi.github.com/lgjp_web/#232386> a lgws:Poll ;
     jitis:code "232386" ;
     lgws:etag "\"841bb1-6478-54039909bb25a\"" ;
@@ -1570,6 +2206,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:42:14 GMT" ;
     lgws:tm 1478000535 .
 
+<http://hkwi.github.com/lgjp_web/#233625> a lgws:Poll ;
+    jitis:code "233625" ;
+    lgws:etag "\"4898c1-5bdd-54032dafb5480\"" ;
+    lgws:land <http://www.town.fuso.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 01:00:50 GMT" ;
+    lgws:tm 1478003633 .
+
 <http://hkwi.github.com/lgjp_web/#234257> a lgws:Poll ;
     jitis:code "234257" ;
     lgws:etag "\"a05f5-7dfc-5403ba63fcb00\"" ;
@@ -1577,12 +2220,36 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:30:20 GMT" ;
     lgws:tm 1478000497 .
 
+<http://hkwi.github.com/lgjp_web/#234273> a lgws:Poll ;
+    jitis:code "234273" ;
+    lgws:land <http://www.vill.tobishima.aichi.jp/> ;
+    lgws:tm 1478003688 .
+
 <http://hkwi.github.com/lgjp_web/#234460> a lgws:Poll ;
     jitis:code "234460" ;
     lgws:etag "\"2018ea-984e-54038b768d3c0\"" ;
     lgws:land <http://www.town.aichi-mihama.lg.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 08:00:23 GMT" ;
     lgws:tm 1478000551 .
+
+<http://hkwi.github.com/lgjp_web/#235610> a lgws:Poll ;
+    jitis:code "235610" ;
+    lgws:land <http://www.town.shitara.aichi.jp/> ;
+    lgws:tm 1478003636 .
+
+<http://hkwi.github.com/lgjp_web/#235636> a lgws:Poll ;
+    jitis:code "235636" ;
+    lgws:etag "\"fa8201-540f-1f0c2900\"" ;
+    lgws:land <http://www.vill.toyone.aichi.jp/> ;
+    lgws:last-modified "Tue, 01 Dec 2015 01:31:48 GMT" ;
+    lgws:tm 1478003753 .
+
+<http://hkwi.github.com/lgjp_web/#242071> a lgws:Poll ;
+    jitis:code "242071" ;
+    lgws:etag "\"140f56-5b50-54033d8598011\"" ;
+    lgws:land <http://www.city.suzuka.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 02:11:40 GMT" ;
+    lgws:tm 1478003608 .
 
 <http://hkwi.github.com/lgjp_web/#242101> a lgws:Poll ;
     jitis:code "242101" ;
@@ -1609,6 +2276,13 @@
     lgws:tm 1478000199,
         1478000572 .
 
+<http://hkwi.github.com/lgjp_web/#245437> a lgws:Poll ;
+    jitis:code "245437" ;
+    lgws:etag "\"3c8026-55c1-87c7f180\"" ;
+    lgws:land <http://www.town.mie-kihoku.lg.jp/> ;
+    lgws:last-modified "Mon, 17 Oct 2016 00:19:34 GMT" ;
+    lgws:tm 1478003613 .
+
 <http://hkwi.github.com/lgjp_web/#245623> a lgws:Poll ;
     jitis:code "245623" ;
     lgws:etag "\"0c44a265033d21:0\"" ;
@@ -1616,6 +2290,13 @@
     lgws:last-modified "Mon, 31 Oct 2016 08:24:08 GMT" ;
     lgws:tm 1478000196,
         1478000556 .
+
+<http://hkwi.github.com/lgjp_web/#252026> a lgws:Poll ;
+    jitis:code "252026" ;
+    lgws:etag "\"dc3504-7a42-5403c1076f480\"" ;
+    lgws:land <http://www.city.hikone.shiga.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:02 GMT" ;
+    lgws:tm 1478003629 .
 
 <http://hkwi.github.com/lgjp_web/#252034> a lgws:Poll ;
     jitis:code "252034" ;
@@ -1639,10 +2320,31 @@
     lgws:tm 1478000202,
         1478000585 .
 
+<http://hkwi.github.com/lgjp_web/#252131> a lgws:Poll ;
+    jitis:code "252131" ;
+    lgws:etag "\"c0748-7da0-5403c10758238\"" ;
+    lgws:land <http://www.city.higashiomi.shiga.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:01 GMT" ;
+    lgws:tm 1478003734 .
+
 <http://hkwi.github.com/lgjp_web/#254428> a lgws:Poll ;
     jitis:code "254428" ;
     lgws:land <http://www.kouratown.jp/> ;
     lgws:tm 1478000527 .
+
+<http://hkwi.github.com/lgjp_web/#261009> a lgws:Poll ;
+    jitis:code "261009" ;
+    lgws:etag "\"e20dc-e2a3-5403c4b381415\"" ;
+    lgws:land <http://www.city.kyoto.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:16:27 GMT" ;
+    lgws:tm 1478003735 .
+
+<http://hkwi.github.com/lgjp_web/#261033> a lgws:Poll ;
+    jitis:code "261033" ;
+    lgws:etag "\"862a0e-a8f5-5403c3c9bed7e\"" ;
+    lgws:land <http://www.city.kyoto.lg.jp/sakyo/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:12:22 GMT" ;
+    lgws:tm 1478003721 .
 
 <http://hkwi.github.com/lgjp_web/#261041> a lgws:Poll ;
     jitis:code "261041" ;
@@ -1650,6 +2352,13 @@
     lgws:land <http://www.city.kyoto.lg.jp/nakagyo/> ;
     lgws:last-modified "Tue, 01 Nov 2016 11:12:41 GMT" ;
     lgws:tm 1478000536 .
+
+<http://hkwi.github.com/lgjp_web/#261068> a lgws:Poll ;
+    jitis:code "261068" ;
+    lgws:etag "\"863147-96c4-5403c3ca612a8\"" ;
+    lgws:land <http://www.city.kyoto.lg.jp/shimogyo/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:12:23 GMT" ;
+    lgws:tm 1478003684 .
 
 <http://hkwi.github.com/lgjp_web/#262013> a lgws:Poll ;
     jitis:code "262013" ;
@@ -1678,6 +2387,13 @@
     lgws:land <http://www.city.muko.kyoto.jp/> ;
     lgws:tm 1478000533 .
 
+<http://hkwi.github.com/lgjp_web/#262111> a lgws:Poll ;
+    jitis:code "262111" ;
+    lgws:etag "\"5deed8-7d31-5403c1067b240\"" ;
+    lgws:land <http://www.kyotanabe.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:01 GMT" ;
+    lgws:tm 1478003731 .
+
 <http://hkwi.github.com/lgjp_web/#263435> a lgws:Poll ;
     jitis:code "263435" ;
     lgws:land <http://www.town.ide.kyoto.jp/> ;
@@ -1688,6 +2404,25 @@
     jitis:code "263672" ;
     lgws:land <http://www.vill.minamiyamashiro.lg.jp/> ;
     lgws:tm 1478000495 .
+
+<http://hkwi.github.com/lgjp_web/#264075> a lgws:Poll ;
+    jitis:code "264075" ;
+    lgws:etag "\"101a5b9d-6d38-5403c7bc0c680\"" ;
+    lgws:land <http://www.town.kyotamba.kyoto.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:02 GMT" ;
+    lgws:tm 1478003664 .
+
+<http://hkwi.github.com/lgjp_web/#264636> a lgws:Poll ;
+    jitis:code "264636" ;
+    lgws:land <http://www.town.ine.kyoto.jp/> ;
+    lgws:tm 1478003554 .
+
+<http://hkwi.github.com/lgjp_web/#271004> a lgws:Poll ;
+    jitis:code "271004" ;
+    lgws:etag "\"5c189-bb06-5403c2ab0d280\"" ;
+    lgws:land <http://www.city.osaka.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:07:22 GMT" ;
+    lgws:tm 1478003671 .
 
 <http://hkwi.github.com/lgjp_web/#271039> a lgws:Poll ;
     jitis:code "271039" ;
@@ -1711,6 +2446,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:07:44 GMT" ;
     lgws:tm 1478000199,
         1478000572 .
+
+<http://hkwi.github.com/lgjp_web/#271110> a lgws:Poll ;
+    jitis:code "271110" ;
+    lgws:etag "\"142b51-c89c-5403c2a277e40\"" ;
+    lgws:land <http://www.city.osaka.lg.jp/naniwa/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:07:13 GMT" ;
+    lgws:tm 1478003776 .
 
 <http://hkwi.github.com/lgjp_web/#271195> a lgws:Poll ;
     jitis:code "271195" ;
@@ -1755,12 +2497,33 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:09:21 GMT" ;
     lgws:tm 1478000523 .
 
+<http://hkwi.github.com/lgjp_web/#271268> a lgws:Poll ;
+    jitis:code "271268" ;
+    lgws:etag "\"130ec-d874-5403c2bc37b00\"" ;
+    lgws:land <http://www.city.osaka.lg.jp/hirano/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:07:40 GMT" ;
+    lgws:tm 1478003550 .
+
+<http://hkwi.github.com/lgjp_web/#271276> a lgws:Poll ;
+    jitis:code "271276" ;
+    lgws:etag "\"6f63e-be83-5403c2820b1c0\"" ;
+    lgws:land <http://www.city.osaka.lg.jp/kita/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:06:39 GMT" ;
+    lgws:tm 1478003649 .
+
 <http://hkwi.github.com/lgjp_web/#271284> a lgws:Poll ;
     jitis:code "271284" ;
     lgws:etag "\"14f656-ce70-5403b4dcbc000\"" ;
     lgws:land <http://www.city.osaka.lg.jp/chuo/> ;
     lgws:last-modified "Tue, 01 Nov 2016 11:05:36 GMT" ;
     lgws:tm 1478000529 .
+
+<http://hkwi.github.com/lgjp_web/#271411> a lgws:Poll ;
+    jitis:code "271411" ;
+    lgws:etag "\"5f680c1-66ff-3f31d880\"" ;
+    lgws:land <http://www.city.sakai.lg.jp/sakai/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:13:06 GMT" ;
+    lgws:tm 1478003729 .
 
 <http://hkwi.github.com/lgjp_web/#271454> a lgws:Poll ;
     jitis:code "271454" ;
@@ -1786,17 +2549,41 @@
     lgws:tm 1478000205,
         1478000601 .
 
+<http://hkwi.github.com/lgjp_web/#272086> a lgws:Poll ;
+    jitis:code "272086" ;
+    lgws:land <http://www.city.kaizuka.lg.jp/> ;
+    lgws:tm 1478003571 .
+
+<http://hkwi.github.com/lgjp_web/#272124> a lgws:Poll ;
+    jitis:code "272124" ;
+    lgws:etag "\"7a8548-b3b6-5403c1076f480\"" ;
+    lgws:land <http://www.city.yao.osaka.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:02 GMT" ;
+    lgws:tm 1478003657 .
+
 <http://hkwi.github.com/lgjp_web/#272132> a lgws:Poll ;
     jitis:code "272132" ;
     lgws:land <http://www.city.izumisano.lg.jp/> ;
     lgws:tm 1478000208,
         1478000615 .
 
+<http://hkwi.github.com/lgjp_web/#272167> a lgws:Poll ;
+    jitis:code "272167" ;
+    lgws:land <http://www.city.kawachinagano.lg.jp/> ;
+    lgws:tm 1478003652 .
+
 <http://hkwi.github.com/lgjp_web/#272183> a lgws:Poll ;
     jitis:code "272183" ;
     lgws:land <http://www.city.daito.lg.jp/> ;
     lgws:tm 1478000208,
         1478000614 .
+
+<http://hkwi.github.com/lgjp_web/#272205> a lgws:Poll ;
+    jitis:code "272205" ;
+    lgws:etag "\"6c0596-8367-5403b3a7ab3a2\"" ;
+    lgws:land <http://www.city.minoh.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 11:00:11 GMT" ;
+    lgws:tm 1478003766 .
 
 <http://hkwi.github.com/lgjp_web/#272213> a lgws:Poll ;
     jitis:code "272213" ;
@@ -1805,6 +2592,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 02:45:11 GMT" ;
     lgws:tm 1478000519 .
 
+<http://hkwi.github.com/lgjp_web/#272221> a lgws:Poll ;
+    jitis:code "272221" ;
+    lgws:etag "\"2468019-8b90-1c71f8c0\"" ;
+    lgws:land <http://www.city.habikino.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:03:23 GMT" ;
+    lgws:tm 1478003615 .
+
 <http://hkwi.github.com/lgjp_web/#272248> a lgws:Poll ;
     jitis:code "272248" ;
     lgws:etag "\"702465-9985-5403b39d40e40\"" ;
@@ -1812,6 +2606,11 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:00:01 GMT" ;
     lgws:tm 1478000208,
         1478000610 .
+
+<http://hkwi.github.com/lgjp_web/#272256> a lgws:Poll ;
+    jitis:code "272256" ;
+    lgws:land <http://www.city.takaishi.lg.jp/> ;
+    lgws:tm 1478003792 .
 
 <http://hkwi.github.com/lgjp_web/#272272> a lgws:Poll ;
     jitis:code "272272" ;
@@ -1826,6 +2625,11 @@
     lgws:land <http://www.city.sennan.lg.jp/> ;
     lgws:tm 1478000531 .
 
+<http://hkwi.github.com/lgjp_web/#273627> a lgws:Poll ;
+    jitis:code "273627" ;
+    lgws:land <http://www.town.tajiri.osaka.jp/> ;
+    lgws:tm 1478003588 .
+
 <http://hkwi.github.com/lgjp_web/#273830> a lgws:Poll ;
     jitis:code "273830" ;
     lgws:land <http://www.vill.chihayaakasaka.osaka.jp/> ;
@@ -1837,6 +2641,16 @@
     lgws:land <http://www.city.kobe.lg.jp/ward/kuyakusho/nada/> ;
     lgws:tm 1478000199,
         1478000569 .
+
+<http://hkwi.github.com/lgjp_web/#281077> a lgws:Poll ;
+    jitis:code "281077" ;
+    lgws:land <http://www.city.kobe.lg.jp/ward/kuyakusho/suma/> ;
+    lgws:tm 1478003557 .
+
+<http://hkwi.github.com/lgjp_web/#281107> a lgws:Poll ;
+    jitis:code "281107" ;
+    lgws:land <http://www.city.kobe.lg.jp/ward/kuyakusho/chuou/> ;
+    lgws:tm 1478003562 .
 
 <http://hkwi.github.com/lgjp_web/#282031> a lgws:Poll ;
     jitis:code "282031" ;
@@ -1854,6 +2668,13 @@
     jitis:code "282073" ;
     lgws:land <http://www.city.itami.lg.jp/> ;
     lgws:tm 1478000512 .
+
+<http://hkwi.github.com/lgjp_web/#282081> a lgws:Poll ;
+    jitis:code "282081" ;
+    lgws:etag "\"19d185-6f7b-5403c7eda3b80\"" ;
+    lgws:land <http://www.city.aioi.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:54 GMT" ;
+    lgws:tm 1478003649 .
 
 <http://hkwi.github.com/lgjp_web/#282138> a lgws:Poll ;
     jitis:code "282138" ;
@@ -1908,12 +2729,24 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:20:33 GMT" ;
     lgws:tm 1478000523 .
 
+<http://hkwi.github.com/lgjp_web/#292028> a lgws:Poll ;
+    jitis:code "292028" ;
+    lgws:land <http://www.city.yamatotakada.nara.jp/> ;
+    lgws:tm 1478003770 .
+
 <http://hkwi.github.com/lgjp_web/#292079> a lgws:Poll ;
     jitis:code "292079" ;
     lgws:etag "\"2a899d-5753-a5c5b900\"" ;
     lgws:land <http://www.city.gojo.lg.jp/www/toppage/0000000000000/APM03000.html> ;
     lgws:last-modified "Tue, 01 Nov 2016 11:30:12 GMT" ;
     lgws:tm 1478000498 .
+
+<http://hkwi.github.com/lgjp_web/#293423> a lgws:Poll ;
+    jitis:code "293423" ;
+    lgws:etag "\"8306f-179-4fa4774b8d8ba\"" ;
+    lgws:land <http://www.town.heguri.nara.jp/> ;
+    lgws:last-modified "Mon, 26 May 2014 06:11:54 GMT" ;
+    lgws:tm 1478003556 .
 
 <http://hkwi.github.com/lgjp_web/#293431> a lgws:Poll ;
     jitis:code "293431" ;
@@ -1941,12 +2774,33 @@
     lgws:land <http://www.town.tawaramoto.nara.jp/> ;
     lgws:tm 1478000535 .
 
+<http://hkwi.github.com/lgjp_web/#293865> a lgws:Poll ;
+    jitis:code "293865" ;
+    lgws:etag "\"261f6c-18ba-540321cb5e678\"" ;
+    lgws:land <http://www.vill.mitsue.nara.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 00:07:37 GMT" ;
+    lgws:tm 1478003749 .
+
+<http://hkwi.github.com/lgjp_web/#294471> a lgws:Poll ;
+    jitis:code "294471" ;
+    lgws:etag "\"4268-5402415aa44f1\"" ;
+    lgws:land <http://www.vill.nosegawa.nara.jp/> ;
+    lgws:last-modified "Mon, 31 Oct 2016 07:23:30 GMT" ;
+    lgws:tm 1478003575 .
+
 <http://hkwi.github.com/lgjp_web/#294497> a lgws:Poll ;
     jitis:code "294497" ;
     lgws:etag "W/\"6447c7-62d3-3a8b2940\"" ;
     lgws:land <http://www.vill.totsukawa.lg.jp/www/toppage/0000000000000/APM03000.html> ;
     lgws:last-modified "Tue, 01 Nov 2016 09:21:28 GMT" ;
     lgws:tm 1478000515 .
+
+<http://hkwi.github.com/lgjp_web/#294501> a lgws:Poll ;
+    jitis:code "294501" ;
+    lgws:etag "\"66004b-5d94-540360aa2470f\"" ;
+    lgws:land <http://www.vill.shimokitayama.nara.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 04:48:54 GMT" ;
+    lgws:tm 1478003597 .
 
 <http://hkwi.github.com/lgjp_web/#302031> a lgws:Poll ;
     jitis:code "302031" ;
@@ -1995,6 +2849,29 @@
     lgws:last-modified "Tue, 01 Nov 2016 02:29:32 GMT" ;
     lgws:tm 1478000495 .
 
+<http://hkwi.github.com/lgjp_web/#303925> a lgws:Poll ;
+    jitis:code "303925" ;
+    lgws:land <http://www.town.hidakagawa.lg.jp/> ;
+    lgws:tm 1478003742 .
+
+<http://hkwi.github.com/lgjp_web/#304221> a lgws:Poll ;
+    jitis:code "304221" ;
+    lgws:etag "\"21f464-3d03-53c090df5faf9\"" ;
+    lgws:land <http://www.town.taiji.lg.jp/> ;
+    lgws:last-modified "Fri, 09 Sep 2016 01:27:50 GMT" ;
+    lgws:tm 1478003767 .
+
+<http://hkwi.github.com/lgjp_web/#304271> a lgws:Poll ;
+    jitis:code "304271" ;
+    lgws:land <http://www.vill.kitayama.wakayama.jp/> ;
+    lgws:tm 1478003641 .
+
+<http://hkwi.github.com/lgjp_web/#312029> a lgws:Poll ;
+    jitis:code "312029" ;
+    lgws:land <http://www.city.yonago.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:35:30 GMT" ;
+    lgws:tm 1478003763 .
+
 <http://hkwi.github.com/lgjp_web/#313645> a lgws:Poll ;
     jitis:code "313645" ;
     lgws:land <http://www.town.misasa.tottori.jp/> ;
@@ -2012,6 +2889,11 @@
     jitis:code "313866" ;
     lgws:land <http://www.daisen.jp/> ;
     lgws:tm 1478000515 .
+
+<http://hkwi.github.com/lgjp_web/#313891> a lgws:Poll ;
+    jitis:code "313891" ;
+    lgws:land <http://www.town.nanbu.tottori.jp/> ;
+    lgws:tm 1478003727 .
 
 <http://hkwi.github.com/lgjp_web/#322016> a lgws:Poll ;
     jitis:code "322016" ;
@@ -2040,11 +2922,25 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:30:20 GMT" ;
     lgws:tm 1478000530 .
 
+<http://hkwi.github.com/lgjp_web/#323438> a lgws:Poll ;
+    jitis:code "323438" ;
+    lgws:etag "\"12e442-ea21-95caa00\"" ;
+    lgws:land <http://www.town.okuizumo.shimane.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 06:00:08 GMT" ;
+    lgws:tm 1478003782 .
+
 <http://hkwi.github.com/lgjp_web/#324485> a lgws:Poll ;
     jitis:code "324485" ;
     lgws:land <http://www.town.shimane-misato.lg.jp/> ;
     lgws:tm 1478000206,
         1478000605 .
+
+<http://hkwi.github.com/lgjp_web/#325015> a lgws:Poll ;
+    jitis:code "325015" ;
+    lgws:etag "\"a803ce-ad2-501f593c2f514\"" ;
+    lgws:land <http://www.town.tsuwano.lg.jp/> ;
+    lgws:last-modified "Sun, 31 Aug 2014 23:52:21 GMT" ;
+    lgws:tm 1478003646 .
 
 <http://hkwi.github.com/lgjp_web/#325261> a lgws:Poll ;
     jitis:code "325261" ;
@@ -2083,6 +2979,12 @@
     lgws:land <http://www.city.ibara.okayama.jp/cms-sypher/www/normal_top.jsp> ;
     lgws:tm 1478000521 .
 
+<http://hkwi.github.com/lgjp_web/#332089> a lgws:Poll ;
+    jitis:code "332089" ;
+    lgws:land <http://www.city.soja.okayama.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 11:23:44 GMT" ;
+    lgws:tm 1478003543 .
+
 <http://hkwi.github.com/lgjp_web/#332097> a lgws:Poll ;
     jitis:code "332097" ;
     lgws:etag "\"4868001-6963-5403baf215a40\"" ;
@@ -2108,6 +3010,12 @@
     lgws:land <http://www.town.kagamino.lg.jp/> ;
     lgws:tm 1478000547 .
 
+<http://hkwi.github.com/lgjp_web/#336637> a lgws:Poll ;
+    jitis:code "336637" ;
+    lgws:land <http://www.town.kumenan.okayama.jp/> ;
+    lgws:last-modified "Mon, 31 Oct 2016 15:29:56 GMT" ;
+    lgws:tm 1478003784 .
+
 <http://hkwi.github.com/lgjp_web/#336661> a lgws:Poll ;
     jitis:code "336661" ;
     lgws:etag "\"6346-540335315ca40\"" ;
@@ -2115,6 +3023,27 @@
     lgws:last-modified "Tue, 01 Nov 2016 01:34:25 GMT" ;
     lgws:tm 1478000196,
         1478000556 .
+
+<http://hkwi.github.com/lgjp_web/#341002> a lgws:Poll ;
+    jitis:code "341002" ;
+    lgws:etag "\"4204cf-a399-5403c7dd6d540\"" ;
+    lgws:land <http://www.city.hiroshima.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:37 GMT" ;
+    lgws:tm 1478003760 .
+
+<http://hkwi.github.com/lgjp_web/#341011> a lgws:Poll ;
+    jitis:code "341011" ;
+    lgws:etag "\"600566-66bd-5403c80b34140\"" ;
+    lgws:land <http://www.city.hiroshima.lg.jp/naka/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:31:25 GMT" ;
+    lgws:tm 1478003749 .
+
+<http://hkwi.github.com/lgjp_web/#341029> a lgws:Poll ;
+    jitis:code "341029" ;
+    lgws:etag "\"600eb3-675c-5403c80b34140\"" ;
+    lgws:land <http://www.city.hiroshima.lg.jp/higashi/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:31:25 GMT" ;
+    lgws:tm 1478003643 .
 
 <http://hkwi.github.com/lgjp_web/#341045> a lgws:Poll ;
     jitis:code "341045" ;
@@ -2139,6 +3068,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 01:25:57 GMT" ;
     lgws:tm 1478000198,
         1478000561 .
+
+<http://hkwi.github.com/lgjp_web/#342106> a lgws:Poll ;
+    jitis:code "342106" ;
+    lgws:etag "\"b987d38a3b33a8fbd5f50c854c34b1b4\"" ;
+    lgws:land <http://www.city.shobara.hiroshima.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 10:19:43 GMT" ;
+    lgws:tm 1478003586 .
 
 <http://hkwi.github.com/lgjp_web/#342131> a lgws:Poll ;
     jitis:code "342131" ;
@@ -2195,11 +3131,32 @@
     lgws:tm 1478000201,
         1478000582 .
 
+<http://hkwi.github.com/lgjp_web/#353434> a lgws:Poll ;
+    jitis:code "353434" ;
+    lgws:etag "\"cc822-42bc-5403c7bee8d40\"" ;
+    lgws:land <http://www.town.tabuse.lg.jp/www/index.html> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:05 GMT" ;
+    lgws:tm 1478003801 .
+
 <http://hkwi.github.com/lgjp_web/#355020> a lgws:Poll ;
     jitis:code "355020" ;
     lgws:land <http://www.town.abu.lg.jp/> ;
     lgws:tm 1478000209,
         1478000617 .
+
+<http://hkwi.github.com/lgjp_web/#362026> a lgws:Poll ;
+    jitis:code "362026" ;
+    lgws:etag "\"618d5-87c1-54037748f638d\"" ;
+    lgws:land <http://www.city.naruto.tokushima.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 06:30:06 GMT" ;
+    lgws:tm 1478003631 .
+
+<http://hkwi.github.com/lgjp_web/#363022> a lgws:Poll ;
+    jitis:code "363022" ;
+    lgws:etag "\"a1139-9417-5403957542880\"" ;
+    lgws:land <http://www.kamikatsu.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:45:06 GMT" ;
+    lgws:tm 1478003631 .
 
 <http://hkwi.github.com/lgjp_web/#363685> a lgws:Poll ;
     jitis:code "363685" ;
@@ -2232,16 +3189,48 @@
     lgws:tm 1478000202,
         1478000584 .
 
+<http://hkwi.github.com/lgjp_web/#364681> a lgws:Poll ;
+    jitis:code "364681" ;
+    lgws:etag "\"86bbc83dbc31d21:0\"" ;
+    lgws:land <http://www.town.tokushima-tsurugi.lg.jp/> ;
+    lgws:last-modified "Sat, 29 Oct 2016 08:12:50 GMT" ;
+    lgws:tm 1478003800 .
+
 <http://hkwi.github.com/lgjp_web/#373419> a lgws:Poll ;
     jitis:code "373419" ;
     lgws:land <http://www.town.miki.lg.jp/> ;
     lgws:tm 1478000518 .
+
+<http://hkwi.github.com/lgjp_web/#373648> a lgws:Poll ;
+    jitis:code "373648" ;
+    lgws:etag "\"7e041f-4fcb-5403c108636c0\"" ;
+    lgws:land <http://www.town.naoshima.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:03 GMT" ;
+    lgws:tm 1478003651 .
 
 <http://hkwi.github.com/lgjp_web/#374032> a lgws:Poll ;
     jitis:code "374032" ;
     lgws:etag "\"25938025e02774ca49ba358f5da38695\"" ;
     lgws:land <http://www.town.kotohira.kagawa.jp/> ;
     lgws:tm 1478000496 .
+
+<http://hkwi.github.com/lgjp_web/#374067> a lgws:Poll ;
+    jitis:code "374067" ;
+    lgws:land <http://www.town.manno.lg.jp/> ;
+    lgws:tm 1478003618 .
+
+<http://hkwi.github.com/lgjp_web/#382019> a lgws:Poll ;
+    jitis:code "382019" ;
+    lgws:land <http://www.city.matsuyama.ehime.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:09 GMT" ;
+    lgws:tm 1478003756 .
+
+<http://hkwi.github.com/lgjp_web/#382051> a lgws:Poll ;
+    jitis:code "382051" ;
+    lgws:etag "\"70a22e-80c5-5403c7bfdcf80\"" ;
+    lgws:land <http://www.city.niihama.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:30:06 GMT" ;
+    lgws:tm 1478003582 .
 
 <http://hkwi.github.com/lgjp_web/#382078> a lgws:Poll ;
     jitis:code "382078" ;
@@ -2287,6 +3276,11 @@
     lgws:tm 1478000199,
         1478000566 .
 
+<http://hkwi.github.com/lgjp_web/#392111> a lgws:Poll ;
+    jitis:code "392111" ;
+    lgws:land <http://www.city.kochi-konan.lg.jp/> ;
+    lgws:tm 1478003666 .
+
 <http://hkwi.github.com/lgjp_web/#393011> a lgws:Poll ;
     jitis:code "393011" ;
     lgws:etag "\"2aec84-47-5122cedb\"" ;
@@ -2302,10 +3296,24 @@
     lgws:tm 1478000210,
         1478000619 .
 
+<http://hkwi.github.com/lgjp_web/#393070> a lgws:Poll ;
+    jitis:code "393070" ;
+    lgws:etag "\"70002-380d-8f2aa640\"" ;
+    lgws:land <http://www.vill.geisei.kochi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 01:51:13 GMT" ;
+    lgws:tm 1478003645 .
+
 <http://hkwi.github.com/lgjp_web/#393410> a lgws:Poll ;
     jitis:code "393410" ;
     lgws:land <http://www.town.motoyama.kochi.jp/> ;
     lgws:tm 1478000488 .
+
+<http://hkwi.github.com/lgjp_web/#394033> a lgws:Poll ;
+    jitis:code "394033" ;
+    lgws:etag "\"1b49-5403c122a7942\"" ;
+    lgws:land <http://www.town.ochi.kochi.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:00:30 GMT" ;
+    lgws:tm 1478003715 .
 
 <http://hkwi.github.com/lgjp_web/#394122> a lgws:Poll ;
     jitis:code "394122" ;
@@ -2318,10 +3326,34 @@
     lgws:last-modified "Tue, 01 Nov 2016 10:19:19 GMT" ;
     lgws:tm 1478000527 .
 
+<http://hkwi.github.com/lgjp_web/#401358> a lgws:Poll ;
+    jitis:code "401358" ;
+    lgws:land <http://www.city.fukuoka.lg.jp/nishi/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 09:02:44 GMT" ;
+    lgws:tm 1478003709 .
+
+<http://hkwi.github.com/lgjp_web/#401374> a lgws:Poll ;
+    jitis:code "401374" ;
+    lgws:land <http://www.city.fukuoka.lg.jp/sawara/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 09:04:40 GMT" ;
+    lgws:tm 1478003768 .
+
 <http://hkwi.github.com/lgjp_web/#402028> a lgws:Poll ;
     jitis:code "402028" ;
     lgws:land <http://www.city.omuta.lg.jp/> ;
     lgws:tm 1478000531 .
+
+<http://hkwi.github.com/lgjp_web/#402036> a lgws:Poll ;
+    jitis:code "402036" ;
+    lgws:etag "\"60d61-aa30-54038a0486ac0\"" ;
+    lgws:land <http://www.city.kurume.fukuoka.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 07:53:55 GMT" ;
+    lgws:tm 1478003611 .
+
+<http://hkwi.github.com/lgjp_web/#402079> a lgws:Poll ;
+    jitis:code "402079" ;
+    lgws:land <http://www.city.yanagawa.fukuoka.jp/> ;
+    lgws:tm 1478003604 .
 
 <http://hkwi.github.com/lgjp_web/#402109> a lgws:Poll ;
     jitis:code "402109" ;
@@ -2329,12 +3361,24 @@
     lgws:tm 1478000209,
         1478000617 .
 
+<http://hkwi.github.com/lgjp_web/#402117> a lgws:Poll ;
+    jitis:code "402117" ;
+    lgws:land <http://www.city.chikugo.lg.jp/> ;
+    lgws:tm 1478003559 .
+
 <http://hkwi.github.com/lgjp_web/#402133> a lgws:Poll ;
     jitis:code "402133" ;
     lgws:land <http://www.city.yukuhashi.lg.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 09:11:07 GMT" ;
     lgws:tm 1478000206,
         1478000605 .
+
+<http://hkwi.github.com/lgjp_web/#402141> a lgws:Poll ;
+    jitis:code "402141" ;
+    lgws:etag "\"619d4-500a-540384ff26e22\"" ;
+    lgws:land <http://www.city.buzen.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 07:31:27 GMT" ;
+    lgws:tm 1478003700 .
 
 <http://hkwi.github.com/lgjp_web/#402214> a lgws:Poll ;
     jitis:code "402214" ;
@@ -2347,6 +3391,19 @@
     jitis:code "402231" ;
     lgws:land <http://www.city.koga.fukuoka.jp/> ;
     lgws:tm 1478000490 .
+
+<http://hkwi.github.com/lgjp_web/#403482> a lgws:Poll ;
+    jitis:code "403482" ;
+    lgws:etag "\"2cc8d79-a87-3b01d480\"" ;
+    lgws:land <http://www.town.hisayama.fukuoka.jp/fullflash/index.html> ;
+    lgws:last-modified "Sun, 01 Apr 2012 01:45:38 GMT" ;
+    lgws:tm 1478003601 .
+
+<http://hkwi.github.com/lgjp_web/#403491> a lgws:Poll ;
+    jitis:code "403491" ;
+    lgws:land <http://www.town.kasuya.fukuoka.jp/> ;
+    lgws:last-modified "Mon, 03 Oct 2016 05:05:32 GMT" ;
+    lgws:tm 1478003761 .
 
 <http://hkwi.github.com/lgjp_web/#403814> a lgws:Poll ;
     jitis:code "403814" ;
@@ -2365,16 +3422,34 @@
     lgws:tm 1478000207,
         1478000606 .
 
+<http://hkwi.github.com/lgjp_web/#406023> a lgws:Poll ;
+    jitis:code "406023" ;
+    lgws:etag "\"11e1140-b190-540384af4660e\"" ;
+    lgws:land <https://www.town.soeda.fukuoka.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 07:30:03 GMT" ;
+    lgws:tm 1478003723 .
+
 <http://hkwi.github.com/lgjp_web/#406040> a lgws:Poll ;
     jitis:code "406040" ;
     lgws:land <http://www.town.itoda.lg.jp/> ;
     lgws:tm 1478000513 .
+
+<http://hkwi.github.com/lgjp_web/#406058> a lgws:Poll ;
+    jitis:code "406058" ;
+    lgws:land <http://www.town-kawasaki.com/> ;
+    lgws:tm 1478003675 .
 
 <http://hkwi.github.com/lgjp_web/#406104> a lgws:Poll ;
     jitis:code "406104" ;
     lgws:land <http://www.town.fukuchi.lg.jp/> ;
     lgws:tm 1478000200,
         1478000576 .
+
+<http://hkwi.github.com/lgjp_web/#406252> a lgws:Poll ;
+    jitis:code "406252" ;
+    lgws:land <http://www.town.miyako.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 08:12:40 GMT" ;
+    lgws:tm 1478003676 .
 
 <http://hkwi.github.com/lgjp_web/#406465> a lgws:Poll ;
     jitis:code "406465" ;
@@ -2397,11 +3472,26 @@
     lgws:land <http://www.city.saga-kashima.lg.jp/> ;
     lgws:tm 1478000485 .
 
+<http://hkwi.github.com/lgjp_web/#413411> a lgws:Poll ;
+    jitis:code "413411" ;
+    lgws:land <http://www.town.kiyama.lg.jp/> ;
+    lgws:tm 1478003568 .
+
 <http://hkwi.github.com/lgjp_web/#413453> a lgws:Poll ;
     jitis:code "413453" ;
     lgws:land <http://www.town.kamimine.lg.jp/> ;
     lgws:tm 1478000208,
         1478000614 .
+
+<http://hkwi.github.com/lgjp_web/#414018> a lgws:Poll ;
+    jitis:code "414018" ;
+    lgws:land <http://www.town.arita.lg.jp/> ;
+    lgws:tm 1478003678 .
+
+<http://hkwi.github.com/lgjp_web/#414417> a lgws:Poll ;
+    jitis:code "414417" ;
+    lgws:land <http://www.town.tara.lg.jp/> ;
+    lgws:tm 1478003690 .
 
 <http://hkwi.github.com/lgjp_web/#422096> a lgws:Poll ;
     jitis:code "422096" ;
@@ -2456,6 +3546,11 @@
     lgws:land <http://www.city.kumamoto.jp/nishi/> ;
     lgws:tm 1478000486 .
 
+<http://hkwi.github.com/lgjp_web/#431052> a lgws:Poll ;
+    jitis:code "431052" ;
+    lgws:land <http://www.city.kumamoto.jp/kita/> ;
+    lgws:tm 1478003721 .
+
 <http://hkwi.github.com/lgjp_web/#432024> a lgws:Poll ;
     jitis:code "432024" ;
     lgws:etag "\"80e66a201534d21:0\"" ;
@@ -2506,6 +3601,11 @@
     lgws:tm 1478000198,
         1478000562 .
 
+<http://hkwi.github.com/lgjp_web/#435317> a lgws:Poll ;
+    jitis:code "435317" ;
+    lgws:land <http://reihoku-kumamoto.jp/> ;
+    lgws:tm 1478003593 .
+
 <http://hkwi.github.com/lgjp_web/#442062> a lgws:Poll ;
     jitis:code "442062" ;
     lgws:etag "\"202b41-5b02-5403b7b645147\"" ;
@@ -2514,6 +3614,13 @@
     lgws:tm 1478000200,
         1478000574 .
 
+<http://hkwi.github.com/lgjp_web/#442071> a lgws:Poll ;
+    jitis:code "442071" ;
+    lgws:etag "W/\"1880ba5-59f5-5403c7cf1f380\"" ;
+    lgws:land <http://www.city.tsukumi.oita.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:15:53 GMT" ;
+    lgws:tm 1478003577 .
+
 <http://hkwi.github.com/lgjp_web/#442097> a lgws:Poll ;
     jitis:code "442097" ;
     lgws:etag "\"52eac5-9d41-2d9b8140\"" ;
@@ -2521,6 +3628,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 09:45:01 GMT" ;
     lgws:tm 1478000201,
         1478000580 .
+
+<http://hkwi.github.com/lgjp_web/#442119> a lgws:Poll ;
+    jitis:code "442119" ;
+    lgws:etag "\"24be6-65d7-5403c50b7ee00\"" ;
+    lgws:land <http://www.city.usa.oita.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:18:00 GMT" ;
+    lgws:tm 1478003552 .
 
 <http://hkwi.github.com/lgjp_web/#442135> a lgws:Poll ;
     jitis:code "442135" ;
@@ -2543,6 +3657,32 @@
     lgws:last-modified "Thu, 20 Oct 2016 06:05:24 GMT" ;
     lgws:tm 1478000211,
         1478000623 .
+
+<http://hkwi.github.com/lgjp_web/#452033> a lgws:Poll ;
+    jitis:code "452033" ;
+    lgws:etag "\"52a02f-9aad-5401f165e5cc0\"" ;
+    lgws:land <http://www.city.nobeoka.miyazaki.jp/> ;
+    lgws:last-modified "Mon, 31 Oct 2016 01:25:47 GMT" ;
+    lgws:tm 1478003804 .
+
+<http://hkwi.github.com/lgjp_web/#452041> a lgws:Poll ;
+    jitis:code "452041" ;
+    lgws:land <http://www.city.nichinan.lg.jp/> ;
+    lgws:tm 1478003591 .
+
+<http://hkwi.github.com/lgjp_web/#452050> a lgws:Poll ;
+    jitis:code "452050" ;
+    lgws:etag "\"1248444-15f0-9652d840\"" ;
+    lgws:land <http://www.city.kobayashi.lg.jp/> ;
+    lgws:last-modified "Thu, 24 Mar 2016 06:30:49 GMT" ;
+    lgws:tm 1478003798 .
+
+<http://hkwi.github.com/lgjp_web/#452068> a lgws:Poll ;
+    jitis:code "452068" ;
+    lgws:etag "\"4002e-3279-5400d78b7192f\"" ;
+    lgws:land <http://www.city.hyuga.miyazaki.jp/> ;
+    lgws:last-modified "Sun, 30 Oct 2016 04:24:47 GMT" ;
+    lgws:tm 1478003745 .
 
 <http://hkwi.github.com/lgjp_web/#452084> a lgws:Poll ;
     jitis:code "452084" ;
@@ -2572,6 +3712,13 @@
     lgws:last-modified "Tue, 01 Nov 2016 11:42:15 GMT" ;
     lgws:tm 1478000532 .
 
+<http://hkwi.github.com/lgjp_web/#454290> a lgws:Poll ;
+    jitis:code "454290" ;
+    lgws:etag "\"478822c-322e-51d26a2eda7c0\"" ;
+    lgws:land <http://www.vill.morotsuka.miyazaki.jp/> ;
+    lgws:last-modified "Thu, 13 Aug 2015 00:44:23 GMT" ;
+    lgws:tm 1478003567 .
+
 <http://hkwi.github.com/lgjp_web/#454311> a lgws:Poll ;
     jitis:code "454311" ;
     lgws:land <http://www.town.miyazaki-misato.lg.jp/> ;
@@ -2580,11 +3727,28 @@
     lgws:tm 1478000205,
         1478000601 .
 
+<http://hkwi.github.com/lgjp_web/#454419> a lgws:Poll ;
+    jitis:code "454419" ;
+    lgws:land <http://www.town-takachiho.jp/> ;
+    lgws:tm 1478003661 .
+
 <http://hkwi.github.com/lgjp_web/#462063> a lgws:Poll ;
     jitis:code "462063" ;
     lgws:land <http://www.city.akune.kagoshima.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 06:34:46 GMT" ;
     lgws:tm 1478000494 .
+
+<http://hkwi.github.com/lgjp_web/#462080> a lgws:Poll ;
+    jitis:code "462080" ;
+    lgws:land <http://www.city.izumi.kagoshima.jp/> ;
+    lgws:tm 1478003673 .
+
+<http://hkwi.github.com/lgjp_web/#462136> a lgws:Poll ;
+    jitis:code "462136" ;
+    lgws:etag "\"80e62fc8c34d21:0\"" ;
+    lgws:land <http://www.city.nishinoomote.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 06:54:25 GMT" ;
+    lgws:tm 1478003730 .
 
 <http://hkwi.github.com/lgjp_web/#462161> a lgws:Poll ;
     jitis:code "462161" ;
@@ -2601,12 +3765,26 @@
     lgws:last-modified "Tue, 01 Nov 2016 10:44:31 GMT" ;
     lgws:tm 1478000541 .
 
+<http://hkwi.github.com/lgjp_web/#462195> a lgws:Poll ;
+    jitis:code "462195" ;
+    lgws:etag "\"7922e-8342-8ccb4ac0\"" ;
+    lgws:land <http://www.city.ichikikushikino.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 09:00:03 GMT" ;
+    lgws:tm 1478003581 .
+
 <http://hkwi.github.com/lgjp_web/#463043> a lgws:Poll ;
     jitis:code "463043" ;
     lgws:etag "\"d5601a0-8a64-3a87ab00\"" ;
     lgws:land <http://www.tokara.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 02:39:08 GMT" ;
     lgws:tm 1478000528 .
+
+<http://hkwi.github.com/lgjp_web/#464520> a lgws:Poll ;
+    jitis:code "464520" ;
+    lgws:etag "\"dc849ecf972ed21:141a\"" ;
+    lgws:land <http://www.town.yusui.kagoshima.jp/> ;
+    lgws:last-modified "Tue, 25 Oct 2016 08:14:30 GMT" ;
+    lgws:tm 1478003606 .
 
 <http://hkwi.github.com/lgjp_web/#464821> a lgws:Poll ;
     jitis:code "464821" ;
@@ -2615,6 +3793,13 @@
         "Tue, 01 Nov 2016 11:43:16 GMT" ;
     lgws:tm 1478000204,
         1478000593 .
+
+<http://hkwi.github.com/lgjp_web/#464902> a lgws:Poll ;
+    jitis:code "464902" ;
+    lgws:etag "\"719f-5403c9135f080\"" ;
+    lgws:land <http://www.town.kinko.lg.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:36:02 GMT" ;
+    lgws:tm 1478003772 .
 
 <http://hkwi.github.com/lgjp_web/#465011> a lgws:Poll ;
     jitis:code "465011" ;
@@ -2633,6 +3818,16 @@
     lgws:land <http://www.vill.yamato.lg.jp/> ;
     lgws:tm 1478000537 .
 
+<http://hkwi.github.com/lgjp_web/#465241> a lgws:Poll ;
+    jitis:code "465241" ;
+    lgws:land <http://www.uken.net/> ;
+    lgws:tm 1478003655 .
+
+<http://hkwi.github.com/lgjp_web/#465259> a lgws:Poll ;
+    jitis:code "465259" ;
+    lgws:land <http://www.bookkyotohotels.com/ja/amami-setouchi.html> ;
+    lgws:tm 1478003793 .
+
 <http://hkwi.github.com/lgjp_web/#465275> a lgws:Poll ;
     jitis:code "465275" ;
     lgws:etag "\"b20a99-83ad-5402a77431e18\"" ;
@@ -2645,6 +3840,22 @@
     lgws:land <http://www.town.kikai.lg.jp/> ;
     lgws:tm 1478000500 .
 
+<http://hkwi.github.com/lgjp_web/#465321> a lgws:Poll ;
+    jitis:code "465321" ;
+    lgws:land <http://www.town.isen.kagoshima.jp/> ;
+    lgws:last-modified "Tue, 01 Nov 2016 12:28:54 GMT" ;
+    lgws:tm 1478003705 .
+
+<http://hkwi.github.com/lgjp_web/#465356> a lgws:Poll ;
+    jitis:code "465356" ;
+    lgws:land <http://www.yoron.jp/> ;
+    lgws:tm 1478003712 .
+
+<http://hkwi.github.com/lgjp_web/#472018> a lgws:Poll ;
+    jitis:code "472018" ;
+    lgws:land <http://www.city.naha.okinawa.jp/> ;
+    lgws:tm 1478003572 .
+
 <http://hkwi.github.com/lgjp_web/#472051> a lgws:Poll ;
     jitis:code "472051" ;
     lgws:land <http://www.city.ginowan.okinawa.jp/> ;
@@ -2656,11 +3867,21 @@
     lgws:tm 1478000198,
         1478000564 .
 
+<http://hkwi.github.com/lgjp_web/#472123> a lgws:Poll ;
+    jitis:code "472123" ;
+    lgws:land <http://www.city.tomigusuku.okinawa.jp/> ;
+    lgws:tm 1478003547 .
+
 <http://hkwi.github.com/lgjp_web/#472131> a lgws:Poll ;
     jitis:code "472131" ;
     lgws:land <http://www.city.uruma.lg.jp/> ;
     lgws:tm 1478000209,
         1478000615 .
+
+<http://hkwi.github.com/lgjp_web/#473014> a lgws:Poll ;
+    jitis:code "473014" ;
+    lgws:land <http://www.vill.kunigami.okinawa.jp/> ;
+    lgws:tm 1478003667 .
 
 <http://hkwi.github.com/lgjp_web/#473065> a lgws:Poll ;
     jitis:code "473065" ;
@@ -2670,10 +3891,21 @@
     lgws:tm 1478000196,
         1478000556 .
 
+<http://hkwi.github.com/lgjp_web/#473111> a lgws:Poll ;
+    jitis:code "473111" ;
+    lgws:land <http://www.vill.onna.okinawa.jp/> ;
+    lgws:last-modified "Tue, 15 Mar 2011 06:57:37 GMT" ;
+    lgws:tm 1478003714 .
+
 <http://hkwi.github.com/lgjp_web/#473138> a lgws:Poll ;
     jitis:code "473138" ;
     lgws:land <http://www.vill.ginoza.okinawa.jp/> ;
     lgws:tm 1478000511 .
+
+<http://hkwi.github.com/lgjp_web/#473146> a lgws:Poll ;
+    jitis:code "473146" ;
+    lgws:land <http://www.town.kin.okinawa.jp/> ;
+    lgws:tm 1478003603 .
 
 <http://hkwi.github.com/lgjp_web/#473251> a lgws:Poll ;
     jitis:code "473251" ;
@@ -2681,6 +3913,18 @@
     lgws:land <http://www.town.kadena.okinawa.jp/> ;
     lgws:last-modified "Tue, 01 Nov 2016 08:38:42 GMT" ;
     lgws:tm 1478000506 .
+
+<http://hkwi.github.com/lgjp_web/#473481> a lgws:Poll ;
+    jitis:code "473481" ;
+    lgws:etag "\"1b7f5b-68db-53fe359aa9d72\"" ;
+    lgws:land <http://www.town.yonabaru.okinawa.jp/> ;
+    lgws:last-modified "Fri, 28 Oct 2016 02:09:38 GMT" ;
+    lgws:tm 1478003660 .
+
+<http://hkwi.github.com/lgjp_web/#473502> a lgws:Poll ;
+    jitis:code "473502" ;
+    lgws:land <http://www.town.haebaru.lg.jp/?Open> ;
+    lgws:tm 1478003786 .
 
 <http://hkwi.github.com/lgjp_web/#473545> a lgws:Poll ;
     jitis:code "473545" ;
