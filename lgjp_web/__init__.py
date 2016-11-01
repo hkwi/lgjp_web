@@ -91,70 +91,42 @@ def build(fn):
 	
 	return g
 
-def scan_url(urls, hb):
+def scan_url(urls):
 	base = rdflib.Graph()
 	use_ns(base)
 	base.load(urls, format="turtle")
-	if hb and os.path.exists(hb):
-		base.load(hb, format="turtle")
 	
 	g = rdflib.Graph()
 	use_ns(g)
-	if hb and os.path.exists(hb):
-		g.load(hb, format="turtle")
-	
-	q1 = '''
+	q = '''
 	SELECT ?c ?L WHERE {
-		?s1 jitis:code ?c ;
+		?s jitis:code ?c ;
 			foaf:homepage ?L .
-		FILTER NOT EXISTS {
-			?s a lgws:Poll ;
-				jitis:code ?c ;
-				lgws:tm ?tm .
-		}
 	}
-	LIMIT 200
 	'''
+	def proc(args):
+		c,L = args
+		
+		s = LGW[c]
+		dts = datetime.datetime.now().isoformat()
+		g.add((s, LGWS["tm"], rdflib.Literal(dts, datatype=XSD.datetime)))
+		g.add((s, RDF.type, LGWS["Poll"]))
+		g.add((s, JITIS["code"], c))
+		info, els = poll_url(L)
+		for k,v in info.items():
+			if k=="land":
+				g.add((s, LGWS[k], rdflib.URIRef(v)))
+			else:
+				g.add((s, LGWS[k], rdflib.Literal(v)))
+		
+		for err in els:
+			logging.error("code=%s url=%s" % (c,L))
+			g.add((s, LGWS["fail"], rdflib.Literal(err)))
 	
-	q2 = '''
-	SELECT ?c ?L WHERE {
-		?s1 jitis:code ?c ;
-			foaf:homepage ?L .
-		?s a lgws:Poll ;
-			jitis:code ?c ;
-			lgws:tm ?tm .
-	}
-	ORDER BY ASC(?tm) LIMIT 200
-	'''
-	err = {}
 	with concurrent.futures.ThreadPoolExecutor(max_workers=4) as wks:
-		i = 0
-		for c,L in itertools.chain(base.query(q1), base.query(q2)):
-			if i > 200:
-				break
-			
-			i += 1
-			s = LGW[c]
-			for p,v in g.query("SELECT ?p ?v WHERE { <%s> ?p ?v . }" % s):
-				g.remove((s,p,v))
-			
-			dti = int(datetime.datetime.now().timestamp())
-			g.add((s, LGWS["tm"], rdflib.Literal(str(dti), datatype=XSD.integer)))
-			g.add((s, RDF.type, LGWS["Poll"]))
-			g.add((s, JITIS["code"], c))
-			info, se = poll_url(L)
-			for k,v in info.items():
-				if k=="land":
-					g.add((s, LGWS[k], rdflib.URIRef(v)))
-				else:
-					g.add((s, LGWS[k], rdflib.Literal(v)))
-			
-			if se:
-				err[L] = se
-				logstr = "%s %s" % (L, repr(se))
-				logging.error(logstr)
+		[None for z in wks.map(proc, base.query(q))]
 	
-	return g, err
+	return g
 
 def poll_url(url):
 	err_hist = []
@@ -162,7 +134,7 @@ def poll_url(url):
 	for method in ("head", "get"):
 		func = getattr(requests, method)
 		try:
-			o = func(url)
+			o = func(url, timeout=2.0)
 		except Exception as e:
 			err_hist.append("%s %s" % (method, repr(e)))
 			continue
@@ -177,6 +149,6 @@ def poll_url(url):
 			if v:
 				obj[k] = v
 		
-		return obj, None
+		return obj, []
 	
 	return obj, err_hist

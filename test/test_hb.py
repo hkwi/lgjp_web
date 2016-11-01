@@ -14,13 +14,12 @@ class TestHeartBeat(unittest.TestCase):
 		}
 		'''
 		c = list(g.query(q))
-		assert not c, repr(c)
-		
 		with open("docs/urls.ttl", "wb") as w:
 			g.serialize(destination=w, format="turtle")
+		
+		assert not c, repr(c)
 	
 	def test_hb(self):
-		g,err = lgjp_web.scan_url("docs/urls.ttl", "docs/hb.ttl")
-		assert not err, repr(err)
+		g = lgjp_web.scan_url("docs/urls.ttl")
 		with open("docs/hb.ttl","wb") as w:
 			g.serialize(destination=w, format="turtle")
