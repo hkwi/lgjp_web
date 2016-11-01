@@ -108,7 +108,9 @@ def scan_url(base):
 					g.add((s, LGW[k], rdflib.Literal(v)))
 			
 			if err:
-				return "%s %s" % (L, repr(err))
+				logstr = "%s %s" % (L, repr(err))
+				logging.error(logstr)
+				return logstr
 		
 		err = [z for z in wks.map(proc, base.query(q)) if z]
 		assert not err, repr(err)
