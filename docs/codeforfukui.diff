@@ -259,7 +259,7 @@
  取手市,http://www.city.toride.ibaraki.jp/
  牛久市,http://www.city.ushiku.lg.jp/
  つくば市,http://www.city.tsukuba.ibaraki.jp/
-@@ -443,13 +444,13 @@
+@@ -443,9 +444,9 @@
  那珂市,http://www.city.naka.lg.jp/
  筑西市,http://www.city.chikusei.lg.jp/
  坂東市,http://www.city.bando.lg.jp/
@@ -271,11 +271,6 @@
  神栖市,http://www.city.kamisu.ibaraki.jp/
  行方市,http://www.city.namegata.ibaraki.jp/
  鉾田市,http://www.city.hokota.lg.jp/
--つくばみらい市,https://www.city.tsukubamirai.lg.jp/
-+つくばみらい市,http://www.city.tsukubamirai.lg.jp/
- 小美玉市,http://www.city.omitama.lg.jp/
- 茨城町,http://www.town.ibaraki.lg.jp/
- 大洗町,http://www.town.oarai.lg.jp/
 @@ -480,26 +481,26 @@
  上三川町,http://www.town.kaminokawa.tochigi.jp/
  益子町,http://www.town.mashiko.tochigi.jp/
@@ -1435,7 +1430,7 @@
  西海市,http://www.city.saikai.nagasaki.jp/
  雲仙市,http://www.city.unzen.nagasaki.jp/
  南島原市,http://www.city.minamishimabara.lg.jp/
-@@ -1733,22 +1739,22 @@
+@@ -1733,21 +1739,21 @@
  東彼杵町,http://www.sonogi.jp/
  川棚町,http://www.kawatana.jp/
  波佐見町,http://www.town.hasami.nagasaki.jp/
@@ -1449,33 +1444,21 @@
 -熊本市 西区,http://www.city.kumamoto.jp/nishi/default.aspx
 -熊本市 南区,http://www.city.kumamoto.jp/minami/default.aspx
 -熊本市 北区,http://www.city.kumamoto.jp/kita/default.aspx
--八代市,http://www.city.yatsushiro.lg.jp/
 +中央区,None
 +東区,None
 +西区,None
 +南区,None
 +北区,None
-+八代市,http://www.city.yatsushiro.kumamoto.jp/
+ 八代市,http://www.city.yatsushiro.lg.jp/
  人吉市,http://www.city.hitoyoshi.lg.jp/
  荒尾市,http://www.city.arao.lg.jp/
  水俣市,http://www.city.minamata.lg.jp/
  玉名市,http://www.city.tamana.lg.jp/
 -山鹿市,http://www.city.yamaga.kumamoto.jp/www/toppage/0000000000000/APM03000.html
--菊池市,http://www.city.kikuchi.lg.jp/
 +山鹿市,http://www.city.yamaga.kumamoto.jp/
-+菊池市,http://www.city.kikuchi.kumamoto.jp/
+ 菊池市,http://www.city.kikuchi.lg.jp/
  宇土市,http://www.city.uto.kumamoto.jp/
  上天草市,http://www.city.kamiamakusa.kumamoto.jp/
- 宇城市,http://www.city.uki.kumamoto.jp/
-@@ -1763,7 +1769,7 @@
- 大津町,http://www.town.ozu.kumamoto.jp/
- 菊陽町,http://www.town.kikuyo.lg.jp/
- 南小国町,http://www.town.minamioguni.kumamoto.jp/
--小国町,http://www.aso-oguni.com/
-+小国町,http://www.town.kumamoto-oguni.lg.jp/
- 産山村,http://www.ubuyama-v.jp/
- 高森町,http://www.town.takamori.kumamoto.jp/
- 西原村,http://www.vill.nishihara.kumamoto.jp/
 @@ -1774,7 +1780,7 @@
  甲佐町,http://www.town.kosa.kumamoto.jp/
  山都町,http://www.town.kumamoto-yamato.lg.jp/
@@ -1566,7 +1549,7 @@
  西原町,http://www.town.nishihara.okinawa.jp/
  与那原町,http://www.town.yonabaru.okinawa.jp/
 -南風原町,http://www.town.haebaru.lg.jp/?Open
-+南風原町,http://www.town.haebaru.okinawa.jp/
++南風原町,http://www.town.haebaru.lg.jp/
  渡嘉敷村,http://www.vill.tokashiki.okinawa.jp/
  座間味村,http://www.vill.zamami.okinawa.jp/
  粟国村,http://www.vill.aguni.okinawa.jp/

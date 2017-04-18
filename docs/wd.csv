@@ -466,7 +466,7 @@ code,name,site
 082325,神栖市,http://www.city.kamisu.ibaraki.jp/
 082333,行方市,http://www.city.namegata.ibaraki.jp/
 082341,鉾田市,http://www.city.hokota.lg.jp/
-082350,つくばみらい市,http://www.city.tsukubamirai.lg.jp/
+082350,つくばみらい市,https://www.city.tsukubamirai.lg.jp/
 082368,小美玉市,http://www.city.omitama.lg.jp/
 083020,茨城町,http://www.town.ibaraki.lg.jp/
 083097,大洗町,http://www.town.oarai.lg.jp/
@@ -1818,13 +1818,13 @@ code,name,site
 431036,西区,
 431044,南区,
 431052,北区,
-432024,八代市,http://www.city.yatsushiro.kumamoto.jp/
+432024,八代市,http://www.city.yatsushiro.lg.jp/
 432032,人吉市,http://www.city.hitoyoshi.lg.jp/
 432041,荒尾市,http://www.city.arao.lg.jp/
 432059,水俣市,http://www.city.minamata.lg.jp/
 432067,玉名市,http://www.city.tamana.lg.jp/
 432083,山鹿市,http://www.city.yamaga.kumamoto.jp/
-432105,菊池市,http://www.city.kikuchi.kumamoto.jp/
+432105,菊池市,http://www.city.kikuchi.lg.jp/
 432113,宇土市,http://www.city.uto.kumamoto.jp/
 432121,上天草市,http://www.city.kamiamakusa.kumamoto.jp/
 432130,宇城市,http://www.city.uki.kumamoto.jp/
@@ -1839,7 +1839,7 @@ code,name,site
 434035,大津町,http://www.town.ozu.kumamoto.jp/
 434043,菊陽町,http://www.town.kikuyo.lg.jp/
 434230,南小国町,http://www.town.minamioguni.kumamoto.jp/
-434248,小国町,http://www.town.kumamoto-oguni.lg.jp/
+434248,小国町,http://www.aso-oguni.com/
 434256,産山村,http://www.ubuyama-v.jp/
 434281,高森町,http://www.town.takamori.kumamoto.jp/
 434329,西原村,http://www.vill.nishihara.kumamoto.jp/
@@ -1982,7 +1982,7 @@ code,name,site
 473286,中城村,http://www.vill.nakagusuku.okinawa.jp/
 473294,西原町,http://www.town.nishihara.okinawa.jp/
 473481,与那原町,http://www.town.yonabaru.okinawa.jp/
-473502,南風原町,http://www.town.haebaru.okinawa.jp/
+473502,南風原町,http://www.town.haebaru.lg.jp/
 473537,渡嘉敷村,http://www.vill.tokashiki.okinawa.jp/
 473545,座間味村,http://www.vill.zamami.okinawa.jp/
 473553,粟国村,http://www.vill.aguni.okinawa.jp/
