@@ -15,7 +15,6 @@ git config user.name "Hiroaki KAWAI Trais"
 git config user.email "hiroaki.kawai@gmail.com"
 
 git checkout master
-git add docs/hb.ttl
-git add docs/urls.ttl
+git add docs/wd.csv
 git commit -m "auto"
 git push "https://hkwi:${GH_TOKEN}@github.com/hkwi/lgjp_web.git" master:master > /dev/null 2>&1

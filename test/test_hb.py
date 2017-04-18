@@ -1,27 +1,17 @@
 import os
+import csv
 import logging
 import unittest
-import lgjp_web
+import urllib
 
-class TestHeartBeat(unittest.TestCase):
-	def test_base(self):
-		g = lgjp_web.build("docs/urls.ttl")
-		q = '''
-		SELECT ?c WHERE {
-			?s jitis:code ?c .
-			FILTER NOT EXISTS {
-				?s foaf:homepage ?v .
-			}
-		}
+class TestDataSet(unittest.TestCase):
+	def test_codeset(self):
 		'''
-		c = list(g.query(q))
-		with open("docs/urls.ttl", "wb") as w:
-			g.serialize(destination=w, format="turtle")
-		
-		assert not c, repr(c)
-	
-	@unittest.skipIf(os.environ.get("TRAVIS"), "some lg looks limiting access only from Japan")
-	def test_hb(self):
-		g = lgjp_web.scan_url("docs/urls.ttl")
-		with open("docs/hb.ttl","wb") as w:
-			g.serialize(destination=w, format="turtle")
+		tests that code set is synced with denshijiti
+		'''
+		import lgjp_web.wd
+		import lgjp_web.base
+		base = set([r["code"].value for r in lgjp_web.base.info])
+		ex = set([code.value for code, name, site in lgjp_web.wd.info if code[2:5] != "000"])
+		assert base==ex, repr([base-ex, ex-base])
+
