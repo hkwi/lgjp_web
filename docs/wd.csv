@@ -260,7 +260,7 @@ code,name,site
 034410,住田町,http://www.town.sumita.iwate.jp/
 034614,大槌町,http://www.town.otsuchi.iwate.jp/
 034827,山田町,http://www.town.yamada.iwate.jp/
-034835,岩泉町,http://www.town.iwaizumi.iwate.jp/
+034835,岩泉町,http://www.town.iwaizumi.lg.jp/
 034843,田野畑村,http://www.vill.tanohata.iwate.jp/
 034851,普代村,http://www.vill.fudai.iwate.jp/
 035017,軽米町,http://www.town.karumai.iwate.jp/
@@ -278,10 +278,10 @@ code,name,site
 041050,泉区,
 042021,石巻市,http://www.city.ishinomaki.lg.jp/
 042030,塩竈市,http://www.city.shiogama.miyagi.jp/
-042056,気仙沼市,http://www.city.kesennuma.lg.jp/
+042056,気仙沼市,http://www.kesennuma.miyagi.jp/
 042064,白石市,http://www.city.shiroishi.miyagi.jp/
 042072,名取市,http://www.city.natori.miyagi.jp/
-042081,角田市,http://www.city.kakuda.miyagi.jp/
+042081,角田市,http://www.city.kakuda.lg.jp/
 042099,多賀城市,http://www.city.tagajo.miyagi.jp/
 042111,岩沼市,http://www.city.iwanuma.miyagi.jp/
 042129,登米市,http://www.city.tome.miyagi.jp/
@@ -1227,7 +1227,7 @@ code,name,site
 254258,愛荘町,http://www.town.aisho.shiga.jp/
 254410,豊郷町,http://www.town.toyosato.shiga.jp/
 254428,甲良町,http://www.kouratown.jp/
-254436,多賀町,http://www.tagatown.jp/
+254436,多賀町,http://www.town.taga.lg.jp/
 260002,京都府,http://www.pref.kyoto.jp
 261009,京都市,http://www.city.kyoto.lg.jp/
 261017,北区,http://www.city.kyoto.lg.jp/kita/
@@ -1383,14 +1383,14 @@ code,name,site
 282278,宍粟市,http://www.city.shiso.lg.jp/
 282286,加東市,http://www.city.kato.lg.jp/
 282294,たつの市,http://www.city.tatsuno.lg.jp/
-283011,猪名川町,http://www.town.inagawa.hyogo.jp/
+283011,猪名川町,http://www.town.inagawa.lg.jp/
 283657,多可町,http://www.takacho.jp/
 283819,稲美町,http://www.town.hyogo-inami.lg.jp/
 283827,播磨町,http://www.town.harima.lg.jp/
 284424,市川町,http://www.town.ichikawa.hyogo.jp/
 284432,福崎町,http://www.town.fukusaki.hyogo.jp/
 284467,神河町,http://www.town.kamikawa.hyogo.jp/
-284645,太子町,http://www.town.taishi.hyogo.jp/
+284645,太子町,http://www.town.hyogo-taishi.lg.jp/
 284815,上郡町,http://www.town.kamigori.hyogo.jp/
 285013,佐用町,http://www.town.sayo.lg.jp/
 285854,香美町,http://www.town.mikata-kami.lg.jp/
@@ -1447,7 +1447,7 @@ code,name,site
 302091,岩出市,http://www.city.iwade.lg.jp/
 303046,紀美野町,http://www.town.kimino.wakayama.jp/
 303411,かつらぎ町,http://www.town.katsuragi.wakayama.jp/
-303437,九度山町,http://www.town.kudoyama.wakayama.jp/
+303437,九度山町,https://www.town.kudoyama.wakayama.jp/
 303445,高野町,http://www.town.koya.wakayama.jp/
 303615,湯浅町,http://www.town.yuasa.wakayama.jp/
 303623,広川町,http://www.town.hirogawa.wakayama.jp/
