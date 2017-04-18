@@ -2,7 +2,7 @@ code,name,site
 010006,北海道,http://www.pref.hokkaido.lg.jp/
 010006,北海道,http://www.pref.hokkaido.lg.jp/ss/jsk/opendata/opendata.htm
 011002,札幌市,http://www.city.sapporo.jp/
-011011,中央区,
+011011,中央区,http://www.city.sapporo.jp/chuo/
 011029,北区,
 011037,東区,
 011045,白石区,
@@ -824,7 +824,7 @@ code,name,site
 151084,西蒲区,
 152021,長岡市,http://www.city.nagaoka.niigata.jp/
 152048,三条市,http://www.city.sanjo.niigata.jp/
-152056,柏崎市,http://www.city.kashiwazaki.niigata.jp/
+152056,柏崎市,https://www.city.kashiwazaki.lg.jp/
 152064,新発田市,http://www.city.shibata.niigata.jp/
 152081,小千谷市,http://www.city.ojiya.niigata.jp/
 152099,加茂市,http://www.city.kamo.niigata.jp/
@@ -1453,7 +1453,7 @@ code,name,site
 303623,広川町,http://www.town.hirogawa.wakayama.jp/
 303666,有田川町,http://www.town.aridagawa.lg.jp/
 303810,美浜町,http://www.town.mihama.wakayama.jp/
-303828,日高町,http://www.town.hidaka.wakayama.jp/
+303828,日高町,http://www.town.wakayama-hidaka.lg.jp/
 303836,由良町,http://www.town.yura.wakayama.jp/
 303909,印南町,http://www.town.wakayama-inami.lg.jp/
 303917,みなべ町,http://www.town.minabe.lg.jp/
@@ -1841,7 +1841,7 @@ code,name,site
 434230,南小国町,http://www.town.minamioguni.kumamoto.jp/
 434248,小国町,http://www.aso-oguni.com/
 434256,産山村,http://www.ubuyama-v.jp/
-434281,高森町,http://www.town.takamori.kumamoto.jp/
+434281,高森町,http://www.town.nagano-takamori.lg.jp/
 434329,西原村,http://www.vill.nishihara.kumamoto.jp/
 434337,南阿蘇村,http://www.vill.minamiaso.lg.jp/
 434418,御船町,http://portal.kumamoto-net.ne.jp/town_mifune/

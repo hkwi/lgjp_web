@@ -2,7 +2,7 @@
 +++ wikidata
 @@ -1,18 +1,19 @@
  札幌市,http://www.city.sapporo.jp/
--中央区,http://www.city.sapporo.jp/chuo/
+ 中央区,http://www.city.sapporo.jp/chuo/
 -北区,http://www.city.sapporo.jp/kitaku/
 -東区,http://www.city.sapporo.jp/higashi/
 -白石区,http://www.city.sapporo.jp/shiroishi/
@@ -12,7 +12,6 @@
 -厚別区,http://www.city.sapporo.jp/atsubetsu/
 -手稲区,http://www.city.sapporo.jp/teine/
 -清田区,http://www.city.sapporo.jp/kiyota/
-+中央区,None
 +北区,None
 +東区,None
 +白石区,None
@@ -485,7 +484,7 @@
  平塚市,http://www.city.hiratsuka.kanagawa.jp/
  鎌倉市,http://www.city.kamakura.kanagawa.jp/
  藤沢市,http://www.city.fujisawa.kanagawa.jp/
-@@ -761,36 +766,36 @@
+@@ -761,33 +766,33 @@
  厚木市,http://www.city.atsugi.kanagawa.jp/
  大和市,http://www.city.yamato.lg.jp/
  伊勢原市,http://www.city.isehara.kanagawa.jp/
@@ -530,11 +529,7 @@
 +西蒲区,None
  長岡市,http://www.city.nagaoka.niigata.jp/
  三条市,http://www.city.sanjo.niigata.jp/
--柏崎市,https://www.city.kashiwazaki.lg.jp/
-+柏崎市,http://www.city.kashiwazaki.niigata.jp/
- 新発田市,http://www.city.shibata.niigata.jp/
- 小千谷市,http://www.city.ojiya.niigata.jp/
- 加茂市,http://www.city.kamo.niigata.jp/
+ 柏崎市,https://www.city.kashiwazaki.lg.jp/
 @@ -803,18 +808,18 @@
  五泉市,http://www.city.gosen.lg.jp/
  上越市,http://www.city.joetsu.niigata.jp/
@@ -1084,15 +1079,6 @@
  紀の川市,http://www.city.kinokawa.lg.jp/
  岩出市,http://www.city.iwade.lg.jp/
  紀美野町,http://www.town.kimino.wakayama.jp/
-@@ -1394,7 +1400,7 @@
- 広川町,http://www.town.hirogawa.wakayama.jp/
- 有田川町,http://www.town.aridagawa.lg.jp/
- 美浜町,http://www.town.mihama.wakayama.jp/
--日高町,http://www.town.wakayama-hidaka.lg.jp/
-+日高町,http://www.town.hidaka.wakayama.jp/
- 由良町,http://www.town.yura.wakayama.jp/
- 印南町,http://www.town.wakayama-inami.lg.jp/
- みなべ町,http://www.town.minabe.lg.jp/
 @@ -1402,12 +1408,12 @@
  白浜町,http://www.town.shirahama.wakayama.jp/
  上富田町,http://www.town.kamitonda.lg.jp/
@@ -1369,6 +1355,15 @@
  菊池市,http://www.city.kikuchi.lg.jp/
  宇土市,http://www.city.uto.kumamoto.jp/
  上天草市,http://www.city.kamiamakusa.kumamoto.jp/
+@@ -1765,7 +1771,7 @@
+ 南小国町,http://www.town.minamioguni.kumamoto.jp/
+ 小国町,http://www.aso-oguni.com/
+ 産山村,http://www.ubuyama-v.jp/
+-高森町,http://www.town.takamori.kumamoto.jp/
++高森町,http://www.town.nagano-takamori.lg.jp/
+ 西原村,http://www.vill.nishihara.kumamoto.jp/
+ 南阿蘇村,http://www.vill.minamiaso.lg.jp/
+ 御船町,http://portal.kumamoto-net.ne.jp/town_mifune/
 @@ -1774,7 +1780,7 @@
  甲佐町,http://www.town.kosa.kumamoto.jp/
  山都町,http://www.town.kumamoto-yamato.lg.jp/
