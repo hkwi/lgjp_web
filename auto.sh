@@ -17,5 +17,6 @@ git config user.email "hiroaki.kawai@gmail.com"
 git checkout master
 git add docs/wd.csv
 git add docs/codeforfukui.diff
+git add docs/codeforfukui_dns.diff
 git commit -m "auto"
 git push "https://hkwi:${GH_TOKEN}@github.com/hkwi/lgjp_web.git" master:master > /dev/null 2>&1
