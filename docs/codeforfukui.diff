@@ -440,14 +440,14 @@
 -南区,http://www.city.niigata.lg.jp/minami/index.html
 -西区,http://www.city.niigata.lg.jp/nishi/index.html
 -西蒲区,http://www.city.niigata.lg.jp/nishikan/index.html
-+北区,None
-+東区,None
-+中央区,None
-+江南区,None
-+秋葉区,None
-+南区,None
-+西区,None
-+西蒲区,None
++北区,http://www.city.niigata.lg.jp/kita/
++東区,http://www.city.niigata.lg.jp/higashi/
++中央区,http://www.city.niigata.lg.jp/chuo/
++江南区,http://www.city.niigata.lg.jp/konan/
++秋葉区,http://www.city.niigata.lg.jp/akiha/
++南区,http://www.city.niigata.lg.jp/minami/
++西区,http://www.city.niigata.lg.jp/nishi/
++西蒲区,http://www.city.niigata.lg.jp/nishikan/
  長岡市,http://www.city.nagaoka.niigata.jp/
  三条市,http://www.city.sanjo.niigata.jp/
  柏崎市,https://www.city.kashiwazaki.lg.jp/
@@ -642,11 +642,9 @@
  白川村,http://shirakawa-go.org/
  静岡市,http://www.city.shizuoka.jp/
 -葵区,http://www.city.shizuoka.jp/aoi.html
--駿河区,http://www.city.shizuoka.jp/suruga.html
--清水区,http://www.city.shizuoka.jp/shimizu.html
 +葵区,http://www.city.shizuoka.jp/deps/aoi/aoi-ku.html
-+駿河区,None
-+清水区,None
+ 駿河区,http://www.city.shizuoka.jp/suruga.html
+ 清水区,http://www.city.shizuoka.jp/shimizu.html
  浜松市,http://www.city.hamamatsu.shizuoka.jp/
 -中区,https://www.city.hamamatsu.shizuoka.jp/c-shinko/ward/nakaku/index.html
 -東区,https://www.city.hamamatsu.shizuoka.jp/e-shinko/ward/higashiku/index.html

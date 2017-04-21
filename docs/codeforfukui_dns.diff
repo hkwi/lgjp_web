@@ -96,37 +96,14 @@
  横浜市,www.city.yokohama.lg.jp
  鶴見区,www.city.yokohama.lg.jp
  神奈川区,www.city.yokohama.lg.jp
-@@ -750,6 +754,7 @@
+@@ -749,6 +753,7 @@
+ 緑区,www.city.sagamihara.kanagawa.jp
  中央区,www.city.sagamihara.kanagawa.jp
  南区,www.city.sagamihara.kanagawa.jp
- 横須賀市,www.city.yokosuka.kanagawa.jp
 +横須賀市,www.city.yokosuka.kanagawa.jp
+ 横須賀市,www.city.yokosuka.kanagawa.jp
  平塚市,www.city.hiratsuka.kanagawa.jp
  鎌倉市,www.city.kamakura.kanagawa.jp
- 藤沢市,www.city.fujisawa.kanagawa.jp
-@@ -780,14 +785,14 @@
- 愛川町,www.town.aikawa.kanagawa.jp
- 清川村,www.town.kiyokawa.kanagawa.jp
- 新潟市,www.city.niigata.lg.jp
--北区,www.city.niigata.lg.jp
--東区,www.city.niigata.lg.jp
--中央区,www.city.niigata.lg.jp
--江南区,www.city.niigata.lg.jp
--秋葉区,www.city.niigata.lg.jp
--南区,www.city.niigata.lg.jp
--西区,www.city.niigata.lg.jp
--西蒲区,www.city.niigata.lg.jp
-+北区,None
-+東区,None
-+中央区,None
-+江南区,None
-+秋葉区,None
-+南区,None
-+西区,None
-+西蒲区,None
- 長岡市,www.city.nagaoka.niigata.jp
- 三条市,www.city.sanjo.niigata.jp
- 柏崎市,www.city.kashiwazaki.lg.jp
 @@ -806,7 +811,7 @@
  佐渡市,www.city.sado.niigata.jp
  魚沼市,www.city.uonuma.niigata.jp
@@ -136,7 +113,7 @@
  聖籠町,www.town.seiro.niigata.jp
  弥彦村,www.vill.yahiko.niigata.jp
  田上町,www.town.tagami.niigata.jp
-@@ -1011,21 +1016,21 @@
+@@ -1011,7 +1016,7 @@
  七宗町,www.hichiso.jp
  八百津町,www.town.yaotsu.lg.jp
  白川町,www.town.shirakawa.lg.jp
@@ -145,11 +122,9 @@
  御嵩町,www.town.mitake.gifu.jp
  白川村,shirakawa-go.org
  静岡市,www.city.shizuoka.jp
- 葵区,www.city.shizuoka.jp
--駿河区,www.city.shizuoka.jp
--清水区,www.city.shizuoka.jp
-+駿河区,None
-+清水区,None
+@@ -1019,13 +1024,13 @@
+ 駿河区,www.city.shizuoka.jp
+ 清水区,www.city.shizuoka.jp
  浜松市,www.city.hamamatsu.shizuoka.jp
 -中区,www.city.hamamatsu.shizuoka.jp
 -東区,www.city.hamamatsu.shizuoka.jp
