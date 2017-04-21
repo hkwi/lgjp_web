@@ -17,4 +17,6 @@ class TestDataSet(unittest.TestCase):
 	
 	def test_codeforfukui(self):
 		import lgjp_web.codeforfukui
-		
+	
+	def test_dbpedia(self):
+		import lgjp_web.dbpedia
