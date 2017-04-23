@@ -8,6 +8,15 @@
  室蘭市,www.city.muroran.lg.jp
  釧路市,www.city.kushiro.lg.jp
  帯広市,www.city.obihiro.hokkaido.jp
+@@ -45,7 +46,7 @@
+ 北斗市,www.city.hokuto.hokkaido.jp
+ 当別町,www.town.tobetsu.hokkaido.jp
+ 新篠津村,www.vill.shinshinotsu.hokkaido.jp
+-松前町,www.e-matsumae.com
++松前町,www.town.matsumae.hokkaido.jp
+ 福島町,www.town.fukushima.hokkaido.jp
+ 知内町,www.town.shiriuchi.hokkaido.jp
+ 木古内町,www.town.kikonai.hokkaido.jp
 @@ -95,7 +96,7 @@
  北竜町,www.town.hokuryu.hokkaido.jp
  沼田町,www.town.numata.hokkaido.jp
@@ -158,6 +167,15 @@
  佐久市,www.city.saku.nagano.jp
  千曲市,www.city.chikuma.lg.jp
  東御市,www.city.tomi.nagano.jp
+@@ -1368,7 +1373,7 @@
+ 河合町,www.town.kawai.nara.jp
+ 吉野町,www.town.yoshino.nara.jp
+ 大淀町,www.town.oyodo.lg.jp
+-下市町,www.town.shimoichi.nara.jp
++下市町,www.town.shimoichi.lg.jp
+ 黒滝村,www.vill.kurotaki.nara.jp
+ 天川村,www.vill.tenkawa.nara.jp
+ 野迫川村,www.vill.nosegawa.nara.jp
 @@ -1443,7 +1448,7 @@
  吉賀町,www.town.yoshika.lg.jp
  海士町,www.town.ama.shimane.jp

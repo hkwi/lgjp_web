@@ -52,7 +52,8 @@
 +012360,http://www.city.hokuto.hokkaido.jp/
  013030,http://www.town.tobetsu.hokkaido.jp/
  013048,http://www.vill.shinshinotsu.hokkaido.jp/
- 013315,http://www.e-matsumae.com/
+-013315,http://www.e-matsumae.com/
++013315,http://www.town.matsumae.hokkaido.jp/
  013323,http://www.town.fukushima.hokkaido.jp/
  013331,http://www.town.shiriuchi.hokkaido.jp/
  013340,http://www.town.kikonai.hokkaido.jp/
@@ -1522,7 +1523,7 @@
  282120,http://www.city.ako.lg.jp/
  282138,http://www.city.nishiwaki.lg.jp/
  282146,http://www.city.takarazuka.hyogo.jp/
-@@ -1249,62 +1322,53 @@
+@@ -1249,67 +1322,58 @@
  282189,http://www.city.ono.hyogo.jp/
  282197,http://www.city.sanda.lg.jp/
  282201,http://www.city.kasai.hyogo.jp/
@@ -1595,6 +1596,12 @@
  294268,http://www.town.koryo.nara.jp/
  294276,http://www.town.kawai.nara.jp/
  294411,http://www.town.yoshino.nara.jp/
+ 294420,http://www.town.oyodo.lg.jp/
+-294438,http://www.town.shimoichi.nara.jp/
++294438,http://www.town.shimoichi.lg.jp/
+ 294446,http://www.vill.kurotaki.nara.jp/
+ 294462,http://www.vill.tenkawa.nara.jp/
+ 294471,http://www.vill.nosegawa.nara.jp/
 @@ -1317,49 +1381,41 @@
  294501,http://www.vill.shimokitayama.nara.jp/
  294519,http://vill.kamikitayama.nara.jp/

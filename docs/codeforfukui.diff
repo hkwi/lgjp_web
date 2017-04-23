@@ -21,7 +21,7 @@
  千歳市,http://www.city.chitose.hokkaido.jp/
  滝川市,http://www.city.takikawa.hokkaido.jp/
  砂川市,http://www.city.sunagawa.hokkaido.jp/
-@@ -38,11 +39,11 @@
+@@ -38,14 +39,14 @@
  深川市,http://www.city.fukagawa.lg.jp/
  富良野市,http://www.city.furano.hokkaido.jp/
  登別市,http://www.city.noboribetsu.lg.jp/
@@ -34,7 +34,11 @@
 +北斗市,http://www.city.hokuto.hokkaido.jp/
  当別町,http://www.town.tobetsu.hokkaido.jp/
  新篠津村,http://www.vill.shinshinotsu.hokkaido.jp/
- 松前町,http://www.e-matsumae.com/
+-松前町,http://www.e-matsumae.com/
++松前町,http://www.town.matsumae.hokkaido.jp/
+ 福島町,http://www.town.fukushima.hokkaido.jp/
+ 知内町,http://www.town.shiriuchi.hokkaido.jp/
+ 木古内町,http://www.town.kikonai.hokkaido.jp/
 @@ -53,10 +54,10 @@
  鹿部町,http://www.town.shikabe.lg.jp/
  森町,http://www.town.hokkaido-mori.lg.jp/
@@ -926,7 +930,12 @@
  御杖村,http://www.vill.mitsue.nara.jp/
  高取町,http://www.town.takatori.nara.jp/
  明日香村,http://www.asukamura.jp/
-@@ -1372,7 +1377,7 @@
+@@ -1368,11 +1373,11 @@
+ 河合町,http://www.town.kawai.nara.jp/
+ 吉野町,http://www.town.yoshino.nara.jp/
+ 大淀町,http://www.town.oyodo.lg.jp/
+-下市町,http://www.town.shimoichi.nara.jp/
++下市町,http://www.town.shimoichi.lg.jp/
  黒滝村,http://www.vill.kurotaki.nara.jp/
  天川村,http://www.vill.tenkawa.nara.jp/
  野迫川村,http://www.vill.nosegawa.nara.jp/
