@@ -631,7 +631,7 @@
  高森町,http://www.town.nagano-takamori.lg.jp/
  阿南町,http://www.town.anan.nagano.jp/
  阿智村,http://www.vill.achi.nagano.jp/
-@@ -955,14 +960,14 @@
+@@ -955,20 +960,20 @@
  木曽町,http://www.town-kiso.com/
  麻績村,http://www.vill.omi.nagano.jp/
  生坂村,http://www.village.ikusaka.nagano.jp/
@@ -649,6 +649,13 @@
  小布施町,http://www.town.obuse.nagano.jp/
  高山村,http://www.vill.takayama.nagano.jp/
  山ノ内町,http://www.town.yamanouchi.nagano.jp/
+ 木島平村,http://www.kijimadaira.jp/
+ 野沢温泉村,http://www.vill.nozawaonsen.nagano.jp/
+-信濃町,http://www.town.shinanomachi.nagano.jp/
++信濃町,https://www.town.shinano.lg.jp/
+ 小川村,http://www.vill.ogawa.nagano.jp/
+ 飯綱町,http://www.town.iizuna.nagano.jp/
+ 栄村,http://www.vill.sakae.nagano.jp/
 @@ -982,7 +987,7 @@
  瑞浪市,http://www.city.mizunami.lg.jp/
  羽島市,http://www.city.hashima.lg.jp/
