@@ -25,10 +25,13 @@ class TestDataSet(unittest.TestCase):
 class TestAccess(unittest.TestCase):
 	def test_dns(self):
 		import lgjp_web.wd
+		errors = []
 		for code, name, site in lgjp_web.wd.info:
 			host = urlparse(site).netloc
 			try:
 				socket.gethostbyname(host)
-			except:
-				print(host)
-				raise
+			except Exception as e:
+				errors.append([code, name, site, e])
+		
+		if errors:
+			raise Exception(repr(errors))
