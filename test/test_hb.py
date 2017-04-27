@@ -3,6 +3,7 @@ import csv
 import logging
 import socket
 import unittest
+import concurrent.futures
 from urllib.parse import urlparse
 
 class TestDataSet(unittest.TestCase):
@@ -25,13 +26,16 @@ class TestDataSet(unittest.TestCase):
 class TestAccess(unittest.TestCase):
 	def test_dns(self):
 		import lgjp_web.wd
-		errors = []
-		for code, name, site in lgjp_web.wd.info:
+		def func(arg):
+			code, name, site = arg
 			host = urlparse(site).netloc
 			try:
 				socket.gethostbyname(host)
 			except Exception as e:
-				errors.append([code, name, site, e])
-		
+				return [code, name, site, e]
+
+		p = concurrent.futures.ThreadPoolExecutor(10)
+		r = p.map(func, lgjp_web.wd.info)
+		errors = [x for x in r if x]
 		if errors:
 			raise Exception(repr(errors))
