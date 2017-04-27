@@ -1,8 +1,9 @@
 import os
 import csv
 import logging
+import socket
 import unittest
-import urllib
+from urllib.parse import urlparse
 
 class TestDataSet(unittest.TestCase):
 	def test_codeset(self):
@@ -20,3 +21,14 @@ class TestDataSet(unittest.TestCase):
 	
 	def test_dbpedia(self):
 		import lgjp_web.dbpedia
+
+class TestAccess(unittest.TestCase):
+	def test_dns(self):
+		import lgjp_web.wd
+		for code, name, site in lgjp_web.wd.info:
+			host = urlparse(site).netloc
+			try:
+				socket.gethostbyname(host)
+			except:
+				print(host)
+				raise
