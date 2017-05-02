@@ -1,11 +1,12 @@
 import os
 import csv
+import json
 import logging
 import socket
 import unittest
 import concurrent.futures
-from urllib.parse import urlparse
-import dns.resolver
+from urllib.parse import urlparse, urlencode
+from urllib.request import urlopen
 
 class TestDataSet(unittest.TestCase):
 	def test_codeset(self):
@@ -25,12 +26,11 @@ class TestDataSet(unittest.TestCase):
 		import lgjp_web.dbpedia
 
 class TestAccess(unittest.TestCase):
-	def dns(self, host):
-		resolv = dns.resolver.Resolver()
-		prepend = [s for s in ("8.8.8.8","8.8.4.4")
-			if s not in resolv.nameservers]
-		resolv.nameservers = prepend + resolv.nameservers
-		resolv.query(host)
+	def dns_o_http(self, host):
+		q = urlencode(dict(name=host, type="A"))
+		f = urlopen("https://dns.google.com/resolve?%s" % q)
+		data = f.read().decode("UTF-8")
+		assert json.loads(data)["Status"] == 0, data
 	
 	def test_dns(self):
 		import lgjp_web.wd
@@ -41,7 +41,7 @@ class TestAccess(unittest.TestCase):
 				socket.gethostbyname(host)
 			except Exception as e:
 				try:
-					self.dns(host)
+					self.dns_o_http(host)
 				except:
 					return [code, name, site, e]
 
