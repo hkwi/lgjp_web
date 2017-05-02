@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Japan local government web site location tracker
+title: 全国地方自治体ウェブサイト一覧
 email: hiroaki.kawai@gmail.com
 description: >
-  Tracks web site locations of Japan local governments.
+  全国地方自治体ウェブサイト一覧を自動観測しています。
 baseurl: "/lgjp_web"
 url: "https://hkwi.github.io"
 twitter_username: kwi
