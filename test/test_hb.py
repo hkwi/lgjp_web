@@ -5,6 +5,7 @@ import socket
 import unittest
 import concurrent.futures
 from urllib.parse import urlparse
+import dns.resolver
 
 class TestDataSet(unittest.TestCase):
 	def test_codeset(self):
@@ -24,6 +25,13 @@ class TestDataSet(unittest.TestCase):
 		import lgjp_web.dbpedia
 
 class TestAccess(unittest.TestCase):
+	def dns(self, host):
+		resolv = dns.resolver.Resolver()
+		prepend = [s for s in ("8.8.8.8","8.8.4.4")
+			if s not in resolv.nameservers]
+		resolv.nameservers = prepend + resolv.nameservers
+		resolv.query(host)
+	
 	def test_dns(self):
 		import lgjp_web.wd
 		def func(arg):
@@ -32,7 +40,10 @@ class TestAccess(unittest.TestCase):
 			try:
 				socket.gethostbyname(host)
 			except Exception as e:
-				return [code, name, site, e]
+				try:
+					self.dns(host)
+				except:
+					return [code, name, site, e]
 
 		p = concurrent.futures.ThreadPoolExecutor(10)
 		r = p.map(func, lgjp_web.wd.info)
