@@ -1263,7 +1263,7 @@
  門川町,http://www.town.kadogawa.lg.jp/
  諸塚村,http://www.vill.morotsuka.miyazaki.jp/
  椎葉村,http://www.vill.shiiba.miyazaki.jp/
-@@ -1831,14 +1836,14 @@
+@@ -1831,16 +1836,16 @@
  日之影町,http://www.hinokage.jp/
  五ヶ瀬町,http://www.town.gokase.miyazaki.jp/
  鹿児島市,http://www.city.kagoshima.lg.jp/
@@ -1279,8 +1279,11 @@
 -薩摩川内市,http://www.city.satsumasendai.lg.jp/www/toppage/0000000000000/APM03000.html
 +薩摩川内市,http://www.city.satsumasendai.lg.jp/
  日置市,http://www.city.hioki.kagoshima.jp/
- 曽於市,http://www.city.soo.kagoshima.jp/
+-曽於市,http://www.city.soo.kagoshima.jp/
++曽於市,https://www.city.soo.kagoshima.jp/
  霧島市,http://www.city-kirishima.jp/
+ いちき串木野市,http://www.city.ichikikushikino.lg.jp/
+ 南さつま市,http://www.city.minamisatsuma.lg.jp/
 @@ -1855,20 +1860,20 @@
  長島町,http://www.town.nagashima.lg.jp/
  湧水町,http://www.town.yusui.kagoshima.jp/
