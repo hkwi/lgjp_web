@@ -2121,7 +2121,7 @@
  442011,http://www.city.oita.oita.jp/
  442020,http://www.city.beppu.oita.jp/
  442038,http://www.city-nakatsu.jp/
-@@ -1755,18 +1809,17 @@
+@@ -1755,71 +1809,67 @@
  443417,http://www.town.hiji.oita.jp/
  444618,http://www.town.kokonoe.oita.jp/
  444626,http://www.town.kusu.oita.jp/
@@ -2144,8 +2144,9 @@
  453820,http://www.town.kunitomi.miyazaki.jp/
  453838,http://www.town.aya.miyazaki.jp/ayatown/
  454010,http://www.town.takanabe.miyazaki.jp/
-@@ -1774,52 +1827,49 @@
- 454036,http://www.nishimera.jp/
+ 454028,http://www.town.shintomi.miyazaki.jp/
+-454036,http://www.nishimera.jp/
++454036,http://www.vill.nishimera.lg.jp/
  454044,http://www.kijo.jp/
  454052,http://www.town.kawaminami.miyazaki.jp/
 -454061,http://www.town.tsuno.miyazaki.jp/
