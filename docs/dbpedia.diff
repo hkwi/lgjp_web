@@ -1814,7 +1814,7 @@
  362018,http://www.city.tokushima.tokushima.jp/
  362026,http://www.city.naruto.tokushima.jp/
  362034,http://www.city.komatsushima.tokushima.jp/
-@@ -1483,53 +1538,49 @@
+@@ -1483,57 +1538,53 @@
  362051,http://www.city.yoshinogawa.lg.jp/
  362069,http://www.city.awa.lg.jp/
  362077,http://www.city.mima.lg.jp/
@@ -1878,6 +1878,11 @@
  382141,http://www.city.seiyo.ehime.jp/
  382159,http://www.city.toon.ehime.jp/
  383562,http://www.town.kamijima.ehime.jp/
+-383864,http://www.town.kumakogen.ehime.jp/
++383864,http://www.kumakogen.jp/
+ 384011,http://www.town.masaki.ehime.jp/
+ 384020,http://www.town.tobe.ehime.jp/
+ 384224,http://www.town.uchiko.ehime.jp/
 @@ -1541,25 +1592,23 @@
  384844,http://www.town.matsuno.ehime.jp/
  384887,http://www.town.kihoku.ehime.jp/
