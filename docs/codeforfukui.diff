@@ -1186,7 +1186,7 @@
  みやま市,http://www.city.miyama.lg.jp/
  糸島市,http://www.city.itoshima.lg.jp/
  那珂川町,http://www.town.fukuoka-nakagawa.lg.jp/
-@@ -1669,7 +1674,7 @@
+@@ -1669,18 +1674,18 @@
  志免町,http://www.town.shime.lg.jp/
  須恵町,http://www.town.sue.fukuoka.jp/
  新宮町,http://www.town.shingu.fukuoka.jp/
@@ -1195,7 +1195,11 @@
  粕屋町,http://www.town.kasuya.fukuoka.jp/
  芦屋町,http://www.town.ashiya.lg.jp/
  水巻町,https://www.town.mizumaki.lg.jp/
-@@ -1680,7 +1685,7 @@
+-岡垣町,http://www.town.okagaki.fukuoka.jp/
++岡垣町,https://www.town.okagaki.lg.jp/
+ 遠賀町,http://www.town.onga.lg.jp/
+ 小竹町,http://town.kotake.lg.jp/
+ 鞍手町,http://www.town.kurate.lg.jp/
  桂川町,http://www.town.keisen.fukuoka.jp/
  筑前町,http://www.town.chikuzen.fukuoka.jp/
  東峰村,http://www1.vill.toho.fukuoka.jp/
