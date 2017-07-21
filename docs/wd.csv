@@ -268,8 +268,8 @@ code,name,site
 035068,九戸村,http://www.vill.kunohe.iwate.jp/
 035076,洋野町,http://www.town.hirono.iwate.jp/
 035246,一戸町,http://www.town.ichinohe.iwate.jp/
-040002,宮城県,http://www.pref.miyagi.jp/site/opendata-miyagi/
 040002,宮城県,http://www.pref.miyagi.lg.jp
+040002,宮城県,http://www.pref.miyagi.jp/site/opendata-miyagi/
 041009,仙台市,http://www.city.sendai.jp/
 041017,青葉区,http://www.city.sendai.jp/aobaku/
 041025,宮城野区,http://www.city.sendai.jp/miyaginoku/
@@ -435,8 +435,8 @@ code,name,site
 075485,葛尾村,http://www.katsurao.org/
 075612,新地町,http://www.shinchi-town.jp/
 075647,飯舘村,http://www.vill.iitate.fukushima.jp/
-080004,茨城県,http://www.pref.ibaraki.jp/kikaku/joho/it/opendata/od-00.html
 080004,茨城県,http://www.pref.ibaraki.lg.jp
+080004,茨城県,http://www.pref.ibaraki.jp/kikaku/joho/it/opendata/od-00.html
 082015,水戸市,http://www.city.mito.lg.jp/
 082023,日立市,http://www.city.hitachi.lg.jp/
 082031,土浦市,http://www.city.tsuchiura.lg.jp/
@@ -507,8 +507,8 @@ code,name,site
 093866,高根沢町,http://www.town.takanezawa.tochigi.jp/
 094072,那須町,http://www.town.nasu.lg.jp/
 094111,那珂川町,http://www.town.tochigi-nakagawa.lg.jp/
-100005,群馬県,http://www.pref.gunma.jp/
 100005,群馬県,http://www.pref.gunma.jp/07/b2700057.html
+100005,群馬県,http://www.pref.gunma.jp/
 102016,前橋市,http://www.city.maebashi.gunma.jp/
 102024,高崎市,http://www.city.takasaki.gunma.jp/
 102032,桐生市,http://www.city.kiryu.gunma.jp/
@@ -621,8 +621,8 @@ code,name,site
 114651,松伏町,http://www.town.matsubushi.lg.jp/
 120006,千葉県,http://www.pref.chiba.lg.jp
 120006,千葉県,https://www.pref.chiba.lg.jp/seisaku/toukeidata/opendata/
-121002,千葉市,http://www.city.chiba.jp/opendata/index.php
 121002,千葉市,https://www.city.chiba.jp/
+121002,千葉市,http://www.city.chiba.jp/opendata/index.php
 121011,中央区,https://www.city.chiba.jp/chuo/
 121029,花見川区,https://www.city.chiba.jp/hanamigawa/
 121037,稲毛区,https://www.city.chiba.jp/inage/
@@ -718,8 +718,8 @@ code,name,site
 132098,町田市,http://www.city.machida.tokyo.jp/
 132101,小金井市,http://www.city.koganei.lg.jp/
 132110,小平市,http://www.city.kodaira.tokyo.jp/
-132128,日野市,http://www.city.hino.lg.jp/
 132128,日野市,"http://www.city.hino.lg.jp/index.cfm/196,129180,353,2132,html"
+132128,日野市,http://www.city.hino.lg.jp/
 132136,東村山市,https://www.city.higashimurayama.tokyo.jp/
 132144,国分寺市,http://www.city.kokubunji.tokyo.jp/
 132152,国立市,http://www.city.kunitachi.tokyo.jp/
@@ -889,8 +889,8 @@ code,name,site
 174076,中能登町,http://www.town.nakanoto.ishikawa.jp/
 174611,穴水町,http://www.town.anamizu.ishikawa.jp/
 174637,能登町,http://www.town.noto.lg.jp/
-180009,福井県,http://www.pref.fukui.jp/doc/toukei-jouhou/opendata/index.html
 180009,福井県,http://www.pref.fukui.lg.jp
+180009,福井県,http://www.pref.fukui.jp/doc/toukei-jouhou/opendata/index.html
 182010,福井市,http://www.city.fukui.lg.jp/
 182028,敦賀市,http://www.city.tsuruga.lg.jp/
 182044,小浜市,http://www1.city.obama.fukui.jp/
@@ -1015,8 +1015,8 @@ code,name,site
 205885,小川村,http://www.vill.ogawa.nagano.jp/
 205907,飯綱町,http://www.town.iizuna.nagano.jp/
 206024,栄村,http://www.vill.sakae.nagano.jp/
-210005,岐阜県,http://gifu-opendata.pref.gifu.lg.jp/
 210005,岐阜県,http://www.pref.gifu.lg.jp
+210005,岐阜県,http://gifu-opendata.pref.gifu.lg.jp/
 212016,岐阜市,http://www.city.gifu.lg.jp/
 212024,大垣市,http://www.city.ogaki.lg.jp/
 212032,高山市,http://www.city.takayama.lg.jp/
@@ -1343,8 +1343,8 @@ code,name,site
 273813,太子町,http://www.town.taishi.osaka.jp/
 273821,河南町,http://www.town.kanan.osaka.jp/
 273830,千早赤阪村,http://www.vill.chihayaakasaka.osaka.jp/
-280003,兵庫県,http://open-data.pref.hyogo.lg.jp/
 280003,兵庫県,http://web.pref.hyogo.lg.jp
+280003,兵庫県,http://open-data.pref.hyogo.lg.jp/
 281000,神戸市,http://www.city.kobe.lg.jp/
 281018,東灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/
 281026,灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/nada/
@@ -1506,8 +1506,8 @@ code,name,site
 325261,西ノ島町,http://www.town.nishinoshima.shimane.jp/
 325279,知夫村,http://www.vill.chibu.lg.jp/
 325287,隠岐の島町,http://www.town.okinoshima.shimane.jp/
-330001,岡山県,http://www.pref.okayama.jp/page/509436.html
 330001,岡山県,http://www.pref.okayama.lg.jp
+330001,岡山県,http://www.pref.okayama.jp/page/509436.html
 331007,岡山市,http://www.city.okayama.jp/
 331015,北区,http://www.city.okayama.jp/kitaku/
 331023,中区,http://www.city.okayama.jp/nakaku/soumu/
@@ -1881,8 +1881,8 @@ code,name,site
 443417,日出町,http://www.town.hiji.oita.jp/
 444618,九重町,http://www.town.kokonoe.oita.jp/
 444626,玖珠町,http://www.town.kusu.oita.jp/
-450006,宮崎県,http://opendata.pref.miyazaki.lg.jp/
 450006,宮崎県,http://www.pref.miyazaki.lg.jp
+450006,宮崎県,http://opendata.pref.miyazaki.lg.jp/
 452017,宮崎市,http://www.city.miyazaki.miyazaki.jp/
 452025,都城市,http://www.city.miyakonojo.miyazaki.jp/
 452033,延岡市,http://www.city.nobeoka.miyazaki.jp/
@@ -1953,8 +1953,8 @@ code,name,site
 465330,和泊町,http://www.town.wadomari.lg.jp/
 465348,知名町,http://www.town.china.lg.jp/
 465356,与論町,http://www.yoron.jp/
-470007,沖縄県,http://www.pref.okinawa.jp/site/kikaku/joho/kikaku/opendata/opendata.html
 470007,沖縄県,http://www.pref.okinawa.lg.jp
+470007,沖縄県,http://www.pref.okinawa.jp/site/kikaku/joho/kikaku/opendata/opendata.html
 472018,那覇市,http://www.city.naha.okinawa.jp/
 472051,宜野湾市,http://www.city.ginowan.okinawa.jp/
 472077,石垣市,http://www.city.ishigaki.okinawa.jp/

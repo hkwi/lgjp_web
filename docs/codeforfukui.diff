@@ -339,8 +339,8 @@
 -若葉区,http://www.city.chiba.jp/wakaba/index.html
 -緑区,http://www.city.chiba.jp/midori/index.html
 -美浜区,http://www.city.chiba.jp/mihama/index.html
-+千葉市,http://www.city.chiba.jp/opendata/index.php
 +千葉市,https://www.city.chiba.jp/
++千葉市,http://www.city.chiba.jp/opendata/index.php
 +中央区,https://www.city.chiba.jp/chuo/
 +花見川区,https://www.city.chiba.jp/hanamigawa/
 +稲毛区,https://www.city.chiba.jp/inage/
@@ -401,9 +401,9 @@
  町田市,http://www.city.machida.tokyo.jp/
  小金井市,http://www.city.koganei.lg.jp/
  小平市,http://www.city.kodaira.tokyo.jp/
++日野市,http://www.city.hino.lg.jp/index.cfm/196,129180,353,2132,html
  日野市,http://www.city.hino.lg.jp/
 -東村山市,http://www.city.higashimurayama.tokyo.jp/
-+日野市,http://www.city.hino.lg.jp/index.cfm/196,129180,353,2132,html
 +東村山市,https://www.city.higashimurayama.tokyo.jp/
  国分寺市,http://www.city.kokubunji.tokyo.jp/
  国立市,http://www.city.kunitachi.tokyo.jp/
