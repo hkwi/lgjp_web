@@ -700,8 +700,8 @@
 -120006,https://www.pref.chiba.lg.jp/
 -120006,http://maruchiba.jp/index.html/
 -121002,http://www.city.chiba.jp/
-+121002,https://www.city.chiba.jp/
 +121002,http://www.city.chiba.jp/opendata/index.php
++121002,https://www.city.chiba.jp/
 +121011,https://www.city.chiba.jp/chuo/
 +121029,https://www.city.chiba.jp/hanamigawa/
 +121037,https://www.city.chiba.jp/inage/
@@ -824,9 +824,9 @@
  132098,http://www.city.machida.tokyo.jp/
  132101,http://www.city.koganei.lg.jp/
  132110,http://www.city.kodaira.tokyo.jp/
-+132128,http://www.city.hino.lg.jp/index.cfm/196,129180,353,2132,html
  132128,http://www.city.hino.lg.jp/
 -132136,http://www.city.higashimurayama.tokyo.jp/
++132128,http://www.city.hino.lg.jp/index.cfm/196,129180,353,2132,html
 +132136,https://www.city.higashimurayama.tokyo.jp/
  132144,http://www.city.kokubunji.tokyo.jp/
  132152,http://www.city.kunitachi.tokyo.jp/
