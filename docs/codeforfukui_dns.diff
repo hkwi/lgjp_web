@@ -239,7 +239,7 @@
  えびの市,www.city.ebino.lg.jp
  三股町,www.town.mimata.lg.jp
  高原町,www.town.takaharu.lg.jp
-@@ -1819,10 +1824,10 @@
+@@ -1819,20 +1824,20 @@
  綾町,www.town.aya.miyazaki.jp
  高鍋町,www.town.takanabe.miyazaki.jp
  新富町,www.town.shintomi.miyazaki.jp
@@ -252,7 +252,10 @@
  門川町,www.town.kadogawa.lg.jp
  諸塚村,www.vill.morotsuka.miyazaki.jp
  椎葉村,www.vill.shiiba.miyazaki.jp
-@@ -1832,7 +1837,7 @@
+ 美郷町,www.town.miyazaki-misato.lg.jp
+ 高千穂町,www.town-takachiho.jp
+-日之影町,www.hinokage.jp
++日之影町,www.town.hinokage.lg.jp
  五ヶ瀬町,www.town.gokase.miyazaki.jp
  鹿児島市,www.city.kagoshima.lg.jp
  鹿屋市,www.e-kanoya.net
