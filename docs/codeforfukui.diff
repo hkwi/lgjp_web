@@ -929,7 +929,7 @@
  御杖村,http://www.vill.mitsue.nara.jp/
  高取町,http://www.town.takatori.nara.jp/
  明日香村,http://www.asukamura.jp/
-@@ -1368,11 +1372,11 @@
+@@ -1368,14 +1372,14 @@
  河合町,http://www.town.kawai.nara.jp/
  吉野町,http://www.town.yoshino.nara.jp/
  大淀町,http://www.town.oyodo.lg.jp/
@@ -942,7 +942,11 @@
 +十津川村,http://www.vill.totsukawa.lg.jp/
  下北山村,http://www.vill.shimokitayama.nara.jp/
  上北山村,http://vill.kamikitayama.nara.jp/
- 川上村,http://www.vill.kawakami.nara.jp/
+-川上村,http://www.vill.kawakami.nara.jp/
++川上村 (奈良県),http://www.vill.kawakami.nara.jp/
+ 東吉野村,http://www.vill.higashiyoshino.nara.jp/
+ 和歌山市,http://www.city.wakayama.wakayama.jp/
+ 海南市,http://www.city.kainan.wakayama.jp/
 @@ -1383,7 +1387,7 @@
  有田市,http://www.city.arida.lg.jp/
  御坊市,http://www.city.gobo.wakayama.jp/

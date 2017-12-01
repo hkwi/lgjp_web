@@ -168,7 +168,7 @@
  小川村,www.vill.ogawa.nagano.jp
  飯綱町,www.town.iizuna.nagano.jp
  栄村,www.vill.sakae.nagano.jp
-@@ -1368,7 +1372,7 @@
+@@ -1368,14 +1372,14 @@
  河合町,www.town.kawai.nara.jp
  吉野町,www.town.yoshino.nara.jp
  大淀町,www.town.oyodo.lg.jp
@@ -177,6 +177,14 @@
  黒滝村,www.vill.kurotaki.nara.jp
  天川村,www.vill.tenkawa.nara.jp
  野迫川村,www.vill.nosegawa.nara.jp
+ 十津川村,www.vill.totsukawa.lg.jp
+ 下北山村,www.vill.shimokitayama.nara.jp
+ 上北山村,vill.kamikitayama.nara.jp
+-川上村,www.vill.kawakami.nara.jp
++川上村 (奈良県),www.vill.kawakami.nara.jp
+ 東吉野村,www.vill.higashiyoshino.nara.jp
+ 和歌山市,www.city.wakayama.wakayama.jp
+ 海南市,www.city.kainan.wakayama.jp
 @@ -1443,7 +1447,7 @@
  吉賀町,www.town.yoshika.lg.jp
  海士町,www.town.ama.shimane.jp
