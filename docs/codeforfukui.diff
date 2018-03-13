@@ -277,6 +277,15 @@
  神栖市,http://www.city.kamisu.ibaraki.jp/
  行方市,http://www.city.namegata.ibaraki.jp/
  鉾田市,http://www.city.hokota.lg.jp/
+@@ -470,7 +471,7 @@
+ 鹿沼市,http://www.city.kanuma.tochigi.jp/
+ 日光市,http://www.city.nikko.lg.jp/
+ 小山市,http://www.city.oyama.tochigi.jp/
+-真岡市,http://www.city.moka.tochigi.jp/
++真岡市,https://www.city.moka.lg.jp/
+ 大田原市,http://www.city.ohtawara.tochigi.jp/
+ 矢板市,http://www.city.yaita.tochigi.jp/
+ 那須塩原市,http://www.city.nasushiobara.lg.jp/
 @@ -480,26 +481,26 @@
  上三川町,http://www.town.kaminokawa.tochigi.jp/
  益子町,http://www.town.mashiko.tochigi.jp/
@@ -1016,7 +1025,7 @@
  上牧町,http://www.town.kanmaki.nara.jp/
  王寺町,http://www.town.oji.nara.jp/
  広陵町,http://www.town.koryo.nara.jp/
-@@ -1369,13 +1373,13 @@
+@@ -1369,10 +1373,10 @@
  吉野町,http://www.town.yoshino.nara.jp/
  大淀町,http://www.town.oyodo.lg.jp/
  下市町,http://www.town.shimoichi.lg.jp/
@@ -1028,11 +1037,7 @@
 +十津川村,http://www.vill.totsukawa.lg.jp/
  下北山村,http://www.vill.shimokitayama.nara.jp/
  上北山村,http://vill.kamikitayama.nara.jp/
--川上村,http://www.vill.kawakami.nara.jp/
-+川上村 (奈良県),http://www.vill.kawakami.nara.jp/
- 東吉野村,http://www.vill.higashiyoshino.nara.jp/
- 和歌山市,http://www.city.wakayama.wakayama.jp/
- 海南市,http://www.city.kainan.wakayama.jp/
+ 川上村,http://www.vill.kawakami.nara.jp/
 @@ -1383,7 +1387,7 @@
  有田市,http://www.city.arida.lg.jp/
  御坊市,http://www.city.gobo.wakayama.jp/

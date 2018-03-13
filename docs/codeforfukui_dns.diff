@@ -53,6 +53,15 @@
  本宮市,www.city.motomiya.lg.jp
  桑折町,www.town.koori.fukushima.jp
  国見町,www.town.kunimi.fukushima.jp
+@@ -470,7 +471,7 @@
+ 鹿沼市,www.city.kanuma.tochigi.jp
+ 日光市,www.city.nikko.lg.jp
+ 小山市,www.city.oyama.tochigi.jp
+-真岡市,www.city.moka.tochigi.jp
++真岡市,www.city.moka.lg.jp
+ 大田原市,www.city.ohtawara.tochigi.jp
+ 矢板市,www.city.yaita.tochigi.jp
+ 那須塩原市,www.city.nasushiobara.lg.jp
 @@ -490,7 +491,7 @@
  那珂川町,www.town.tochigi-nakagawa.lg.jp
  前橋市,www.city.maebashi.gunma.jp
@@ -173,15 +182,6 @@
  上牧町,www.town.kanmaki.nara.jp
  王寺町,www.town.oji.nara.jp
  広陵町,www.town.koryo.nara.jp
-@@ -1375,7 +1379,7 @@
- 十津川村,www.vill.totsukawa.lg.jp
- 下北山村,www.vill.shimokitayama.nara.jp
- 上北山村,vill.kamikitayama.nara.jp
--川上村,www.vill.kawakami.nara.jp
-+川上村 (奈良県),www.vill.kawakami.nara.jp
- 東吉野村,www.vill.higashiyoshino.nara.jp
- 和歌山市,www.city.wakayama.wakayama.jp
- 海南市,www.city.kainan.wakayama.jp
 @@ -1501,7 +1505,7 @@
  府中町,www.town.fuchu.hiroshima.jp
  海田町,www.town.kaita.lg.jp
