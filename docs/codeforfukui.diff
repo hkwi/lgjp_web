@@ -250,7 +250,7 @@
  古河市,http://www.city.ibaraki-koga.lg.jp/
  石岡市,http://www.city.ishioka.lg.jp/
  結城市,http://www.city.yuki.lg.jp/
-@@ -429,9 +430,9 @@
+@@ -429,23 +430,23 @@
  下妻市,http://www.city.shimotsuma.lg.jp/
  常総市,http://www.city.joso.lg.jp/
  常陸太田市,http://www.city.hitachiota.ibaraki.jp/
@@ -261,8 +261,11 @@
 +笠間市,http://www.city.kasama.lg.jp/
  取手市,http://www.city.toride.ibaraki.jp/
  牛久市,http://www.city.ushiku.lg.jp/
- つくば市,http://www.city.tsukuba.ibaraki.jp/
-@@ -441,11 +442,11 @@
+-つくば市,http://www.city.tsukuba.ibaraki.jp/
++つくば市,http://www.city.tsukuba.lg.jp/
+ ひたちなか市,http://www.city.hitachinaka.lg.jp/
+ 鹿嶋市,http://www.city.kashima.ibaraki.jp/
+ 潮来市,http://www.city.itako.lg.jp/
  守谷市,http://www.city.moriya.ibaraki.jp/
  常陸大宮市,http://www.city.hitachiomiya.lg.jp/
  那珂市,http://www.city.naka.lg.jp/
