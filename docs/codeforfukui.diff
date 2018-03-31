@@ -841,7 +841,7 @@
  度会町,http://www.town.watarai.lg.jp/
  大紀町,http://www.town.taiki.mie.jp/
  南伊勢町,http://www.town.minamiise.mie.jp/
-@@ -1160,15 +1165,15 @@
+@@ -1160,7 +1165,7 @@
  紀宝町,http://www.town.kiho.lg.jp/
  大津市,http://www.city.otsu.lg.jp/
  彦根市,http://www.city.hikone.shiga.jp/
@@ -850,8 +850,7 @@
  近江八幡市,http://www.city.omihachiman.shiga.jp/
  草津市,http://www.city.kusatsu.shiga.jp/
  守山市,http://www.city.moriyama.lg.jp/
--栗東市,http://www.city.ritto.lg.jp/
-+栗東市,http://www.city.ritto.shiga.jp/
+@@ -1168,7 +1173,7 @@
  甲賀市,http://www.city.koka.lg.jp/
  野洲市,http://www.city.yasu.lg.jp/
  湖南市,http://www.city.konan.shiga.jp/

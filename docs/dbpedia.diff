@@ -1363,10 +1363,11 @@
 +252042,http://www.city.omihachiman.shiga.jp/
  252069,http://www.city.kusatsu.shiga.jp/
 -252077,http://www.city.moriyama.shiga.jp/index.htm
-+252077,http://www.city.moriyama.lg.jp/
- 252085,http://www.city.ritto.shiga.jp/
+-252085,http://www.city.ritto.shiga.jp/
 -252093,http://www.city.koka.shiga.jp/
 -252093,http://www.ja-koukagun.jp/
++252077,http://www.city.moriyama.lg.jp/
++252085,http://www.city.ritto.lg.jp/
 +252093,http://www.city.koka.lg.jp/
  252107,http://www.city.yasu.lg.jp/
  252115,http://www.city.konan.shiga.jp/
