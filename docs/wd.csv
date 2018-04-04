@@ -1,6 +1,5 @@
 code,name,site
 010006,北海道,http://www.pref.hokkaido.lg.jp/
-010006,北海道,http://www.pref.hokkaido.lg.jp/ss/jsk/opendata/opendata.htm
 011002,札幌市,http://www.city.sapporo.jp/
 011011,中央区,http://www.city.sapporo.jp/chuo/
 011029,北区,http://www.city.sapporo.jp/kitaku/
@@ -70,7 +69,7 @@ code,name,site
 013935,黒松内町,http://www.kuromatsunai.com/
 013943,蘭越町,http://www.town.rankoshi.hokkaido.jp/
 013951,ニセコ町,http://www.town.niseko.lg.jp/
-013960,真狩村,http://www.makkari.info/
+013960,真狩村,http://www.vill.makkari.lg.jp/
 013978,留寿都村,http://www.vill.rusutsu.lg.jp/
 013986,喜茂別町,http://www.town.kimobetsu.hokkaido.jp/
 013994,京極町,http://www.town-kyogoku.jp/
@@ -1043,7 +1042,7 @@ code,name,site
 215074,東白川村,https://www.vill.higashishirakawa.gifu.jp/
 215210,御嵩町,http://www.town.mitake.gifu.jp/
 216046,白川村,http://shirakawa-go.org/
-220001,静岡県,http://www.pref.shizuoka.jp
+220001,静岡県,https://www.pref.shizuoka.jp
 221007,静岡市,http://www.city.shizuoka.jp/
 221015,葵区,http://www.city.shizuoka.jp/deps/aoi/aoi-ku.html
 221023,駿河区,http://www.city.shizuoka.jp/suruga.html
@@ -1157,7 +1156,7 @@ code,name,site
 234460,美浜町,http://www.town.aichi-mihama.lg.jp/
 234478,武豊町,http://www.town.taketoyo.lg.jp/
 235016,幸田町,http://www.town.kota.lg.jp/
-235610,設楽町,http://www.town.shitara.aichi.jp/
+235610,設楽町,http://www.town.shitara.lg.jp/
 235628,東栄町,http://www.town.toei.aichi.jp/
 235636,豊根村,http://www.vill.toyone.aichi.jp/
 240001,三重県,http://www.pref.mie.lg.jp/

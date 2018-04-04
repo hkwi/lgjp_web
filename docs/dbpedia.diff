@@ -62,7 +62,7 @@
  013439,http://www.town.shikabe.lg.jp/
  013455,http://www.town.hokkaido-mori.lg.jp/
  013463,http://www.town.yakumo.lg.jp/
-@@ -50,10 +60,10 @@
+@@ -50,14 +60,14 @@
  013633,http://www.town.assabu.lg.jp/
  013641,http://www.town.otobe.lg.jp/
  013676,http://www.town.okushiri.lg.jp/
@@ -76,6 +76,11 @@
  013935,http://www.kuromatsunai.com/
  013943,http://www.town.rankoshi.hokkaido.jp/
  013951,http://www.town.niseko.lg.jp/
+-013960,http://www.makkari.info/
++013960,http://www.vill.makkari.lg.jp/
+ 013978,http://www.vill.rusutsu.lg.jp/
+ 013986,http://www.town.kimobetsu.hokkaido.jp/
+ 013994,http://www.town-kyogoku.jp/
 @@ -73,33 +83,29 @@
  014095,http://www.akaigawa.com/
  014231,http://www.town.nanporo.hokkaido.jp/
@@ -1313,8 +1318,9 @@
  234460,http://www.town.aichi-mihama.lg.jp/
  234478,http://www.town.taketoyo.lg.jp/
 -235016,http://www.town.kota.aichi.jp/
+-235610,http://www.town.shitara.aichi.jp/
 +235016,http://www.town.kota.lg.jp/
- 235610,http://www.town.shitara.aichi.jp/
++235610,http://www.town.shitara.lg.jp/
  235628,http://www.town.toei.aichi.jp/
  235636,http://www.vill.toyone.aichi.jp/
 -240001,http://www.pref.mie.jp/
