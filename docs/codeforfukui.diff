@@ -506,7 +506,7 @@
  平塚市,http://www.city.hiratsuka.kanagawa.jp/
  鎌倉市,http://www.city.kamakura.kanagawa.jp/
  藤沢市,http://www.city.fujisawa.kanagawa.jp/
-@@ -757,40 +762,40 @@
+@@ -757,41 +762,41 @@
  茅ヶ崎市,http://www.city.chigasaki.kanagawa.jp/
  逗子市,http://www.city.zushi.kanagawa.jp/
  三浦市,http://www.city.miura.kanagawa.jp/
@@ -557,10 +557,12 @@
  長岡市,http://www.city.nagaoka.niigata.jp/
  三条市,http://www.city.sanjo.niigata.jp/
 -柏崎市,http://www.city.kashiwazaki.lg.jp/
+-新発田市,http://www.city.shibata.niigata.jp/
 +柏崎市,https://www.city.kashiwazaki.lg.jp/
- 新発田市,http://www.city.shibata.niigata.jp/
++新発田市,http://www.city.shibata.lg.jp/
  小千谷市,http://www.city.ojiya.niigata.jp/
  加茂市,http://www.city.kamo.niigata.jp/
+ 十日町市,http://www.city.tokamachi.lg.jp/
 @@ -803,7 +808,7 @@
  五泉市,http://www.city.gosen.lg.jp/
  上越市,http://www.city.joetsu.niigata.jp/
