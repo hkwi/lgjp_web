@@ -1322,7 +1322,7 @@
  大川市,http://www.city.okawa.fukuoka.jp/
  行橋市,http://www.city.yukuhashi.lg.jp/
  豊前市,http://www.city.buzen.lg.jp/
-@@ -1660,7 +1665,7 @@
+@@ -1660,33 +1665,33 @@
  うきは市,http://www.city.ukiha.fukuoka.jp/
  宮若市,http://www.city.miyawaka.lg.jp/
  嘉麻市,http://www.city.kama.lg.jp/
@@ -1330,8 +1330,10 @@
 +朝倉市,http://www.city.asakura.lg.jp/
  みやま市,http://www.city.miyama.lg.jp/
  糸島市,http://www.city.itoshima.lg.jp/
- 那珂川町,http://www.town.fukuoka-nakagawa.lg.jp/
-@@ -1669,24 +1674,24 @@
+-那珂川町,http://www.town.fukuoka-nakagawa.lg.jp/
++那珂川市,http://www.town.fukuoka-nakagawa.lg.jp/
+ 宇美町,http://www.town.umi.lg.jp/
+ 篠栗町,http://www.town.sasaguri.fukuoka.jp/
  志免町,http://www.town.shime.lg.jp/
  須恵町,http://www.town.sue.fukuoka.jp/
  新宮町,http://www.town.shingu.fukuoka.jp/
