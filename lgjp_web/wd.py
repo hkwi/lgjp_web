@@ -13,6 +13,7 @@ SELECT ?code ?name ?site WHERE {
   }
  FILTER ( lang(?name)="ja" )
  FILTER NOT EXISTS { ?s wdt:P31 wd:Q18663566 } # 分類 日本の廃止市町村
+ FILTER NOT EXISTS { ?s wdt:P31 wd:Q850450 } # 分類 支庁
 } ORDER BY ?code ?site
 ''')
 open("docs/wd.csv","w").write(info.serialize(format="csv").decode("UTF-8"))
