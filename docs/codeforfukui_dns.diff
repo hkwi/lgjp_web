@@ -123,14 +123,23 @@
  東村山市,www.city.higashimurayama.tokyo.jp
  国分寺市,www.city.kokubunji.tokyo.jp
  国立市,www.city.kunitachi.tokyo.jp
-@@ -750,6 +753,7 @@
+@@ -713,7 +716,7 @@
+ 利島村,www.toshimamura.org
+ 新島村,www.niijima.com
+ 神津島村,vill.kouzushima.tokyo.jp
+-三宅村,www.miyakemura.com
++三宅村,www.vill.miyake.tokyo.jp
+ 御蔵島村,www.mikurasima.jp
+ 八丈町,www.town.hachijo.tokyo.jp
+ 青ヶ島村,www.vill.aogashima.tokyo.jp
+@@ -749,6 +752,7 @@
+ 緑区,www.city.sagamihara.kanagawa.jp
  中央区,www.city.sagamihara.kanagawa.jp
  南区,www.city.sagamihara.kanagawa.jp
- 横須賀市,www.city.yokosuka.kanagawa.jp
 +横須賀市,www.city.yokosuka.kanagawa.jp
+ 横須賀市,www.city.yokosuka.kanagawa.jp
  平塚市,www.city.hiratsuka.kanagawa.jp
  鎌倉市,www.city.kamakura.kanagawa.jp
- 藤沢市,www.city.fujisawa.kanagawa.jp
 @@ -791,7 +795,7 @@
  長岡市,www.city.nagaoka.niigata.jp
  三条市,www.city.sanjo.niigata.jp
