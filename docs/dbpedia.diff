@@ -2041,8 +2041,9 @@
  406473,http://www.town.chikujo.fukuoka.jp/
 -410004,http://www.pref.saga.lg.jp/
 -412015,http://www.city.saga.lg.jp/
+-412023,http://www.city.karatsu.lg.jp/
 +412015,https://www.city.saga.lg.jp/
- 412023,http://www.city.karatsu.lg.jp/
++412023,https://www.city.karatsu.lg.jp/
  412031,http://www.city.tosu.lg.jp/
 -412040,http://www.city.taku.lg.jp/
 +412040,https://www.city.taku.lg.jp/
