@@ -730,8 +730,9 @@
  122076,http://www.city.matsudo.chiba.jp/
  122084,http://www.city.noda.chiba.jp/
  122106,http://www.city.mobara.chiba.jp/
- 122114,http://www.city.narita.chiba.jp/
+-122114,http://www.city.narita.chiba.jp/
 -122122,http://www.city.sakura.chiba.jp/
++122114,https://www.city.narita.chiba.jp/
 +122122,http://www.city.sakura.lg.jp/
  122131,http://www.city.togane.chiba.jp/
  122157,http://www.city.asahi.lg.jp/
