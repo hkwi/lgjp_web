@@ -149,7 +149,7 @@
  小千谷市,www.city.ojiya.niigata.jp
  加茂市,www.city.kamo.niigata.jp
  十日町市,www.city.tokamachi.lg.jp
-@@ -924,12 +928,12 @@
+@@ -924,10 +928,10 @@
  御代田町,www.town.miyota.nagano.jp
  立科町,www.town.tateshina.nagano.jp
  青木村,www.vill.aoki.nagano.jp
@@ -160,11 +160,8 @@
 -原村,www.vill.hara.lg.jp
 +原村,www.vill.hara.nagano.jp
  辰野町,www.town.tatsuno.nagano.jp
--箕輪町,www.town.minowa.lg.jp
-+箕輪町,www.town.minowa.nagano.jp
+ 箕輪町,www.town.minowa.lg.jp
  飯島町,www.town.iijima.lg.jp
- 南箕輪村,www.vill.minamiminowa.nagano.jp
- 中川村,www.vill.nakagawa.nagano.jp
 @@ -966,7 +970,7 @@
  小布施町,www.town.obuse.nagano.jp
  高山村,www.vill.takayama.nagano.jp
