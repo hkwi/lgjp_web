@@ -111,7 +111,7 @@
  白老町,http://www.town.shiraoi.hokkaido.jp/
  厚真町,http://www.town.atsuma.lg.jp/
  洞爺湖町,http://www.town.toyako.hokkaido.jp/
-@@ -185,7 +186,7 @@
+@@ -185,11 +186,11 @@
  白糠町,http://www.town.shiranuka.lg.jp/
  別海町,http://betsukai.jp/
  中標津町,http://www.nakashibetsu.jp/
@@ -120,6 +120,11 @@
  羅臼町,http://www.rausu-town.jp/
  青森市,http://www.city.aomori.aomori.jp/
  弘前市,http://www.city.hirosaki.aomori.jp/
+-八戸市,http://www.city.hachinohe.aomori.jp/
++八戸市,https://www.city.hachinohe.aomori.jp/
+ 黒石市,http://www.city.kuroishi.aomori.jp/
+ 五所川原市,http://www.city.goshogawara.lg.jp/
+ 十和田市,http://www.city.towada.lg.jp/
 @@ -209,7 +210,7 @@
  田舎館村,http://www.vill.inakadate.lg.jp/
  板柳町,http://www.town.itayanagi.aomori.jp/
