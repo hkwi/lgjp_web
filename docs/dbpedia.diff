@@ -29,16 +29,18 @@
  012122,http://www.e-rumoi.jp/
  012131,http://www.city.tomakomai.hokkaido.jp/
  012149,http://www.city.wakkanai.hokkaido.jp/
-@@ -19,7 +29,7 @@
+@@ -19,28 +29,28 @@
  012181,http://www.city.akabira.hokkaido.jp/
  012190,http://mombetsu.jp/
  012203,http://www.city.shibetsu.lg.jp/
 -012211,http://www.city.nayoro.lg.jp
 +012211,http://www.city.nayoro.lg.jp/
  012220,http://www.city.mikasa.hokkaido.jp/
- 012238,http://www.city.nemuro.hokkaido.jp/
+-012238,http://www.city.nemuro.hokkaido.jp/
++012238,https://www.city.nemuro.hokkaido.jp/
  012246,http://www.city.chitose.hokkaido.jp/
-@@ -28,19 +38,19 @@
+ 012254,http://www.city.takikawa.hokkaido.jp/
+ 012262,http://www.city.sunagawa.hokkaido.jp/
  012271,http://www.city.utashinai.hokkaido.jp/
  012289,http://www.city.fukagawa.lg.jp/
  012297,http://www.city.furano.hokkaido.jp/
@@ -845,7 +847,16 @@
  132144,http://www.city.kokubunji.tokyo.jp/
  132152,http://www.city.kunitachi.tokyo.jp/
  132187,http://www.city.fussa.tokyo.jp/
-@@ -712,16 +716,44 @@
+@@ -703,7 +707,7 @@
+ 132250,http://www.city.inagi.tokyo.jp/
+ 132276,http://www.city.hamura.tokyo.jp/
+ 132284,http://www.city.akiruno.tokyo.jp/
+-132292,http://www.city.nishitokyo.lg.jp/
++132292,https://www.city.nishitokyo.lg.jp/
+ 133035,http://www.town.mizuho.tokyo.jp/
+ 133051,http://www.town.hinode.tokyo.jp/
+ 133078,http://www.vill.hinohara.tokyo.jp/
+@@ -712,19 +716,47 @@
  133621,http://www.toshimamura.org/
  133639,http://www.niijima.com/
  133647,http://vill.kouzushima.tokyo.jp/
@@ -886,14 +897,19 @@
 +141364,http://www.city.kawasaki.jp/miyamae/
 +141372,http://www.city.kawasaki.jp/asao/
  141500,http://www.city.sagamihara.kanagawa.jp/
+-142018,http://www.city.yokosuka.kanagawa.jp/
 +141518,http://www.city.sagamihara.kanagawa.jp/midoriku/
 +141526,http://www.city.sagamihara.kanagawa.jp/chuoku/
 +141534,http://www.city.sagamihara.kanagawa.jp/minamiku/
- 142018,http://www.city.yokosuka.kanagawa.jp/
 +142018,http://www.city.yokosuka.kanagawa.jp/0140/english/
++142018,https://www.city.yokosuka.kanagawa.jp/
  142034,http://www.city.hiratsuka.kanagawa.jp/
  142042,http://www.city.kamakura.kanagawa.jp/
- 142051,http://www.city.fujisawa.kanagawa.jp/
+-142051,http://www.city.fujisawa.kanagawa.jp/
++142051,https://www.city.fujisawa.kanagawa.jp/
+ 142069,http://www.city.odawara.kanagawa.jp/
+ 142077,http://www.city.chigasaki.kanagawa.jp/
+ 142085,http://www.city.zushi.kanagawa.jp/
 @@ -735,9 +767,9 @@
  142140,http://www.city.isehara.kanagawa.jp/
  142158,http://www.city.ebina.kanagawa.jp/

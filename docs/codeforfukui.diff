@@ -22,7 +22,7 @@
  三笠市,http://www.city.mikasa.hokkaido.jp/
 -根室市,http://www.city.nemuro.hokkaido.jp/dcitynd.nsf
 -千歳市,http://www.city.chitose.hokkaido.jp/index_chitose.html
-+根室市,http://www.city.nemuro.hokkaido.jp/
++根室市,https://www.city.nemuro.hokkaido.jp/
 +千歳市,http://www.city.chitose.hokkaido.jp/
  滝川市,http://www.city.takikawa.hokkaido.jp/
  砂川市,http://www.city.sunagawa.hokkaido.jp/
@@ -483,6 +483,15 @@
  国分寺市,http://www.city.kokubunji.tokyo.jp/
  国立市,http://www.city.kunitachi.tokyo.jp/
  福生市,http://www.city.fussa.tokyo.jp/
+@@ -704,7 +707,7 @@
+ 稲城市,http://www.city.inagi.tokyo.jp/
+ 羽村市,http://www.city.hamura.tokyo.jp/
+ あきる野市,http://www.city.akiruno.tokyo.jp/
+-西東京市,http://www.city.nishitokyo.lg.jp/
++西東京市,https://www.city.nishitokyo.lg.jp/
+ 瑞穂町,http://www.town.mizuho.tokyo.jp/
+ 日の出町,http://www.town.hinode.tokyo.jp/
+ 檜原村,http://www.vill.hinohara.tokyo.jp/
 @@ -713,11 +716,11 @@
  利島村,http://www.toshimamura.org/
  新島村,http://www.niijima.com/
@@ -497,7 +506,7 @@
  横浜市,http://www.city.yokohama.lg.jp/
  鶴見区,http://www.city.yokohama.lg.jp/tsurumi/
  神奈川区,http://www.city.yokohama.lg.jp/kanagawa/
-@@ -746,10 +749,11 @@
+@@ -746,52 +749,53 @@
  宮前区,http://www.city.kawasaki.jp/miyamae/
  麻生区,http://www.city.kawasaki.jp/asao/
  相模原市,http://www.city.sagamihara.kanagawa.jp/
@@ -508,12 +517,13 @@
 +緑区,http://www.city.sagamihara.kanagawa.jp/midoriku/
 +中央区,http://www.city.sagamihara.kanagawa.jp/chuoku/
 +南区,http://www.city.sagamihara.kanagawa.jp/minamiku/
-+横須賀市,http://www.city.yokosuka.kanagawa.jp/
 +横須賀市,http://www.city.yokosuka.kanagawa.jp/0140/english/
++横須賀市,https://www.city.yokosuka.kanagawa.jp/
  平塚市,http://www.city.hiratsuka.kanagawa.jp/
  鎌倉市,http://www.city.kamakura.kanagawa.jp/
- 藤沢市,http://www.city.fujisawa.kanagawa.jp/
-@@ -757,41 +761,41 @@
+-藤沢市,http://www.city.fujisawa.kanagawa.jp/
++藤沢市,https://www.city.fujisawa.kanagawa.jp/
+ 小田原市,http://www.city.odawara.kanagawa.jp/
  茅ヶ崎市,http://www.city.chigasaki.kanagawa.jp/
  逗子市,http://www.city.zushi.kanagawa.jp/
  三浦市,http://www.city.miura.kanagawa.jp/

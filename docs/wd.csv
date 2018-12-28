@@ -33,7 +33,7 @@ code,name,site
 012203,士別市,http://www.city.shibetsu.lg.jp/
 012211,名寄市,http://www.city.nayoro.lg.jp/
 012220,三笠市,http://www.city.mikasa.hokkaido.jp/
-012238,根室市,http://www.city.nemuro.hokkaido.jp/
+012238,根室市,https://www.city.nemuro.hokkaido.jp/
 012246,千歳市,http://www.city.chitose.hokkaido.jp/
 012254,滝川市,http://www.city.takikawa.hokkaido.jp/
 012262,砂川市,http://www.city.sunagawa.hokkaido.jp/
@@ -721,7 +721,7 @@ code,name,site
 132250,稲城市,http://www.city.inagi.tokyo.jp/
 132276,羽村市,http://www.city.hamura.tokyo.jp/
 132284,あきる野市,http://www.city.akiruno.tokyo.jp/
-132292,西東京市,http://www.city.nishitokyo.lg.jp/
+132292,西東京市,https://www.city.nishitokyo.lg.jp/
 133035,瑞穂町,http://www.town.mizuho.tokyo.jp/
 133051,日の出町,http://www.town.hinode.tokyo.jp/
 133078,檜原村,http://www.vill.hinohara.tokyo.jp/
@@ -767,11 +767,11 @@ code,name,site
 141518,緑区,http://www.city.sagamihara.kanagawa.jp/midoriku/
 141526,中央区,http://www.city.sagamihara.kanagawa.jp/chuoku/
 141534,南区,http://www.city.sagamihara.kanagawa.jp/minamiku/
-142018,横須賀市,http://www.city.yokosuka.kanagawa.jp/
 142018,横須賀市,http://www.city.yokosuka.kanagawa.jp/0140/english/
+142018,横須賀市,https://www.city.yokosuka.kanagawa.jp/
 142034,平塚市,http://www.city.hiratsuka.kanagawa.jp/
 142042,鎌倉市,http://www.city.kamakura.kanagawa.jp/
-142051,藤沢市,http://www.city.fujisawa.kanagawa.jp/
+142051,藤沢市,https://www.city.fujisawa.kanagawa.jp/
 142069,小田原市,http://www.city.odawara.kanagawa.jp/
 142077,茅ヶ崎市,http://www.city.chigasaki.kanagawa.jp/
 142085,逗子市,http://www.city.zushi.kanagawa.jp/
