@@ -370,7 +370,8 @@
 +緑区,http://www.city.saitama.jp/index_midoriku.html
 +岩槻区,http://www.city.saitama.jp/index_iwatsukiku.html
  川越市,http://www.city.kawagoe.saitama.jp/
- 熊谷市,http://www.city.kumagaya.lg.jp/
+-熊谷市,http://www.city.kumagaya.lg.jp/
++熊谷市,https://www.city.kumagaya.lg.jp/
  川口市,http://www.city.kawaguchi.lg.jp/
  行田市,http://www.city.gyoda.lg.jp/
  秩父市,http://www.city.chichibu.lg.jp/
@@ -425,8 +426,9 @@
  野田市,http://www.city.noda.chiba.jp/
  茂原市,http://www.city.mobara.chiba.jp/
 -成田市,http://www.city.narita.chiba.jp/
+-佐倉市,http://www.city.sakura.lg.jp/
 +成田市,https://www.city.narita.chiba.jp/
- 佐倉市,http://www.city.sakura.lg.jp/
++佐倉市,https://www.city.sakura.lg.jp/
  東金市,http://www.city.togane.chiba.jp/
  旭市,http://www.city.asahi.lg.jp/
 -習志野市,http://www.city.narashino.lg.jp/
@@ -548,8 +550,9 @@
  松田町,http://town.matsuda.kanagawa.jp/
  山北町,http://www.town.yamakita.kanagawa.jp/
 -開成町,http://www.town.kaisei.kanagawa.jp/forms/top/top.aspx
+-箱根町,http://www.town.hakone.kanagawa.jp/
 +開成町,http://www.town.kaisei.kanagawa.jp/
- 箱根町,http://www.town.hakone.kanagawa.jp/
++箱根町,https://www.town.hakone.kanagawa.jp/
  真鶴町,http://www.town-manazuru.jp/
  湯河原町,http://www.town.yugawara.kanagawa.jp/
  愛川町,http://www.town.aikawa.kanagawa.jp/

@@ -642,8 +642,9 @@
 +111091,http://www.city.saitama.jp/index_midoriku.html
 +111104,http://www.city.saitama.jp/index_iwatsukiku.html
  112011,http://www.city.kawagoe.saitama.jp/
- 112020,http://www.city.kumagaya.lg.jp/
+-112020,http://www.city.kumagaya.lg.jp/
 -112020,http://www.city.kumagaya.lg.jp/index.html
++112020,https://www.city.kumagaya.lg.jp/
  112038,http://www.city.kawaguchi.lg.jp/
  112062,http://www.city.gyoda.lg.jp/
  112071,http://www.city.chichibu.lg.jp/
@@ -735,7 +736,7 @@
 -122114,http://www.city.narita.chiba.jp/
 -122122,http://www.city.sakura.chiba.jp/
 +122114,https://www.city.narita.chiba.jp/
-+122122,http://www.city.sakura.lg.jp/
++122122,https://www.city.sakura.lg.jp/
  122131,http://www.city.togane.chiba.jp/
  122157,http://www.city.asahi.lg.jp/
 -122165,http://www.city.narashino.lg.jp/
@@ -927,8 +928,9 @@
  143634,http://town.matsuda.kanagawa.jp/
  143642,http://www.town.yamakita.kanagawa.jp/
 -143669,http://www.town.kaisei.kanagawa.jp/forms/top/top.aspx
+-143821,http://www.town.hakone.kanagawa.jp/
 +143669,http://www.town.kaisei.kanagawa.jp/
- 143821,http://www.town.hakone.kanagawa.jp/
++143821,https://www.town.hakone.kanagawa.jp/
  143839,http://www.town-manazuru.jp/
  143847,http://www.town.yugawara.kanagawa.jp/
 -144011,http://www.town.aikawa.kanagawa.jp/index.html
