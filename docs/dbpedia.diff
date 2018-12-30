@@ -630,6 +630,9 @@
  105252,http://www.town.ora.gunma.jp/
 -110001,http://www.pref.saitama.lg.jp/
 -111007,http://www.city.saitama.jp
+-112011,http://www.city.kawagoe.saitama.jp/
+-112020,http://www.city.kumagaya.lg.jp/
+-112020,http://www.city.kumagaya.lg.jp/index.html
 +111007,http://www.city.saitama.jp/
 +111015,http://www.city.saitama.jp/nishi/index.html
 +111023,http://www.city.saitama.jp/index_kitaku.html
@@ -641,9 +644,7 @@
 +111082,http://www.city.saitama.jp/minami/index.html
 +111091,http://www.city.saitama.jp/index_midoriku.html
 +111104,http://www.city.saitama.jp/index_iwatsukiku.html
- 112011,http://www.city.kawagoe.saitama.jp/
--112020,http://www.city.kumagaya.lg.jp/
--112020,http://www.city.kumagaya.lg.jp/index.html
++112011,https://www.city.kawagoe.saitama.jp/
 +112020,https://www.city.kumagaya.lg.jp/
  112038,http://www.city.kawaguchi.lg.jp/
  112062,http://www.city.gyoda.lg.jp/
@@ -653,8 +654,9 @@
  112119,http://www.city.honjo.lg.jp/
  112127,http://www.city.higashimatsuyama.lg.jp/
 -112143,http://www.city.kasukabe.lg.jp/index.html
+-112151,http://www.city.sayama.saitama.jp/
 +112143,http://www.city.kasukabe.lg.jp/
- 112151,http://www.city.sayama.saitama.jp/
++112151,https://www.city.sayama.saitama.jp/
  112160,http://www.city.hanyu.lg.jp/
  112178,http://www.city.kounosu.saitama.jp/
 -112186,http://fukkachan.com/index.html
