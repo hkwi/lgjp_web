@@ -574,9 +574,10 @@
 +川口市,http://www.city.kawaguchi.lg.jp/
  行田市,http://www.city.gyoda.lg.jp/
  秩父市,http://www.city.chichibu.lg.jp/
- 所沢市,http://www.city.tokorozawa.saitama.jp/
+-所沢市,http://www.city.tokorozawa.saitama.jp/
 -飯能市,https://www.city.hanno.lg.jp
 -加須市,https://www.city.kazo.lg.jp/
++所沢市,https://www.city.tokorozawa.saitama.jp/
 +飯能市,http://www.city.hanno.saitama.jp/
 +加須市,http://www.city.kazo.lg.jp/
  本庄市,http://www.city.honjo.lg.jp/
@@ -1399,8 +1400,9 @@
  摂津市,http://www.city.settsu.osaka.jp/
  高石市,http://www.city.takaishi.lg.jp/
 -藤井寺市,https://www.city.fujiidera.lg.jp/
+-東大阪市,http://www.city.higashiosaka.lg.jp/
 +藤井寺市,http://www.city.fujiidera.lg.jp/
- 東大阪市,http://www.city.higashiosaka.lg.jp/
++東大阪市,https://www.city.higashiosaka.lg.jp/
  泉南市,http://www.city.sennan.lg.jp/
  四條畷市,http://www.city.shijonawate.lg.jp/
 -交野市,https://www.city.katano.osaka.jp/

@@ -544,7 +544,7 @@
  083101,http://www.town.shirosato.lg.jp/
  083411,http://www.vill.tokai.ibaraki.jp/
  083640,http://www.town.daigo.ibaraki.jp/
-@@ -484,77 +464,79 @@
+@@ -484,110 +464,111 @@
  085421,http://www.town.goka.lg.jp/
  085464,http://www.town.sakai.ibaraki.jp/
  085642,http://www.town.tone.ibaraki.jp/
@@ -649,7 +649,9 @@
  112038,http://www.city.kawaguchi.lg.jp/
  112062,http://www.city.gyoda.lg.jp/
  112071,http://www.city.chichibu.lg.jp/
-@@ -563,31 +545,30 @@
+-112089,http://www.city.tokorozawa.saitama.jp/
++112089,https://www.city.tokorozawa.saitama.jp/
+ 112097,http://www.city.hanno.saitama.jp/
  112101,http://www.city.kazo.lg.jp/
  112119,http://www.city.honjo.lg.jp/
  112127,http://www.city.higashimatsuyama.lg.jp/
@@ -1535,9 +1537,10 @@
  272248,http://www.city.settsu.osaka.jp/
  272256,http://www.city.takaishi.lg.jp/
 -272264,http://www.city.fujiidera.osaka.jp/
-+272264,http://www.city.fujiidera.lg.jp/
- 272272,http://www.city.higashiosaka.lg.jp/
+-272272,http://www.city.higashiosaka.lg.jp/
 -272281,http://www.city.sennan.osaka.jp/
++272264,http://www.city.fujiidera.lg.jp/
++272272,https://www.city.higashiosaka.lg.jp/
 +272281,http://www.city.sennan.lg.jp/
  272299,http://www.city.shijonawate.lg.jp/
  272302,http://www.city.katano.osaka.jp/
