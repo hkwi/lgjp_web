@@ -1516,9 +1516,10 @@
  272078,http://www.city.takatsuki.osaka.jp/
  272086,http://www.city.kaizuka.lg.jp/
 -272094,http://www.city.moriguchi.osaka.jp/contents/index.html
-+272094,http://www.city.moriguchi.osaka.jp/
- 272108,http://www.city.hirakata.osaka.jp/
+-272108,http://www.city.hirakata.osaka.jp/
 -272116,http://www.city.ibaraki.osaka.jp/index.html
++272094,http://www.city.moriguchi.osaka.jp/
++272108,https://www.city.hirakata.osaka.jp/
 +272116,http://www.city.ibaraki.osaka.jp/
  272124,http://www.city.yao.osaka.jp/
  272132,http://www.city.izumisano.lg.jp/

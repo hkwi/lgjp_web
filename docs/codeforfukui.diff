@@ -1379,9 +1379,12 @@
  豊中市,http://www.city.toyonaka.osaka.jp/
  池田市,http://www.city.ikeda.osaka.jp/
  吹田市,http://www.city.suita.osaka.jp/
-@@ -1257,12 +1261,12 @@
+@@ -1255,14 +1259,14 @@
+ 高槻市,http://www.city.takatsuki.osaka.jp/
+ 貝塚市,http://www.city.kaizuka.lg.jp/
  守口市,http://www.city.moriguchi.osaka.jp/
- 枚方市,http://www.city.hirakata.osaka.jp/
+-枚方市,http://www.city.hirakata.osaka.jp/
++枚方市,https://www.city.hirakata.osaka.jp/
  茨木市,http://www.city.ibaraki.osaka.jp/
 -八尾市,https://www.city.yao.osaka.jp/
 +八尾市,http://www.city.yao.osaka.jp/
