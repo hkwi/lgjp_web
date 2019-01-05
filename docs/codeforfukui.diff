@@ -933,8 +933,9 @@
 +中能登町,http://www.town.nakanoto.ishikawa.jp/
  穴水町,http://www.town.anamizu.ishikawa.jp/
 -能登町,http://www.town.noto.lg.jp/www/total_top.jsp
+-福井市,http://www.city.fukui.lg.jp/
 +能登町,http://www.town.noto.lg.jp/
- 福井市,http://www.city.fukui.lg.jp/
++福井市,https://www.city.fukui.lg.jp/
  敦賀市,http://www.city.tsuruga.lg.jp/
  小浜市,http://www1.city.obama.fukui.jp/
  大野市,http://www.city.ono.fukui.jp/
@@ -1422,13 +1423,7 @@
  垂水区,http://www.city.kobe.lg.jp/ward/kuyakusho/tarumi/
  北区,http://www.city.kobe.lg.jp/ward/kuyakusho/kita/
  中央区,http://www.city.kobe.lg.jp/ward/kuyakusho/chuou/
-@@ -1301,12 +1305,12 @@
- 姫路市,http://www.city.himeji.lg.jp/
- 尼崎市,http://www.city.amagasaki.hyogo.jp/
- 明石市,http://www.city.akashi.lg.jp/
--西宮市,https://www.nishi.or.jp/
-+西宮市,http://www.nishi.or.jp/
- 洲本市,http://www.city.sumoto.lg.jp/
+@@ -1306,7 +1310,7 @@
  芦屋市,http://www.city.ashiya.lg.jp/
  伊丹市,http://www.city.itami.lg.jp/
  相生市,http://www.city.aioi.lg.jp/

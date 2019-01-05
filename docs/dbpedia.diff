@@ -1031,10 +1031,11 @@
  174611,http://www.town.anamizu.ishikawa.jp/
 -174637,http://www.town.noto.ishikawa.jp/
 -180009,http://www.pref.fukui.lg.jp
-+174637,http://www.town.noto.lg.jp/
- 182010,http://www.city.fukui.lg.jp/
+-182010,http://www.city.fukui.lg.jp/
 -182028,http://www.city.tsuruga.lg.jp
 -182044,http://www1.city.obama.fukui.jp/index.asp
++174637,http://www.town.noto.lg.jp/
++182010,https://www.city.fukui.lg.jp/
 +182028,http://www.city.tsuruga.lg.jp/
 +182044,http://www1.city.obama.fukui.jp/
  182052,http://www.city.ono.fukui.jp/
@@ -1573,8 +1574,9 @@
 +282014,http://www.city.himeji.lg.jp/
  282022,http://www.city.amagasaki.hyogo.jp/
  282031,http://www.city.akashi.lg.jp/
- 282049,http://www.nishi.or.jp/
+-282049,http://www.nishi.or.jp/
 -282057,http://www.city.sumoto.hyogo.jp/
++282049,https://www.nishi.or.jp/
 +282057,http://www.city.sumoto.lg.jp/
  282065,http://www.city.ashiya.lg.jp/
 -282065,http://www.ashiya-hanabi.com/
