@@ -24,7 +24,7 @@ code,name,site
 012114,網走市,http://www.city.abashiri.hokkaido.jp/
 012122,留萌市,http://www.e-rumoi.jp/
 012131,苫小牧市,http://www.city.tomakomai.hokkaido.jp/
-012149,稚内市,http://www.city.wakkanai.hokkaido.jp/
+012149,稚内市,https://www.city.wakkanai.hokkaido.jp/
 012157,美唄市,http://www.city.bibai.hokkaido.jp/
 012165,芦別市,http://www.city.ashibetsu.hokkaido.jp/
 012173,江別市,http://www.city.ebetsu.hokkaido.jp/
@@ -566,9 +566,9 @@ code,name,site
 112216,草加市,http://www.city.soka.saitama.jp/
 112224,越谷市,http://www.city.koshigaya.saitama.jp/
 112232,蕨市,http://www.city.warabi.saitama.jp/
-112241,戸田市,http://www.city.toda.saitama.jp/
+112241,戸田市,https://www.city.toda.saitama.jp/
 112259,入間市,http://www.city.iruma.saitama.jp/
-112275,朝霞市,http://www.city.asaka.lg.jp/
+112275,朝霞市,https://www.city.asaka.lg.jp/
 112283,志木市,http://www.city.shiki.lg.jp/
 112291,和光市,http://www.city.wako.lg.jp/
 112305,新座市,http://www.city.niiza.lg.jp/
@@ -799,7 +799,7 @@ code,name,site
 144011,愛川町,http://www.town.aikawa.kanagawa.jp/
 144029,清川村,http://www.town.kiyokawa.kanagawa.jp/
 150002,新潟県,http://www.pref.niigata.lg.jp
-151009,新潟市,http://www.city.niigata.lg.jp/
+151009,新潟市,https://www.city.niigata.lg.jp/
 151017,北区,http://www.city.niigata.lg.jp/kita/
 151025,東区,http://www.city.niigata.lg.jp/higashi/
 151033,中央区,http://www.city.niigata.lg.jp/chuo/
@@ -1380,7 +1380,7 @@ code,name,site
 292061,桜井市,http://www.city.sakurai.lg.jp/
 292079,五條市,http://www.city.gojo.lg.jp/
 292087,御所市,http://www.city.gose.nara.jp/
-292095,生駒市,http://www.city.ikoma.lg.jp/
+292095,生駒市,https://www.city.ikoma.lg.jp/
 292109,香芝市,http://www.city.kashiba.lg.jp/
 292117,葛城市,http://www.city.katsuragi.nara.jp/
 292125,宇陀市,http://www.city.uda.nara.jp/
@@ -1685,9 +1685,9 @@ code,name,site
 402028,大牟田市,http://www.city.omuta.lg.jp/
 402036,久留米市,http://www.city.kurume.fukuoka.jp/
 402044,直方市,http://www.city.nogata.fukuoka.jp/
-402052,飯塚市,http://www.city.iizuka.lg.jp/
+402052,飯塚市,https://www.city.iizuka.lg.jp/
 402061,田川市,http://www.joho.tagawa.fukuoka.jp/
-402079,柳川市,http://www.city.yanagawa.fukuoka.jp/
+402079,柳川市,https://www.city.yanagawa.fukuoka.jp/
 402109,八女市,http://www.city.yame.fukuoka.jp/
 402117,筑後市,http://www.city.chikugo.lg.jp/
 402125,大川市,http://www.city.okawa.fukuoka.jp/
@@ -1808,7 +1808,7 @@ code,name,site
 433675,南関町,http://www.town.nankan.lg.jp/
 433683,長洲町,http://www.town.nagasu.lg.jp/
 433691,和水町,http://www.town.nagomi.lg.jp/
-434035,大津町,http://www.town.ozu.kumamoto.jp/
+434035,大津町,https://www.town.ozu.kumamoto.jp/
 434043,菊陽町,http://www.town.kikuyo.lg.jp/
 434230,南小国町,http://www.town.minamioguni.kumamoto.jp/
 434248,小国町,http://www.aso-oguni.com/
@@ -1835,7 +1835,7 @@ code,name,site
 435147,あさぎり町,http://www.town.asagiri.lg.jp/
 435317,苓北町,http://reihoku-kumamoto.jp/
 440001,大分県,http://www.pref.oita.lg.jp
-442011,大分市,http://www.city.oita.oita.jp/
+442011,大分市,https://www.city.oita.oita.jp/
 442020,別府市,http://www.city.beppu.oita.jp/
 442038,中津市,http://www.city-nakatsu.jp/
 442046,日田市,http://www.city.hita.oita.jp/

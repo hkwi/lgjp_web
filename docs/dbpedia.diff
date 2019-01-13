@@ -1,6 +1,6 @@
 --- dbpedia
 +++ wikidata
-@@ -1,15 +1,25 @@
+@@ -1,46 +1,56 @@
 -010006,http://www.pref.hokkaido.lg.jp/
  011002,http://www.city.sapporo.jp/
 +011011,http://www.city.sapporo.jp/chuo/
@@ -28,8 +28,11 @@
 +012114,http://www.city.abashiri.hokkaido.jp/
  012122,http://www.e-rumoi.jp/
  012131,http://www.city.tomakomai.hokkaido.jp/
- 012149,http://www.city.wakkanai.hokkaido.jp/
-@@ -19,28 +29,28 @@
+-012149,http://www.city.wakkanai.hokkaido.jp/
++012149,https://www.city.wakkanai.hokkaido.jp/
+ 012157,http://www.city.bibai.hokkaido.jp/
+ 012165,http://www.city.ashibetsu.hokkaido.jp/
+ 012173,http://www.city.ebetsu.hokkaido.jp/
  012181,http://www.city.akabira.hokkaido.jp/
  012190,http://mombetsu.jp/
  012203,http://www.city.shibetsu.lg.jp/
@@ -668,10 +671,12 @@
  112216,http://www.city.soka.saitama.jp/
  112224,http://www.city.koshigaya.saitama.jp/
 -112232,http://www.city.warabi.saitama.jp/index.htm
+-112241,http://www.city.toda.saitama.jp/
 +112232,http://www.city.warabi.saitama.jp/
- 112241,http://www.city.toda.saitama.jp/
++112241,https://www.city.toda.saitama.jp/
  112259,http://www.city.iruma.saitama.jp/
- 112275,http://www.city.asaka.lg.jp/
+-112275,http://www.city.asaka.lg.jp/
++112275,https://www.city.asaka.lg.jp/
  112283,http://www.city.shiki.lg.jp/
  112291,http://www.city.wako.lg.jp/
  112305,http://www.city.niiza.lg.jp/
@@ -940,9 +945,10 @@
 -144011,http://www.town.aikawa.kanagawa.jp/index.html
 -144029,http://www.town.kiyokawa.kanagawa.jp/index.html
 -150002,http://www.pref.niigata.lg.jp/
+-151009,http://www.city.niigata.lg.jp/
 +144011,http://www.town.aikawa.kanagawa.jp/
 +144029,http://www.town.kiyokawa.kanagawa.jp/
- 151009,http://www.city.niigata.lg.jp/
++151009,https://www.city.niigata.lg.jp/
 +151017,http://www.city.niigata.lg.jp/kita/
 +151025,http://www.city.niigata.lg.jp/higashi/
 +151033,http://www.city.niigata.lg.jp/chuo/
@@ -1634,7 +1640,8 @@
 +292061,http://www.city.sakurai.lg.jp/
  292079,http://www.city.gojo.lg.jp/
  292087,http://www.city.gose.nara.jp/
- 292095,http://www.city.ikoma.lg.jp/
+-292095,http://www.city.ikoma.lg.jp/
++292095,https://www.city.ikoma.lg.jp/
  292109,http://www.city.kashiba.lg.jp/
 +292117,http://www.city.katsuragi.nara.jp/
  292125,http://www.city.uda.nara.jp/
@@ -1976,7 +1983,7 @@
  393070,http://www.vill.geisei.kochi.jp/
  393410,http://www.town.motoyama.kochi.jp/
  393444,http://www.town.otoyo.kochi.jp/
-@@ -1570,18 +1618,29 @@
+@@ -1570,106 +1618,109 @@
  394017,http://www.town.nakatosa.lg.jp/
  394025,http://www.town.sakawa.lg.jp/
  394033,http://www.town.ochi.kochi.jp/
@@ -2012,8 +2019,11 @@
  402028,http://www.city.omuta.lg.jp/
  402036,http://www.city.kurume.fukuoka.jp/
  402044,http://www.city.nogata.fukuoka.jp/
-@@ -1590,86 +1649,78 @@
- 402079,http://www.city.yanagawa.fukuoka.jp/
+-402052,http://www.city.iizuka.lg.jp/
++402052,https://www.city.iizuka.lg.jp/
+ 402061,http://www.joho.tagawa.fukuoka.jp/
+-402079,http://www.city.yanagawa.fukuoka.jp/
++402079,https://www.city.yanagawa.fukuoka.jp/
  402109,http://www.city.yame.fukuoka.jp/
  402117,http://www.city.chikugo.lg.jp/
 -402125,http://shop.okawajapan.jp/
@@ -2117,7 +2127,7 @@
  422037,http://www.city.shimabara.lg.jp/
  422045,http://www.city.isahaya.nagasaki.jp/
  422053,http://www.city.omura.nagasaki.jp/
-@@ -1677,33 +1728,36 @@
+@@ -1677,40 +1728,43 @@
  422088,http://www.city-matsuura.jp/
  422096,http://www.city.tsushima.nagasaki.jp/
  422100,http://www.city.iki.nagasaki.jp/
@@ -2164,7 +2174,15 @@
  432164,http://www.city.koshi.lg.jp/
  433489,http://www.town.kumamoto-misato.lg.jp/
  433641,http://www.town.gyokuto.kumamoto.jp/
-@@ -1722,21 +1776,20 @@
+ 433675,http://www.town.nankan.lg.jp/
+ 433683,http://www.town.nagasu.lg.jp/
+ 433691,http://www.town.nagomi.lg.jp/
+-434035,http://www.town.ozu.kumamoto.jp/
++434035,https://www.town.ozu.kumamoto.jp/
+ 434043,http://www.town.kikuyo.lg.jp/
+ 434230,http://www.town.minamioguni.kumamoto.jp/
+ 434248,http://www.aso-oguni.com/
+@@ -1722,22 +1776,21 @@
  434426,http://www.town.kashima.kumamoto.jp/
  434434,http://www.town.mashiki.lg.jp/
  434442,http://www.town.kosa.kumamoto.jp/
@@ -2187,11 +2205,13 @@
 -435147,http://www.asagiri-town.net/
 -435317,http://www.reihoku-kumamoto.jp/
 -440001,http://www.pref.oita.lg.jp/
+-442011,http://www.city.oita.oita.jp/
 +435147,http://www.town.asagiri.lg.jp/
 +435317,http://reihoku-kumamoto.jp/
- 442011,http://www.city.oita.oita.jp/
++442011,https://www.city.oita.oita.jp/
  442020,http://www.city.beppu.oita.jp/
  442038,http://www.city-nakatsu.jp/
+ 442046,http://www.city.hita.oita.jp/
 @@ -1755,71 +1808,67 @@
  443417,http://www.town.hiji.oita.jp/
  444618,http://www.town.kokonoe.oita.jp/
