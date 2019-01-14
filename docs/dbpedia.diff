@@ -51,7 +51,8 @@
 +012301,http://www.city.noboribetsu.lg.jp/
  012319,http://www.city.eniwa.hokkaido.jp/
  012335,http://www.city.date.hokkaido.jp/
- 012343,http://www.city.kitahiroshima.hokkaido.jp/
+-012343,http://www.city.kitahiroshima.hokkaido.jp/
++012343,https://www.city.kitahiroshima.hokkaido.jp/
  012351,http://www.city.ishikari.hokkaido.jp/
 -012360,http://www.city.hokuto.hokkaido.jp
 +012360,http://www.city.hokuto.hokkaido.jp/
@@ -1233,7 +1234,7 @@
  214035,http://www.town-ono.jp/
  214043,http://www.town.ikeda.gifu.jp/
  214213,http://www.town.kitagata.gifu.jp/
-@@ -993,16 +1013,23 @@
+@@ -993,17 +1013,24 @@
  215023,http://www.town.tomika.gifu.jp/
  215031,http://www.kawabe-gifu.jp/
  215040,http://www.hichiso.jp/
@@ -1255,6 +1256,7 @@
 +221031,http://www.city.shizuoka.jp/shimizu.html
  221309,http://www.city.hamamatsu.shizuoka.jp/
 -222011,http://www.city.shizuoka.jp
+-222038,http://www.city.numazu.shizuoka.jp/
 +221317,http://www.city.hamamatsu.shizuoka.jp/c-shinko/ward/nakaku/
 +221325,http://www.city.hamamatsu.shizuoka.jp/e-shinko/ward/higashiku/
 +221333,http://www.city.hamamatsu.shizuoka.jp/ward/nishiku/index.html
@@ -1262,9 +1264,10 @@
 +221350,http://www.city.hamamatsu.shizuoka.jp/n-shinko/ward/kitaku/
 +221368,http://www.city.hamamatsu.shizuoka.jp/hk-shinko/ward/hamakitaku/
 +221376,http://www.city.hamamatsu.shizuoka.jp/tn-shinko/ward/tenryuku/
- 222038,http://www.city.numazu.shizuoka.jp/
++222038,https://www.city.numazu.shizuoka.jp/
  222054,http://www.city.atami.shizuoka.jp/
  222062,http://www.city.mishima.shizuoka.jp/
+ 222071,http://www.city.fujinomiya.shizuoka.jp/
 @@ -1011,43 +1038,52 @@
  222097,http://www.city.shimada.shizuoka.jp/
  222101,http://www.city.fuji.shizuoka.jp/
@@ -1649,8 +1652,9 @@
  293423,http://www.town.heguri.nara.jp/
 -293423,http://www.town.heguri.nara.jp
  293431,http://www.town.sango.nara.jp/
- 293440,http://www.town.ikaruga.nara.jp/
+-293440,http://www.town.ikaruga.nara.jp/
 -293440,http://www.town.ikaruga.nara.jp
++293440,https://www.town.ikaruga.nara.jp/
  293458,http://www.town.ando.nara.jp/
 -293458,http://www.town.ando.nara.jp
  293610,http://www.town.nara-kawanishi.lg.jp/
@@ -1937,8 +1941,9 @@
  382019,http://www.city.matsuyama.ehime.jp/
  382027,http://www.city.imabari.ehime.jp/
  382035,http://www.city.uwajima.ehime.jp/
+-382051,http://www.city.niihama.lg.jp/
 +382043,http://www.city.yawatahama.ehime.jp/
- 382051,http://www.city.niihama.lg.jp/
++382051,https://www.city.niihama.lg.jp/
  382060,http://www.city.saijo.ehime.jp/
  382078,http://www.city.ozu.ehime.jp/
  382108,http://www.city.iyo.lg.jp/

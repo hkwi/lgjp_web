@@ -47,7 +47,8 @@
 -恵庭市,http://www.city.eniwa.hokkaido.jp/www/toppage/0000000000000/APM03000.html
 +恵庭市,http://www.city.eniwa.hokkaido.jp/
  伊達市,http://www.city.date.hokkaido.jp/
- 北広島市,http://www.city.kitahiroshima.hokkaido.jp/
+-北広島市,http://www.city.kitahiroshima.hokkaido.jp/
++北広島市,https://www.city.kitahiroshima.hokkaido.jp/
  石狩市,http://www.city.ishikari.hokkaido.jp/
 -北斗市,https://www.city.hokuto.hokkaido.jp/index.html
 +北斗市,http://www.city.hokuto.hokkaido.jp/
@@ -1154,8 +1155,6 @@
 -北区,https://www.city.hamamatsu.shizuoka.jp/n-shinko/ward/kitaku/index.html
 -浜北区,https://www.city.hamamatsu.shizuoka.jp/hk-shinko/ward/hamakitaku/index.html
 -天竜区,https://www.city.hamamatsu.shizuoka.jp/tn-shinko/ward/tenryuku/index.html
--沼津市,https://www.city.numazu.shizuoka.jp/
--熱海市,http://www.city.atami.lg.jp/
 +浜松市,http://www.city.hamamatsu.shizuoka.jp/
 +中区,http://www.city.hamamatsu.shizuoka.jp/c-shinko/ward/nakaku/
 +東区,http://www.city.hamamatsu.shizuoka.jp/e-shinko/ward/higashiku/
@@ -1164,7 +1163,8 @@
 +北区,http://www.city.hamamatsu.shizuoka.jp/n-shinko/ward/kitaku/
 +浜北区,http://www.city.hamamatsu.shizuoka.jp/hk-shinko/ward/hamakitaku/
 +天竜区,http://www.city.hamamatsu.shizuoka.jp/tn-shinko/ward/tenryuku/
-+沼津市,http://www.city.numazu.shizuoka.jp/
+ 沼津市,https://www.city.numazu.shizuoka.jp/
+-熱海市,http://www.city.atami.lg.jp/
 +熱海市,http://www.city.atami.shizuoka.jp/
  三島市,http://www.city.mishima.shizuoka.jp/
 -富士宮市,http://www.city.fujinomiya.lg.jp/
@@ -1437,7 +1437,7 @@
  加古川市,http://www.city.kakogawa.lg.jp/
  赤穂市,http://www.city.ako.lg.jp/
  西脇市,http://www.city.nishiwaki.lg.jp/
-@@ -1314,39 +1318,39 @@
+@@ -1314,54 +1318,54 @@
  三木市,http://www.city.miki.lg.jp/
  高砂市,http://www.city.takasago.hyogo.jp/
  川西市,http://www.city.kawanishi.hyogo.jp/
@@ -1493,8 +1493,11 @@
  香芝市,http://www.city.kashiba.lg.jp/
  葛城市,http://www.city.katsuragi.nara.jp/
  宇陀市,http://www.city.uda.nara.jp/
-@@ -1356,12 +1360,12 @@
- 斑鳩町,http://www.town.ikaruga.nara.jp/
+ 山添村,http://www.vill.yamazoe.nara.jp/
+ 平群町,http://www.town.heguri.nara.jp/
+ 三郷町,http://www.town.sango.nara.jp/
+-斑鳩町,http://www.town.ikaruga.nara.jp/
++斑鳩町,https://www.town.ikaruga.nara.jp/
  安堵町,http://www.town.ando.nara.jp/
  川西町,http://www.town.nara-kawanishi.lg.jp/
 -三宅町,https://www.town.miyake.lg.jp/
@@ -1772,7 +1775,8 @@
 +今治市,http://www.city.imabari.ehime.jp/
  宇和島市,http://www.city.uwajima.ehime.jp/
  八幡浜市,http://www.city.yawatahama.ehime.jp/
- 新居浜市,http://www.city.niihama.lg.jp/
+-新居浜市,http://www.city.niihama.lg.jp/
++新居浜市,https://www.city.niihama.lg.jp/
  西条市,http://www.city.saijo.ehime.jp/
  大洲市,http://www.city.ozu.ehime.jp/
  伊予市,http://www.city.iyo.lg.jp/
