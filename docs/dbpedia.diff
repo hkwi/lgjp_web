@@ -945,7 +945,7 @@
  143219,http://www.town.samukawa.kanagawa.jp/
  143413,http://www.town.oiso.kanagawa.jp/
  143421,http://www.town.ninomiya.kanagawa.jp/
-@@ -745,47 +777,50 @@
+@@ -745,75 +777,76 @@
  143626,http://www.town.oi.kanagawa.jp/
  143634,http://town.matsuda.kanagawa.jp/
  143642,http://www.town.yamakita.kanagawa.jp/
@@ -959,6 +959,7 @@
 -144029,http://www.town.kiyokawa.kanagawa.jp/index.html
 -150002,http://www.pref.niigata.lg.jp/
 -151009,http://www.city.niigata.lg.jp/
+-152021,http://www.city.nagaoka.niigata.jp/
 +144011,http://www.town.aikawa.kanagawa.jp/
 +144029,http://www.town.kiyokawa.kanagawa.jp/
 +151009,https://www.city.niigata.lg.jp/
@@ -970,7 +971,7 @@
 +151068,http://www.city.niigata.lg.jp/minami/
 +151076,http://www.city.niigata.lg.jp/nishi/
 +151084,http://www.city.niigata.lg.jp/nishikan/
- 152021,http://www.city.nagaoka.niigata.jp/
++152021,https://www.city.nagaoka.niigata.jp/
  152048,http://www.city.sanjo.niigata.jp/
 -152056,http://www.city.kashiwazaki.niigata.jp/
 -152064,http://www.city.shibata.niigata.jp/
@@ -1010,26 +1011,33 @@
  155861,http://www.vill.awashimaura.lg.jp/
 -160008,http://www.pref.toyama.lg.jp/
  162019,http://www.city.toyama.toyama.jp/
- 162027,http://www.city.takaoka.toyama.jp/
+-162027,http://www.city.takaoka.toyama.jp/
++162027,https://www.city.takaoka.toyama.jp/
  162043,http://www.city.uozu.toyama.jp/
-@@ -795,25 +830,23 @@
+-162051,http://www.city.himi.toyama.jp/
++162051,https://www.city.himi.toyama.jp/
+ 162060,http://www.city.namerikawa.toyama.jp/
+ 162078,http://kurobe.city.kurobe.toyama.jp/
  162086,http://www.city.tonami.toyama.jp/
  162094,http://www.city.oyabe.toyama.jp/
- 162108,http://www.city.nanto.toyama.jp/
+-162108,http://www.city.nanto.toyama.jp/
 -162116,http://www.city.imizu.toyama.jp
 -163210,http://www.vill.funahashi.toyama.jp/index.html
++162108,https://www.city.nanto.toyama.jp/
 +162116,http://www.city.imizu.toyama.jp/
 +163210,http://www.vill.funahashi.toyama.jp/
  163228,http://www.town.kamiichi.toyama.jp/
  163236,http://www.town.tateyama.toyama.jp/
 -163422,http://www.town.nyuzen.toyama.jp/index.html
-+163422,http://www.town.nyuzen.toyama.jp/
- 163431,http://www.town.asahi.toyama.jp/
+-163431,http://www.town.asahi.toyama.jp/
 -170003,http://www.pref.ishikawa.lg.jp
- 172014,http://www4.city.kanazawa.lg.jp/
+-172014,http://www4.city.kanazawa.lg.jp/
 -172022,http://www.nsknet.or.jp/nanao/index.htm#歓迎
 -172022,http://www.city.nanao.lg.jp/
 -172031,http://www.city.komatsu.lg.jp/
++163422,https://www.town.nyuzen.toyama.jp/
++163431,https://www.town.asahi.toyama.jp/
++172014,https://www4.city.kanazawa.lg.jp/
 +172022,https://www.city.nanao.lg.jp/
 +172031,https://www.city.komatsu.lg.jp/
  172049,http://www.city.wajima.ishikawa.jp/
@@ -1060,9 +1068,11 @@
 +182028,http://www.city.tsuruga.lg.jp/
 +182044,http://www1.city.obama.fukui.jp/
  182052,http://www.city.ono.fukui.jp/
- 182061,http://www.city.katsuyama.fukui.jp/
- 182079,http://www.city.sabae.fukui.jp/
+-182061,http://www.city.katsuyama.fukui.jp/
+-182079,http://www.city.sabae.fukui.jp/
 -182087,http://www.city.awara.lg.jp/index.html
++182061,https://www.city.katsuyama.fukui.jp/
++182079,https://www.city.sabae.fukui.jp/
 +182087,http://www.city.awara.lg.jp/
  182095,http://www.city.echizen.lg.jp/
 -182109,http://www.city.fukui-sakai.lg.jp
@@ -1071,8 +1081,9 @@
 -183822,http://www.town.ikeda.fukui.jp/index.html
 +183822,http://www.town.ikeda.fukui.jp/
  184047,http://www.town.minamiechizen.lg.jp/
- 184233,http://www.town.echizen.fukui.jp/
+-184233,http://www.town.echizen.fukui.jp/
 -184420,http://www.town.mihama.fukui.jp
++184233,http://www.town.echizen.fukui.jp/index.html
 +184420,http://www.town.mihama.fukui.jp/
  184811,http://www.town.takahama.fukui.jp/
 -184837,http://www.town.ohi.fukui.jp/sypher/www/normal_top.jsp
@@ -1231,7 +1242,7 @@
  212075,http://www.city.mino.gifu.jp/
  212083,http://www.city.mizunami.lg.jp/
 -212091,http://www.city.hashima.gifu.jp/
-+212091,http://www.city.hashima.lg.jp/
++212091,https://www.city.hashima.lg.jp/
  212105,http://www.city.ena.lg.jp/
  212113,http://www.city.minokamo.gifu.jp/
  212121,http://www.city.toki.lg.jp/

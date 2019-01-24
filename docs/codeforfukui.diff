@@ -876,7 +876,6 @@
 -南区,http://www.city.niigata.lg.jp/minami/index.html
 -西区,http://www.city.niigata.lg.jp/nishi/index.html
 -西蒲区,http://www.city.niigata.lg.jp/nishikan/index.html
--長岡市,https://www.city.nagaoka.niigata.jp/
 +新潟市,https://www.city.niigata.lg.jp/
 +北区,http://www.city.niigata.lg.jp/kita/
 +東区,http://www.city.niigata.lg.jp/higashi/
@@ -886,7 +885,7 @@
 +南区,http://www.city.niigata.lg.jp/minami/
 +西区,http://www.city.niigata.lg.jp/nishi/
 +西蒲区,http://www.city.niigata.lg.jp/nishikan/
-+長岡市,http://www.city.nagaoka.niigata.jp/
+ 長岡市,https://www.city.nagaoka.niigata.jp/
  三条市,http://www.city.sanjo.niigata.jp/
 -柏崎市,http://www.city.kashiwazaki.lg.jp/
 -新発田市,http://www.city.shibata.niigata.jp/
@@ -904,7 +903,7 @@
  魚沼市,http://www.city.uonuma.niigata.jp/
  南魚沼市,http://www.city.minamiuonuma.niigata.jp/
  胎内市,http://www.city.tainai.niigata.jp/
-@@ -812,134 +816,134 @@
+@@ -812,9 +816,9 @@
  田上町,http://www.town.tagami.niigata.jp/
  阿賀町,http://www.town.aga.niigata.jp/
  出雲崎町,http://www.town.izumozaki.niigata.jp/
@@ -916,29 +915,22 @@
  関川村,http://www.vill.sekikawa.niigata.jp/
  粟島浦村,http://www.vill.awashimaura.lg.jp/
  富山市,http://www.city.toyama.toyama.jp/
--高岡市,https://www.city.takaoka.toyama.jp/
-+高岡市,http://www.city.takaoka.toyama.jp/
- 魚津市,http://www.city.uozu.toyama.jp/
--氷見市,https://www.city.himi.toyama.jp/
-+氷見市,http://www.city.himi.toyama.jp/
- 滑川市,http://www.city.namerikawa.toyama.jp/
+@@ -825,33 +829,33 @@
  黒部市,http://kurobe.city.kurobe.toyama.jp/
  砺波市,http://www.city.tonami.toyama.jp/
  小矢部市,http://www.city.oyabe.toyama.jp/
 -南砺市,http://www.city.nanto.toyama.jp/cms-sypher/www/index.jsp
-+南砺市,http://www.city.nanto.toyama.jp/
++南砺市,https://www.city.nanto.toyama.jp/
  射水市,http://www.city.imizu.toyama.jp/
  舟橋村,http://www.vill.funahashi.toyama.jp/
  上市町,http://www.town.kamiichi.toyama.jp/
 -立山町,http://www.town.tateyama.toyama.jp/pub/
--入善町,https://www.town.nyuzen.toyama.jp/
--朝日町,https://www.town.asahi.toyama.jp/
++立山町,http://www.town.tateyama.toyama.jp/
+ 入善町,https://www.town.nyuzen.toyama.jp/
+ 朝日町,https://www.town.asahi.toyama.jp/
 -金沢市,https://www4.city.kanazawa.lg.jp/index.html
 -七尾市,http://www.city.nanao.lg.jp/
-+立山町,http://www.town.tateyama.toyama.jp/
-+入善町,http://www.town.nyuzen.toyama.jp/
-+朝日町,http://www.town.asahi.toyama.jp/
-+金沢市,http://www4.city.kanazawa.lg.jp/
++金沢市,https://www4.city.kanazawa.lg.jp/
 +七尾市,https://www.city.nanao.lg.jp/
  小松市,https://www.city.komatsu.lg.jp/
  輪島市,http://www.city.wajima.ishikawa.jp/
@@ -966,19 +958,11 @@
  敦賀市,http://www.city.tsuruga.lg.jp/
  小浜市,http://www1.city.obama.fukui.jp/
  大野市,http://www.city.ono.fukui.jp/
--勝山市,https://www.city.katsuyama.fukui.jp/
--鯖江市,https://www.city.sabae.fukui.jp/
-+勝山市,http://www.city.katsuyama.fukui.jp/
-+鯖江市,http://www.city.sabae.fukui.jp/
- あわら市,http://www.city.awara.lg.jp/
- 越前市,http://www.city.echizen.lg.jp/
- 坂井市,http://www.city.fukui-sakai.lg.jp/
- 永平寺町,http://www.town.eiheiji.lg.jp/
+@@ -864,82 +868,82 @@
  池田町,http://www.town.ikeda.fukui.jp/
  南越前町,http://www.town.minamiechizen.lg.jp/
--越前町,http://www.town.echizen.fukui.jp/index.html
+ 越前町,http://www.town.echizen.fukui.jp/index.html
 -美浜町,http://www.town.mihama.fukui.jp/www/normal_top.jsp
-+越前町,http://www.town.echizen.fukui.jp/
 +美浜町,http://www.town.mihama.fukui.jp/
  高浜町,http://www.town.takahama.fukui.jp/
 -おおい町,http://www.town.ohi.fukui.jp/index.html
@@ -1125,12 +1109,9 @@
  栄村,http://www.vill.sakae.nagano.jp/
  岐阜市,http://www.city.gifu.lg.jp/
  大垣市,http://www.city.ogaki.lg.jp/
-@@ -980,20 +984,20 @@
- 中津川市,http://www.city.nakatsugawa.gifu.jp/
- 美濃市,http://www.city.mino.gifu.jp/
+@@ -982,18 +986,18 @@
  瑞浪市,http://www.city.mizunami.lg.jp/
--羽島市,https://www.city.hashima.lg.jp/
-+羽島市,http://www.city.hashima.lg.jp/
+ 羽島市,https://www.city.hashima.lg.jp/
  恵那市,http://www.city.ena.lg.jp/
 -美濃加茂市,http://www.city.minokamo.gifu.jp/shimin/
 +美濃加茂市,http://www.city.minokamo.gifu.jp/
