@@ -864,7 +864,7 @@ code,name,site
 172090,かほく市,http://www.city.kahoku.ishikawa.jp/
 172103,白山市,http://www.city.hakusan.ishikawa.jp/
 172111,能美市,http://www.city.nomi.ishikawa.jp/
-172120,野々市市,http://www.city.nonoichi.lg.jp/
+172120,野々市市,https://www.city.nonoichi.lg.jp/
 173240,川北町,http://www.town.kawakita.ishikawa.jp/
 173614,津幡町,http://www.town.tsubata.ishikawa.jp/
 173657,内灘町,http://www.town.uchinada.lg.jp/
@@ -1167,7 +1167,7 @@ code,name,site
 242080,名張市,http://www.city.nabari.lg.jp/
 242098,尾鷲市,http://www.city.owase.lg.jp/
 242101,亀山市,http://www.city.kameyama.mie.jp/
-242110,鳥羽市,http://www.city.toba.mie.jp/
+242110,鳥羽市,https://www.city.toba.mie.jp/
 242128,熊野市,http://www.city.kumano.mie.jp/
 242144,いなべ市,http://www.city.inabe.mie.jp/
 242152,志摩市,http://www.city.shima.mie.jp/
@@ -1379,9 +1379,9 @@ code,name,site
 292052,橿原市,http://www.city.kashihara.nara.jp/
 292061,桜井市,http://www.city.sakurai.lg.jp/
 292079,五條市,http://www.city.gojo.lg.jp/
-292087,御所市,http://www.city.gose.nara.jp/
+292087,御所市,https://www.city.gose.nara.jp/
 292095,生駒市,https://www.city.ikoma.lg.jp/
-292109,香芝市,http://www.city.kashiba.lg.jp/
+292109,香芝市,https://www.city.kashiba.lg.jp/
 292117,葛城市,http://www.city.katsuragi.nara.jp/
 292125,宇陀市,http://www.city.uda.nara.jp/
 293229,山添村,http://www.vill.yamazoe.nara.jp/
@@ -1418,7 +1418,7 @@ code,name,site
 302040,有田市,http://www.city.arida.lg.jp/
 302058,御坊市,http://www.city.gobo.wakayama.jp/
 302066,田辺市,http://www.city.tanabe.lg.jp/
-302074,新宮市,http://www.city.shingu.lg.jp/
+302074,新宮市,https://www.city.shingu.lg.jp/
 302082,紀の川市,http://www.city.kinokawa.lg.jp/
 302091,岩出市,http://www.city.iwade.lg.jp/
 303046,紀美野町,http://www.town.kimino.wakayama.jp/
@@ -1466,10 +1466,10 @@ code,name,site
 322016,松江市,https://www.city.matsue.shimane.jp/
 322024,浜田市,http://www.city.hamada.shimane.jp/
 322032,出雲市,http://www.city.izumo.shimane.jp/
-322041,益田市,http://www.city.masuda.lg.jp/
+322041,益田市,https://www.city.masuda.lg.jp/
 322059,大田市,http://www.city.ohda.lg.jp/
 322067,安来市,http://www.city.yasugi.shimane.jp/
-322075,江津市,http://www.city.gotsu.lg.jp/
+322075,江津市,https://www.city.gotsu.lg.jp/
 322091,雲南市,http://www.city.unnan.shimane.jp/
 323438,奥出雲町,http://www.town.okuizumo.shimane.jp/
 323861,飯南町,http://www.iinan.jp/
@@ -1488,7 +1488,7 @@ code,name,site
 331023,中区,http://www.city.okayama.jp/nakaku/soumu/
 331031,東区,http://www.city.okayama.jp/higashiku/soumu/
 331040,南区,http://www.city.okayama.jp/minamiku/soumu/
-332020,倉敷市,http://www.city.kurashiki.okayama.jp/
+332020,倉敷市,https://www.city.kurashiki.okayama.jp/
 332038,津山市,https://www.city.tsuyama.lg.jp/
 332046,玉野市,http://www.city.tamano.lg.jp/
 332054,笠岡市,http://www.city.kasaoka.okayama.jp/
@@ -1528,7 +1528,7 @@ code,name,site
 342033,竹原市,http://www.city.takehara.lg.jp/
 342041,三原市,http://www.city.mihara.hiroshima.jp/
 342050,尾道市,https://www.city.onomichi.hiroshima.jp/
-342076,福山市,http://www.city.fukuyama.hiroshima.jp/
+342076,福山市,https://www.city.fukuyama.hiroshima.jp/
 342084,府中市,http://www.city.fuchu.hiroshima.jp/
 342092,三次市,http://www.city.miyoshi.hiroshima.jp/
 342106,庄原市,http://www.city.shobara.hiroshima.jp/
@@ -1611,7 +1611,7 @@ code,name,site
 374067,まんのう町,http://www.town.manno.lg.jp/
 380008,愛媛県,http://www.pref.ehime.jp
 382019,松山市,http://www.city.matsuyama.ehime.jp/
-382027,今治市,http://www.city.imabari.ehime.jp/
+382027,今治市,https://www.city.imabari.ehime.jp/
 382035,宇和島市,http://www.city.uwajima.ehime.jp/
 382043,八幡浜市,http://www.city.yawatahama.ehime.jp/
 382051,新居浜市,https://www.city.niihama.lg.jp/
@@ -1746,8 +1746,8 @@ code,name,site
 412031,鳥栖市,http://www.city.tosu.lg.jp/
 412040,多久市,https://www.city.taku.lg.jp/
 412058,伊万里市,http://www.city.imari.saga.jp/
-412066,武雄市,http://www.city.takeo.lg.jp/
-412074,鹿島市,http://www.city.saga-kashima.lg.jp/
+412066,武雄市,https://www.city.takeo.lg.jp/
+412074,鹿島市,https://www.city.saga-kashima.lg.jp/
 412082,小城市,http://www.city.ogi.lg.jp/
 412091,嬉野市,http://www.city.ureshino.lg.jp/
 412104,神埼市,http://www.city.kanzaki.saga.jp/
@@ -1837,7 +1837,7 @@ code,name,site
 440001,大分県,http://www.pref.oita.lg.jp
 442011,大分市,https://www.city.oita.oita.jp/
 442020,別府市,https://www.city.beppu.oita.jp/
-442038,中津市,http://www.city-nakatsu.jp/
+442038,中津市,https://www.city-nakatsu.jp/
 442046,日田市,http://www.city.hita.oita.jp/
 442054,佐伯市,http://www.city.saiki.oita.jp/
 442062,臼杵市,http://www.city.usuki.oita.jp/
@@ -1845,7 +1845,7 @@ code,name,site
 442089,竹田市,http://www.city.taketa.oita.jp/
 442097,豊後高田市,http://www.city.bungotakada.oita.jp/
 442101,杵築市,http://www.city.kitsuki.lg.jp/
-442119,宇佐市,http://www.city.usa.oita.jp/
+442119,宇佐市,https://www.city.usa.oita.jp/
 442127,豊後大野市,http://www.bungo-ohno.jp/
 442135,由布市,http://www.city.yufu.oita.jp/
 442143,国東市,http://www.city.kunisaki.oita.jp/
@@ -1886,7 +1886,7 @@ code,name,site
 462047,枕崎市,https://www.city.makurazaki.lg.jp/
 462063,阿久根市,http://www.city.akune.kagoshima.jp/
 462080,出水市,http://www.city.izumi.kagoshima.jp/
-462101,指宿市,http://www.city.ibusuki.lg.jp/
+462101,指宿市,https://www.city.ibusuki.lg.jp/
 462136,西之表市,http://www.city.nishinoomote.lg.jp/
 462144,垂水市,http://www.city.tarumizu.lg.jp/
 462152,薩摩川内市,http://www.city.satsumasendai.lg.jp/
