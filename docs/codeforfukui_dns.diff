@@ -231,9 +231,12 @@
  大東市,www.city.daito.lg.jp
  和泉市,www.city.osaka-izumi.lg.jp
  箕面市,www.city.minoh.lg.jp
-@@ -1319,7 +1323,7 @@
+@@ -1317,9 +1321,9 @@
+ 小野市,www.city.ono.hyogo.jp
+ 三田市,www.city.sanda.lg.jp
  加西市,www.city.kasai.hyogo.jp
- 篠山市,www.city.sasayama.lg.jp
+-篠山市,www.city.sasayama.lg.jp
++篠山市,www.city.sasayama.hyogo.jp
  養父市,www.city.yabu.hyogo.jp
 -丹波市,www.city.tamba.hyogo.jp
 +丹波市,www.city.tamba.lg.jp
