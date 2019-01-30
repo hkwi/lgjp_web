@@ -178,7 +178,7 @@ code,name,site
 016462,本別町,http://www.town.honbetsu.hokkaido.jp/
 016471,足寄町,http://www.town.ashoro.hokkaido.jp/
 016489,陸別町,https://www.rikubetsu.jp/
-016497,浦幌町,http://www.urahoro.jp/
+016497,浦幌町,https://www.urahoro.jp/
 016616,釧路町,http://www.town.kushiro.lg.jp/
 016624,厚岸町,https://www.akkeshi-town.jp/
 016632,浜中町,http://www.townhamanaka.jp/
@@ -239,7 +239,7 @@ code,name,site
 032069,北上市,https://www.city.kitakami.iwate.jp/
 032077,久慈市,http://www.city.kuji.iwate.jp/
 032085,遠野市,http://www.city.tono.iwate.jp/
-032093,一関市,http://www.city.ichinoseki.iwate.jp/
+032093,一関市,https://www.city.ichinoseki.iwate.jp/
 032107,陸前高田市,http://www.city.rikuzentakata.iwate.jp/
 032115,釜石市,http://www.city.kamaishi.iwate.jp/
 032131,二戸市,https://www.city.ninohe.lg.jp/
@@ -342,7 +342,7 @@ code,name,site
 062073,上山市,http://www.city.kaminoyama.yamagata.jp/
 062081,村山市,http://www.city.murayama.lg.jp/
 062090,長井市,http://www.city.nagai.yamagata.jp/
-062103,天童市,http://www.city.tendo.yamagata.jp/
+062103,天童市,https://www.city.tendo.yamagata.jp/
 062111,東根市,http://www.city.higashine.yamagata.jp/
 062120,尾花沢市,http://www.city.obanazawa.yamagata.jp/
 062138,南陽市,http://www.city.nanyo.yamagata.jp/
@@ -370,12 +370,12 @@ code,name,site
 064611,遊佐町,http://www.town.yuza.yamagata.jp/
 070009,福島県,http://www.pref.fukushima.jp
 072010,福島市,http://www.city.fukushima.fukushima.jp/
-072028,会津若松市,http://www.city.aizuwakamatsu.fukushima.jp/
+072028,会津若松市,https://www.city.aizuwakamatsu.fukushima.jp/
 072036,郡山市,http://www.city.koriyama.fukushima.jp/
 072044,いわき市,http://www.city.iwaki.lg.jp/
 072052,白河市,http://www.city.shirakawa.fukushima.jp/
 072079,須賀川市,http://www.city.sukagawa.fukushima.jp/
-072087,喜多方市,http://www.city.kitakata.fukushima.jp/
+072087,喜多方市,https://www.city.kitakata.fukushima.jp/
 072095,相馬市,http://www.city.soma.fukushima.jp/
 072109,二本松市,http://www.city.nihonmatsu.lg.jp/
 072117,田村市,http://www.city.tamura.lg.jp/
@@ -393,7 +393,7 @@ code,name,site
 073679,只見町,http://www.tadami.gr.jp/
 073687,南会津町,http://www.minamiaizu.org/
 074021,北塩原村,http://www.vill.kitashiobara.fukushima.jp/
-074055,西会津町,http://www.town.nishiaizu.fukushima.jp/
+074055,西会津町,https://www.town.nishiaizu.fukushima.jp/
 074071,磐梯町,http://www.town.bandai.fukushima.jp/
 074080,猪苗代町,http://www.town.inawashiro.fukushima.jp/
 074217,会津坂下町,http://www.town.aizubange.fukushima.jp/
@@ -448,7 +448,7 @@ code,name,site
 082210,ひたちなか市,http://www.city.hitachinaka.lg.jp/
 082228,鹿嶋市,http://www.city.kashima.ibaraki.jp/
 082236,潮来市,http://www.city.itako.lg.jp/
-082244,守谷市,http://www.city.moriya.ibaraki.jp/
+082244,守谷市,https://www.city.moriya.ibaraki.jp/
 082252,常陸大宮市,http://www.city.hitachiomiya.lg.jp/
 082261,那珂市,http://www.city.naka.lg.jp/
 082279,筑西市,http://www.city.chikusei.lg.jp/
@@ -618,7 +618,7 @@ code,name,site
 121045,若葉区,https://www.city.chiba.jp/wakaba/
 121053,緑区,https://www.city.chiba.jp/midori/
 121061,美浜区,https://www.city.chiba.jp/mihama/
-122025,銚子市,http://www.city.choshi.chiba.jp/
+122025,銚子市,https://www.city.choshi.chiba.jp/
 122033,市川市,http://www.city.ichikawa.lg.jp/
 122041,船橋市,http://www.city.funabashi.lg.jp/
 122050,館山市,http://www.city.tateyama.chiba.jp/
@@ -632,7 +632,7 @@ code,name,site
 122157,旭市,http://www.city.asahi.lg.jp/
 122165,習志野市,https://www.city.narashino.lg.jp/
 122173,柏市,http://www.city.kashiwa.lg.jp/
-122181,勝浦市,http://www.city.katsuura.lg.jp/
+122181,勝浦市,https://www.city.katsuura.lg.jp/
 122190,市原市,https://www.city.ichihara.chiba.jp/
 122203,流山市,http://www.city.nagareyama.chiba.jp/
 122211,八千代市,http://www.city.yachiyo.chiba.jp/
@@ -640,7 +640,7 @@ code,name,site
 122238,鴨川市,http://www.city.kamogawa.lg.jp/
 122246,鎌ケ谷市,http://www.city.kamagaya.chiba.jp/
 122254,君津市,http://www.city.kimitsu.lg.jp/
-122262,富津市,http://www.city.futtsu.lg.jp/
+122262,富津市,https://www.city.futtsu.lg.jp/
 122271,浦安市,http://www.city.urayasu.lg.jp/
 122289,四街道市,https://www.city.yotsukaido.chiba.jp/
 122297,袖ケ浦市,http://www.city.sodegaura.lg.jp/
@@ -847,7 +847,7 @@ code,name,site
 162086,砺波市,http://www.city.tonami.toyama.jp/
 162094,小矢部市,http://www.city.oyabe.toyama.jp/
 162108,南砺市,https://www.city.nanto.toyama.jp/
-162116,射水市,http://www.city.imizu.toyama.jp/
+162116,射水市,https://www.city.imizu.toyama.jp/
 163210,舟橋村,http://www.vill.funahashi.toyama.jp/
 163228,上市町,http://www.town.kamiichi.toyama.jp/
 163236,立山町,http://www.town.tateyama.toyama.jp/
@@ -1070,7 +1070,7 @@ code,name,site
 222208,裾野市,http://www.city.susono.shizuoka.jp/
 222216,湖西市,http://www.city.kosai.shizuoka.jp/
 222224,伊豆市,http://www.city.izu.shizuoka.jp/
-222232,御前崎市,http://www.city.omaezaki.shizuoka.jp/
+222232,御前崎市,https://www.city.omaezaki.shizuoka.jp/
 222241,菊川市,http://www.city.kikugawa.shizuoka.jp/
 222259,伊豆の国市,http://www.city.izunokuni.shizuoka.jp/
 222267,牧之原市,http://www.city.makinohara.shizuoka.jp/
@@ -1120,7 +1120,7 @@ code,name,site
 232149,蒲郡市,https://www.city.gamagori.lg.jp/
 232157,犬山市,http://www.city.inuyama.aichi.jp/
 232165,常滑市,http://www.city.tokoname.aichi.jp/
-232173,江南市,http://www.city.konan.lg.jp/
+232173,江南市,https://www.city.konan.lg.jp/
 232190,小牧市,http://www.city.komaki.aichi.jp/
 232203,稲沢市,http://www.city.inazawa.aichi.jp/
 232211,新城市,http://www.city.shinshiro.lg.jp/
@@ -1128,9 +1128,9 @@ code,name,site
 232238,大府市,http://www.city.obu.aichi.jp/
 232246,知多市,https://www.city.chita.lg.jp/
 232254,知立市,http://www.city.chiryu.aichi.jp/
-232262,尾張旭市,http://www.city.owariasahi.lg.jp/
+232262,尾張旭市,https://www.city.owariasahi.lg.jp/
 232271,高浜市,http://www.city.takahama.lg.jp/
-232289,岩倉市,http://www.city.iwakura.aichi.jp/
+232289,岩倉市,https://www.city.iwakura.aichi.jp/
 232297,豊明市,https://www.city.toyoake.lg.jp/
 232301,日進市,http://www.city.nisshin.lg.jp/
 232319,田原市,http://www.city.tahara.aichi.jp/
@@ -1351,7 +1351,7 @@ code,name,site
 282197,三田市,http://www.city.sanda.lg.jp/
 282201,加西市,http://www.city.kasai.hyogo.jp/
 282219,篠山市,https://www.city.sasayama.hyogo.jp/
-282227,養父市,http://www.city.yabu.hyogo.jp/
+282227,養父市,https://www.city.yabu.hyogo.jp/
 282235,丹波市,http://www.city.tamba.lg.jp/
 282243,南あわじ市,http://www.city.minamiawaji.hyogo.jp/
 282251,朝来市,http://www.city.asago.hyogo.jp/
@@ -1765,7 +1765,7 @@ code,name,site
 422011,長崎市,http://www.city.nagasaki.lg.jp/
 422029,佐世保市,http://www.city.sasebo.lg.jp/
 422037,島原市,http://www.city.shimabara.lg.jp/
-422045,諫早市,http://www.city.isahaya.nagasaki.jp/
+422045,諫早市,https://www.city.isahaya.nagasaki.jp/
 422053,大村市,http://www.city.omura.nagasaki.jp/
 422070,平戸市,http://www.city.hirado.nagasaki.jp/
 422088,松浦市,http://www.city-matsuura.jp/
