@@ -17,8 +17,9 @@
  012033,http://www.city.otaru.lg.jp/
  012041,http://www.city.asahikawa.hokkaido.jp/
  012050,http://www.city.muroran.lg.jp/
+-012068,http://www.city.kushiro.lg.jp/
 +012050,http://www.city.muroran.lg.jp/main/org2260/odlib.php
- 012068,http://www.city.kushiro.lg.jp/
++012068,https://www.city.kushiro.lg.jp/
  012076,http://www.city.obihiro.hokkaido.jp/
 -012084,None
 +012084,http://www.city.kitami.lg.jp/
@@ -299,11 +300,12 @@
 -032115,None
 -032131,http://www.city.ninohe.lg.jp//
 -032140,http://www.city.hachimantai.lg.jp
+-032158,http://www.city.oshu.iwate.jp/
+-032166,http://www.city.takizawa.iwate.jp
 +032115,http://www.city.kamaishi.iwate.jp/
 +032131,https://www.city.ninohe.lg.jp/
 +032140,http://www.city.hachimantai.lg.jp/
- 032158,http://www.city.oshu.iwate.jp/
--032166,http://www.city.takizawa.iwate.jp
++032158,https://www.city.oshu.iwate.jp/
 +032166,http://www.city.takizawa.iwate.jp/
  033014,http://www.town.shizukuishi.iwate.jp/
 -033022,None
@@ -943,7 +945,7 @@
  133035,http://www.town.mizuho.tokyo.jp/
  133051,http://www.town.hinode.tokyo.jp/
  133078,http://www.vill.hinohara.tokyo.jp/
-@@ -712,22 +716,50 @@
+@@ -712,32 +716,60 @@
  133621,http://www.toshimamura.org/
  133639,http://www.niijima.com/
  133647,http://vill.kouzushima.tokyo.jp/
@@ -1001,15 +1003,17 @@
 +142085,https://www.city.zushi.kanagawa.jp/
  142107,http://www.city.miura.kanagawa.jp/
  142115,http://www.city.hadano.kanagawa.jp/
- 142123,http://www.city.atsugi.kanagawa.jp/
-@@ -735,9 +767,9 @@
+-142123,http://www.city.atsugi.kanagawa.jp/
++142123,https://www.city.atsugi.kanagawa.jp/
+ 142131,http://www.city.yamato.lg.jp/
  142140,http://www.city.isehara.kanagawa.jp/
  142158,http://www.city.ebina.kanagawa.jp/
  142166,http://www.city.zama.kanagawa.jp/
 -142174,http://www.city.minamiashigara.kanagawa.jp/index.html
-+142174,https://www.city.minamiashigara.kanagawa.jp/
- 142182,http://www.city.ayase.kanagawa.jp/
+-142182,http://www.city.ayase.kanagawa.jp/
 -143014,http://town.hayama.lg.jp/
++142174,https://www.city.minamiashigara.kanagawa.jp/
++142182,https://www.city.ayase.kanagawa.jp/
 +143014,http://www.town.hayama.lg.jp/
  143219,http://www.town.samukawa.kanagawa.jp/
  143413,http://www.town.oiso.kanagawa.jp/
@@ -1465,8 +1469,9 @@
  232203,http://www.city.inazawa.aichi.jp/
  232211,http://www.city.shinshiro.lg.jp/
  232220,http://www.city.tokai.aichi.jp/
- 232238,http://www.city.obu.aichi.jp/
+-232238,http://www.city.obu.aichi.jp/
 -232246,http://www.city.chita.aichi.jp/
++232238,https://www.city.obu.aichi.jp/
 +232246,https://www.city.chita.lg.jp/
  232254,http://www.city.chiryu.aichi.jp/
 -232262,http://www.city.owariasahi.lg.jp/
@@ -1606,7 +1611,7 @@
  262129,http://www.city.kyotango.lg.jp/
  262137,http://www.city.nantan.kyoto.jp/
 -262145,http://www.city.kizugawa.lg.jp
-+262145,http://www.city.kizugawa.lg.jp/
++262145,https://www.city.kizugawa.lg.jp/
  263036,http://www.town.oyamazaki.kyoto.jp/
 -263222,http://www.town.kumiyama.kyoto.jp/
 +263222,http://www.town.kumiyama.lg.jp/
@@ -2302,7 +2307,8 @@
 +412066,https://www.city.takeo.lg.jp/
 +412074,https://www.city.saga-kashima.lg.jp/
  412082,http://www.city.ogi.lg.jp/
- 412091,http://www.city.ureshino.lg.jp/
+-412091,http://www.city.ureshino.lg.jp/
++412091,https://www.city.ureshino.lg.jp/
  412104,http://www.city.kanzaki.saga.jp/
  413275,http://www.town.yoshinogari.saga.jp/
 -413411,http://www.town.kiyama.saga.jp/
@@ -2490,7 +2496,8 @@
 +462179,https://www.city.soo.kagoshima.jp/
  462187,http://www.city-kirishima.jp/
 -462187,http://www.city-kirishima.jp
- 462195,http://www.city.ichikikushikino.lg.jp/
+-462195,http://www.city.ichikikushikino.lg.jp/
++462195,https://www.city.ichikikushikino.lg.jp/
  462209,http://www.city.minamisatsuma.lg.jp/
  462217,http://www.city.shibushi.lg.jp/
 -462225,http://www.city.amami.lg.jp
