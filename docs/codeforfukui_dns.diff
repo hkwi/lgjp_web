@@ -202,7 +202,7 @@
  伊東市,www.city.ito.shizuoka.jp
  島田市,www.city.shimada.shizuoka.jp
  富士市,www.city.fuji.shizuoka.jp
-@@ -1154,13 +1158,13 @@
+@@ -1154,7 +1158,7 @@
  玉城町,kizuna.town.tamaki.mie.jp
  度会町,www.town.watarai.lg.jp
  大紀町,www.town.taiki.mie.jp
@@ -211,13 +211,6 @@
  紀北町,www.town.mie-kihoku.lg.jp
  御浜町,www.town.mihama.mie.jp
  紀宝町,www.town.kiho.lg.jp
- 大津市,www.city.otsu.lg.jp
- 彦根市,www.city.hikone.shiga.jp
--長浜市,www.city.nagahama.lg.jp
-+長浜市,www.city.nagahama.shiga.jp
- 近江八幡市,www.city.omihachiman.shiga.jp
- 草津市,www.city.kusatsu.shiga.jp
- 守山市,www.city.moriyama.lg.jp
 @@ -1259,10 +1263,10 @@
  茨木市,www.city.ibaraki.osaka.jp
  八尾市,www.city.yao.osaka.jp

@@ -804,10 +804,11 @@
 -122106,http://www.city.mobara.chiba.jp/
 -122114,http://www.city.narita.chiba.jp/
 -122122,http://www.city.sakura.chiba.jp/
+-122131,http://www.city.togane.chiba.jp/
 +122106,https://www.city.mobara.chiba.jp/
 +122114,https://www.city.narita.chiba.jp/
 +122122,https://www.city.sakura.lg.jp/
- 122131,http://www.city.togane.chiba.jp/
++122131,https://www.city.togane.chiba.jp/
  122157,http://www.city.asahi.lg.jp/
 -122165,http://www.city.narashino.lg.jp/
 +122165,https://www.city.narashino.lg.jp/
@@ -1396,8 +1397,9 @@
  222160,http://www.city.fukuroi.shizuoka.jp/
  222194,http://www.city.shimoda.shizuoka.jp/
 -222194,http://www.city.shimoda.shizuoka.jp
- 222208,http://www.city.susono.shizuoka.jp/
+-222208,http://www.city.susono.shizuoka.jp/
 -222216,http://www.city.kosai.shizuoka.jp
++222208,https://www.city.susono.shizuoka.jp/
 +222216,http://www.city.kosai.shizuoka.jp/
  222224,http://www.city.izu.shizuoka.jp/
 -222224,http://www.city.izu.jp
@@ -1520,7 +1522,7 @@
 -242098,http://www.city.owase.lg.jp/
 -242101,http://www.city.kameyama.mie.jp/
 -242110,http://www.city.toba.mie.jp/
-+242080,http://www.city.nabari.lg.jp/
++242080,https://www.city.nabari.lg.jp/
 +242098,https://www.city.owase.lg.jp/
 +242101,https://www.city.kameyama.mie.jp/
 +242110,https://www.city.toba.mie.jp/
@@ -1555,8 +1557,9 @@
 +245623,https://www.town.kiho.lg.jp/
 +252018,https://www.city.otsu.lg.jp/
  252026,http://www.city.hikone.shiga.jp/
- 252034,http://www.city.nagahama.shiga.jp/
+-252034,http://www.city.nagahama.shiga.jp/
 -252042,http://www.city.omihachiman.shiga.jp
++252034,http://www.city.nagahama.lg.jp/
 +252042,http://www.city.omihachiman.shiga.jp/
  252069,http://www.city.kusatsu.shiga.jp/
 -252077,http://www.city.moriyama.shiga.jp/index.htm
@@ -2501,10 +2504,11 @@
  462209,http://www.city.minamisatsuma.lg.jp/
  462217,http://www.city.shibushi.lg.jp/
 -462225,http://www.city.amami.lg.jp
-+462225,http://www.city.amami.lg.jp/
- 462233,http://www.city.minamikyushu.lg.jp/
+-462233,http://www.city.minamikyushu.lg.jp/
 -462233,http://www.city.minamikyushu.lg.jp/cgi-bin/index.cgi
 -462241,http://www.city.isa.kagoshima.jp
++462225,http://www.city.amami.lg.jp/
++462233,https://www.city.minamikyushu.lg.jp/
 +462241,http://www.city.isa.kagoshima.jp/
  462250,http://www.city.aira.lg.jp/
  463035,http://mishimamura.com/
