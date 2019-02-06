@@ -367,11 +367,13 @@
  金山町,http://www.town.kaneyama.yamagata.jp/
  最上町,http://mogami.tv/
  舟形町,http://www.town.funagata.yamagata.jp/
-@@ -353,55 +354,55 @@
+@@ -352,56 +353,56 @@
+ 大蔵村,http://www.vill.ohkura.yamagata.jp/
  鮭川村,http://www.vill.sakegawa.yamagata.jp/
  戸沢村,http://www.vill.tozawa.yamagata.jp/
- 高畠町,http://www.town.takahata.yamagata.jp/
+-高畠町,http://www.town.takahata.yamagata.jp/
 -川西町,http://www.town.kawanishi.yamagata.jp/
++高畠町,https://www.town.takahata.yamagata.jp/
 +川西町,https://www.town.kawanishi.yamagata.jp/
  小国町,http://www.town.oguni.yamagata.jp/
  白鷹町,http://www.town.shirataka.lg.jp/
@@ -504,7 +506,7 @@
  茨城町,http://www.town.ibaraki.lg.jp/
  大洗町,http://www.town.oarai.lg.jp/
  城里町,http://www.town.shirosato.lg.jp/
-@@ -460,92 +461,92 @@
+@@ -460,189 +461,190 @@
  阿見町,http://www.town.ami.lg.jp/
  河内町,http://www.town.ibaraki-kawachi.lg.jp/
  八千代町,http://www.town.ibaraki-yachiyo.lg.jp/
@@ -637,9 +639,10 @@
  羽生市,http://www.city.hanyu.lg.jp/
  鴻巣市,http://www.city.kounosu.saitama.jp/
  深谷市,http://www.city.fukaya.saitama.jp/
-@@ -553,96 +554,97 @@
+ 上尾市,http://www.city.ageo.lg.jp/
  草加市,http://www.city.soka.saitama.jp/
- 越谷市,http://www.city.koshigaya.saitama.jp/
+-越谷市,http://www.city.koshigaya.saitama.jp/
++越谷市,https://www.city.koshigaya.saitama.jp/
  蕨市,https://www.city.warabi.saitama.jp/
 -戸田市,http://www.city.toda.saitama.jp/
 +戸田市,https://www.city.toda.saitama.jp/
@@ -1309,7 +1312,8 @@
  清須市,http://www.city.kiyosu.aichi.jp/
  北名古屋市,http://www.city.kitanagoya.lg.jp/
  弥富市,http://www.city.yatomi.lg.jp/
- みよし市,http://www.city.aichi-miyoshi.lg.jp/
+-みよし市,http://www.city.aichi-miyoshi.lg.jp/
++みよし市,https://www.city.aichi-miyoshi.lg.jp/
  あま市,http://www.city.ama.aichi.jp/
 -長久手市,http://www.city.nagakute.lg.jp/index.html
 +長久手市,http://www.city.nagakute.lg.jp/
@@ -1811,8 +1815,9 @@
 +防府市,https://www.city.hofu.yamaguchi.jp/
  下松市,http://www.city.kudamatsu.lg.jp/
  岩国市,http://www.city.iwakuni.lg.jp/
- 光市,http://www.city.hikari.lg.jp/
+-光市,http://www.city.hikari.lg.jp/
 -長門市,http://www.city.nagato.yamaguchi.jp/
++光市,https://www.city.hikari.lg.jp/
 +長門市,https://www.city.nagato.yamaguchi.jp/
  柳井市,https://www.city-yanai.jp/
 -美祢市,http://www2.city.mine.lg.jp/www/toppage/0000000000000/APM03000.html

@@ -360,7 +360,7 @@ code,name,site
 063657,大蔵村,http://www.vill.ohkura.yamagata.jp/
 063665,鮭川村,http://www.vill.sakegawa.yamagata.jp/
 063673,戸沢村,http://www.vill.tozawa.yamagata.jp/
-063819,高畠町,http://www.town.takahata.yamagata.jp/
+063819,高畠町,https://www.town.takahata.yamagata.jp/
 063827,川西町,https://www.town.kawanishi.yamagata.jp/
 064017,小国町,http://www.town.oguni.yamagata.jp/
 064025,白鷹町,http://www.town.shirataka.lg.jp/
@@ -564,7 +564,7 @@ code,name,site
 112186,深谷市,http://www.city.fukaya.saitama.jp/
 112194,上尾市,http://www.city.ageo.lg.jp/
 112216,草加市,http://www.city.soka.saitama.jp/
-112224,越谷市,http://www.city.koshigaya.saitama.jp/
+112224,越谷市,https://www.city.koshigaya.saitama.jp/
 112232,蕨市,https://www.city.warabi.saitama.jp/
 112241,戸田市,https://www.city.toda.saitama.jp/
 112259,入間市,http://www.city.iruma.saitama.jp/
@@ -1138,7 +1138,7 @@ code,name,site
 232335,清須市,http://www.city.kiyosu.aichi.jp/
 232343,北名古屋市,http://www.city.kitanagoya.lg.jp/
 232351,弥富市,http://www.city.yatomi.lg.jp/
-232360,みよし市,http://www.city.aichi-miyoshi.lg.jp/
+232360,みよし市,https://www.city.aichi-miyoshi.lg.jp/
 232378,あま市,http://www.city.ama.aichi.jp/
 232386,長久手市,http://www.city.nagakute.lg.jp/
 233021,東郷町,http://www.town.aichi-togo.lg.jp/
@@ -1554,7 +1554,7 @@ code,name,site
 352063,防府市,https://www.city.hofu.yamaguchi.jp/
 352071,下松市,http://www.city.kudamatsu.lg.jp/
 352080,岩国市,http://www.city.iwakuni.lg.jp/
-352101,光市,http://www.city.hikari.lg.jp/
+352101,光市,https://www.city.hikari.lg.jp/
 352110,長門市,https://www.city.nagato.yamaguchi.jp/
 352128,柳井市,https://www.city-yanai.jp/
 352136,美祢市,http://www2.city.mine.lg.jp/

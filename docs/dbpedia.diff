@@ -463,8 +463,9 @@
  063657,http://www.vill.ohkura.yamagata.jp/
  063665,http://www.vill.sakegawa.yamagata.jp/
  063673,http://www.vill.tozawa.yamagata.jp/
- 063819,http://www.town.takahata.yamagata.jp/
+-063819,http://www.town.takahata.yamagata.jp/
 -063827,http://www.town.kawanishi.yamagata.jp/
++063819,https://www.town.takahata.yamagata.jp/
 +063827,https://www.town.kawanishi.yamagata.jp/
  064017,http://www.town.oguni.yamagata.jp/
  064025,http://www.town.shirataka.lg.jp/
@@ -724,9 +725,10 @@
 -112194,http://www.city.ageo.lg.jp/index.html
 +112194,http://www.city.ageo.lg.jp/
  112216,http://www.city.soka.saitama.jp/
- 112224,http://www.city.koshigaya.saitama.jp/
+-112224,http://www.city.koshigaya.saitama.jp/
 -112232,http://www.city.warabi.saitama.jp/index.htm
 -112241,http://www.city.toda.saitama.jp/
++112224,https://www.city.koshigaya.saitama.jp/
 +112232,https://www.city.warabi.saitama.jp/
 +112241,https://www.city.toda.saitama.jp/
  112259,http://www.city.iruma.saitama.jp/
@@ -1497,8 +1499,9 @@
 +232343,http://www.city.kitanagoya.lg.jp/
  232351,http://www.city.yatomi.lg.jp/
 -232351,http://www.city.yatomi.aichi.jp
- 232360,http://www.city.aichi-miyoshi.lg.jp/
+-232360,http://www.city.aichi-miyoshi.lg.jp/
 -232378,http://www.city.ama.aichi.jp/index.html
++232360,https://www.city.aichi-miyoshi.lg.jp/
 +232378,http://www.city.ama.aichi.jp/
  232386,http://www.city.nagakute.lg.jp/
  233021,http://www.town.aichi-togo.lg.jp/
@@ -2057,14 +2060,15 @@
 -352063,http://www.city.hofu.yamaguchi.jp/
 -352071,http://www.city.kudamatsu.yamaguchi.jp/
 -352080,http://www.city.iwakuni.yamaguchi.jp/
+-352101,http://www.city.hikari.lg.jp/
+-352110,http://www.city.nagato.yamaguchi.jp/
+-352128,http://www.city-yanai.jp/
+-352136,http://www2.city.mine.lg.jp/www/toppage/0000000000000/APM03000.html
 +352047,https://www.city.hagi.lg.jp/
 +352063,https://www.city.hofu.yamaguchi.jp/
 +352071,http://www.city.kudamatsu.lg.jp/
 +352080,http://www.city.iwakuni.lg.jp/
- 352101,http://www.city.hikari.lg.jp/
--352110,http://www.city.nagato.yamaguchi.jp/
--352128,http://www.city-yanai.jp/
--352136,http://www2.city.mine.lg.jp/www/toppage/0000000000000/APM03000.html
++352101,https://www.city.hikari.lg.jp/
 +352110,https://www.city.nagato.yamaguchi.jp/
 +352128,https://www.city-yanai.jp/
 +352136,http://www2.city.mine.lg.jp/
