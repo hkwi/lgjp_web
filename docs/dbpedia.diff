@@ -804,7 +804,8 @@
 +122041,http://www.city.funabashi.lg.jp/
  122050,http://www.city.tateyama.chiba.jp/
  122068,http://www.city.kisarazu.lg.jp/
- 122076,http://www.city.matsudo.chiba.jp/
+-122076,http://www.city.matsudo.chiba.jp/
++122076,https://www.city.matsudo.chiba.jp/
  122084,http://www.city.noda.chiba.jp/
 -122106,http://www.city.mobara.chiba.jp/
 -122114,http://www.city.narita.chiba.jp/
@@ -1686,10 +1687,11 @@
  272060,http://www.city.izumiotsu.lg.jp/
 -272060,http://www.city.izumiotsu.osaka.jp/
  272078,http://www.city.takatsuki.osaka.jp/
- 272086,http://www.city.kaizuka.lg.jp/
+-272086,http://www.city.kaizuka.lg.jp/
 -272094,http://www.city.moriguchi.osaka.jp/contents/index.html
 -272108,http://www.city.hirakata.osaka.jp/
 -272116,http://www.city.ibaraki.osaka.jp/index.html
++272086,https://www.city.kaizuka.lg.jp/
 +272094,http://www.city.moriguchi.osaka.jp/
 +272108,https://www.city.hirakata.osaka.jp/
 +272116,http://www.city.ibaraki.osaka.jp/
