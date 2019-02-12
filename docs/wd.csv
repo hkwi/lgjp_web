@@ -767,7 +767,8 @@ code,name,site
 141518,緑区,http://www.city.sagamihara.kanagawa.jp/midoriku/
 141526,中央区,http://www.city.sagamihara.kanagawa.jp/chuoku/
 141534,南区,http://www.city.sagamihara.kanagawa.jp/minamiku/
-142018,横須賀市,http://www.city.yokosuka.kanagawa.jp/0140/english/
+142018,横須賀市,http://www.city.yokosuka.kanagawa.jp.c.rb.hp.transer.com/index.html
+142018,横須賀市,http://www.city.yokosuka.kanagawa.jp.e.rb.hp.transer.com/
 142018,横須賀市,https://www.city.yokosuka.kanagawa.jp/
 142034,平塚市,http://www.city.hiratsuka.kanagawa.jp/
 142042,鎌倉市,http://www.city.kamakura.kanagawa.jp/
@@ -997,7 +998,7 @@ code,name,site
 205885,小川村,http://www.vill.ogawa.nagano.jp/
 205907,飯綱町,http://www.town.iizuna.nagano.jp/
 206024,栄村,http://www.vill.sakae.nagano.jp/
-210005,岐阜県,http://www.pref.gifu.lg.jp
+210005,岐阜県,https://www.pref.gifu.lg.jp/
 212016,岐阜市,http://www.city.gifu.lg.jp/
 212024,大垣市,http://www.city.ogaki.lg.jp/
 212032,高山市,http://www.city.takayama.lg.jp/
@@ -1045,7 +1046,7 @@ code,name,site
 221015,葵区,http://www.city.shizuoka.jp/deps/aoi/aoi-ku.html
 221023,駿河区,http://www.city.shizuoka.jp/suruga.html
 221031,清水区,http://www.city.shizuoka.jp/shimizu.html
-221309,浜松市,http://www.city.hamamatsu.shizuoka.jp/
+221309,浜松市,https://www.city.hamamatsu.shizuoka.jp/
 221317,中区,http://www.city.hamamatsu.shizuoka.jp/c-shinko/ward/nakaku/
 221325,東区,http://www.city.hamamatsu.shizuoka.jp/e-shinko/ward/higashiku/
 221333,西区,http://www.city.hamamatsu.shizuoka.jp/ward/nishiku/index.html
@@ -1058,7 +1059,7 @@ code,name,site
 222062,三島市,http://www.city.mishima.shizuoka.jp/
 222071,富士宮市,http://www.city.fujinomiya.shizuoka.jp/
 222089,伊東市,http://www.city.ito.shizuoka.jp/
-222097,島田市,http://www.city.shimada.shizuoka.jp/
+222097,島田市,https://www.city.shimada.shizuoka.jp/index.html
 222101,富士市,http://www.city.fuji.shizuoka.jp/
 222119,磐田市,http://www.city.iwata.shizuoka.jp/
 222127,焼津市,http://www.city.yaizu.lg.jp/
@@ -1066,7 +1067,7 @@ code,name,site
 222143,藤枝市,http://www.city.fujieda.shizuoka.jp/
 222151,御殿場市,https://www.city.gotemba.shizuoka.jp/
 222160,袋井市,http://www.city.fukuroi.shizuoka.jp/
-222194,下田市,http://www.city.shimoda.shizuoka.jp/
+222194,下田市,https://www.city.shimoda.shizuoka.jp/
 222208,裾野市,https://www.city.susono.shizuoka.jp/
 222216,湖西市,http://www.city.kosai.shizuoka.jp/
 222224,伊豆市,http://www.city.izu.shizuoka.jp/
@@ -1320,7 +1321,7 @@ code,name,site
 273813,太子町,http://www.town.taishi.osaka.jp/
 273821,河南町,http://www.town.kanan.osaka.jp/
 273830,千早赤阪村,http://www.vill.chihayaakasaka.osaka.jp/
-280003,兵庫県,http://web.pref.hyogo.lg.jp
+280003,兵庫県,https://web.pref.hyogo.lg.jp/
 281000,神戸市,http://www.city.kobe.lg.jp/
 281018,東灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/
 281026,灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/nada/
@@ -1411,7 +1412,7 @@ code,name,site
 294519,上北山村,http://vill.kamikitayama.nara.jp/
 294527,川上村,http://www.vill.kawakami.nara.jp/
 294535,東吉野村,http://www.vill.higashiyoshino.nara.jp/
-300004,和歌山県,http://www.pref.wakayama.lg.jp
+300004,和歌山県,https://www.pref.wakayama.lg.jp/
 302015,和歌山市,http://www.city.wakayama.wakayama.jp/
 302023,海南市,http://www.city.kainan.wakayama.jp/
 302031,橋本市,http://www.city.hashimoto.lg.jp/
@@ -1566,7 +1567,7 @@ code,name,site
 353434,田布施町,http://www.town.tabuse.lg.jp/
 353442,平生町,http://www.town.hirao.lg.jp/
 355020,阿武町,http://www.town.abu.lg.jp/
-360007,徳島県,http://www.pref.tokushima.jp
+360007,徳島県,https://www.pref.tokushima.lg.jp/
 362018,徳島市,http://www.city.tokushima.tokushima.jp/
 362026,鳴門市,https://www.city.naruto.tokushima.jp/
 362034,小松島市,https://www.city.komatsushima.tokushima.jp/
@@ -1761,7 +1762,7 @@ code,name,site
 414247,江北町,http://www.town.kouhoku.saga.jp/
 414255,白石町,http://www.town.shiroishi.lg.jp/
 414417,太良町,http://www.town.tara.lg.jp/
-420000,長崎県,http://www.pref.nagasaki.lg.jp
+420000,長崎県,https://www.pref.nagasaki.jp/
 422011,長崎市,http://www.city.nagasaki.lg.jp/
 422029,佐世保市,http://www.city.sasebo.lg.jp/
 422037,島原市,http://www.city.shimabara.lg.jp/
@@ -1880,7 +1881,7 @@ code,name,site
 454419,高千穂町,http://www.town-takachiho.jp/
 454427,日之影町,http://www.town.hinokage.lg.jp/
 454435,五ヶ瀬町,http://www.town.gokase.miyazaki.jp/
-460001,鹿児島県,http://www.pref.kagoshima.jp
+460001,鹿児島県,https://www.pref.kagoshima.jp/
 462012,鹿児島市,http://www.city.kagoshima.lg.jp/
 462039,鹿屋市,http://www.e-kanoya.net/
 462047,枕崎市,https://www.city.makurazaki.lg.jp/
@@ -1964,5 +1965,5 @@ code,name,site
 473618,久米島町,http://www.town.kumejima.okinawa.jp/
 473626,八重瀬町,http://www.town.yaese.okinawa.jp/
 473758,多良間村,http://www.vill.tarama.okinawa.jp/
-473812,竹富町,http://www.town.taketomi.lg.jp/
+473812,竹富町,https://www.town.taketomi.lg.jp/
 473821,与那国町,http://www.town.yonaguni.okinawa.jp/
