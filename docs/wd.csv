@@ -321,7 +321,7 @@ code,name,site
 052141,にかほ市,http://www.city.nikaho.akita.jp/
 052159,仙北市,http://www.city.semboku.akita.jp/
 053031,小坂町,http://www.town.kosaka.akita.jp/
-053279,上小阿仁村,http://www.vill.kamikoani.akita.jp/
+053279,上小阿仁村,https://www.vill.kamikoani.akita.jp/
 053465,藤里町,http://www.town.fujisato.akita.jp/
 053481,三種町,http://www.town.mitane.akita.jp/
 053490,八峰町,http://www.town.happou.akita.jp/
@@ -330,7 +330,7 @@ code,name,site
 053660,井川町,http://www.town.ikawa.akita.jp/
 053686,大潟村,http://www.ogata.or.jp/
 054348,美郷町,http://www.town.misato.akita.jp/
-054631,羽後町,http://www.town.ugo.lg.jp/
+054631,羽後町,https://www.town.ugo.lg.jp/
 054640,東成瀬村,http://www.higashinaruse.com/
 060003,山形県,http://www.pref.yamagata.jp/
 062014,山形市,https://www.city.yamagata-yamagata.lg.jp/
@@ -717,7 +717,7 @@ code,name,site
 132217,清瀬市,https://www.city.kiyose.lg.jp/
 132225,東久留米市,http://www.city.higashikurume.lg.jp/
 132233,武蔵村山市,http://www.city.musashimurayama.lg.jp/
-132241,多摩市,http://www.city.tama.lg.jp/
+132241,多摩市,https://www.city.tama.lg.jp/
 132250,稲城市,http://www.city.inagi.tokyo.jp/
 132276,羽村市,https://www.city.hamura.tokyo.jp/
 132284,あきる野市,https://www.city.akiruno.tokyo.jp/
@@ -1363,7 +1363,7 @@ code,name,site
 283011,猪名川町,http://www.town.inagawa.lg.jp/
 283657,多可町,https://www.town.taka.lg.jp/
 283819,稲美町,http://www.town.hyogo-inami.lg.jp/
-283827,播磨町,http://www.town.harima.lg.jp/
+283827,播磨町,https://www.town.harima.lg.jp/
 284424,市川町,http://www.town.ichikawa.hyogo.jp/
 284432,福崎町,http://www.town.fukusaki.hyogo.jp/
 284467,神河町,http://www.town.kamikawa.hyogo.jp/
@@ -1438,7 +1438,7 @@ code,name,site
 304018,白浜町,http://www.town.shirahama.wakayama.jp/
 304042,上富田町,http://www.town.kamitonda.lg.jp/
 304069,すさみ町,http://www.town.susami.lg.jp/
-304212,那智勝浦町,http://www.town.nachikatsuura.wakayama.jp/
+304212,那智勝浦町,https://www.town.nachikatsuura.wakayama.jp/
 304221,太地町,http://www.town.taiji.lg.jp/
 304247,古座川町,http://www.town.kozagawa.wakayama.jp/
 304271,北山村,http://www.vill.kitayama.wakayama.jp/
@@ -1699,7 +1699,7 @@ code,name,site
 402176,筑紫野市,https://www.city.chikushino.fukuoka.jp/
 402184,春日市,http://www.city.kasuga.fukuoka.jp/
 402192,大野城市,http://www.city.onojo.fukuoka.jp/
-402206,宗像市,http://www.city.munakata.lg.jp/
+402206,宗像市,https://www.city.munakata.lg.jp/
 402214,太宰府市,http://www.city.dazaifu.lg.jp/
 402231,古賀市,http://www.city.koga.fukuoka.jp/
 402249,福津市,http://www.city.fukutsu.lg.jp/

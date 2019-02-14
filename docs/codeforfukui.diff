@@ -327,13 +327,16 @@
  仙北市,http://www.city.semboku.akita.jp/
  小坂町,http://www.town.kosaka.akita.jp/
 -上小阿仁村,https://www.vill.kamikoani.akita.jp/forms/top/top.aspx
-+上小阿仁村,http://www.vill.kamikoani.akita.jp/
++上小阿仁村,https://www.vill.kamikoani.akita.jp/
  藤里町,http://www.town.fujisato.akita.jp/
  三種町,http://www.town.mitane.akita.jp/
  八峰町,http://www.town.happou.akita.jp/
-@@ -325,26 +326,26 @@
+@@ -323,28 +324,28 @@
+ 井川町,http://www.town.ikawa.akita.jp/
+ 大潟村,http://www.ogata.or.jp/
  美郷町,http://www.town.misato.akita.jp/
- 羽後町,http://www.town.ugo.lg.jp/
+-羽後町,http://www.town.ugo.lg.jp/
++羽後町,https://www.town.ugo.lg.jp/
  東成瀬村,http://www.higashinaruse.com/
 -山形市,http://www.city.yamagata-yamagata.lg.jp/
 +山形市,https://www.city.yamagata-yamagata.lg.jp/
@@ -842,7 +845,8 @@
 +清瀬市,https://www.city.kiyose.lg.jp/
  東久留米市,http://www.city.higashikurume.lg.jp/
  武蔵村山市,http://www.city.musashimurayama.lg.jp/
- 多摩市,http://www.city.tama.lg.jp/
+-多摩市,http://www.city.tama.lg.jp/
++多摩市,https://www.city.tama.lg.jp/
  稲城市,http://www.city.inagi.tokyo.jp/
 -羽村市,http://www.city.hamura.tokyo.jp/
 -あきる野市,http://www.city.akiruno.tokyo.jp/
@@ -1573,8 +1577,9 @@
 +猪名川町,http://www.town.inagawa.lg.jp/
 +多可町,https://www.town.taka.lg.jp/
  稲美町,http://www.town.hyogo-inami.lg.jp/
- 播磨町,http://www.town.harima.lg.jp/
+-播磨町,http://www.town.harima.lg.jp/
 -市川町,https://www.town.ichikawa.lg.jp/forms/top/top.aspx
++播磨町,https://www.town.harima.lg.jp/
 +市川町,http://www.town.ichikawa.hyogo.jp/
  福崎町,http://www.town.fukusaki.hyogo.jp/
 -神河町,http://www.town.kamikawa.hyogo.jp/index.html
@@ -1669,7 +1674,7 @@
  上富田町,http://www.town.kamitonda.lg.jp/
  すさみ町,http://www.town.susami.lg.jp/
 -那智勝浦町,https://www.town.nachikatsuura.wakayama.jp/forms/top/top.aspx
-+那智勝浦町,http://www.town.nachikatsuura.wakayama.jp/
++那智勝浦町,https://www.town.nachikatsuura.wakayama.jp/
  太地町,http://www.town.taiji.lg.jp/
  古座川町,http://www.town.kozagawa.wakayama.jp/
 -北山村,https://www.vill.kitayama.wakayama.jp/
@@ -2005,7 +2010,8 @@
 +筑紫野市,https://www.city.chikushino.fukuoka.jp/
  春日市,http://www.city.kasuga.fukuoka.jp/
  大野城市,http://www.city.onojo.fukuoka.jp/
- 宗像市,http://www.city.munakata.lg.jp/
+-宗像市,http://www.city.munakata.lg.jp/
++宗像市,https://www.city.munakata.lg.jp/
  太宰府市,http://www.city.dazaifu.lg.jp/
 -古賀市,https://www.city.koga.fukuoka.jp/
 -福津市,http://city.fukutsu.lg.jp/

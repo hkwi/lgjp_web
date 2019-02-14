@@ -415,7 +415,7 @@
 -053465,http://www.town.fujisato.akita.jp/index.html
 +052159,http://www.city.semboku.akita.jp/
 +053031,http://www.town.kosaka.akita.jp/
-+053279,http://www.vill.kamikoani.akita.jp/
++053279,https://www.vill.kamikoani.akita.jp/
 +053465,http://www.town.fujisato.akita.jp/
  053481,http://www.town.mitane.akita.jp/
  053490,http://www.town.happou.akita.jp/
@@ -428,7 +428,8 @@
 +053686,http://www.ogata.or.jp/
  054348,http://www.town.misato.akita.jp/
 -054631,http://www.bon-odori.jp/index.html
- 054631,http://www.town.ugo.lg.jp/
+-054631,http://www.town.ugo.lg.jp/
++054631,https://www.town.ugo.lg.jp/
  054640,http://www.higashinaruse.com/
 -060003,http://www.pref.yamagata.jp/
 -062014,http://www.city.yamagata-yamagata.lg.jp/
@@ -942,7 +943,8 @@
 +132217,https://www.city.kiyose.lg.jp/
  132225,http://www.city.higashikurume.lg.jp/
  132233,http://www.city.musashimurayama.lg.jp/
- 132241,http://www.city.tama.lg.jp/
+-132241,http://www.city.tama.lg.jp/
++132241,https://www.city.tama.lg.jp/
  132250,http://www.city.inagi.tokyo.jp/
 -132276,http://www.city.hamura.tokyo.jp/
 -132284,http://www.city.akiruno.tokyo.jp/
@@ -1802,8 +1804,9 @@
 +283657,https://www.town.taka.lg.jp/
  283819,http://www.town.hyogo-inami.lg.jp/
 -283819,https://www.facebook.com/hyogo.inami
- 283827,http://www.town.harima.lg.jp/
+-283827,http://www.town.harima.lg.jp/
 -284424,https://www.town.ichikawa.hyogo.jp/forms/top/top.aspx
++283827,https://www.town.harima.lg.jp/
 +284424,http://www.town.ichikawa.hyogo.jp/
  284432,http://www.town.fukusaki.hyogo.jp/
  284467,http://www.town.kamikawa.hyogo.jp/
@@ -1914,8 +1917,9 @@
  304018,http://www.town.shirahama.wakayama.jp/
  304042,http://www.town.kamitonda.lg.jp/
  304069,http://www.town.susami.lg.jp/
- 304212,http://www.town.nachikatsuura.wakayama.jp/
+-304212,http://www.town.nachikatsuura.wakayama.jp/
 -304221,http://www.town.taiji.wakayama.jp/index.html
++304212,https://www.town.nachikatsuura.wakayama.jp/
 +304221,http://www.town.taiji.lg.jp/
  304247,http://www.town.kozagawa.wakayama.jp/
 -304247,http://www.town.kozagawa.wakayama.jp/toppage.asp?DISPTYPE=0
@@ -2262,8 +2266,9 @@
 +402176,https://www.city.chikushino.fukuoka.jp/
  402184,http://www.city.kasuga.fukuoka.jp/
  402192,http://www.city.onojo.fukuoka.jp/
- 402206,http://www.city.munakata.lg.jp/
+-402206,http://www.city.munakata.lg.jp/
 -402206,http://www.city.munakata.lg.jp/index.php
++402206,https://www.city.munakata.lg.jp/
  402214,http://www.city.dazaifu.lg.jp/
 -402231,http://www.city.koga.fukuoka.jp/index.php
 +402231,http://www.city.koga.fukuoka.jp/
