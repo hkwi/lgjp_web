@@ -1575,19 +1575,21 @@
 -245623,http://www.town.kiho.mie.jp/
 -250007,http://www.pref.shiga.lg.jp
 -252018,http://www.city.otsu.lg.jp/
-+245623,https://www.town.kiho.lg.jp/
-+252018,https://www.city.otsu.lg.jp/
- 252026,http://www.city.hikone.shiga.jp/
+-252026,http://www.city.hikone.shiga.jp/
 -252034,http://www.city.nagahama.shiga.jp/
 -252042,http://www.city.omihachiman.shiga.jp
-+252034,https://www.city.nagahama.lg.jp/
-+252042,http://www.city.omihachiman.shiga.jp/
- 252069,http://www.city.kusatsu.shiga.jp/
+-252069,http://www.city.kusatsu.shiga.jp/
 -252077,http://www.city.moriyama.shiga.jp/index.htm
 -252085,http://www.city.ritto.shiga.jp/
 -252093,http://www.city.koka.shiga.jp/
 -252093,http://www.ja-koukagun.jp/
-+252077,http://www.city.moriyama.lg.jp/
++245623,https://www.town.kiho.lg.jp/
++252018,https://www.city.otsu.lg.jp/
++252026,https://www.city.hikone.shiga.jp/
++252034,https://www.city.nagahama.lg.jp/
++252042,http://www.city.omihachiman.shiga.jp/
++252069,https://www.city.kusatsu.shiga.jp/
++252077,https://www.city.moriyama.lg.jp/
 +252085,http://www.city.ritto.lg.jp/
 +252093,http://www.city.koka.lg.jp/
  252107,http://www.city.yasu.lg.jp/
@@ -1622,7 +1624,7 @@
  262021,http://www.city.maizuru.kyoto.jp/
 -262030,http://www.city.ayabe.kyoto.jp/
 -262048,http://www.city.uji.kyoto.jp/
-+262030,http://www.city.ayabe.lg.jp/
++262030,https://www.city.ayabe.lg.jp/
 +262048,https://www.city.uji.kyoto.jp/
  262056,http://www.city.miyazu.kyoto.jp/
  262064,http://www.city.kameoka.kyoto.jp/

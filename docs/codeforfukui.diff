@@ -1332,7 +1332,7 @@
  東浦町,http://www.town.aichi-higashiura.lg.jp/
  南知多町,http://www.town.minamichita.lg.jp/
  美浜町,http://www.town.aichi-mihama.lg.jp/
-@@ -1135,32 +1140,32 @@
+@@ -1135,65 +1140,65 @@
  松阪市,http://www.city.matsusaka.mie.jp/
  桑名市,http://www.city.kuwana.lg.jp/
  鈴鹿市,http://www.city.suzuka.lg.jp/
@@ -1370,15 +1370,18 @@
  御浜町,http://www.town.mihama.mie.jp/
 -紀宝町,http://www.town.kiho.lg.jp/
 -大津市,http://www.city.otsu.lg.jp/
+-彦根市,http://www.city.hikone.shiga.jp/
+-長浜市,http://www.city.nagahama.lg.jp/
 +紀宝町,https://www.town.kiho.lg.jp/
 +大津市,https://www.city.otsu.lg.jp/
- 彦根市,http://www.city.hikone.shiga.jp/
--長浜市,http://www.city.nagahama.lg.jp/
++彦根市,https://www.city.hikone.shiga.jp/
 +長浜市,https://www.city.nagahama.lg.jp/
  近江八幡市,http://www.city.omihachiman.shiga.jp/
- 草津市,http://www.city.kusatsu.shiga.jp/
- 守山市,http://www.city.moriyama.lg.jp/
-@@ -1168,32 +1173,32 @@
+-草津市,http://www.city.kusatsu.shiga.jp/
+-守山市,http://www.city.moriyama.lg.jp/
++草津市,https://www.city.kusatsu.shiga.jp/
++守山市,https://www.city.moriyama.lg.jp/
+ 栗東市,http://www.city.ritto.lg.jp/
  甲賀市,http://www.city.koka.lg.jp/
  野洲市,http://www.city.yasu.lg.jp/
  湖南市,http://www.city.konan.shiga.jp/
@@ -1418,10 +1421,11 @@
 +西京区,http://www.city.kyoto.lg.jp/nisikyo/
  福知山市,http://www.city.fukuchiyama.kyoto.jp/
 -舞鶴市,https://www.city.maizuru.kyoto.jp/
-+舞鶴市,http://www.city.maizuru.kyoto.jp/
- 綾部市,http://www.city.ayabe.lg.jp/
+-綾部市,http://www.city.ayabe.lg.jp/
 -宇治市,http://www.city.uji.kyoto.jp/
 -宮津市,http://www.city.miyazu.kyoto.jp/www/normal_top.jsp
++舞鶴市,http://www.city.maizuru.kyoto.jp/
++綾部市,https://www.city.ayabe.lg.jp/
 +宇治市,https://www.city.uji.kyoto.jp/
 +宮津市,http://www.city.miyazu.kyoto.jp/
  亀岡市,http://www.city.kameoka.kyoto.jp/
