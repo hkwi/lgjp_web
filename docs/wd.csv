@@ -269,8 +269,8 @@ code,name,site
 041009,仙台市,http://www.city.sendai.jp/
 041017,青葉区,http://www.city.sendai.jp/aobaku/
 041025,宮城野区,http://www.city.sendai.jp/miyaginoku/
-041033,若林区,http://www.city.sendai.jp/wakabayashi/
-041041,太白区,http://www.city.sendai.jp/taihaku/
+041033,若林区,https://www.city.sendai.jp/wakabayashiku/
+041041,太白区,https://www.city.sendai.jp/taihakuku/
 041050,泉区,http://www.city.sendai.jp/izumiku/
 042021,石巻市,http://www.city.ishinomaki.lg.jp/
 042030,塩竈市,https://www.city.shiogama.miyagi.jp/
@@ -369,7 +369,7 @@ code,name,site
 064289,庄内町,http://www.town.shonai.lg.jp/
 064611,遊佐町,http://www.town.yuza.yamagata.jp/
 070009,福島県,http://www.pref.fukushima.jp
-072010,福島市,http://www.city.fukushima.fukushima.jp/
+072010,福島市,https://www.city.fukushima.fukushima.jp/
 072028,会津若松市,https://www.city.aizuwakamatsu.fukushima.jp/
 072036,郡山市,http://www.city.koriyama.fukushima.jp/
 072044,いわき市,http://www.city.iwaki.lg.jp/
@@ -445,7 +445,7 @@ code,name,site
 082171,取手市,https://www.city.toride.ibaraki.jp/
 082198,牛久市,http://www.city.ushiku.lg.jp/
 082201,つくば市,http://www.city.tsukuba.lg.jp/
-082210,ひたちなか市,http://www.city.hitachinaka.lg.jp/
+082210,ひたちなか市,https://www.city.hitachinaka.lg.jp/
 082228,鹿嶋市,http://www.city.kashima.ibaraki.jp/
 082236,潮来市,http://www.city.itako.lg.jp/
 082244,守谷市,https://www.city.moriya.ibaraki.jp/
@@ -723,7 +723,7 @@ code,name,site
 132284,あきる野市,https://www.city.akiruno.tokyo.jp/
 132292,西東京市,https://www.city.nishitokyo.lg.jp/
 133035,瑞穂町,http://www.town.mizuho.tokyo.jp/
-133051,日の出町,http://www.town.hinode.tokyo.jp/
+133051,日の出町,https://www.town.hinode.tokyo.jp/
 133078,檜原村,http://www.vill.hinohara.tokyo.jp/
 133086,奥多摩町,http://www.town.okutama.tokyo.jp/
 133612,大島町,http://www.town.oshima.tokyo.jp/
@@ -1061,7 +1061,7 @@ code,name,site
 222089,伊東市,http://www.city.ito.shizuoka.jp/
 222097,島田市,https://www.city.shimada.shizuoka.jp/index.html
 222101,富士市,http://www.city.fuji.shizuoka.jp/
-222119,磐田市,http://www.city.iwata.shizuoka.jp/
+222119,磐田市,https://www.city.iwata.shizuoka.jp/
 222127,焼津市,http://www.city.yaizu.lg.jp/
 222135,掛川市,http://www.city.kakegawa.shizuoka.jp/
 222143,藤枝市,http://www.city.fujieda.shizuoka.jp/
@@ -1301,7 +1301,7 @@ code,name,site
 272205,箕面市,http://www.city.minoh.lg.jp/
 272213,柏原市,http://www.city.kashiwara.osaka.jp/
 272221,羽曳野市,https://www.city.habikino.lg.jp/
-272230,門真市,http://www.city.kadoma.osaka.jp/
+272230,門真市,https://www.city.kadoma.osaka.jp/
 272248,摂津市,https://www.city.settsu.osaka.jp/
 272256,高石市,http://www.city.takaishi.lg.jp/
 272264,藤井寺市,https://www.city.fujiidera.lg.jp/

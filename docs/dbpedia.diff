@@ -340,8 +340,8 @@
 +041009,http://www.city.sendai.jp/
 +041017,http://www.city.sendai.jp/aobaku/
 +041025,http://www.city.sendai.jp/miyaginoku/
-+041033,http://www.city.sendai.jp/wakabayashi/
-+041041,http://www.city.sendai.jp/taihaku/
++041033,https://www.city.sendai.jp/wakabayashiku/
++041041,https://www.city.sendai.jp/taihakuku/
 +041050,http://www.city.sendai.jp/izumiku/
  042021,http://www.city.ishinomaki.lg.jp/
 -042030,http://www.city.shiogama.miyagi.jp/
@@ -482,8 +482,9 @@
  064611,http://www.town.yuza.yamagata.jp/
 -070009,http://www.pref.fukushima.jp/
 -072010,http://www.city.fukushima.fukushima.jp/soshiki/7/fukushima-channel.html
- 072010,http://www.city.fukushima.fukushima.jp/
+-072010,http://www.city.fukushima.fukushima.jp/
 -072028,http://www.city.aizuwakamatsu.fukushima.jp/
++072010,https://www.city.fukushima.fukushima.jp/
 +072028,https://www.city.aizuwakamatsu.fukushima.jp/
  072036,http://www.city.koriyama.fukushima.jp/
  072044,http://www.city.iwaki.lg.jp/
@@ -573,7 +574,7 @@
 -082201,http://www.city.tsukuba.ibaraki.jp/
 -082210,http://www.city.hitachinaka.ibaraki.jp/
 +082201,http://www.city.tsukuba.lg.jp/
-+082210,http://www.city.hitachinaka.lg.jp/
++082210,https://www.city.hitachinaka.lg.jp/
  082228,http://www.city.kashima.ibaraki.jp/
  082236,http://www.city.itako.lg.jp/
 -082244,http://www.city.moriya.ibaraki.jp/
@@ -774,7 +775,7 @@
  113425,http://www.town.ranzan.saitama.jp/
  113433,http://www.town.ogawa.saitama.jp/
  113468,http://www.town.kawajima.saitama.jp/
-@@ -605,105 +586,128 @@
+@@ -605,139 +586,191 @@
  113484,http://www.town.hatoyama.saitama.jp/
  113492,http://www.town.tokigawa.lg.jp/
  113611,http://www.town.yokoze.saitama.jp/
@@ -957,9 +958,11 @@
 +132284,https://www.city.akiruno.tokyo.jp/
 +132292,https://www.city.nishitokyo.lg.jp/
  133035,http://www.town.mizuho.tokyo.jp/
- 133051,http://www.town.hinode.tokyo.jp/
+-133051,http://www.town.hinode.tokyo.jp/
++133051,https://www.town.hinode.tokyo.jp/
  133078,http://www.vill.hinohara.tokyo.jp/
-@@ -712,32 +716,61 @@
+ 133086,http://www.town.okutama.tokyo.jp/
+ 133612,http://www.town.oshima.tokyo.jp/
  133621,http://www.toshimamura.org/
  133639,http://www.niijima.com/
  133647,http://vill.kouzushima.tokyo.jp/
@@ -1403,8 +1406,9 @@
 -222097,http://www.city.shimada.shizuoka.jp/
 +222097,https://www.city.shimada.shizuoka.jp/index.html
  222101,http://www.city.fuji.shizuoka.jp/
- 222119,http://www.city.iwata.shizuoka.jp/
+-222119,http://www.city.iwata.shizuoka.jp/
 -222127,http://www.city.yaizu.shizuoka.jp
++222119,https://www.city.iwata.shizuoka.jp/
 +222127,http://www.city.yaizu.lg.jp/
  222135,http://www.city.kakegawa.shizuoka.jp/
  222143,http://www.city.fujieda.shizuoka.jp/
@@ -1721,10 +1725,11 @@
  272205,http://www.city.minoh.lg.jp/
  272213,http://www.city.kashiwara.osaka.jp/
 -272221,http://www.city.habikino.osaka.jp/
-+272221,https://www.city.habikino.lg.jp/
- 272230,http://www.city.kadoma.osaka.jp/
+-272230,http://www.city.kadoma.osaka.jp/
 -272230,http://www.city.kadoma.osaka.jp
 -272248,http://www.city.settsu.osaka.jp/
++272221,https://www.city.habikino.lg.jp/
++272230,https://www.city.kadoma.osaka.jp/
 +272248,https://www.city.settsu.osaka.jp/
  272256,http://www.city.takaishi.lg.jp/
 -272264,http://www.city.fujiidera.osaka.jp/

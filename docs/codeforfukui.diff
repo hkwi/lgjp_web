@@ -268,8 +268,8 @@
  宮城野区,http://www.city.sendai.jp/miyaginoku/
 -若林区,http://www.city.sendai.jp/wakabayashiku/
 -太白区,http://www.city.sendai.jp/taihakuku/
-+若林区,http://www.city.sendai.jp/wakabayashi/
-+太白区,http://www.city.sendai.jp/taihaku/
++若林区,https://www.city.sendai.jp/wakabayashiku/
++太白区,https://www.city.sendai.jp/taihakuku/
  泉区,http://www.city.sendai.jp/izumiku/
  石巻市,http://www.city.ishinomaki.lg.jp/
 -塩竈市,http://www.city.shiogama.miyagi.jp/
@@ -384,7 +384,8 @@
  三川町,http://www.town.mikawa.yamagata.jp/
  庄内町,http://www.town.shonai.lg.jp/
  遊佐町,http://www.town.yuza.yamagata.jp/
- 福島市,http://www.city.fukushima.fukushima.jp/
+-福島市,http://www.city.fukushima.fukushima.jp/
++福島市,https://www.city.fukushima.fukushima.jp/
  会津若松市,https://www.city.aizuwakamatsu.fukushima.jp/
 -郡山市,http://www.city.koriyama.fukushima.jp/index.html
 -いわき市,http://www.city.iwaki.lg.jp/www/index.html
@@ -482,8 +483,9 @@
 +取手市,https://www.city.toride.ibaraki.jp/
  牛久市,http://www.city.ushiku.lg.jp/
 -つくば市,http://www.city.tsukuba.ibaraki.jp/
+-ひたちなか市,http://www.city.hitachinaka.lg.jp/
 +つくば市,http://www.city.tsukuba.lg.jp/
- ひたちなか市,http://www.city.hitachinaka.lg.jp/
++ひたちなか市,https://www.city.hitachinaka.lg.jp/
  鹿嶋市,http://www.city.kashima.ibaraki.jp/
  潮来市,http://www.city.itako.lg.jp/
 -守谷市,http://www.city.moriya.ibaraki.jp/
@@ -853,7 +855,8 @@
 +あきる野市,https://www.city.akiruno.tokyo.jp/
 +西東京市,https://www.city.nishitokyo.lg.jp/
  瑞穂町,http://www.town.mizuho.tokyo.jp/
- 日の出町,http://www.town.hinode.tokyo.jp/
+-日の出町,http://www.town.hinode.tokyo.jp/
++日の出町,https://www.town.hinode.tokyo.jp/
  檜原村,http://www.vill.hinohara.tokyo.jp/
  奥多摩町,http://www.town.okutama.tokyo.jp/
 -大島町,https://www.town.oshima.tokyo.jp/
@@ -1235,7 +1238,8 @@
 -島田市,https://www.city.shimada.shizuoka.jp/
 +島田市,https://www.city.shimada.shizuoka.jp/index.html
  富士市,http://www.city.fuji.shizuoka.jp/
- 磐田市,http://www.city.iwata.shizuoka.jp/
+-磐田市,http://www.city.iwata.shizuoka.jp/
++磐田市,https://www.city.iwata.shizuoka.jp/
  焼津市,http://www.city.yaizu.lg.jp/
  掛川市,http://www.city.kakegawa.shizuoka.jp/
 -藤枝市,https://www.city.fujieda.shizuoka.jp/
@@ -1520,8 +1524,9 @@
  箕面市,http://www.city.minoh.lg.jp/
  柏原市,http://www.city.kashiwara.osaka.jp/
  羽曳野市,https://www.city.habikino.lg.jp/
- 門真市,http://www.city.kadoma.osaka.jp/
+-門真市,http://www.city.kadoma.osaka.jp/
 -摂津市,http://www.city.settsu.osaka.jp/
++門真市,https://www.city.kadoma.osaka.jp/
 +摂津市,https://www.city.settsu.osaka.jp/
  高石市,http://www.city.takaishi.lg.jp/
  藤井寺市,https://www.city.fujiidera.lg.jp/
