@@ -12,8 +12,7 @@
  室蘭市,http://www.city.muroran.lg.jp/
 +室蘭市,http://www.city.muroran.lg.jp/main/org2260/odlib.php
  釧路市,https://www.city.kushiro.lg.jp/
--帯広市,https://www.city.obihiro.hokkaido.jp/
-+帯広市,http://www.city.obihiro.hokkaido.jp/
+ 帯広市,https://www.city.obihiro.hokkaido.jp/
  北見市,http://www.city.kitami.lg.jp/
  夕張市,http://www.city.yubari.lg.jp/
 -岩見沢市,https://www.city.iwamizawa.hokkaido.jp/
@@ -120,8 +119,9 @@
 -枝幸町,http://www.town.esashi.hokkaido.jp/transfer.html
 +枝幸町,http://www.esashi.jp/
  豊富町,http://www.town.toyotomi.hokkaido.jp/
- 礼文町,http://www.town.rebun.hokkaido.jp/
+-礼文町,http://www.town.rebun.hokkaido.jp/
 -利尻町,http://www.town.rishiri.hokkaido.jp/2s_index.htm
++礼文町,https://www.town.rebun.hokkaido.jp/
 +利尻町,http://www.town.rishiri.hokkaido.jp/
  利尻富士町,http://www.town.rishirifuji.hokkaido.jp/
  幌延町,http://www.town.horonobe.hokkaido.jp/
@@ -168,7 +168,7 @@
  大樹町,http://www.town.taiki.hokkaido.jp/
  広尾町,http://www.town.hiroo.hokkaido.jp/
  幕別町,http://www.town.makubetsu.lg.jp/
-@@ -175,28 +176,28 @@
+@@ -175,7 +176,7 @@
  本別町,http://www.town.honbetsu.hokkaido.jp/
  足寄町,http://www.town.ashoro.hokkaido.jp/
  陸別町,https://www.rikubetsu.jp/
@@ -176,9 +176,8 @@
 +浦幌町,https://www.urahoro.jp/
  釧路町,http://www.town.kushiro.lg.jp/
  厚岸町,https://www.akkeshi-town.jp/
--浜中町,https://www.townhamanaka.jp/
-+浜中町,http://www.townhamanaka.jp/
- 標茶町,http://www.town.shibecha.hokkaido.jp/
+ 浜中町,https://www.townhamanaka.jp/
+@@ -183,20 +184,20 @@
  弟子屈町,http://www.town.teshikaga.hokkaido.jp/
  鶴居村,http://www.vill.tsurui.lg.jp/
  白糠町,http://www.town.shiranuka.lg.jp/
@@ -2082,12 +2081,11 @@
 -神埼市,https://www.city.kanzaki.saga.jp/
 -吉野ヶ里町,https://www.town.yoshinogari.saga.jp/
 -基山町,https://www.town.kiyama.lg.jp/
--上峰町,https://www.town.kamimine.lg.jp/
--みやき町,https://www.town.miyaki.lg.jp/
 +神埼市,http://www.city.kanzaki.saga.jp/
 +吉野ヶ里町,http://www.town.yoshinogari.saga.jp/
 +基山町,http://www.town.kiyama.lg.jp/
-+上峰町,http://www.town.kamimine.lg.jp/
+ 上峰町,https://www.town.kamimine.lg.jp/
+-みやき町,https://www.town.miyaki.lg.jp/
 +みやき町,http://www.town.miyaki.lg.jp/
  玄海町,http://www.town.genkai.saga.jp/
  有田町,http://www.town.arita.lg.jp/
@@ -2113,7 +2111,7 @@
  五島市,http://www.city.goto.nagasaki.jp/
  西海市,http://www.city.saikai.nagasaki.jp/
  雲仙市,http://www.city.unzen.nagasaki.jp/
-@@ -1737,79 +1742,79 @@
+@@ -1737,71 +1742,71 @@
  佐々町,http://www.sazacho-nagasaki.jp/
  新上五島町,http://official.shinkamigoto.net/
  熊本市,http://www.city.kumamoto.jp/
@@ -2217,9 +2215,8 @@
 +日出町,http://www.town.hiji.oita.jp/
  九重町,http://www.town.kokonoe.oita.jp/
  玖珠町,http://www.town.kusu.oita.jp/
--宮崎市,https://www.city.miyazaki.miyazaki.jp/
-+宮崎市,http://www.city.miyazaki.miyazaki.jp/
- 都城市,http://www.city.miyakonojo.miyazaki.jp/
+ 宮崎市,https://www.city.miyazaki.miyazaki.jp/
+@@ -1809,7 +1814,7 @@
  延岡市,http://www.city.nobeoka.miyazaki.jp/
  日南市,https://www.city.nichinan.lg.jp/
  小林市,http://www.city.kobayashi.lg.jp/

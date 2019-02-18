@@ -18,10 +18,11 @@
  012041,http://www.city.asahikawa.hokkaido.jp/
  012050,http://www.city.muroran.lg.jp/
 -012068,http://www.city.kushiro.lg.jp/
+-012076,http://www.city.obihiro.hokkaido.jp/
+-012084,None
 +012050,http://www.city.muroran.lg.jp/main/org2260/odlib.php
 +012068,https://www.city.kushiro.lg.jp/
- 012076,http://www.city.obihiro.hokkaido.jp/
--012084,None
++012076,https://www.city.obihiro.hokkaido.jp/
 +012084,http://www.city.kitami.lg.jp/
  012092,http://www.city.yubari.lg.jp/
  012106,http://www.city.iwamizawa.hokkaido.jp/
@@ -132,7 +133,7 @@
  014630,http://www.vill.shimukappu.lg.jp/
  014648,http://www.town.wassamu.hokkaido.jp/
  014656,http://www.town.kembuchi.hokkaido.jp/
-@@ -111,14 +117,14 @@
+@@ -111,54 +117,52 @@
  014818,http://www.town.mashike.hokkaido.jp/
  014826,http://www.town.obira.hokkaido.jp/
  014834,http://www.town.tomamae.lg.jp/
@@ -147,9 +148,10 @@
 -015148,http://www.town.esashi.hokkaido.jp/
 +015148,http://www.esashi.jp/
  015164,http://www.town.toyotomi.hokkaido.jp/
- 015172,http://www.town.rebun.hokkaido.jp/
+-015172,http://www.town.rebun.hokkaido.jp/
++015172,https://www.town.rebun.hokkaido.jp/
  015181,http://www.town.rishiri.hokkaido.jp/
-@@ -126,39 +132,37 @@
+ 015199,http://www.town.rishirifuji.hokkaido.jp/
  015202,http://www.town.horonobe.hokkaido.jp/
  015431,http://www.town.bihoro.hokkaido.jp/
  015440,http://www.town.tsubetsu.hokkaido.jp/
@@ -211,7 +213,7 @@
 -016632,http://www.townhamanaka.jp/index.html
 -016641,http://www.town.shibecha.hokkaido.jp/yakuba/
 +016624,https://www.akkeshi-town.jp/
-+016632,http://www.townhamanaka.jp/
++016632,https://www.townhamanaka.jp/
 +016641,http://www.town.shibecha.hokkaido.jp/
  016659,http://www.town.teshikaga.hokkaido.jp/
  016675,http://www.vill.tsurui.lg.jp/
@@ -2355,8 +2357,9 @@
  412104,http://www.city.kanzaki.saga.jp/
  413275,http://www.town.yoshinogari.saga.jp/
 -413411,http://www.town.kiyama.saga.jp/
+-413453,http://www.town.kamimine.lg.jp/
 +413411,http://www.town.kiyama.lg.jp/
- 413453,http://www.town.kamimine.lg.jp/
++413453,https://www.town.kamimine.lg.jp/
  413461,http://www.town.miyaki.lg.jp/
 +413879,http://www.town.genkai.saga.jp/
  414018,http://www.town.arita.lg.jp/
@@ -2483,7 +2486,8 @@
  444618,http://www.town.kokonoe.oita.jp/
  444626,http://www.town.kusu.oita.jp/
 -450006,http://www.pref.miyazaki.lg.jp/
- 452017,http://www.city.miyazaki.miyazaki.jp/
+-452017,http://www.city.miyazaki.miyazaki.jp/
++452017,https://www.city.miyazaki.miyazaki.jp/
  452025,http://www.city.miyakonojo.miyazaki.jp/
  452033,http://www.city.nobeoka.miyazaki.jp/
 -452041,http://www.city.nichinan.lg.jp

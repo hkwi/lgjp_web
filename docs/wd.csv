@@ -17,7 +17,7 @@ code,name,site
 012050,室蘭市,http://www.city.muroran.lg.jp/
 012050,室蘭市,http://www.city.muroran.lg.jp/main/org2260/odlib.php
 012068,釧路市,https://www.city.kushiro.lg.jp/
-012076,帯広市,http://www.city.obihiro.hokkaido.jp/
+012076,帯広市,https://www.city.obihiro.hokkaido.jp/
 012084,北見市,http://www.city.kitami.lg.jp/
 012092,夕張市,http://www.city.yubari.lg.jp/
 012106,岩見沢市,http://www.city.iwamizawa.hokkaido.jp/
@@ -128,7 +128,7 @@ code,name,site
 015130,中頓別町,http://www.town.nakatombetsu.hokkaido.jp/
 015148,枝幸町,http://www.esashi.jp/
 015164,豊富町,http://www.town.toyotomi.hokkaido.jp/
-015172,礼文町,http://www.town.rebun.hokkaido.jp/
+015172,礼文町,https://www.town.rebun.hokkaido.jp/
 015181,利尻町,http://www.town.rishiri.hokkaido.jp/
 015199,利尻富士町,http://www.town.rishirifuji.hokkaido.jp/
 015202,幌延町,http://www.town.horonobe.hokkaido.jp/
@@ -181,7 +181,7 @@ code,name,site
 016497,浦幌町,https://www.urahoro.jp/
 016616,釧路町,http://www.town.kushiro.lg.jp/
 016624,厚岸町,https://www.akkeshi-town.jp/
-016632,浜中町,http://www.townhamanaka.jp/
+016632,浜中町,https://www.townhamanaka.jp/
 016641,標茶町,http://www.town.shibecha.hokkaido.jp/
 016659,弟子屈町,http://www.town.teshikaga.hokkaido.jp/
 016675,鶴居村,http://www.vill.tsurui.lg.jp/
@@ -1754,7 +1754,7 @@ code,name,site
 412104,神埼市,http://www.city.kanzaki.saga.jp/
 413275,吉野ヶ里町,http://www.town.yoshinogari.saga.jp/
 413411,基山町,http://www.town.kiyama.lg.jp/
-413453,上峰町,http://www.town.kamimine.lg.jp/
+413453,上峰町,https://www.town.kamimine.lg.jp/
 413461,みやき町,http://www.town.miyaki.lg.jp/
 413879,玄海町,http://www.town.genkai.saga.jp/
 414018,有田町,http://www.town.arita.lg.jp/
@@ -1855,7 +1855,7 @@ code,name,site
 444618,九重町,http://www.town.kokonoe.oita.jp/
 444626,玖珠町,http://www.town.kusu.oita.jp/
 450006,宮崎県,http://www.pref.miyazaki.lg.jp
-452017,宮崎市,http://www.city.miyazaki.miyazaki.jp/
+452017,宮崎市,https://www.city.miyazaki.miyazaki.jp/
 452025,都城市,http://www.city.miyakonojo.miyazaki.jp/
 452033,延岡市,http://www.city.nobeoka.miyazaki.jp/
 452041,日南市,https://www.city.nichinan.lg.jp/
