@@ -25,8 +25,9 @@
 +012076,https://www.city.obihiro.hokkaido.jp/
 +012084,http://www.city.kitami.lg.jp/
  012092,http://www.city.yubari.lg.jp/
- 012106,http://www.city.iwamizawa.hokkaido.jp/
+-012106,http://www.city.iwamizawa.hokkaido.jp/
 -012114,http://www.city.abashiri.hokkaido.jp
++012106,https://www.city.iwamizawa.hokkaido.jp/
 +012114,http://www.city.abashiri.hokkaido.jp/
  012122,http://www.e-rumoi.jp/
  012131,http://www.city.tomakomai.hokkaido.jp/
@@ -142,7 +143,8 @@
  014851,http://www.vill.shosanbetsu.lg.jp/
  014869,http://www.town.embetsu.hokkaido.jp/
  014877,http://www.teshiotown.hokkaido.jp/
- 015113,http://www.vill.sarufutsu.hokkaido.jp/
+-015113,http://www.vill.sarufutsu.hokkaido.jp/
++015113,https://www.vill.sarufutsu.hokkaido.jp/
  015121,http://www.town.hamatonbetsu.hokkaido.jp/
  015130,http://www.town.nakatombetsu.hokkaido.jp/
 -015148,http://www.town.esashi.hokkaido.jp/
@@ -339,15 +341,16 @@
 -040002,http://www.pref.miyagi.jp/
 -040256,http://www.city.kesennuma.lg.jp/
 -041009,http://www.city.sendai.jp
+-042021,http://www.city.ishinomaki.lg.jp/
+-042030,http://www.city.shiogama.miyagi.jp/
+-042056,http://www.city.kesennuma.lg.jp/
 +041009,http://www.city.sendai.jp/
 +041017,http://www.city.sendai.jp/aobaku/
 +041025,http://www.city.sendai.jp/miyaginoku/
 +041033,https://www.city.sendai.jp/wakabayashiku/
 +041041,https://www.city.sendai.jp/taihakuku/
 +041050,http://www.city.sendai.jp/izumiku/
- 042021,http://www.city.ishinomaki.lg.jp/
--042030,http://www.city.shiogama.miyagi.jp/
--042056,http://www.city.kesennuma.lg.jp/
++042021,https://www.city.ishinomaki.lg.jp/
 +042030,https://www.city.shiogama.miyagi.jp/
 +042056,http://www.kesennuma.miyagi.jp/
  042064,http://www.city.shiroishi.miyagi.jp/
@@ -2256,11 +2259,11 @@
 -402061,http://www.joho.tagawa.fukuoka.jp/
 -402079,http://www.city.yanagawa.fukuoka.jp/
 +401315,http://www.city.fukuoka.lg.jp/higashi/index.html
-+401323,http://www.city.fukuoka.lg.jp/hakata/
++401323,https://www.city.fukuoka.lg.jp/hakata/
 +401331,http://www.city.fukuoka.lg.jp/chuo/
 +401340,http://www.city.fukuoka.lg.jp/minami/
 +401358,http://www.city.fukuoka.lg.jp/nishi/
-+401366,http://www.city.fukuoka.lg.jp/jonan/
++401366,https://www.city.fukuoka.lg.jp/jonan/
 +401374,http://www.city.fukuoka.lg.jp/sawara/
 +402028,https://www.city.omuta.lg.jp/
 +402036,https://www.city.kurume.fukuoka.jp/

@@ -1,6 +1,6 @@
 --- codeforfukui
 +++ wikidata
-@@ -9,40 +9,41 @@
+@@ -9,10 +9,11 @@
  厚別区,http://www.city.sapporo.jp/atsubetsu/
  手稲区,http://www.city.sapporo.jp/teine/
  清田区,http://www.city.sapporo.jp/kiyota/
@@ -14,9 +14,7 @@
  釧路市,https://www.city.kushiro.lg.jp/
  帯広市,https://www.city.obihiro.hokkaido.jp/
  北見市,http://www.city.kitami.lg.jp/
- 夕張市,http://www.city.yubari.lg.jp/
--岩見沢市,https://www.city.iwamizawa.hokkaido.jp/
-+岩見沢市,http://www.city.iwamizawa.hokkaido.jp/
+@@ -21,28 +22,28 @@
  網走市,http://www.city.abashiri.hokkaido.jp/
  留萌市,http://www.e-rumoi.jp/
  苫小牧市,http://www.city.tomakomai.hokkaido.jp/
@@ -112,8 +110,12 @@
  下川町,http://www.town.shimokawa.hokkaido.jp/
  美深町,http://www.town.bifuka.hokkaido.jp/
  音威子府村,http://www.vill.otoineppu.hokkaido.jp/
-@@ -123,10 +124,10 @@
- 猿払村,http://www.vill.sarufutsu.hokkaido.jp/
+@@ -120,13 +121,13 @@
+ 初山別村,http://www.vill.shosanbetsu.lg.jp/
+ 遠別町,http://www.town.embetsu.hokkaido.jp/
+ 天塩町,http://www.teshiotown.hokkaido.jp/
+-猿払村,http://www.vill.sarufutsu.hokkaido.jp/
++猿払村,https://www.vill.sarufutsu.hokkaido.jp/
  浜頓別町,http://www.town.hamatonbetsu.hokkaido.jp/
  中頓別町,http://www.town.nakatombetsu.hokkaido.jp/
 -枝幸町,http://www.town.esashi.hokkaido.jp/transfer.html
@@ -270,8 +272,9 @@
 +若林区,https://www.city.sendai.jp/wakabayashiku/
 +太白区,https://www.city.sendai.jp/taihakuku/
  泉区,http://www.city.sendai.jp/izumiku/
- 石巻市,http://www.city.ishinomaki.lg.jp/
+-石巻市,http://www.city.ishinomaki.lg.jp/
 -塩竈市,http://www.city.shiogama.miyagi.jp/
++石巻市,https://www.city.ishinomaki.lg.jp/
 +塩竈市,https://www.city.shiogama.miyagi.jp/
  気仙沼市,http://www.kesennuma.miyagi.jp/
  白石市,http://www.city.shiroishi.miyagi.jp/
@@ -1988,11 +1991,11 @@
 -早良区,http://www.city.fukuoka.lg.jp/sawara/index.html
 -大牟田市,http://www.city.omuta.lg.jp/
 -久留米市,http://www.city.kurume.fukuoka.jp/
-+博多区,http://www.city.fukuoka.lg.jp/hakata/
++博多区,https://www.city.fukuoka.lg.jp/hakata/
 +中央区,http://www.city.fukuoka.lg.jp/chuo/
 +南区,http://www.city.fukuoka.lg.jp/minami/
 +西区,http://www.city.fukuoka.lg.jp/nishi/
-+城南区,http://www.city.fukuoka.lg.jp/jonan/
++城南区,https://www.city.fukuoka.lg.jp/jonan/
 +早良区,http://www.city.fukuoka.lg.jp/sawara/
 +大牟田市,https://www.city.omuta.lg.jp/
 +久留米市,https://www.city.kurume.fukuoka.jp/

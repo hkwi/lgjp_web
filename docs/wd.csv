@@ -20,7 +20,7 @@ code,name,site
 012076,帯広市,https://www.city.obihiro.hokkaido.jp/
 012084,北見市,http://www.city.kitami.lg.jp/
 012092,夕張市,http://www.city.yubari.lg.jp/
-012106,岩見沢市,http://www.city.iwamizawa.hokkaido.jp/
+012106,岩見沢市,https://www.city.iwamizawa.hokkaido.jp/
 012114,網走市,http://www.city.abashiri.hokkaido.jp/
 012122,留萌市,http://www.e-rumoi.jp/
 012131,苫小牧市,http://www.city.tomakomai.hokkaido.jp/
@@ -123,7 +123,7 @@ code,name,site
 014851,初山別村,http://www.vill.shosanbetsu.lg.jp/
 014869,遠別町,http://www.town.embetsu.hokkaido.jp/
 014877,天塩町,http://www.teshiotown.hokkaido.jp/
-015113,猿払村,http://www.vill.sarufutsu.hokkaido.jp/
+015113,猿払村,https://www.vill.sarufutsu.hokkaido.jp/
 015121,浜頓別町,http://www.town.hamatonbetsu.hokkaido.jp/
 015130,中頓別町,http://www.town.nakatombetsu.hokkaido.jp/
 015148,枝幸町,http://www.esashi.jp/
@@ -272,7 +272,7 @@ code,name,site
 041033,若林区,https://www.city.sendai.jp/wakabayashiku/
 041041,太白区,https://www.city.sendai.jp/taihakuku/
 041050,泉区,http://www.city.sendai.jp/izumiku/
-042021,石巻市,http://www.city.ishinomaki.lg.jp/
+042021,石巻市,https://www.city.ishinomaki.lg.jp/
 042030,塩竈市,https://www.city.shiogama.miyagi.jp/
 042056,気仙沼市,http://www.kesennuma.miyagi.jp/
 042064,白石市,http://www.city.shiroishi.miyagi.jp/
@@ -1677,11 +1677,11 @@ code,name,site
 401099,八幡西区,http://www.city.kitakyushu.lg.jp/yahatanishi/
 401307,福岡市,http://www.city.fukuoka.lg.jp/
 401315,東区,http://www.city.fukuoka.lg.jp/higashi/index.html
-401323,博多区,http://www.city.fukuoka.lg.jp/hakata/
+401323,博多区,https://www.city.fukuoka.lg.jp/hakata/
 401331,中央区,http://www.city.fukuoka.lg.jp/chuo/
 401340,南区,http://www.city.fukuoka.lg.jp/minami/
 401358,西区,http://www.city.fukuoka.lg.jp/nishi/
-401366,城南区,http://www.city.fukuoka.lg.jp/jonan/
+401366,城南区,https://www.city.fukuoka.lg.jp/jonan/
 401374,早良区,http://www.city.fukuoka.lg.jp/sawara/
 402028,大牟田市,https://www.city.omuta.lg.jp/
 402036,久留米市,https://www.city.kurume.fukuoka.jp/
