@@ -1,6 +1,6 @@
 --- codeforfukui
 +++ wikidata
-@@ -9,10 +9,11 @@
+@@ -9,40 +9,41 @@
  厚別区,http://www.city.sapporo.jp/atsubetsu/
  手稲区,http://www.city.sapporo.jp/teine/
  清田区,http://www.city.sapporo.jp/kiyota/
@@ -14,9 +14,11 @@
  釧路市,https://www.city.kushiro.lg.jp/
  帯広市,https://www.city.obihiro.hokkaido.jp/
  北見市,http://www.city.kitami.lg.jp/
-@@ -21,28 +22,28 @@
+ 夕張市,http://www.city.yubari.lg.jp/
+ 岩見沢市,https://www.city.iwamizawa.hokkaido.jp/
  網走市,http://www.city.abashiri.hokkaido.jp/
- 留萌市,http://www.e-rumoi.jp/
+-留萌市,http://www.e-rumoi.jp/
++留萌市,https://www.e-rumoi.jp/
  苫小牧市,http://www.city.tomakomai.hokkaido.jp/
 -稚内市,http://www.city.wakkanai.hokkaido.jp/
 +稚内市,https://www.city.wakkanai.hokkaido.jp/
@@ -391,7 +393,7 @@
  会津若松市,https://www.city.aizuwakamatsu.fukushima.jp/
 -郡山市,http://www.city.koriyama.fukushima.jp/index.html
 -いわき市,http://www.city.iwaki.lg.jp/www/index.html
-+郡山市,http://www.city.koriyama.fukushima.jp/
++郡山市,https://www.city.koriyama.fukushima.jp/
 +いわき市,http://www.city.iwaki.lg.jp/
  白河市,http://www.city.shirakawa.fukushima.jp/
  須賀川市,http://www.city.sukagawa.fukushima.jp/
@@ -622,7 +624,7 @@
 +見沼区,http://www.city.saitama.jp/minuma/
 +中央区,http://www.city.saitama.jp/index.html
 +桜区,http://www.city.saitama.jp/sakura/index.html
-+浦和区,http://www.city.saitama.jp/urawa/index.html
++浦和区,https://www.city.saitama.jp/urawa/
 +南区,http://www.city.saitama.jp/minami/index.html
 +緑区,http://www.city.saitama.jp/index_midoriku.html
 +岩槻区,http://www.city.saitama.jp/index_iwatsukiku.html
@@ -1244,9 +1246,8 @@
 +磐田市,https://www.city.iwata.shizuoka.jp/
  焼津市,http://www.city.yaizu.lg.jp/
  掛川市,http://www.city.kakegawa.shizuoka.jp/
--藤枝市,https://www.city.fujieda.shizuoka.jp/
+ 藤枝市,https://www.city.fujieda.shizuoka.jp/
 -御殿場市,http://www.city.gotemba.shizuoka.jp/
-+藤枝市,http://www.city.fujieda.shizuoka.jp/
 +御殿場市,https://www.city.gotemba.shizuoka.jp/
  袋井市,http://www.city.fukuroi.shizuoka.jp/
  下田市,https://www.city.shimoda.shizuoka.jp/
@@ -1509,10 +1510,9 @@
  守口市,http://www.city.moriguchi.osaka.jp/
 -枚方市,http://www.city.hirakata.osaka.jp/
 -茨木市,http://www.city.ibaraki.osaka.jp/
--八尾市,https://www.city.yao.osaka.jp/
 +枚方市,https://www.city.hirakata.osaka.jp/
 +茨木市,https://www.city.ibaraki.osaka.jp/
-+八尾市,http://www.city.yao.osaka.jp/
+ 八尾市,https://www.city.yao.osaka.jp/
  泉佐野市,http://www.city.izumisano.lg.jp/
 -富田林市,https://www.city.tondabayashi.lg.jp/
 +富田林市,http://www.city.tondabayashi.osaka.jp/
@@ -1929,7 +1929,8 @@
 -鬼北町,https://www.town.kihoku.ehime.jp/
 +鬼北町,http://www.town.kihoku.ehime.jp/
  愛南町,http://www.town.ainan.ehime.jp/
- 高知市,http://www.city.kochi.kochi.jp/
+-高知市,http://www.city.kochi.kochi.jp/
++高知市,https://www.city.kochi.kochi.jp/
  室戸市,http://www.city.muroto.kochi.jp/
  安芸市,https://www.city.aki.kochi.jp/
  南国市,https://www.city.nankoku.lg.jp/

@@ -27,9 +27,10 @@
  012092,http://www.city.yubari.lg.jp/
 -012106,http://www.city.iwamizawa.hokkaido.jp/
 -012114,http://www.city.abashiri.hokkaido.jp
+-012122,http://www.e-rumoi.jp/
 +012106,https://www.city.iwamizawa.hokkaido.jp/
 +012114,http://www.city.abashiri.hokkaido.jp/
- 012122,http://www.e-rumoi.jp/
++012122,https://www.e-rumoi.jp/
  012131,http://www.city.tomakomai.hokkaido.jp/
 -012149,http://www.city.wakkanai.hokkaido.jp/
 +012149,https://www.city.wakkanai.hokkaido.jp/
@@ -489,9 +490,10 @@
 -072010,http://www.city.fukushima.fukushima.jp/soshiki/7/fukushima-channel.html
 -072010,http://www.city.fukushima.fukushima.jp/
 -072028,http://www.city.aizuwakamatsu.fukushima.jp/
+-072036,http://www.city.koriyama.fukushima.jp/
 +072010,https://www.city.fukushima.fukushima.jp/
 +072028,https://www.city.aizuwakamatsu.fukushima.jp/
- 072036,http://www.city.koriyama.fukushima.jp/
++072036,https://www.city.koriyama.fukushima.jp/
  072044,http://www.city.iwaki.lg.jp/
  072052,http://www.city.shirakawa.fukushima.jp/
  072079,http://www.city.sukagawa.fukushima.jp/
@@ -709,7 +711,7 @@
 +111040,http://www.city.saitama.jp/minuma/
 +111058,http://www.city.saitama.jp/index.html
 +111066,http://www.city.saitama.jp/sakura/index.html
-+111074,http://www.city.saitama.jp/urawa/index.html
++111074,https://www.city.saitama.jp/urawa/
 +111082,http://www.city.saitama.jp/minami/index.html
 +111091,http://www.city.saitama.jp/index_midoriku.html
 +111104,http://www.city.saitama.jp/index_iwatsukiku.html
@@ -1416,9 +1418,10 @@
 +222119,https://www.city.iwata.shizuoka.jp/
 +222127,http://www.city.yaizu.lg.jp/
  222135,http://www.city.kakegawa.shizuoka.jp/
- 222143,http://www.city.fujieda.shizuoka.jp/
+-222143,http://www.city.fujieda.shizuoka.jp/
 -222151,http://www.city.gotemba.shizuoka.jp/
 -222151,http://www.yohei-wakabayashi.com/
++222143,https://www.city.fujieda.shizuoka.jp/
 +222151,https://www.city.gotemba.shizuoka.jp/
  222160,http://www.city.fukuroi.shizuoka.jp/
 -222194,http://www.city.shimoda.shizuoka.jp/
@@ -1713,11 +1716,12 @@
 -272094,http://www.city.moriguchi.osaka.jp/contents/index.html
 -272108,http://www.city.hirakata.osaka.jp/
 -272116,http://www.city.ibaraki.osaka.jp/index.html
+-272124,http://www.city.yao.osaka.jp/
 +272086,https://www.city.kaizuka.lg.jp/
 +272094,http://www.city.moriguchi.osaka.jp/
 +272108,https://www.city.hirakata.osaka.jp/
 +272116,https://www.city.ibaraki.osaka.jp/
- 272124,http://www.city.yao.osaka.jp/
++272124,https://www.city.yao.osaka.jp/
  272132,http://www.city.izumisano.lg.jp/
 -272132,http://www.kansai-airport.or.jp/index.asp
  272141,http://www.city.tondabayashi.osaka.jp/
@@ -2199,7 +2203,8 @@
  384887,http://www.town.kihoku.ehime.jp/
  385069,http://www.town.ainan.ehime.jp/
 -390003,http://www.pref.kochi.lg.jp/
- 392014,http://www.city.kochi.kochi.jp/
+-392014,http://www.city.kochi.kochi.jp/
++392014,https://www.city.kochi.kochi.jp/
  392022,http://www.city.muroto.kochi.jp/
 -392031,http://www.city.aki.kochi.jp/
 -392049,http://www.city.nankoku.lg.jp/
