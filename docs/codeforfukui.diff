@@ -34,7 +34,7 @@
 -根室市,https://www.city.nemuro.hokkaido.jp/dcitynd.nsf
 -千歳市,http://www.city.chitose.hokkaido.jp/index_chitose.html
 +根室市,https://www.city.nemuro.hokkaido.jp/
-+千歳市,http://www.city.chitose.hokkaido.jp/
++千歳市,https://www.city.chitose.hokkaido.jp/
  滝川市,http://www.city.takikawa.hokkaido.jp/
  砂川市,http://www.city.sunagawa.hokkaido.jp/
  歌志内市,http://www.city.utashinai.hokkaido.jp/
@@ -65,13 +65,11 @@
  乙部町,http://www.town.otobe.lg.jp/
  奥尻町,http://www.town.okushiri.lg.jp/
  今金町,http://www.town.imakane.lg.jp/
-@@ -65,8 +66,8 @@
- 寿都町,http://www.town.suttu.lg.jp/
+@@ -66,7 +67,7 @@
  黒松内町,http://www.kuromatsunai.com/
  蘭越町,http://www.town.rankoshi.hokkaido.jp/
--ニセコ町,https://www.town.niseko.lg.jp/
+ ニセコ町,https://www.town.niseko.lg.jp/
 -真狩村,http://makkari.info/
-+ニセコ町,http://www.town.niseko.lg.jp/
 +真狩村,http://www.vill.makkari.lg.jp/
  留寿都村,http://www.vill.rusutsu.lg.jp/
  喜茂別町,http://www.town.kimobetsu.hokkaido.jp/
@@ -350,9 +348,10 @@
  新庄市,http://www.city.shinjo.yamagata.jp/
 -寒河江市,http://www.city.sagae.yamagata.jp/
 -上山市,https://www.city.kaminoyama.yamagata.jp/
+-村山市,http://www.city.murayama.lg.jp/
 +寒河江市,https://www.city.sagae.yamagata.jp/
 +上山市,http://www.city.kaminoyama.yamagata.jp/
- 村山市,http://www.city.murayama.lg.jp/
++村山市,https://www.city.murayama.lg.jp/
  長井市,http://www.city.nagai.yamagata.jp/
 -天童市,http://www.city.tendo.yamagata.jp/
 -東根市,https://www.city.higashine.yamagata.jp/
@@ -595,7 +594,8 @@
 -昭和村,https://www.vill.showa.gunma.jp/
 +昭和村,http://www.vill.showa.gunma.jp/
  みなかみ町,http://www.town.minakami.gunma.jp/
- 玉村町,http://www.town.tamamura.lg.jp/
+-玉村町,http://www.town.tamamura.lg.jp/
++玉村町,https://www.town.tamamura.lg.jp/
  板倉町,http://www.town.itakura.gunma.jp/
 -明和町,https://www.town.meiwa.gunma.jp/
 +明和町,http://www.town.meiwa.gunma.jp/
@@ -744,16 +744,18 @@
  柏市,http://www.city.kashiwa.lg.jp/
 -勝浦市,https://www.city.katsuura.lg.jp/forms/top/top.aspx
 -市原市,http://www.city.ichihara.chiba.jp/
+-流山市,http://www.city.nagareyama.chiba.jp/
 +勝浦市,https://www.city.katsuura.lg.jp/
 +市原市,https://www.city.ichihara.chiba.jp/
- 流山市,http://www.city.nagareyama.chiba.jp/
++流山市,https://www.city.nagareyama.chiba.jp/
  八千代市,http://www.city.yachiyo.chiba.jp/
 -我孫子市,http://www.city.abiko.chiba.jp/
 +我孫子市,https://www.city.abiko.chiba.jp/
  鴨川市,http://www.city.kamogawa.lg.jp/
  鎌ケ谷市,http://www.city.kamagaya.chiba.jp/
- 君津市,http://www.city.kimitsu.lg.jp/
+-君津市,http://www.city.kimitsu.lg.jp/
 -富津市,http://www.city.futtsu.lg.jp/
++君津市,https://www.city.kimitsu.lg.jp/
 +富津市,https://www.city.futtsu.lg.jp/
  浦安市,http://www.city.urayasu.lg.jp/
 -四街道市,http://www.city.yotsukaido.chiba.jp/
@@ -969,7 +971,7 @@
  魚沼市,http://www.city.uonuma.niigata.jp/
  南魚沼市,http://www.city.minamiuonuma.niigata.jp/
  胎内市,http://www.city.tainai.niigata.jp/
-@@ -812,9 +817,9 @@
+@@ -812,49 +817,49 @@
  田上町,http://www.town.tagami.niigata.jp/
  阿賀町,http://www.town.aga.niigata.jp/
  出雲崎町,http://www.town.izumozaki.niigata.jp/
@@ -981,7 +983,11 @@
  関川村,http://www.vill.sekikawa.niigata.jp/
  粟島浦村,http://www.vill.awashimaura.lg.jp/
  富山市,http://www.city.toyama.toyama.jp/
-@@ -825,36 +830,36 @@
+ 高岡市,https://www.city.takaoka.toyama.jp/
+-魚津市,http://www.city.uozu.toyama.jp/
++魚津市,https://www.city.uozu.toyama.jp/
+ 氷見市,https://www.city.himi.toyama.jp/
+ 滑川市,http://www.city.namerikawa.toyama.jp/
  黒部市,http://kurobe.city.kurobe.toyama.jp/
  砺波市,http://www.city.tonami.toyama.jp/
  小矢部市,http://www.city.oyabe.toyama.jp/
@@ -1069,8 +1075,9 @@
  昭和町,http://www.town.showa.yamanashi.jp/
  道志村,http://www.vill.doshi.lg.jp/
 -西桂町,http://www.town.nishikatsura.yamanashi.jp/forms/top/top.aspx
+-忍野村,http://www.vill.oshino.lg.jp/
 +西桂町,http://www.town.nishikatsura.yamanashi.jp/
- 忍野村,http://www.vill.oshino.lg.jp/
++忍野村,https://www.vill.oshino.lg.jp/
  山中湖村,http://www.vill.yamanakako.lg.jp/
 -鳴沢村,http://www.vill.narusawa.yamanashi.jp/forms/top/top.aspx
 -富士河口湖町,http://www.town.fujikawaguchiko.lg.jp/
@@ -1337,7 +1344,7 @@
  東浦町,http://www.town.aichi-higashiura.lg.jp/
  南知多町,http://www.town.minamichita.lg.jp/
  美浜町,http://www.town.aichi-mihama.lg.jp/
-@@ -1135,65 +1140,65 @@
+@@ -1135,100 +1140,100 @@
  松阪市,http://www.city.matsusaka.mie.jp/
  桑名市,http://www.city.kuwana.lg.jp/
  鈴鹿市,http://www.city.suzuka.lg.jp/
@@ -1436,9 +1443,10 @@
  亀岡市,http://www.city.kameoka.kyoto.jp/
  城陽市,http://www.city.joyo.kyoto.jp/
  向日市,http://www.city.muko.kyoto.jp/
-@@ -1201,34 +1206,34 @@
+ 長岡京市,http://www.city.nagaokakyo.lg.jp/
  八幡市,http://www.city.yawata.kyoto.jp/
- 京田辺市,http://www.kyotanabe.jp/
+-京田辺市,http://www.kyotanabe.jp/
++京田辺市,https://www.kyotanabe.jp/
  京丹後市,http://www.city.kyotango.lg.jp/
 -南丹市,http://www.city.nantan.kyoto.jp/www/
 -木津川市,http://www.city.kizugawa.lg.jp/
@@ -1801,10 +1809,11 @@
  庄原市,http://www.city.shobara.hiroshima.jp/
  大竹市,http://www.city.otake.hiroshima.jp/
  東広島市,http://www.city.higashihiroshima.hiroshima.jp/
- 廿日市市,http://www.city.hatsukaichi.hiroshima.jp/
+-廿日市市,http://www.city.hatsukaichi.hiroshima.jp/
 -安芸高田市,http://www.akitakata.jp/ja/
 -江田島市,http://www.city.etajima.hiroshima.jp/cms/
 -府中町,http://www.town.fuchu.hiroshima.jp/
++廿日市市,https://www.city.hatsukaichi.hiroshima.jp/
 +安芸高田市,http://www.akitakata.jp/
 +江田島市,http://www.city.etajima.hiroshima.jp/
 +府中町,https://www.town.fuchu.hiroshima.jp/
