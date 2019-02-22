@@ -862,11 +862,11 @@
 +西東京市,https://www.city.nishitokyo.lg.jp/
  瑞穂町,http://www.town.mizuho.tokyo.jp/
 -日の出町,http://www.town.hinode.tokyo.jp/
+-檜原村,http://www.vill.hinohara.tokyo.jp/
 +日の出町,https://www.town.hinode.tokyo.jp/
- 檜原村,http://www.vill.hinohara.tokyo.jp/
++檜原村,https://www.vill.hinohara.tokyo.jp/
  奥多摩町,http://www.town.okutama.tokyo.jp/
--大島町,https://www.town.oshima.tokyo.jp/
-+大島町,http://www.town.oshima.tokyo.jp/
+ 大島町,https://www.town.oshima.tokyo.jp/
  利島村,http://www.toshimamura.org/
  新島村,http://www.niijima.com/
  神津島村,http://vill.kouzushima.tokyo.jp/
@@ -1331,7 +1331,7 @@
 +みよし市,https://www.city.aichi-miyoshi.lg.jp/
  あま市,http://www.city.ama.aichi.jp/
 -長久手市,http://www.city.nagakute.lg.jp/index.html
-+長久手市,http://www.city.nagakute.lg.jp/
++長久手市,https://www.city.nagakute.lg.jp/
  東郷町,http://www.town.aichi-togo.lg.jp/
  豊山町,http://www.town.toyoyama.lg.jp/
  大口町,http://www.town.oguchi.aichi.jp/
@@ -1344,8 +1344,12 @@
  東浦町,http://www.town.aichi-higashiura.lg.jp/
  南知多町,http://www.town.minamichita.lg.jp/
  美浜町,http://www.town.aichi-mihama.lg.jp/
-@@ -1135,100 +1140,100 @@
- 松阪市,http://www.city.matsusaka.mie.jp/
+@@ -1132,103 +1137,103 @@
+ 津市,http://www.info.city.tsu.mie.jp/
+ 四日市市,http://www.city.yokkaichi.mie.jp/
+ 伊勢市,http://www.city.ise.mie.jp/
+-松阪市,http://www.city.matsusaka.mie.jp/
++松阪市,https://www.city.matsusaka.mie.jp/
  桑名市,http://www.city.kuwana.lg.jp/
  鈴鹿市,http://www.city.suzuka.lg.jp/
 -名張市,http://www.city.nabari.lg.jp/
@@ -1432,11 +1436,10 @@
 +山科区,http://www.city.kyoto.lg.jp/yamasina/
 +西京区,http://www.city.kyoto.lg.jp/nisikyo/
  福知山市,http://www.city.fukuchiyama.kyoto.jp/
--舞鶴市,https://www.city.maizuru.kyoto.jp/
+ 舞鶴市,https://www.city.maizuru.kyoto.jp/
 -綾部市,http://www.city.ayabe.lg.jp/
 -宇治市,http://www.city.uji.kyoto.jp/
 -宮津市,http://www.city.miyazu.kyoto.jp/www/normal_top.jsp
-+舞鶴市,http://www.city.maizuru.kyoto.jp/
 +綾部市,https://www.city.ayabe.lg.jp/
 +宇治市,https://www.city.uji.kyoto.jp/
 +宮津市,http://www.city.miyazu.kyoto.jp/
@@ -1645,9 +1648,10 @@
  御杖村,http://www.vill.mitsue.nara.jp/
 -高取町,http://www.town.takatori.nara.jp/
 -明日香村,https://asukamura.jp/
+-上牧町,http://www.town.kanmaki.nara.jp/
 +高取町,https://www.town.takatori.nara.jp/
 +明日香村,https://www.asukamura.jp/
- 上牧町,http://www.town.kanmaki.nara.jp/
++上牧町,https://www.town.kanmaki.nara.jp/
  王寺町,http://www.town.oji.nara.jp/
  広陵町,http://www.town.koryo.nara.jp/
  河合町,http://www.town.kawai.nara.jp/
@@ -2065,8 +2069,9 @@
 +筑前町,http://www.town.chikuzen.fukuoka.jp/
  東峰村,http://www1.vill.toho.fukuoka.jp/
 -大刀洗町,http://www.town.tachiarai.fukuoka.jp/opening/
+-大木町,http://www.town.ooki.lg.jp/
 +大刀洗町,http://www.town.tachiarai.fukuoka.jp/
- 大木町,http://www.town.ooki.lg.jp/
++大木町,https://www.town.ooki.lg.jp/
  広川町,http://www.town.hirokawa.fukuoka.jp/
 -香春町,https://www.town.kawara.fukuoka.jp/
 +香春町,http://www.town.kawara.fukuoka.jp/
