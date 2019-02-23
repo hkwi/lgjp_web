@@ -191,12 +191,9 @@
  野沢温泉村,www.vill.nozawaonsen.nagano.jp
  信濃町,www.town.shinano.lg.jp
  小川村,www.vill.ogawa.nagano.jp
-@@ -1027,9 +1032,9 @@
- 浜北区,www.city.hamamatsu.shizuoka.jp
- 天竜区,www.city.hamamatsu.shizuoka.jp
+@@ -1029,7 +1034,7 @@
  沼津市,www.city.numazu.shizuoka.jp
--熱海市,www.city.atami.lg.jp
-+熱海市,www.city.atami.shizuoka.jp
+ 熱海市,www.city.atami.lg.jp
  三島市,www.city.mishima.shizuoka.jp
 -富士宮市,www.city.fujinomiya.lg.jp
 +富士宮市,www.city.fujinomiya.shizuoka.jp
@@ -212,7 +209,7 @@
  紀北町,www.town.mie-kihoku.lg.jp
  御浜町,www.town.mihama.mie.jp
  紀宝町,www.town.kiho.lg.jp
-@@ -1259,10 +1264,10 @@
+@@ -1259,7 +1264,7 @@
  茨木市,www.city.ibaraki.osaka.jp
  八尾市,www.city.yao.osaka.jp
  泉佐野市,www.city.izumisano.lg.jp
@@ -220,11 +217,7 @@
 +富田林市,www.city.tondabayashi.osaka.jp
  寝屋川市,www.city.neyagawa.osaka.jp
  河内長野市,www.city.kawachinagano.lg.jp
--松原市,www.city.matsubara.lg.jp
-+松原市,www.city.matsubara.osaka.jp
- 大東市,www.city.daito.lg.jp
- 和泉市,www.city.osaka-izumi.lg.jp
- 箕面市,www.city.minoh.lg.jp
+ 松原市,www.city.matsubara.lg.jp
 @@ -1317,9 +1322,9 @@
  小野市,www.city.ono.hyogo.jp
  三田市,www.city.sanda.lg.jp
@@ -265,15 +258,6 @@
  上牧町,www.town.kanmaki.nara.jp
  王寺町,www.town.oji.nara.jp
  広陵町,www.town.koryo.nara.jp
-@@ -1456,7 +1461,7 @@
- 笠岡市,www.city.kasaoka.okayama.jp
- 井原市,www.city.ibara.okayama.jp
- 総社市,www.city.soja.okayama.jp
--高梁市,www.city.takahashi.lg.jp
-+高梁市,www.city.takahashi.okayama.jp
- 新見市,www.city.niimi.okayama.jp
- 備前市,www.city.bizen.okayama.jp
- 瀬戸内市,www.city.setouchi.lg.jp
 @@ -1501,7 +1506,7 @@
  府中町,www.town.fuchu.hiroshima.jp
  海田町,www.town.kaita.lg.jp
@@ -389,15 +373,6 @@
  串間市,www.city.kushima.lg.jp
  西都市,www.saito-city.jp
  えびの市,www.city.ebino.lg.jp
-@@ -1834,7 +1839,7 @@
- 鹿屋市,www.e-kanoya.net
- 枕崎市,www.city.makurazaki.lg.jp
- 阿久根市,www.city.akune.kagoshima.jp
--出水市,www.city.kagoshima-izumi.lg.jp
-+出水市,www.city.izumi.kagoshima.jp
- 指宿市,www.city.ibusuki.lg.jp
- 西之表市,www.city.nishinoomote.lg.jp
- 垂水市,www.city.tarumizu.lg.jp
 @@ -1858,7 +1863,7 @@
  東串良町,www.higashikushira.com
  錦江町,www.town.kinko.lg.jp
