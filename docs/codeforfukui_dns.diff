@@ -308,15 +308,7 @@
  四万十町,www.town.shimanto.lg.jp
  大月町,www.town.otsuki.kochi.jp
  三原村,www.vill.mihara.kochi.jp
-@@ -1656,14 +1661,14 @@
- 宗像市,www.city.munakata.lg.jp
- 太宰府市,www.city.dazaifu.lg.jp
- 古賀市,www.city.koga.fukuoka.jp
--福津市,city.fukutsu.lg.jp
-+福津市,www.city.fukutsu.lg.jp
- うきは市,www.city.ukiha.fukuoka.jp
- 宮若市,www.city.miyawaka.lg.jp
- 嘉麻市,www.city.kama.lg.jp
+@@ -1663,7 +1668,7 @@
  朝倉市,www.city.asakura.lg.jp
  みやま市,www.city.miyama.lg.jp
  糸島市,www.city.itoshima.lg.jp
@@ -349,15 +341,6 @@
  九重町,www.town.kokonoe.oita.jp
  玖珠町,www.town.kusu.oita.jp
  宮崎市,www.city.miyazaki.miyazaki.jp
-@@ -1809,7 +1814,7 @@
- 延岡市,www.city.nobeoka.miyazaki.jp
- 日南市,www.city.nichinan.lg.jp
- 小林市,www.city.kobayashi.lg.jp
--日向市,www.hyugacity.jp
-+日向市,www.city.hyuga.miyazaki.jp
- 串間市,www.city.kushima.lg.jp
- 西都市,www.saito-city.jp
- えびの市,www.city.ebino.lg.jp
 @@ -1858,7 +1863,7 @@
  東串良町,www.higashikushira.com
  錦江町,www.town.kinko.lg.jp
