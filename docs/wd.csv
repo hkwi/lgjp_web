@@ -600,7 +600,7 @@ code,name,site
 113611,横瀬町,http://www.town.yokoze.saitama.jp/
 113620,皆野町,http://www.town.minano.saitama.jp/
 113638,長瀞町,http://www.town.nagatoro.saitama.jp/
-113654,小鹿野町,http://www.town.ogano.lg.jp/
+113654,小鹿野町,https://www.town.ogano.lg.jp/
 113697,東秩父村,http://www.vill.higashichichibu.saitama.jp/
 113816,美里町,http://www.town.saitama-misato.lg.jp/
 113832,神川町,https://www.town.kamikawa.saitama.jp/
@@ -883,14 +883,14 @@ code,name,site
 182079,鯖江市,https://www.city.sabae.fukui.jp/
 182087,あわら市,http://www.city.awara.lg.jp/
 182095,越前市,http://www.city.echizen.lg.jp/
-182109,坂井市,http://www.city.fukui-sakai.lg.jp/
+182109,坂井市,https://www.city.fukui-sakai.lg.jp/
 183229,永平寺町,https://www.town.eiheiji.lg.jp/
 183822,池田町,http://www.town.ikeda.fukui.jp/
 184047,南越前町,http://www.town.minamiechizen.lg.jp/
 184233,越前町,http://www.town.echizen.fukui.jp/index.html
 184420,美浜町,http://www.town.mihama.fukui.jp/
 184811,高浜町,http://www.town.takahama.fukui.jp/
-184837,おおい町,http://www.town.ohi.fukui.jp/
+184837,おおい町,https://www.town.ohi.fukui.jp/
 185019,若狭町,http://www.town.fukui-wakasa.lg.jp/
 190004,山梨県,http://www.pref.yamanashi.jp/
 192015,甲府市,http://www.city.kofu.yamanashi.jp/
@@ -965,7 +965,7 @@ code,name,site
 204048,阿南町,http://www.town.anan.nagano.jp/
 204072,阿智村,http://www.vill.achi.nagano.jp/
 204099,平谷村,http://www.vill.hiraya.nagano.jp/
-204102,根羽村,http://www.nebamura.jp/
+204102,根羽村,http://nebamura.jp/
 204111,下條村,http://www.vill-shimojo.jp/
 204129,売木村,http://www.urugi.jp/
 204137,天龍村,http://www.vill-tenryu.jp/
@@ -1137,7 +1137,7 @@ code,name,site
 232319,田原市,http://www.city.tahara.aichi.jp/
 232327,愛西市,https://www.city.aisai.lg.jp/
 232335,清須市,http://www.city.kiyosu.aichi.jp/
-232343,北名古屋市,http://www.city.kitanagoya.lg.jp/
+232343,北名古屋市,https://www.city.kitanagoya.lg.jp/
 232351,弥富市,http://www.city.yatomi.lg.jp/
 232360,みよし市,https://www.city.aichi-miyoshi.lg.jp/
 232378,あま市,http://www.city.ama.aichi.jp/
@@ -1374,7 +1374,7 @@ code,name,site
 285862,新温泉町,http://www.town.shinonsen.hyogo.jp/
 290009,奈良県,http://www.pref.nara.jp
 292010,奈良市,http://www.city.nara.lg.jp/
-292028,大和高田市,http://www.city.yamatotakada.nara.jp/
+292028,大和高田市,https://www.city.yamatotakada.nara.jp/
 292036,大和郡山市,https://www.city.yamatokoriyama.nara.jp/
 292044,天理市,http://www.city.tenri.nara.jp/
 292052,橿原市,http://www.city.kashihara.nara.jp/
@@ -1502,7 +1502,7 @@ code,name,site
 332135,赤磐市,http://www.city.akaiwa.lg.jp/
 332143,真庭市,http://www.city.maniwa.lg.jp/
 332151,美作市,http://www.city.mimasaka.lg.jp/
-332160,浅口市,http://www.city.asakuchi.lg.jp/
+332160,浅口市,https://www.city.asakuchi.lg.jp/
 333468,和気町,http://www.town.wake.okayama.jp/
 334235,早島町,http://www.town.hayashima.lg.jp/
 334456,里庄町,http://www.town.satosho.okayama.jp/

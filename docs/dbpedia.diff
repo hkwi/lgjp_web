@@ -825,7 +825,8 @@
 -113620,http://www.town.minano.saitama.jp/index.htm
 +113620,http://www.town.minano.saitama.jp/
  113638,http://www.town.nagatoro.saitama.jp/
- 113654,http://www.town.ogano.lg.jp/
+-113654,http://www.town.ogano.lg.jp/
++113654,https://www.town.ogano.lg.jp/
  113697,http://www.vill.higashichichibu.saitama.jp/
  113816,http://www.town.saitama-misato.lg.jp/
 -113832,http://www.town.kamikawa.saitama.jp/
@@ -1230,7 +1231,7 @@
 -182109,http://www.city.fukui-sakai.lg.jp
 -183229,http://www.town.eiheiji.lg.jp/
 -183822,http://www.town.ikeda.fukui.jp/index.html
-+182109,http://www.city.fukui-sakai.lg.jp/
++182109,https://www.city.fukui-sakai.lg.jp/
 +183229,https://www.town.eiheiji.lg.jp/
 +183822,http://www.town.ikeda.fukui.jp/
  184047,http://www.town.minamiechizen.lg.jp/
@@ -1241,7 +1242,7 @@
  184811,http://www.town.takahama.fukui.jp/
 -184837,http://www.town.ohi.fukui.jp/sypher/www/normal_top.jsp
 -184837,http://www.town.ohi.fukui.jp
-+184837,http://www.town.ohi.fukui.jp/
++184837,https://www.town.ohi.fukui.jp/
  185019,http://www.town.fukui-wakasa.lg.jp/
 -190004,http://www.pref.yamanashi.jp/
  192015,http://www.city.kofu.yamanashi.jp/
@@ -1337,7 +1338,7 @@
  203246,http://www.town.tateshina.nagano.jp/
  203491,http://www.vill.aoki.nagano.jp/
  203505,http://www.town.nagawa.nagano.jp/
-@@ -909,12 +934,13 @@
+@@ -909,39 +934,37 @@
  203629,http://www.town.fujimi.lg.jp/
  203637,http://www.vill.hara.nagano.jp/
  203823,http://www.town.tatsuno.nagano.jp/
@@ -1353,7 +1354,8 @@
  204048,http://www.town.anan.nagano.jp/
  204072,http://www.vill.achi.nagano.jp/
  204099,http://www.vill.hiraya.nagano.jp/
-@@ -922,26 +948,23 @@
+-204102,http://www.nebamura.jp/
++204102,http://nebamura.jp/
  204111,http://www.vill-shimojo.jp/
  204129,http://www.urugi.jp/
  204137,http://www.vill-tenryu.jp/
@@ -1584,7 +1586,7 @@
 +232327,https://www.city.aisai.lg.jp/
  232335,http://www.city.kiyosu.aichi.jp/
 -232343,http://www.city.kitanagoya.lg.jp
-+232343,http://www.city.kitanagoya.lg.jp/
++232343,https://www.city.kitanagoya.lg.jp/
  232351,http://www.city.yatomi.lg.jp/
 -232351,http://www.city.yatomi.aichi.jp
 -232360,http://www.city.aichi-miyoshi.lg.jp/
@@ -1922,9 +1924,10 @@
  285862,http://www.town.shinonsen.hyogo.jp/
 -290009,http://www.pref.nara.jp/
  292010,http://www.city.nara.lg.jp/
- 292028,http://www.city.yamatotakada.nara.jp/
+-292028,http://www.city.yamatotakada.nara.jp/
 -292036,http://www.city.yamatokoriyama.nara.jp/
 -292044,None
++292028,https://www.city.yamatotakada.nara.jp/
 +292036,https://www.city.yamatokoriyama.nara.jp/
 +292044,http://www.city.tenri.nara.jp/
  292052,http://www.city.kashihara.nara.jp/
@@ -2124,7 +2127,7 @@
  332143,http://www.city.maniwa.lg.jp/
  332151,http://www.city.mimasaka.lg.jp/
 -332160,http://www.city.asakuchi.okayama.jp/
-+332160,http://www.city.asakuchi.lg.jp/
++332160,https://www.city.asakuchi.lg.jp/
  333468,http://www.town.wake.okayama.jp/
  334235,http://www.town.hayashima.lg.jp/
  334456,http://www.town.satosho.okayama.jp/
