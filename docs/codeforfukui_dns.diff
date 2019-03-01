@@ -150,7 +150,7 @@
  小千谷市,www.city.ojiya.niigata.jp
  加茂市,www.city.kamo.niigata.jp
  十日町市,www.city.tokamachi.lg.jp
-@@ -918,16 +923,16 @@
+@@ -918,7 +923,7 @@
  川上村,www.vill.kawakami.nagano.jp
  南牧村,www.minamimakimura.jp
  南相木村,www.minamiaiki.jp
@@ -159,10 +159,8 @@
  佐久穂町,www.town.sakuho.nagano.jp
  軽井沢町,www.town.karuizawa.lg.jp
  御代田町,www.town.miyota.nagano.jp
- 立科町,www.town.tateshina.nagano.jp
- 青木村,www.vill.aoki.nagano.jp
--長和町,town.nagawa.nagano.jp
-+長和町,www.town.nagawa.nagano.jp
+@@ -927,7 +932,7 @@
+ 長和町,town.nagawa.nagano.jp
  下諏訪町,www.town.shimosuwa.lg.jp
  富士見町,www.town.fujimi.lg.jp
 -原村,www.vill.hara.lg.jp
@@ -197,15 +195,6 @@
  伊東市,www.city.ito.shizuoka.jp
  島田市,www.city.shimada.shizuoka.jp
  富士市,www.city.fuji.shizuoka.jp
-@@ -1154,7 +1159,7 @@
- 玉城町,kizuna.town.tamaki.mie.jp
- 度会町,www.town.watarai.lg.jp
- 大紀町,www.town.taiki.mie.jp
--南伊勢町,www.town.minamiise.lg.jp
-+南伊勢町,www.town.minamiise.mie.jp
- 紀北町,www.town.mie-kihoku.lg.jp
- 御浜町,www.town.mihama.mie.jp
- 紀宝町,www.town.kiho.lg.jp
 @@ -1259,7 +1264,7 @@
  茨木市,www.city.ibaraki.osaka.jp
  八尾市,www.city.yao.osaka.jp
@@ -227,7 +216,7 @@
  南あわじ市,www.city.minamiawaji.hyogo.jp
  朝来市,www.city.asago.hyogo.jp
  淡路市,www.city.awaji.lg.jp
-@@ -1327,10 +1332,10 @@
+@@ -1327,7 +1332,7 @@
  加東市,www.city.kato.lg.jp
  たつの市,www.city.tatsuno.lg.jp
  猪名川町,www.town.inagawa.lg.jp
@@ -235,11 +224,7 @@
 +多可町,www.town.taka.lg.jp
  稲美町,www.town.hyogo-inami.lg.jp
  播磨町,www.town.harima.lg.jp
--市川町,www.town.ichikawa.lg.jp
-+市川町,www.town.ichikawa.hyogo.jp
- 福崎町,www.town.fukusaki.hyogo.jp
- 神河町,www.town.kamikawa.hyogo.jp
- 太子町,www.town.hyogo-taishi.lg.jp
+ 市川町,www.town.ichikawa.lg.jp
 @@ -1361,7 +1366,7 @@
  曽爾村,www.vill.soni.nara.jp
  御杖村,www.vill.mitsue.nara.jp
@@ -287,15 +272,6 @@
  久万高原町,www.kumakogen.jp
  松前町,www.town.masaki.ehime.jp
  砥部町,www.town.tobe.ehime.jp
-@@ -1597,7 +1602,7 @@
- 土佐清水市,www.city.tosashimizu.kochi.jp
- 四万十市,www.city.shimanto.lg.jp
- 香南市,www.city.kochi-konan.lg.jp
--香美市,www.city.kami.lg.jp
-+香美市,www.city.kami.kochi.jp
- 東洋町,www.town.toyo.kochi.jp
- 奈半利町,www.town.nahari.kochi.jp
- 田野町,www.chugei.or.jp
 @@ -1616,7 +1621,7 @@
  越知町,www.town.ochi.kochi.jp
  檮原町,www.town.yusuhara.kochi.jp

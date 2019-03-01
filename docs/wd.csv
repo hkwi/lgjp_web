@@ -152,7 +152,7 @@ code,name,site
 015784,白老町,http://www.town.shiraoi.hokkaido.jp/
 015814,厚真町,http://www.town.atsuma.lg.jp/
 015849,洞爺湖町,http://www.town.toyako.hokkaido.jp/
-015857,安平町,http://www.town.abira.lg.jp/
+015857,安平町,https://www.town.abira.lg.jp/
 015865,むかわ町,http://www.town.mukawa.lg.jp/
 016012,日高町,http://www.town.hidaka.hokkaido.jp/
 016021,平取町,http://www.town.biratori.hokkaido.jp/
@@ -458,7 +458,7 @@ code,name,site
 082317,桜川市,http://www.city.sakuragawa.lg.jp/
 082325,神栖市,http://www.city.kamisu.ibaraki.jp/
 082333,行方市,http://www.city.namegata.ibaraki.jp/
-082341,鉾田市,http://www.city.hokota.lg.jp/
+082341,鉾田市,https://www.city.hokota.lg.jp/
 082350,つくばみらい市,https://www.city.tsukubamirai.lg.jp/
 082368,小美玉市,https://www.city.omitama.lg.jp/
 083020,茨城町,http://www.town.ibaraki.lg.jp/
@@ -950,7 +950,7 @@ code,name,site
 203238,御代田町,http://www.town.miyota.nagano.jp/
 203246,立科町,http://www.town.tateshina.nagano.jp/
 203491,青木村,http://www.vill.aoki.nagano.jp/
-203505,長和町,http://www.town.nagawa.nagano.jp/
+203505,長和町,https://town.nagawa.nagano.jp/
 203611,下諏訪町,http://www.town.shimosuwa.lg.jp/
 203629,富士見町,http://www.town.fujimi.lg.jp/
 203637,原村,http://www.vill.hara.nagano.jp/
@@ -1184,7 +1184,7 @@ code,name,site
 244619,玉城町,https://kizuna.town.tamaki.mie.jp/
 244708,度会町,https://www.town.watarai.lg.jp/
 244716,大紀町,http://www.town.taiki.mie.jp/
-244724,南伊勢町,http://www.town.minamiise.mie.jp/
+244724,南伊勢町,https://www.town.minamiise.lg.jp/
 245437,紀北町,http://www.town.mie-kihoku.lg.jp/
 245615,御浜町,http://www.town.mihama.mie.jp/
 245623,紀宝町,https://www.town.kiho.lg.jp/
@@ -1364,7 +1364,7 @@ code,name,site
 283657,多可町,https://www.town.taka.lg.jp/
 283819,稲美町,http://www.town.hyogo-inami.lg.jp/
 283827,播磨町,https://www.town.harima.lg.jp/
-284424,市川町,http://www.town.ichikawa.hyogo.jp/
+284424,市川町,https://www.town.ichikawa.lg.jp/
 284432,福崎町,http://www.town.fukusaki.hyogo.jp/
 284467,神河町,https://www.town.kamikawa.hyogo.jp/
 284645,太子町,http://www.town.hyogo-taishi.lg.jp/
@@ -1583,15 +1583,15 @@ code,name,site
 363421,神山町,http://www.town.kamiyama.lg.jp/
 363685,那賀町,http://www.town.tokushima-naka.lg.jp/
 363839,牟岐町,http://www.town.tokushima-mugi.lg.jp/
-363871,美波町,http://www.town.minami.tokushima.jp/
-363880,海陽町,http://www.town.kaiyo.lg.jp/
+363871,美波町,https://www.town.minami.tokushima.jp/
+363880,海陽町,https://www.town.kaiyo.lg.jp/
 364011,松茂町,http://www.town.matsushige.tokushima.jp/
 364029,北島町,http://www.town.kitajima.lg.jp/
 364037,藍住町,https://www.town.aizumi.lg.jp/
 364045,板野町,http://www.town.itano.tokushima.jp/
 364053,上板町,http://www.townkamiita.jp/
 364681,つるぎ町,http://www.town.tokushima-tsurugi.lg.jp/
-364894,東みよし町,http://www.town.higashimiyoshi.lg.jp/
+364894,東みよし町,https://www.town.higashimiyoshi.lg.jp/
 370002,香川県,http://www.pref.kagawa.lg.jp
 372013,高松市,https://www.city.takamatsu.kagawa.jp/
 372021,丸亀市,https://www.city.marugame.lg.jp/
@@ -1641,8 +1641,8 @@ code,name,site
 392081,宿毛市,http://www.city.sukumo.kochi.jp/
 392090,土佐清水市,https://www.city.tosashimizu.kochi.jp/
 392103,四万十市,http://www.city.shimanto.lg.jp/
-392111,香南市,http://www.city.kochi-konan.lg.jp/
-392120,香美市,http://www.city.kami.kochi.jp/
+392111,香南市,https://www.city.kochi-konan.lg.jp/
+392120,香美市,https://www.city.kami.lg.jp/
 393011,東洋町,http://www.town.toyo.kochi.jp/
 393029,奈半利町,http://www.town.nahari.kochi.jp/
 393037,田野町,http://www.chugei.or.jp/tano/
@@ -1662,7 +1662,7 @@ code,name,site
 394050,檮原町,http://www.town.yusuhara.kochi.jp/
 394106,日高村,http://www.vill.hidaka.kochi.jp/
 394114,津野町,http://www.town.kochi-tsuno.lg.jp/
-394122,四万十町,http://www.town.shimanto.lg.jp/
+394122,四万十町,https://www.town.shimanto.lg.jp/
 394246,大月町,http://www.town.otsuki.kochi.jp/
 394271,三原村,http://www.vill.mihara.kochi.jp/
 394289,黒潮町,http://www.town.kuroshio.lg.jp/
@@ -1774,7 +1774,7 @@ code,name,site
 422100,壱岐市,https://www.city.iki.nagasaki.jp/
 422118,五島市,http://www.city.goto.nagasaki.jp/
 422126,西海市,http://www.city.saikai.nagasaki.jp/
-422134,雲仙市,http://www.city.unzen.nagasaki.jp/
+422134,雲仙市,https://www.city.unzen.nagasaki.jp/
 422142,南島原市,http://www.city.minamishimabara.lg.jp/
 423076,長与町,http://webtown.nagayo.jp/
 423084,時津町,http://www.town.togitsu.nagasaki.jp/
@@ -1897,7 +1897,7 @@ code,name,site
 462195,いちき串木野市,https://www.city.ichikikushikino.lg.jp/
 462209,南さつま市,http://www.city.minamisatsuma.lg.jp/
 462217,志布志市,http://www.city.shibushi.lg.jp/
-462225,奄美市,http://www.city.amami.lg.jp/
+462225,奄美市,https://www.city.amami.lg.jp/
 462233,南九州市,https://www.city.minamikyushu.lg.jp/
 462241,伊佐市,http://www.city.isa.kagoshima.jp/
 462250,姶良市,https://www.city.aira.lg.jp/
