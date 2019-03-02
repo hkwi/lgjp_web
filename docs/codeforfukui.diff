@@ -165,7 +165,8 @@
 +浦河町,http://www.town.urakawa.hokkaido.jp/
  様似町,http://www.samani.jp/
  えりも町,http://www.town.erimo.lg.jp/
- 新ひだか町,http://www.shinhidaka-hokkaido.jp/
+-新ひだか町,http://www.shinhidaka-hokkaido.jp/
++新ひだか町,https://www.shinhidaka-hokkaido.jp/
  音更町,http://www.town.otofuke.hokkaido.jp/
  士幌町,http://www.shihoro.jp/
 -上士幌町,https://www.kamishihoro.jp/
@@ -852,7 +853,8 @@
  練馬区,https://www.city.nerima.tokyo.jp/
  足立区,http://www.city.adachi.tokyo.jp/
  葛飾区,http://www.city.katsushika.lg.jp/
- 江戸川区,http://www.city.edogawa.tokyo.jp/
+-江戸川区,http://www.city.edogawa.tokyo.jp/
++江戸川区,https://www.city.edogawa.tokyo.jp/
  八王子市,https://www.city.hachioji.tokyo.jp/
 -立川市,http://www.city.tachikawa.lg.jp/
 +立川市,https://www.city.tachikawa.lg.jp/
@@ -1355,8 +1357,9 @@
 +犬山市,https://www.city.inuyama.aichi.jp/
  常滑市,http://www.city.tokoname.aichi.jp/
 -江南市,http://www.city.konan.lg.jp/
+-小牧市,http://www.city.komaki.aichi.jp/
 +江南市,https://www.city.konan.lg.jp/
- 小牧市,http://www.city.komaki.aichi.jp/
++小牧市,https://www.city.komaki.aichi.jp/
  稲沢市,http://www.city.inazawa.aichi.jp/
  新城市,http://www.city.shinshiro.lg.jp/
  東海市,http://www.city.tokai.aichi.jp/
@@ -1987,12 +1990,12 @@
 +三木町,http://www.town.miki.lg.jp/
  直島町,http://www.town.naoshima.lg.jp/
 -宇多津町,https://www.town.utazu.lg.jp/
--綾川町,https://www.town.ayagawa.lg.jp/
 +宇多津町,http://town.utazu.kagawa.jp/
-+綾川町,http://www.town.ayagawa.kagawa.jp/
+ 綾川町,https://www.town.ayagawa.lg.jp/
  琴平町,http://www.town.kotohira.kagawa.jp/
  多度津町,http://www.town.tadotsu.kagawa.jp/
- まんのう町,http://www.town.manno.lg.jp/
+-まんのう町,http://www.town.manno.lg.jp/
++まんのう町,https://www.town.manno.lg.jp/
  松山市,http://www.city.matsuyama.ehime.jp/
  今治市,https://www.city.imabari.ehime.jp/
 -宇和島市,http://www.city.uwajima.ehime.jp/
@@ -2297,7 +2300,8 @@
 +宇佐市,https://www.city.usa.oita.jp/
  豊後大野市,http://www.bungo-ohno.jp/
  由布市,http://www.city.yufu.oita.jp/
- 国東市,http://www.city.kunisaki.oita.jp/
+-国東市,http://www.city.kunisaki.oita.jp/
++国東市,https://www.city.kunisaki.oita.jp/
  姫島村,http://www.himeshima.jp/
 -日出町,https://www.town.hiji.lg.jp/
 +日出町,http://www.town.hiji.oita.jp/

@@ -252,17 +252,15 @@
  勝浦町,www.town.katsuura.lg.jp
  上勝町,www.kamikatsu.jp
  佐那河内村,www.vill.sanagochi.lg.jp
-@@ -1562,8 +1567,8 @@
+@@ -1562,7 +1567,7 @@
  小豆島町,www.town.shodoshima.lg.jp
  三木町,www.town.miki.lg.jp
  直島町,www.town.naoshima.lg.jp
 -宇多津町,www.town.utazu.lg.jp
--綾川町,www.town.ayagawa.lg.jp
 +宇多津町,town.utazu.kagawa.jp
-+綾川町,www.town.ayagawa.kagawa.jp
+ 綾川町,www.town.ayagawa.lg.jp
  琴平町,www.town.kotohira.kagawa.jp
  多度津町,www.town.tadotsu.kagawa.jp
- まんのう町,www.town.manno.lg.jp
 @@ -1578,7 +1583,7 @@
  四国中央市,www.city.shikokuchuo.ehime.jp
  西予市,www.city.seiyo.ehime.jp

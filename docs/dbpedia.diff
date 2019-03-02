@@ -204,7 +204,8 @@
 -016080,http://www.hokkai.or.jp/samani/
 +016080,http://www.samani.jp/
  016098,http://www.town.erimo.lg.jp/
- 016101,http://www.shinhidaka-hokkaido.jp/
+-016101,http://www.shinhidaka-hokkaido.jp/
++016101,https://www.shinhidaka-hokkaido.jp/
  016314,http://www.town.otofuke.hokkaido.jp/
  016322,http://www.shihoro.jp/
 -016331,http://www.kamishihoro.jp/index.php
@@ -968,7 +969,7 @@
 +131202,https://www.city.nerima.tokyo.jp/
 +131211,http://www.city.adachi.tokyo.jp/
 +131229,http://www.city.katsushika.lg.jp/
-+131237,http://www.city.edogawa.tokyo.jp/
++131237,https://www.city.edogawa.tokyo.jp/
 +132012,https://www.city.hachioji.tokyo.jp/
 +132021,https://www.city.tachikawa.lg.jp/
  132039,http://www.city.musashino.lg.jp/
@@ -1566,8 +1567,9 @@
 +232157,https://www.city.inuyama.aichi.jp/
  232165,http://www.city.tokoname.aichi.jp/
 -232173,http://www.city.konan.lg.jp/
+-232190,http://www.city.komaki.aichi.jp/
 +232173,https://www.city.konan.lg.jp/
- 232190,http://www.city.komaki.aichi.jp/
++232190,https://www.city.komaki.aichi.jp/
  232203,http://www.city.inazawa.aichi.jp/
  232211,http://www.city.shinshiro.lg.jp/
  232220,http://www.city.tokai.aichi.jp/
@@ -2286,11 +2288,12 @@
  373648,http://www.town.naoshima.lg.jp/
  373869,http://town.utazu.kagawa.jp/
 -373877,http://www.town.ayagawa.kagawa.jp
-+373877,http://www.town.ayagawa.kagawa.jp/
++373877,https://www.town.ayagawa.lg.jp/
  374032,http://www.town.kotohira.kagawa.jp/
  374041,http://www.town.tadotsu.kagawa.jp/
- 374067,http://www.town.manno.lg.jp/
+-374067,http://www.town.manno.lg.jp/
 -380008,http://www.pref.ehime.jp/
++374067,https://www.town.manno.lg.jp/
  382019,http://www.city.matsuyama.ehime.jp/
 -382027,http://www.city.imabari.ehime.jp/
 -382035,http://www.city.uwajima.ehime.jp/
@@ -2580,7 +2583,7 @@
  434043,http://www.town.kikuyo.lg.jp/
  434230,http://www.town.minamioguni.kumamoto.jp/
  434248,http://www.aso-oguni.com/
-@@ -1722,32 +1777,31 @@
+@@ -1722,104 +1777,99 @@
  434426,http://www.town.kashima.kumamoto.jp/
  434434,http://www.town.mashiki.lg.jp/
  434442,http://www.town.kosa.kumamoto.jp/
@@ -2625,8 +2628,9 @@
 +442119,https://www.city.usa.oita.jp/
  442127,http://www.bungo-ohno.jp/
  442135,http://www.city.yufu.oita.jp/
- 442143,http://www.city.kunisaki.oita.jp/
-@@ -1755,71 +1809,67 @@
+-442143,http://www.city.kunisaki.oita.jp/
++442143,https://www.city.kunisaki.oita.jp/
+ 443221,http://www.himeshima.jp/
  443417,http://www.town.hiji.oita.jp/
  444618,http://www.town.kokonoe.oita.jp/
  444626,http://www.town.kusu.oita.jp/
