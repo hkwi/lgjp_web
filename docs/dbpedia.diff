@@ -27,7 +27,7 @@
 +012050,http://www.city.muroran.lg.jp/main/org2260/odlib.php
 +012068,https://www.city.kushiro.lg.jp/
 +012076,https://www.city.obihiro.hokkaido.jp/
-+012084,http://www.city.kitami.lg.jp/
++012084,https://www.city.kitami.lg.jp/
 +012092,https://www.city.yubari.lg.jp/
 +012106,https://www.city.iwamizawa.hokkaido.jp/
 +012114,https://www.city.abashiri.hokkaido.jp/
@@ -339,7 +339,8 @@
 +033227,https://www.town.yahaba.iwate.jp/
 +033669,http://www.town.nishiwaga.lg.jp/
  033812,http://www.town.kanegasaki.iwate.jp/
- 034029,http://www.town.hiraizumi.iwate.jp/
+-034029,http://www.town.hiraizumi.iwate.jp/
++034029,https://www.town.hiraizumi.iwate.jp/
  034410,http://www.town.sumita.iwate.jp/
 -034614,http://www.town.otsuchi.iwate.jp/
 +034614,https://www.town.otsuchi.iwate.jp/
@@ -368,7 +369,7 @@
 +041050,http://www.city.sendai.jp/izumiku/
 +042021,https://www.city.ishinomaki.lg.jp/
 +042030,https://www.city.shiogama.miyagi.jp/
-+042056,http://www.kesennuma.miyagi.jp/
++042056,https://www.kesennuma.miyagi.jp/
  042064,http://www.city.shiroishi.miyagi.jp/
 -042072,http://www.city.natori.miyagi.jp/
 -042081,http://www.city.kakuda.miyagi.jp/
@@ -387,13 +388,15 @@
 +042161,https://www.tomiya-city.miyagi.jp/
  043010,http://www.town.zao.miyagi.jp/
  043028,http://www.town.shichikashuku.miyagi.jp/
- 043214,http://www.town.ogawara.miyagi.jp/
+-043214,http://www.town.ogawara.miyagi.jp/
 -043222,http://www.town.murata.miyagi.jp/index.html
++043214,https://www.town.ogawara.miyagi.jp/
 +043222,http://www.town.murata.miyagi.jp/
  043231,http://www.town.shibata.miyagi.jp/
  043249,http://www.town.kawasaki.miyagi.jp/
  043419,http://www.town.marumori.miyagi.jp/
- 043613,http://www.town.watari.miyagi.jp/
+-043613,http://www.town.watari.miyagi.jp/
++043613,https://www.town.watari.miyagi.jp/
  043621,http://www.town.yamamoto.miyagi.jp/
 -044016,http://www.town.matsushima.miyagi.jp/
 +044016,http://www.town.miyagi-matsushima.lg.jp/
@@ -441,13 +444,13 @@
 +052159,http://www.city.semboku.akita.jp/
 +053031,http://www.town.kosaka.akita.jp/
 +053279,https://www.vill.kamikoani.akita.jp/
-+053465,http://www.town.fujisato.akita.jp/
++053465,https://www.town.fujisato.akita.jp/
  053481,http://www.town.mitane.akita.jp/
  053490,http://www.town.happou.akita.jp/
 -053490,http://www.town.happou.akita.jp
  053619,http://www.town.gojome.akita.jp/
 -053635,None
-+053635,http://www.town.hachirogata.akita.jp/
++053635,https://www.town.hachirogata.akita.jp/
  053660,http://www.town.ikawa.akita.jp/
 -053686,http://www.ogata.or.jp/index.html
 +053686,http://www.ogata.or.jp/
@@ -464,14 +467,15 @@
 -062031,http://www.city.kasama.lg.jp/index.html
 -062049,http://www.city.sakata.lg.jp/
 -062057,https://city.shinjo.yamagata.jp/kurashi/040/010/index.html
-+062031,https://www.city.tsuruoka.lg.jp/
-+062049,https://www.city.sakata.lg.jp/
- 062057,http://www.city.shinjo.yamagata.jp/
+-062057,http://www.city.shinjo.yamagata.jp/
 -062065,http://www.city.sagae.yamagata.jp/
 -062073,http://www.city.kaminoyama.yamagata.jp/
 -062081,http://www.city.murayama.lg.jp/
 -062090,http://www.city.nagai.yamagata.jp/
 -062103,http://www.city.tendo.yamagata.jp/index.html
++062031,https://www.city.tsuruoka.lg.jp/
++062049,https://www.city.sakata.lg.jp/
++062057,https://www.city.shinjo.yamagata.jp/
 +062065,https://www.city.sagae.yamagata.jp/
 +062073,https://www.city.kaminoyama.yamagata.jp/
 +062081,https://www.city.murayama.lg.jp/
@@ -562,7 +566,7 @@
  074667,http://www.town.yabuki.fukushima.jp/
  074811,http://www.town.tanagura.fukushima.jp/
  074829,http://www.town.yamatsuri.fukushima.jp/
-@@ -424,56 +411,49 @@
+@@ -424,396 +411,443 @@
  075213,http://www.town.miharu.fukushima.jp/
  075221,http://www.town.ono.fukushima.jp/
  075418,http://www.town.hirono.fukushima.jp/
@@ -638,7 +642,8 @@
  083101,http://www.town.shirosato.lg.jp/
  083411,http://www.vill.tokai.ibaraki.jp/
  083640,http://www.town.daigo.ibaraki.jp/
-@@ -481,339 +461,393 @@
+-084425,http://www.vill.miho.lg.jp/
++084425,https://www.vill.miho.lg.jp/
  084433,http://www.town.ami.lg.jp/
  084476,http://www.town.ibaraki-kawachi.lg.jp/
  085219,http://www.town.ibaraki-yachiyo.lg.jp/
@@ -687,9 +692,10 @@
 +102016,https://www.city.maebashi.gunma.jp/
  102024,http://www.city.takasaki.gunma.jp/
 -102032,http://www.city.kiryu.lg.jp/
-+102032,http://www.city.kiryu.gunma.jp/
- 102041,http://www.city.isesaki.lg.jp/
+-102041,http://www.city.isesaki.lg.jp/
 -102059,http://www.city.ota.gunma.jp/
++102032,http://www.city.kiryu.gunma.jp/
++102041,https://www.city.isesaki.lg.jp/
 +102059,https://www.city.ota.gunma.jp/
  102067,http://www.city.numata.gunma.jp/
  102075,http://www.city.tatebayashi.gunma.jp/
@@ -741,6 +747,8 @@
 -112011,http://www.city.kawagoe.saitama.jp/
 -112020,http://www.city.kumagaya.lg.jp/
 -112020,http://www.city.kumagaya.lg.jp/index.html
+-112038,http://www.city.kawaguchi.lg.jp/
+-112062,http://www.city.gyoda.lg.jp/
 +111007,http://www.city.saitama.jp/
 +111015,http://www.city.saitama.jp/nishi/index.html
 +111023,http://www.city.saitama.jp/index_kitaku.html
@@ -754,8 +762,7 @@
 +111104,http://www.city.saitama.jp/index_iwatsukiku.html
 +112011,https://www.city.kawagoe.saitama.jp/
 +112020,https://www.city.kumagaya.lg.jp/
- 112038,http://www.city.kawaguchi.lg.jp/
--112062,http://www.city.gyoda.lg.jp/
++112038,https://www.city.kawaguchi.lg.jp/
 +112062,https://www.city.gyoda.lg.jp/
  112071,http://www.city.chichibu.lg.jp/
 -112089,http://www.city.tokorozawa.saitama.jp/
@@ -775,7 +782,7 @@
 -112186,http://fukkachan.com/index.html
  112186,http://www.city.fukaya.saitama.jp/
 -112194,http://www.city.ageo.lg.jp/index.html
-+112194,http://www.city.ageo.lg.jp/
++112194,https://www.city.ageo.lg.jp/
  112216,http://www.city.soka.saitama.jp/
 -112224,http://www.city.koshigaya.saitama.jp/
 -112232,http://www.city.warabi.saitama.jp/index.htm
@@ -795,8 +802,9 @@
 +112313,https://www.city.okegawa.lg.jp/
 +112321,https://www.city.kuki.lg.jp/
  112330,http://www.city.kitamoto.saitama.jp/
- 112348,http://www.city.yashio.lg.jp/
+-112348,http://www.city.yashio.lg.jp/
 -112356,http://www.city.fujimi.saitama.jp/index.html
++112348,https://www.city.yashio.lg.jp/
 +112356,https://www.city.fujimi.saitama.jp/
  112372,http://www.city.misato.lg.jp/
 -112381,http://www.city.hasuda.saitama.jp/
@@ -958,12 +966,12 @@
 +131075,https://www.city.sumida.lg.jp/
 +131083,https://www.city.koto.lg.jp/
 +131091,http://www.city.shinagawa.tokyo.jp/
-+131105,http://www.city.meguro.tokyo.jp/
-+131113,http://www.city.ota.tokyo.jp/
++131105,https://www.city.meguro.tokyo.jp/
++131113,https://www.city.ota.tokyo.jp/
 +131121,http://www.city.setagaya.lg.jp/
-+131130,http://www.city.shibuya.tokyo.jp/
-+131148,http://www.city.tokyo-nakano.lg.jp/
-+131156,http://www.city.suginami.tokyo.jp/
++131130,https://www.city.shibuya.tokyo.jp/
++131148,https://www.city.tokyo-nakano.lg.jp/
++131156,https://www.city.suginami.tokyo.jp/
 +131164,http://www.city.toshima.lg.jp/
 +131172,https://www.city.kita.tokyo.jp/
 +131181,https://www.city.arakawa.tokyo.jp/
@@ -1165,11 +1173,12 @@
  155811,http://www.vill.sekikawa.niigata.jp/
  155861,http://www.vill.awashimaura.lg.jp/
 -160008,http://www.pref.toyama.lg.jp/
- 162019,http://www.city.toyama.toyama.jp/
+-162019,http://www.city.toyama.toyama.jp/
 -162027,http://www.city.takaoka.toyama.jp/
 -162043,http://www.city.uozu.toyama.jp/
 -162051,http://www.city.himi.toyama.jp/
 -162060,http://www.city.namerikawa.toyama.jp/
++162019,https://www.city.toyama.toyama.jp/
 +162027,https://www.city.takaoka.toyama.jp/
 +162043,https://www.city.uozu.toyama.jp/
 +162051,https://www.city.himi.toyama.jp/
@@ -1550,20 +1559,22 @@
  232041,http://www.city.seto.aichi.jp/
 -232041,http://www.expo2005.or.jp/
 -232050,http://www.city.handa.lg.jp/
-+232050,https://www.city.handa.lg.jp/
- 232068,http://www.city.kasugai.lg.jp/
+-232068,http://www.city.kasugai.lg.jp/
 -232076,http://www.city.toyokawa.lg.jp/
 -232084,http://www.city.tsushima.lg.jp/
++232050,https://www.city.handa.lg.jp/
++232068,https://www.city.kasugai.lg.jp/
 +232076,https://www.city.toyokawa.lg.jp/
 +232084,https://www.city.tsushima.lg.jp/
  232092,http://www.city.hekinan.aichi.jp/
 -232106,http://www.city.kariya.lg.jp/
 +232106,https://www.city.kariya.lg.jp/
  232114,http://www.city.toyota.aichi.jp/
- 232122,http://www.city.anjo.aichi.jp/
+-232122,http://www.city.anjo.aichi.jp/
 -232131,http://www.city.nishio.aichi.jp/
 -232149,http://www.city.gamagori.lg.jp/
 -232157,http://www.city.inuyama.aichi.jp/
++232122,https://www.city.anjo.aichi.jp/
 +232131,https://www.city.nishio.aichi.jp/
 +232149,https://www.city.gamagori.lg.jp/
 +232157,https://www.city.inuyama.aichi.jp/
@@ -1765,6 +1776,7 @@
 -271004,http://www.city.osaka.lg.jp/index.html
 -271403,http://www.city.sakai.lg.jp
 -272027,http://www.city.kishiwada.osaka.jp/
+-272035,http://www.city.toyonaka.osaka.jp/
 +264652,http://www.town-yosano.jp/
 +271004,http://www.city.osaka.lg.jp/
 +271021,http://www.city.osaka.lg.jp/miyakojima/
@@ -1791,7 +1803,7 @@
 +271268,http://www.city.osaka.lg.jp/hirano/
 +271276,http://www.city.osaka.lg.jp/kita/
 +271284,http://www.city.osaka.lg.jp/chuo/
-+271403,http://www.city.sakai.lg.jp/
++271403,https://www.city.sakai.lg.jp/
 +271411,http://www.city.sakai.lg.jp/sakai/
 +271420,http://www.city.sakai.lg.jp/sakai/
 +271438,http://www.city.sakai.lg.jp/higashi/
@@ -1800,7 +1812,7 @@
 +271462,http://www.city.sakai.lg.jp/kita/
 +271471,http://www.city.sakai.lg.jp/mihara/
 +272027,https://www.city.kishiwada.osaka.jp/
- 272035,http://www.city.toyonaka.osaka.jp/
++272035,https://www.city.toyonaka.osaka.jp/
  272043,http://www.city.ikeda.osaka.jp/
  272051,http://www.city.suita.osaka.jp/
  272060,http://www.city.izumiotsu.lg.jp/
@@ -1819,9 +1831,10 @@
  272132,http://www.city.izumisano.lg.jp/
 -272132,http://www.kansai-airport.or.jp/index.asp
  272141,http://www.city.tondabayashi.osaka.jp/
- 272159,http://www.city.neyagawa.osaka.jp/
+-272159,http://www.city.neyagawa.osaka.jp/
 -272167,http://www.city.kawachinagano.lg.jp/
 -272175,http://www.city.matsubara.osaka.jp/
++272159,https://www.city.neyagawa.osaka.jp/
 +272167,https://www.city.kawachinagano.lg.jp/
 +272175,https://www.city.matsubara.lg.jp/
  272183,http://www.city.daito.lg.jp/
@@ -2176,12 +2189,13 @@
 -342041,http://www.city.mihara.hiroshima.jp/
 -342050,http://www.city.onomichi.hiroshima.jp/
 -342076,http://www.city.fukuyama.hiroshima.jp/
+-342084,http://www.city.fuchu.hiroshima.jp/
+-342092,http://www.city.miyoshi.hiroshima.jp/
+-342106,http://www.city.shobara.hiroshima.jp/
 +342041,https://www.city.mihara.hiroshima.jp/
 +342050,https://www.city.onomichi.hiroshima.jp/
 +342076,https://www.city.fukuyama.hiroshima.jp/
- 342084,http://www.city.fuchu.hiroshima.jp/
--342092,http://www.city.miyoshi.hiroshima.jp/
--342106,http://www.city.shobara.hiroshima.jp/
++342084,https://www.city.fuchu.hiroshima.jp/
 +342092,https://www.city.miyoshi.hiroshima.jp/
 +342106,https://www.city.shobara.hiroshima.jp/
  342114,http://www.city.otake.hiroshima.jp/
