@@ -1644,7 +1644,7 @@
 -242047,http://www.city.matsusaka.mie.jp/
 -242055,http://www.city.kuwana.lg.jp/
 -242055,http://eki-mae.com/
-+242039,http://www.city.ise.mie.jp/
++242039,https://www.city.ise.mie.jp/
 +242047,https://www.city.matsusaka.mie.jp/
 +242055,https://www.city.kuwana.lg.jp/
  242071,http://www.city.suzuka.lg.jp/
@@ -2501,14 +2501,15 @@
 -410004,http://www.pref.saga.lg.jp/
 -412015,http://www.city.saga.lg.jp/
 -412023,http://www.city.karatsu.lg.jp/
-+412015,https://www.city.saga.lg.jp/
-+412023,https://www.city.karatsu.lg.jp/
- 412031,http://www.city.tosu.lg.jp/
+-412031,http://www.city.tosu.lg.jp/
 -412040,http://www.city.taku.lg.jp/
 -412058,http://www.city.imari.saga.jp/
 -412066,http://www.city.takeo.lg.jp/
 -412066,http://www.facebook.com/takeocity
 -412074,http://www.city.kashima.saga.jp/
++412015,https://www.city.saga.lg.jp/
++412023,https://www.city.karatsu.lg.jp/
++412031,https://www.city.tosu.lg.jp/
 +412040,https://www.city.taku.lg.jp/
 +412058,https://www.city.imari.saga.jp/
 +412066,https://www.city.takeo.lg.jp/
