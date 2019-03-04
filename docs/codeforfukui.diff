@@ -368,7 +368,8 @@
 -八郎潟町,http://www.town.hachirogata.akita.jp/
 +八郎潟町,https://www.town.hachirogata.akita.jp/
  井川町,http://www.town.ikawa.akita.jp/
- 大潟村,http://www.ogata.or.jp/
+-大潟村,http://www.ogata.or.jp/
++大潟村,https://www.ogata.or.jp/
  美郷町,http://www.town.misato.akita.jp/
 -羽後町,http://www.town.ugo.lg.jp/
 +羽後町,https://www.town.ugo.lg.jp/
@@ -2430,16 +2431,17 @@
  伊仙町,http://www.town.isen.kagoshima.jp/
  和泊町,http://www.town.wadomari.lg.jp/
  知名町,http://www.town.china.lg.jp/
-@@ -1878,7 +1883,7 @@
+@@ -1878,15 +1883,15 @@
  石垣市,http://www.city.ishigaki.okinawa.jp/
  浦添市,http://www.city.urasoe.lg.jp/
  名護市,http://www.city.nago.okinawa.jp/
 -糸満市,http://www.city.itoman.lg.jp/
+-沖縄市,http://www.city.okinawa.okinawa.jp/
 +糸満市,https://www.city.itoman.lg.jp/
- 沖縄市,http://www.city.okinawa.okinawa.jp/
++沖縄市,https://www.city.okinawa.okinawa.jp/
  豊見城市,http://www.city.tomigusuku.okinawa.jp/
  うるま市,https://www.city.uruma.lg.jp/
-@@ -1886,7 +1891,7 @@
+ 宮古島市,https://www.city.miyakojima.lg.jp/
  南城市,http://www.city.nanjo.okinawa.jp/
  国頭村,http://www.vill.kunigami.okinawa.jp/
  大宜味村,http://www.vill.ogimi.okinawa.jp/

@@ -453,7 +453,7 @@
 +053635,https://www.town.hachirogata.akita.jp/
  053660,http://www.town.ikawa.akita.jp/
 -053686,http://www.ogata.or.jp/index.html
-+053686,http://www.ogata.or.jp/
++053686,https://www.ogata.or.jp/
  054348,http://www.town.misato.akita.jp/
 -054631,http://www.bon-odori.jp/index.html
 -054631,http://www.town.ugo.lg.jp/
@@ -2770,10 +2770,11 @@
 -472085,http://8761234.jp/
 -472093,http://www.city.nago.okinawa.jp/index.html
 -472107,http://www.city.itoman.lg.jp/
+-472115,http://www.city.okinawa.okinawa.jp/
+-472115,http://www.zentoeisa.com/
 +472093,http://www.city.nago.okinawa.jp/
 +472107,https://www.city.itoman.lg.jp/
- 472115,http://www.city.okinawa.okinawa.jp/
--472115,http://www.zentoeisa.com/
++472115,https://www.city.okinawa.okinawa.jp/
  472123,http://www.city.tomigusuku.okinawa.jp/
 -472131,http://www.city.uruma.lg.jp/index.php
 -472140,http://www.city.miyakojima.lg.jp/
