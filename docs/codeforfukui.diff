@@ -1,7 +1,11 @@
 --- codeforfukui
 +++ wikidata
-@@ -9,40 +9,41 @@
- 厚別区,http://www.city.sapporo.jp/atsubetsu/
+@@ -6,43 +6,44 @@
+ 豊平区,http://www.city.sapporo.jp/toyohira/
+ 南区,http://www.city.sapporo.jp/minami/
+ 西区,http://www.city.sapporo.jp/nishi/
+-厚別区,http://www.city.sapporo.jp/atsubetsu/
++厚別区,https://www.city.sapporo.jp/atsubetsu/
  手稲区,http://www.city.sapporo.jp/teine/
  清田区,http://www.city.sapporo.jp/kiyota/
 -函館市,https://www.city.hakodate.hokkaido.jp/
@@ -49,9 +53,10 @@
  富良野市,http://www.city.furano.hokkaido.jp/
  登別市,http://www.city.noboribetsu.lg.jp/
 -恵庭市,http://www.city.eniwa.hokkaido.jp/www/toppage/0000000000000/APM03000.html
-+恵庭市,http://www.city.eniwa.hokkaido.jp/
- 伊達市,http://www.city.date.hokkaido.jp/
+-伊達市,http://www.city.date.hokkaido.jp/
 -北広島市,http://www.city.kitahiroshima.hokkaido.jp/
++恵庭市,http://www.city.eniwa.hokkaido.jp/
++伊達市,https://www.city.date.hokkaido.jp/
 +北広島市,https://www.city.kitahiroshima.hokkaido.jp/
  石狩市,http://www.city.ishikari.hokkaido.jp/
 -北斗市,https://www.city.hokuto.hokkaido.jp/index.html
@@ -81,16 +86,16 @@
  留寿都村,http://www.vill.rusutsu.lg.jp/
  喜茂別町,http://www.town.kimobetsu.hokkaido.jp/
  京極町,http://www.town-kyogoku.jp/
-@@ -84,7 +85,7 @@
- 奈井江町,http://www.town.naie.hokkaido.jp/
- 上砂川町,http://town.kamisunagawa.hokkaido.jp/
- 由仁町,http://www.town.yuni.lg.jp/
--長沼町,https://www.maoi-net.jp/
-+長沼町,http://www.maoi-net.jp/
+@@ -88,26 +89,26 @@
  栗山町,http://www.town.kuriyama.hokkaido.jp/
  月形町,http://www.town.tsukigata.hokkaido.jp/
  浦臼町,http://www.town.urausu.hokkaido.jp/
-@@ -95,19 +96,19 @@
+-新十津川町,http://www.town.shintotsukawa.lg.jp/
++新十津川町,https://www.town.shintotsukawa.lg.jp/
+ 妹背牛町,http://www.town.moseushi.hokkaido.jp/
+ 秩父別町,http://www.town.chippubetsu.hokkaido.jp/
+-雨竜町,http://www.town.uryu.hokkaido.jp/
++雨竜町,https://www.town.uryu.hokkaido.jp/
  北竜町,http://www.town.hokuryu.hokkaido.jp/
  沼田町,https://www.town.numata.hokkaido.jp/
  鷹栖町,http://www.town.takasu.hokkaido.jp/
@@ -159,7 +164,8 @@
  洞爺湖町,http://www.town.toyako.hokkaido.jp/
  安平町,https://www.town.abira.lg.jp/
  むかわ町,http://www.town.mukawa.lg.jp/
- 日高町,http://www.town.hidaka.hokkaido.jp/
+-日高町,http://www.town.hidaka.hokkaido.jp/
++日高町,https://www.town.hidaka.hokkaido.jp/
  平取町,http://www.town.biratori.hokkaido.jp/
  新冠町,http://www.niikappu.jp/
 -浦河町,https://www.town.urakawa.hokkaido.jp/
@@ -208,7 +214,8 @@
  黒石市,http://www.city.kuroishi.aomori.jp/
  五所川原市,http://www.city.goshogawara.lg.jp/
  十和田市,http://www.city.towada.lg.jp/
- 三沢市,http://www.city.misawa.lg.jp/
+-三沢市,http://www.city.misawa.lg.jp/
++三沢市,https://www.city.misawa.lg.jp/
  むつ市,http://www.city.mutsu.lg.jp/
 -つがる市,http://www.city.tsugaru.aomori.jp/
 -平川市,https://www.city.hirakawa.lg.jp/
@@ -306,13 +313,14 @@
  角田市,http://www.city.kakuda.lg.jp/
 -多賀城市,http://www.city.tagajo.miyagi.jp/
 -岩沼市,http://www.city.iwanuma.miyagi.jp/
-+多賀城市,https://www.city.tagajo.miyagi.jp/
-+岩沼市,https://www.city.iwanuma.miyagi.jp/
- 登米市,http://www.city.tome.miyagi.jp/
+-登米市,http://www.city.tome.miyagi.jp/
 -栗原市,https://www.kuriharacity.jp/
 -東松島市,http://www.city.higashimatsushima.miyagi.jp/
 -大崎市,http://www.city.osaki.miyagi.jp/
 -富谷市,http://www.tomiya-city.miyagi.jp/
++多賀城市,https://www.city.tagajo.miyagi.jp/
++岩沼市,https://www.city.iwanuma.miyagi.jp/
++登米市,https://www.city.tome.miyagi.jp/
 +栗原市,http://www.kuriharacity.jp/
 +東松島市,https://www.city.higashimatsushima.miyagi.jp/
 +大崎市,https://www.city.osaki.miyagi.jp/
@@ -338,7 +346,7 @@
  大郷町,http://www.town.miyagi-osato.lg.jp/
  大衡村,http://www.village.ohira.miyagi.jp/
  色麻町,http://www.town.shikama.miyagi.jp/
-@@ -301,50 +302,50 @@
+@@ -301,7 +302,7 @@
  女川町,http://www.town.onagawa.miyagi.jp/
  南三陸町,http://www.town.minamisanriku.miyagi.jp/
  秋田市,http://www.city.akita.akita.jp/
@@ -347,13 +355,13 @@
  横手市,https://www.city.yokote.lg.jp/
  大館市,http://www.city.odate.akita.jp/
  男鹿市,http://www.city.oga.akita.jp/
- 湯沢市,http://www.city-yuzawa.jp/
+@@ -309,99 +310,99 @@
  鹿角市,http://www.city.kazuno.akita.jp/
--由利本荘市,https://www.city.yurihonjo.lg.jp/
-+由利本荘市,http://www.city.yurihonjo.lg.jp/
+ 由利本荘市,https://www.city.yurihonjo.lg.jp/
  潟上市,http://www.city.katagami.lg.jp/
- 大仙市,http://www.city.daisen.akita.jp/
+-大仙市,http://www.city.daisen.akita.jp/
 -北秋田市,http://www.city.kitaakita.akita.jp/
++大仙市,https://www.city.daisen.akita.jp/
 +北秋田市,https://www.city.kitaakita.akita.jp/
  にかほ市,http://www.city.nikaho.akita.jp/
  仙北市,http://www.city.semboku.akita.jp/
@@ -405,11 +413,12 @@
 +朝日町,http://www.town.asahi.yamagata.jp/
  大江町,http://www.town.oe.yamagata.jp/
 -大石田町,http://www.town.oishida.yamagata.jp/
+-金山町,http://www.town.kaneyama.yamagata.jp/
 +大石田町,https://www.town.oishida.yamagata.jp/
- 金山町,http://www.town.kaneyama.yamagata.jp/
++金山町,https://www.town.kaneyama.yamagata.jp/
  最上町,http://mogami.tv/
  舟形町,http://www.town.funagata.yamagata.jp/
-@@ -352,56 +353,56 @@
+ 真室川町,http://www.yume-net.org/
  大蔵村,http://www.vill.ohkura.yamagata.jp/
  鮭川村,http://www.vill.sakegawa.yamagata.jp/
  戸沢村,http://www.vill.tozawa.yamagata.jp/
@@ -505,11 +514,10 @@
  水戸市,http://www.city.mito.lg.jp/
 -日立市,http://www.city.hitachi.lg.jp/
 -土浦市,http://www.city.tsuchiura.lg.jp/index.html
--古河市,https://www.city.ibaraki-koga.lg.jp/
--石岡市,http://www.city.ishioka.lg.jp/
 +日立市,https://www.city.hitachi.lg.jp/
 +土浦市,https://www.city.tsuchiura.lg.jp/
-+古河市,http://www.city.ibaraki-koga.lg.jp/
+ 古河市,https://www.city.ibaraki-koga.lg.jp/
+-石岡市,http://www.city.ishioka.lg.jp/
 +石岡市,https://www.city.ishioka.lg.jp/
  結城市,http://www.city.yuki.lg.jp/
 -龍ケ崎市,http://www.city.ryugasaki.ibaraki.jp/
@@ -561,7 +569,7 @@
  阿見町,http://www.town.ami.lg.jp/
  河内町,http://www.town.ibaraki-kawachi.lg.jp/
  八千代町,http://www.town.ibaraki-yachiyo.lg.jp/
-@@ -465,108 +466,108 @@
+@@ -465,117 +466,117 @@
  利根町,http://www.town.tone.ibaraki.jp/
  宇都宮市,http://www.city.utsunomiya.tochigi.jp/
  足利市,http://www.city.ashikaga.tochigi.jp/
@@ -721,12 +729,13 @@
  幸手市,https://www.city.satte.lg.jp/
  鶴ヶ島市,https://www.city.tsurugashima.lg.jp/
  日高市,https://www.city.hidaka.lg.jp/
-@@ -574,8 +575,8 @@
+ 吉川市,https://www.city.yoshikawa.saitama.jp/
  ふじみ野市,http://www.city.fujimino.saitama.jp/
  白岡市,http://www.city.shiraoka.lg.jp/
- 伊奈町,http://www.town.saitama-ina.lg.jp/
+-伊奈町,http://www.town.saitama-ina.lg.jp/
 -三芳町,http://www.town.saitama-miyoshi.lg.jp/
 -毛呂山町,http://www.town.moroyama.saitama.jp/www/index.html
++伊奈町,https://www.town.saitama-ina.lg.jp/
 +三芳町,https://www.town.saitama-miyoshi.lg.jp/
 +毛呂山町,http://www.town.moroyama.saitama.jp/
  越生町,http://www.town.ogose.saitama.jp/
@@ -743,7 +752,8 @@
 +皆野町,http://www.town.minano.saitama.jp/
  長瀞町,http://www.town.nagatoro.saitama.jp/
  小鹿野町,https://www.town.ogano.lg.jp/
- 東秩父村,http://www.vill.higashichichibu.saitama.jp/
+-東秩父村,http://www.vill.higashichichibu.saitama.jp/
++東秩父村,https://www.vill.higashichichibu.saitama.jp/
  美里町,http://www.town.saitama-misato.lg.jp/
 -神川町,http://www.town.kamikawa.saitama.jp/
 +神川町,https://www.town.kamikawa.saitama.jp/
@@ -1038,11 +1048,13 @@
  魚沼市,http://www.city.uonuma.niigata.jp/
  南魚沼市,http://www.city.minamiuonuma.niigata.jp/
  胎内市,http://www.city.tainai.niigata.jp/
-@@ -812,132 +817,132 @@
+@@ -811,133 +816,133 @@
+ 弥彦村,http://www.vill.yahiko.niigata.jp/
  田上町,http://www.town.tagami.niigata.jp/
  阿賀町,http://www.town.aga.niigata.jp/
- 出雲崎町,http://www.town.izumozaki.niigata.jp/
+-出雲崎町,http://www.town.izumozaki.niigata.jp/
 -湯沢町,http://www.town.yuzawa.lg.jp/
++出雲崎町,https://www.town.izumozaki.niigata.jp/
 +湯沢町,https://www.town.yuzawa.lg.jp/
  津南町,http://www.town.tsunan.niigata.jp/
 -刈羽村,http://www.vill.kariwa.niigata.jp/www/index.jsp
@@ -1124,9 +1136,10 @@
  甲府市,http://www.city.kofu.yamanashi.jp/
 -富士吉田市,http://www.city.fujiyoshida.yamanashi.jp/forms/top/top.aspx
 -都留市,http://www.city.tsuru.yamanashi.jp/forms/top/top.aspx
+-山梨市,http://www.city.yamanashi.yamanashi.jp/
 +富士吉田市,https://www.city.fujiyoshida.yamanashi.jp/
 +都留市,http://www.city.tsuru.yamanashi.jp/
- 山梨市,http://www.city.yamanashi.yamanashi.jp/
++山梨市,https://www.city.yamanashi.yamanashi.jp/
  大月市,http://www.city.otsuki.yamanashi.jp/
 -韮崎市,http://www.city.nirasaki.lg.jp/
 -南アルプス市,https://www.city.minami-alps.yamanashi.jp/
@@ -1238,10 +1251,11 @@
  筑北村,http://www.vill.chikuhoku.lg.jp/
  池田町,http://www.ikedamachi.net/
  松川村,http://www.vill.matsukawa.nagano.jp/
- 白馬村,http://www.vill.hakuba.nagano.jp/
+-白馬村,http://www.vill.hakuba.nagano.jp/
 -小谷村,http://www.vill.otari.nagano.jp/www/menu.html
 -坂城町,http://www.town.sakaki.nagano.jp/www/index.html
 -小布施町,https://www.town.obuse.nagano.jp/
++白馬村,https://www.vill.hakuba.nagano.jp/
 +小谷村,http://www.vill.otari.nagano.jp/
 +坂城町,http://www.town.sakaki.nagano.jp/
 +小布施町,http://www.town.obuse.nagano.jp/
@@ -1882,8 +1896,9 @@
  笠岡市,http://www.city.kasaoka.okayama.jp/
  井原市,http://www.city.ibara.okayama.jp/
 -総社市,http://www.city.soja.okayama.jp/
+-高梁市,http://www.city.takahashi.lg.jp/
 +総社市,https://www.city.soja.okayama.jp/
- 高梁市,http://www.city.takahashi.lg.jp/
++高梁市,https://www.city.takahashi.lg.jp/
  新見市,https://www.city.niimi.okayama.jp/
  備前市,http://www.city.bizen.okayama.jp/
  瀬戸内市,http://www.city.setouchi.lg.jp/
@@ -2331,9 +2346,10 @@
 -日田市,http://www.city.hita.oita.jp/
 +日田市,https://www.city.hita.oita.jp/
  佐伯市,http://www.city.saiki.oita.jp/
- 臼杵市,http://www.city.usuki.oita.jp/
+-臼杵市,http://www.city.usuki.oita.jp/
 -津久見市,http://www.city.tsukumi.oita.jp/
 -竹田市,https://www.city.taketa.oita.jp/
++臼杵市,https://www.city.usuki.oita.jp/
 +津久見市,https://www.city.tsukumi.oita.jp/
 +竹田市,http://www.city.taketa.oita.jp/
  豊後高田市,http://www.city.bungotakada.oita.jp/
@@ -2434,7 +2450,7 @@
  伊仙町,http://www.town.isen.kagoshima.jp/
  和泊町,http://www.town.wadomari.lg.jp/
  知名町,http://www.town.china.lg.jp/
-@@ -1878,15 +1883,15 @@
+@@ -1878,39 +1883,39 @@
  石垣市,http://www.city.ishigaki.okinawa.jp/
  浦添市,http://www.city.urasoe.lg.jp/
  名護市,http://www.city.nago.okinawa.jp/
@@ -2452,12 +2468,18 @@
 +東村,http://www.vill.higashi.okinawa.jp/
  今帰仁村,http://www.nakijin.jp/
  本部町,http://www.town.motobu.okinawa.jp/
- 恩納村,http://www.vill.onna.okinawa.jp/
-@@ -1897,20 +1902,20 @@
+-恩納村,http://www.vill.onna.okinawa.jp/
++恩納村,https://www.vill.onna.okinawa.jp/
+ 宜野座村,http://www.vill.ginoza.okinawa.jp/
+ 金武町,http://www.town.kin.okinawa.jp/
+ 伊江村,http://www.iejima.org/
+ 読谷村,http://www.yomitan.jp/
  嘉手納町,http://www.town.kadena.okinawa.jp/
- 北谷町,http://www.chatan.jp/
- 北中城村,http://www.vill.kitanakagusuku.lg.jp/
+-北谷町,http://www.chatan.jp/
+-北中城村,http://www.vill.kitanakagusuku.lg.jp/
 -中城村,https://www.vill.nakagusuku.okinawa.jp/index.jsp
++北谷町,https://www.chatan.jp/
++北中城村,https://www.vill.kitanakagusuku.lg.jp/
 +中城村,http://www.vill.nakagusuku.okinawa.jp/
  西原町,http://www.town.nishihara.okinawa.jp/
  与那原町,http://www.town.yonabaru.okinawa.jp/
