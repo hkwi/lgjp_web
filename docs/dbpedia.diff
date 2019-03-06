@@ -446,7 +446,7 @@
 -053031,None
 -053279,http://www.vill.kamikoani.akita.jp/forms/top/top.aspx
 -053465,http://www.town.fujisato.akita.jp/index.html
-+052159,http://www.city.semboku.akita.jp/
++052159,https://www.city.semboku.akita.jp/
 +053031,http://www.town.kosaka.akita.jp/
 +053279,https://www.vill.kamikoani.akita.jp/
 +053465,https://www.town.fujisato.akita.jp/
@@ -842,7 +842,8 @@
 +113468,https://www.town.kawajima.saitama.jp/
  113476,http://www.town.yoshimi.saitama.jp/
  113484,http://www.town.hatoyama.saitama.jp/
- 113492,http://www.town.tokigawa.lg.jp/
+-113492,http://www.town.tokigawa.lg.jp/
++113492,https://www.town.tokigawa.lg.jp/
  113611,http://www.town.yokoze.saitama.jp/
 -113620,http://www.town.minano.saitama.jp/index.htm
 +113620,http://www.town.minano.saitama.jp/
@@ -1293,7 +1294,7 @@
 +192112,https://www.city.fuefuki.yamanashi.jp/
 +192121,https://www.city.uenohara.yamanashi.jp/
 +192139,https://www.city.koshu.yamanashi.jp/
-+192147,http://www.city.chuo.yamanashi.jp/
++192147,https://www.city.chuo.yamanashi.jp/
  193461,http://www.town.ichikawamisato.yamanashi.jp/
 -193640,http://www.town.hayakawa.yamanashi.jp/index.html
 -193658,http://www.town.minobu.yamanashi.jp/
@@ -1407,7 +1408,8 @@
  204501,http://www.vill.yamagata.nagano.jp/
  204510,http://www.vill.asahi.nagano.jp/
  204528,http://www.vill.chikuhoku.lg.jp/
- 204811,http://www.ikedamachi.net/
+-204811,http://www.ikedamachi.net/
++204811,https://www.ikedamachi.net/
  204820,http://www.vill.matsukawa.nagano.jp/
 -204854,http://vill.hakuba.nagano.jp/index2.html
 -204854,http://www.vill.hakuba.nagano.jp/
@@ -1530,7 +1532,7 @@
 +222232,https://www.city.omaezaki.shizuoka.jp/
 +222241,https://www.city.kikugawa.shizuoka.jp/
 +222259,https://www.city.izunokuni.shizuoka.jp/
-+222267,http://www.city.makinohara.shizuoka.jp/
++222267,https://www.city.makinohara.shizuoka.jp/
  223018,http://www.town.higashiizu.shizuoka.jp/
  223026,http://www.town.kawazu.shizuoka.jp/
 -223026,http://www.town.kawazu.shizuoka.jp
@@ -1692,8 +1694,9 @@
 +244708,https://www.town.watarai.lg.jp/
  244716,http://www.town.taiki.mie.jp/
 -244724,http://www.town.minamiise.mie.jp/
+-245437,http://www.town.mie-kihoku.lg.jp/
 +244724,https://www.town.minamiise.lg.jp/
- 245437,http://www.town.mie-kihoku.lg.jp/
++245437,https://www.town.mie-kihoku.lg.jp/
  245615,http://www.town.mihama.mie.jp/
 -245623,http://www.town.kiho.mie.jp/
 -250007,http://www.pref.shiga.lg.jp

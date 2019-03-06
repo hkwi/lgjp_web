@@ -364,7 +364,8 @@
 +大仙市,https://www.city.daisen.akita.jp/
 +北秋田市,https://www.city.kitaakita.akita.jp/
  にかほ市,http://www.city.nikaho.akita.jp/
- 仙北市,http://www.city.semboku.akita.jp/
+-仙北市,http://www.city.semboku.akita.jp/
++仙北市,https://www.city.semboku.akita.jp/
  小坂町,http://www.town.kosaka.akita.jp/
 -上小阿仁村,https://www.vill.kamikoani.akita.jp/forms/top/top.aspx
 -藤里町,http://www.town.fujisato.akita.jp/
@@ -746,7 +747,7 @@
  吉見町,http://www.town.yoshimi.saitama.jp/
  鳩山町,http://www.town.hatoyama.saitama.jp/
 -ときがわ町,https://www.town.tokigawa.lg.jp/forms/top/top.aspx
-+ときがわ町,http://www.town.tokigawa.lg.jp/
++ときがわ町,https://www.town.tokigawa.lg.jp/
  横瀬町,http://www.town.yokoze.saitama.jp/
 -皆野町,https://www.town.minano.saitama.jp/
 +皆野町,http://www.town.minano.saitama.jp/
@@ -1151,7 +1152,7 @@
  上野原市,https://www.city.uenohara.yamanashi.jp/
  甲州市,https://www.city.koshu.yamanashi.jp/
 -中央市,https://www.city.chuo.yamanashi.jp/sougou/
-+中央市,http://www.city.chuo.yamanashi.jp/
++中央市,https://www.city.chuo.yamanashi.jp/
  市川三郷町,http://www.town.ichikawamisato.yamanashi.jp/
  早川町,http://www.town.hayakawa.yamanashi.jp/
 -身延町,https://www.town.minobu.lg.jp/
@@ -1249,7 +1250,8 @@
 +山形村,http://www.vill.yamagata.nagano.jp/
  朝日村,http://www.vill.asahi.nagano.jp/
  筑北村,http://www.vill.chikuhoku.lg.jp/
- 池田町,http://www.ikedamachi.net/
+-池田町,http://www.ikedamachi.net/
++池田町,https://www.ikedamachi.net/
  松川村,http://www.vill.matsukawa.nagano.jp/
 -白馬村,http://www.vill.hakuba.nagano.jp/
 -小谷村,http://www.vill.otari.nagano.jp/www/menu.html
@@ -1351,10 +1353,11 @@
  御前崎市,https://www.city.omaezaki.shizuoka.jp/
 -菊川市,http://www.city.kikugawa.shizuoka.jp/
 -伊豆の国市,http://www.city.izunokuni.shizuoka.jp/
+-牧之原市,http://www.city.makinohara.shizuoka.jp/
+-東伊豆町,https://www.town.higashiizu.shizuoka.jp/
 +菊川市,https://www.city.kikugawa.shizuoka.jp/
 +伊豆の国市,https://www.city.izunokuni.shizuoka.jp/
- 牧之原市,http://www.city.makinohara.shizuoka.jp/
--東伊豆町,https://www.town.higashiizu.shizuoka.jp/
++牧之原市,https://www.city.makinohara.shizuoka.jp/
 +東伊豆町,http://www.town.higashiizu.shizuoka.jp/
  河津町,http://www.town.kawazu.shizuoka.jp/
  南伊豆町,http://www.town.minamiizu.shizuoka.jp/
@@ -1489,7 +1492,8 @@
 +度会町,https://www.town.watarai.lg.jp/
  大紀町,http://www.town.taiki.mie.jp/
  南伊勢町,https://www.town.minamiise.lg.jp/
- 紀北町,http://www.town.mie-kihoku.lg.jp/
+-紀北町,http://www.town.mie-kihoku.lg.jp/
++紀北町,https://www.town.mie-kihoku.lg.jp/
  御浜町,http://www.town.mihama.mie.jp/
 -紀宝町,http://www.town.kiho.lg.jp/
 -大津市,http://www.city.otsu.lg.jp/
