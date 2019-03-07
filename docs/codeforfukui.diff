@@ -139,8 +139,9 @@
  美幌町,http://www.town.bihoro.hokkaido.jp/
  津別町,http://www.town.tsubetsu.hokkaido.jp/
 -斜里町,http://www.town.shari.hokkaido.jp/
+-清里町,http://www.town.kiyosato.hokkaido.jp/
 +斜里町,https://www.town.shari.hokkaido.jp/
- 清里町,http://www.town.kiyosato.hokkaido.jp/
++清里町,https://www.town.kiyosato.hokkaido.jp/
  小清水町,http://www.town.koshimizu.hokkaido.jp/
  訓子府町,http://www.town.kunneppu.hokkaido.jp/
  置戸町,http://www.town.oketo.hokkaido.jp/
@@ -941,7 +942,8 @@
  奥多摩町,http://www.town.okutama.tokyo.jp/
  大島町,https://www.town.oshima.tokyo.jp/
  利島村,http://www.toshimamura.org/
- 新島村,http://www.niijima.com/
+-新島村,http://www.niijima.com/
++新島村,https://www.niijima.com/
  神津島村,http://vill.kouzushima.tokyo.jp/
 -三宅村,http://www.squashysoftware.com/
 +三宅村,https://www.vill.miyake.tokyo.jp/

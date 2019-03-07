@@ -170,9 +170,10 @@
  015431,http://www.town.bihoro.hokkaido.jp/
  015440,http://www.town.tsubetsu.hokkaido.jp/
 -015458,https://www.town.shari.hokkaido.jp
-+015458,https://www.town.shari.hokkaido.jp/
- 015466,http://www.town.kiyosato.hokkaido.jp/
+-015466,http://www.town.kiyosato.hokkaido.jp/
 -015474,http://www.dosanko.co.jp/kosimizu/
++015458,https://www.town.shari.hokkaido.jp/
++015466,https://www.town.kiyosato.hokkaido.jp/
 +015474,http://www.town.koshimizu.hokkaido.jp/
  015491,http://www.town.kunneppu.hokkaido.jp/
  015504,http://www.town.oketo.hokkaido.jp/
@@ -1041,7 +1042,8 @@
 -133612,http://www.town.oshima.tokyo.jp/
 +133612,https://www.town.oshima.tokyo.jp/
  133621,http://www.toshimamura.org/
- 133639,http://www.niijima.com/
+-133639,http://www.niijima.com/
++133639,https://www.niijima.com/
  133647,http://vill.kouzushima.tokyo.jp/
 -133817,http://www.miyakemura.com/
 +133817,https://www.vill.miyake.tokyo.jp/
