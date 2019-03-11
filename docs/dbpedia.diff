@@ -168,10 +168,11 @@
  015199,http://www.town.rishirifuji.hokkaido.jp/
  015202,http://www.town.horonobe.hokkaido.jp/
  015431,http://www.town.bihoro.hokkaido.jp/
- 015440,http://www.town.tsubetsu.hokkaido.jp/
+-015440,http://www.town.tsubetsu.hokkaido.jp/
 -015458,https://www.town.shari.hokkaido.jp
 -015466,http://www.town.kiyosato.hokkaido.jp/
 -015474,http://www.dosanko.co.jp/kosimizu/
++015440,https://www.town.tsubetsu.hokkaido.jp/
 +015458,https://www.town.shari.hokkaido.jp/
 +015466,https://www.town.kiyosato.hokkaido.jp/
 +015474,http://www.town.koshimizu.hokkaido.jp/
@@ -2748,7 +2749,7 @@
 -462250,http://www.city.aira.lg.jp/
 +462225,https://www.city.amami.lg.jp/
 +462233,https://www.city.minamikyushu.lg.jp/
-+462241,http://www.city.isa.kagoshima.jp/
++462241,https://www.city.isa.kagoshima.jp/
 +462250,https://www.city.aira.lg.jp/
  463035,http://mishimamura.com/
 -463043,http://www.tokara.jp/index.html
