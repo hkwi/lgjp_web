@@ -1685,7 +1685,7 @@
  太子町,http://www.town.taishi.osaka.jp/
  河南町,http://www.town.kanan.osaka.jp/
  千早赤阪村,http://www.vill.chihayaakasaka.osaka.jp/
-@@ -1293,22 +1298,22 @@
+@@ -1293,86 +1298,86 @@
  灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/nada/
  兵庫区,http://www.city.kobe.lg.jp/ward/kuyakusho/hyogo/
  長田区,http://www.city.kobe.lg.jp/ward/kuyakusho/nagata/
@@ -1712,8 +1712,10 @@
 +赤穂市,https://www.city.ako.lg.jp/
  西脇市,http://www.city.nishiwaki.lg.jp/
  宝塚市,http://www.city.takarazuka.hyogo.jp/
- 三木市,http://www.city.miki.lg.jp/
-@@ -1317,62 +1322,62 @@
+-三木市,http://www.city.miki.lg.jp/
++三木市,https://www.city.miki.lg.jp/
+ 高砂市,http://www.city.takasago.hyogo.jp/
+ 川西市,http://www.city.kawanishi.hyogo.jp/
  小野市,https://www.city.ono.hyogo.jp/
  三田市,http://www.city.sanda.lg.jp/
  加西市,http://www.city.kasai.hyogo.jp/
@@ -1960,11 +1962,12 @@
 +三次市,https://www.city.miyoshi.hiroshima.jp/
 +庄原市,https://www.city.shobara.hiroshima.jp/
  大竹市,http://www.city.otake.hiroshima.jp/
- 東広島市,http://www.city.higashihiroshima.hiroshima.jp/
+-東広島市,http://www.city.higashihiroshima.hiroshima.jp/
 -廿日市市,http://www.city.hatsukaichi.hiroshima.jp/
 -安芸高田市,http://www.akitakata.jp/ja/
 -江田島市,http://www.city.etajima.hiroshima.jp/cms/
 -府中町,http://www.town.fuchu.hiroshima.jp/
++東広島市,https://www.city.higashihiroshima.lg.jp/
 +廿日市市,https://www.city.hatsukaichi.hiroshima.jp/
 +安芸高田市,http://www.akitakata.jp/
 +江田島市,http://www.city.etajima.hiroshima.jp/
