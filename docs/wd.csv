@@ -1,5 +1,6 @@
 code,name,site
 010006,北海道,http://www.pref.hokkaido.lg.jp/
+010006,北海道,http://www.pref.hokkaido.lg.jp/ss/jsk/opendata/opendata.htm
 011002,札幌市,http://www.city.sapporo.jp/
 011011,中央区,http://www.city.sapporo.jp/chuo/
 011029,北区,http://www.city.sapporo.jp/kitaku/
@@ -532,9 +533,9 @@ code,name,site
 104647,玉村町,https://www.town.tamamura.lg.jp/
 105210,板倉町,https://www.town.itakura.gunma.jp/
 105228,明和町,https://www.town.meiwa.gunma.jp/
-105236,千代田町,http://www.town.chiyoda.gunma.jp/
+105236,千代田町,https://www.town.chiyoda.gunma.jp/
 105244,大泉町,http://www.town.oizumi.gunma.jp/
-105252,邑楽町,http://www.town.ora.gunma.jp/
+105252,邑楽町,https://www.town.ora.gunma.jp/
 110001,埼玉県,http://www.pref.saitama.lg.jp
 111007,さいたま市,http://www.city.saitama.jp/
 111015,西区,http://www.city.saitama.jp/nishi/index.html
@@ -737,6 +738,7 @@ code,name,site
 134210,小笠原村,https://www.vill.ogasawara.tokyo.jp/
 140007,神奈川県,http://www.pref.kanagawa.jp
 141003,横浜市,http://www.city.yokohama.lg.jp/
+141003,横浜市,http://www.city.yokohama.lg.jp/seisaku/seisaku/opendata/catalog.html
 141011,鶴見区,http://www.city.yokohama.lg.jp/tsurumi/
 141020,神奈川区,http://www.city.yokohama.lg.jp/kanagawa/
 141038,西区,http://www.city.yokohama.lg.jp/nishi/
@@ -1209,6 +1211,7 @@ code,name,site
 254428,甲良町,http://www.kouratown.jp/
 254436,多賀町,https://www.town.taga.lg.jp/
 260002,京都府,http://www.pref.kyoto.jp
+261009,京都市,http://kyoto.travel/
 261009,京都市,http://www.city.kyoto.lg.jp/
 261017,北区,http://www.city.kyoto.lg.jp/kita/
 261025,上京区,http://www.city.kyoto.lg.jp/kamigyo/
