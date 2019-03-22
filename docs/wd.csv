@@ -520,7 +520,7 @@ code,name,site
 103829,下仁田町,http://www.town.shimonita.lg.jp/
 103837,南牧村,http://www.nanmoku.ne.jp/
 103845,甘楽町,http://www.town.kanra.gunma.jp/
-104213,中之条町,http://www.town.nakanojo.gunma.jp/
+104213,中之条町,https://town.nakanojo.gunma.jp/
 104248,長野原町,http://www.town.naganohara.gunma.jp/
 104256,嬬恋村,http://www.vill.tsumagoi.gunma.jp/
 104264,草津町,https://www.town.kusatsu.gunma.jp/
@@ -540,7 +540,7 @@ code,name,site
 111007,さいたま市,http://www.city.saitama.jp/
 111015,西区,http://www.city.saitama.jp/nishi/index.html
 111023,北区,http://www.city.saitama.jp/index_kitaku.html
-111031,大宮区,http://www.city.saitama.jp/index_omiyaku.html
+111031,大宮区,https://www.city.saitama.jp/omiya/index.html
 111040,見沼区,http://www.city.saitama.jp/minuma/
 111058,中央区,http://www.city.saitama.jp/index.html
 111066,桜区,http://www.city.saitama.jp/sakura/index.html
@@ -861,7 +861,7 @@ code,name,site
 172022,七尾市,https://www.city.nanao.lg.jp/
 172031,小松市,https://www.city.komatsu.lg.jp/
 172049,輪島市,https://www.city.wajima.ishikawa.jp/
-172057,珠洲市,http://www.city.suzu.ishikawa.jp/
+172057,珠洲市,https://www.city.suzu.lg.jp/
 172065,加賀市,https://www.city.kaga.ishikawa.jp/
 172073,羽咋市,https://www.city.hakui.lg.jp/
 172090,かほく市,http://www.city.kahoku.ishikawa.jp/
@@ -961,7 +961,7 @@ code,name,site
 203840,飯島町,http://www.town.iijima.lg.jp/
 203858,南箕輪村,http://www.vill.minamiminowa.nagano.jp/
 203866,中川村,http://www.vill.nakagawa.nagano.jp/
-203882,宮田村,http://www.vill.miyada.nagano.jp/
+203882,宮田村,https://www.vill.miyada.nagano.jp/
 204021,松川町,http://www.matsukawa-town.jp/
 204030,高森町,http://www.town.nagano-takamori.lg.jp/
 204048,阿南町,http://www.town.anan.nagano.jp/

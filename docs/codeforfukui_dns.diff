@@ -89,7 +89,13 @@
  伊勢崎市,www.city.isesaki.lg.jp
  太田市,www.city.ota.gunma.jp
  沼田市,www.city.numata.gunma.jp
-@@ -512,7 +513,7 @@
+@@ -507,12 +508,12 @@
+ 下仁田町,www.town.shimonita.lg.jp
+ 南牧村,www.nanmoku.ne.jp
+ 甘楽町,www.town.kanra.gunma.jp
+-中之条町,www.town.nakanojo.gunma.jp
++中之条町,town.nakanojo.gunma.jp
+ 長野原町,www.town.naganohara.gunma.jp
  嬬恋村,www.vill.tsumagoi.gunma.jp
  草津町,www.town.kusatsu.gunma.jp
  高山村,vill.takayama.gunma.jp
@@ -155,6 +161,15 @@
  砺波市,www.city.tonami.toyama.jp
  小矢部市,www.city.oyabe.toyama.jp
  南砺市,www.city.nanto.toyama.jp
+@@ -836,7 +842,7 @@
+ 七尾市,www.city.nanao.lg.jp
+ 小松市,www.city.komatsu.lg.jp
+ 輪島市,www.city.wajima.ishikawa.jp
+-珠洲市,www.city.suzu.ishikawa.jp
++珠洲市,www.city.suzu.lg.jp
+ 加賀市,www.city.kaga.ishikawa.jp
+ 羽咋市,www.city.hakui.lg.jp
+ かほく市,www.city.kahoku.ishikawa.jp
 @@ -918,7 +924,7 @@
  川上村,www.vill.kawakami.nagano.jp
  南牧村,www.minamimakimura.jp

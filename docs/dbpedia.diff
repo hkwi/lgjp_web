@@ -735,7 +735,8 @@
  103845,http://www.town.kanra.gunma.jp/
 -103845,http://www.town.kanra.gunma.jp/index.html
 -104213,http://town.nakanojo.gunma.jp/
- 104213,http://www.town.nakanojo.gunma.jp/
+-104213,http://www.town.nakanojo.gunma.jp/
++104213,https://town.nakanojo.gunma.jp/
  104248,http://www.town.naganohara.gunma.jp/
  104256,http://www.vill.tsumagoi.gunma.jp/
 -104264,http://www.town.kusatsu.gunma.jp/
@@ -770,7 +771,7 @@
 +111007,http://www.city.saitama.jp/
 +111015,http://www.city.saitama.jp/nishi/index.html
 +111023,http://www.city.saitama.jp/index_kitaku.html
-+111031,http://www.city.saitama.jp/index_omiyaku.html
++111031,https://www.city.saitama.jp/omiya/index.html
 +111040,http://www.city.saitama.jp/minuma/
 +111058,http://www.city.saitama.jp/index.html
 +111066,http://www.city.saitama.jp/sakura/index.html
@@ -1228,15 +1229,16 @@
 -172022,http://www.city.nanao.lg.jp/
 -172031,http://www.city.komatsu.lg.jp/
 -172049,http://www.city.wajima.ishikawa.jp/
+-172057,http://www.city.suzu.ishikawa.jp/
+-172065,http://www.city.kaga.ishikawa.jp/
+-172073,http://www.city.hakui.ishikawa.jp/sypher/www/index.jsp
 +163422,https://www.town.nyuzen.toyama.jp/
 +163431,https://www.town.asahi.toyama.jp/
 +172014,https://www4.city.kanazawa.lg.jp/
 +172022,https://www.city.nanao.lg.jp/
 +172031,https://www.city.komatsu.lg.jp/
 +172049,https://www.city.wajima.ishikawa.jp/
- 172057,http://www.city.suzu.ishikawa.jp/
--172065,http://www.city.kaga.ishikawa.jp/
--172073,http://www.city.hakui.ishikawa.jp/sypher/www/index.jsp
++172057,https://www.city.suzu.lg.jp/
 +172065,https://www.city.kaga.ishikawa.jp/
 +172073,https://www.city.hakui.lg.jp/
  172090,http://www.city.kahoku.ishikawa.jp/
@@ -1391,7 +1393,7 @@
  203840,http://www.town.iijima.lg.jp/
  203858,http://www.vill.minamiminowa.nagano.jp/
  203866,http://www.vill.nakagawa.nagano.jp/
-+203882,http://www.vill.miyada.nagano.jp/
++203882,https://www.vill.miyada.nagano.jp/
  204021,http://www.matsukawa-town.jp/
 -204030,http://www.town.takamori.nagano.jp/
 +204030,http://www.town.nagano-takamori.lg.jp/

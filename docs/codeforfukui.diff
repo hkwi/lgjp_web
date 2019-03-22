@@ -643,7 +643,7 @@
  南牧村,http://www.nanmoku.ne.jp/
  甘楽町,http://www.town.kanra.gunma.jp/
 -中之条町,https://www.town.nakanojo.gunma.jp/
-+中之条町,http://www.town.nakanojo.gunma.jp/
++中之条町,https://town.nakanojo.gunma.jp/
  長野原町,http://www.town.naganohara.gunma.jp/
  嬬恋村,http://www.vill.tsumagoi.gunma.jp/
 -草津町,http://www.town.kusatsu.gunma.jp/
@@ -669,7 +669,10 @@
 -さいたま市,https://www.city.saitama.jp/
 -西区,https://www.city.saitama.jp/nishi/index.html
 -北区,https://www.city.saitama.jp/kita/index.html
--大宮区,https://www.city.saitama.jp/omiya/index.html
++さいたま市,http://www.city.saitama.jp/
++西区,http://www.city.saitama.jp/nishi/index.html
++北区,http://www.city.saitama.jp/index_kitaku.html
+ 大宮区,https://www.city.saitama.jp/omiya/index.html
 -見沼区,https://www.city.saitama.jp/minuma/index.html
 -中央区,https://www.city.saitama.jp/chuo/index.html
 -桜区,https://www.city.saitama.jp/sakura/index.html
@@ -679,10 +682,6 @@
 -岩槻区,https://www.city.saitama.jp/iwatsuki/index.html
 -川越市,http://www.city.kawagoe.saitama.jp/
 -熊谷市,http://www.city.kumagaya.lg.jp/
-+さいたま市,http://www.city.saitama.jp/
-+西区,http://www.city.saitama.jp/nishi/index.html
-+北区,http://www.city.saitama.jp/index_kitaku.html
-+大宮区,http://www.city.saitama.jp/index_omiyaku.html
 +見沼区,http://www.city.saitama.jp/minuma/
 +中央区,http://www.city.saitama.jp/index.html
 +桜区,http://www.city.saitama.jp/sakura/index.html
@@ -1108,10 +1107,11 @@
 +七尾市,https://www.city.nanao.lg.jp/
  小松市,https://www.city.komatsu.lg.jp/
 -輪島市,http://www.city.wajima.ishikawa.jp/
-+輪島市,https://www.city.wajima.ishikawa.jp/
- 珠洲市,http://www.city.suzu.ishikawa.jp/
+-珠洲市,http://www.city.suzu.ishikawa.jp/
 -加賀市,http://www.city.kaga.ishikawa.jp/
 -羽咋市,https://www.city.hakui.lg.jp/sypher/www/index.jsp
++輪島市,https://www.city.wajima.ishikawa.jp/
++珠洲市,https://www.city.suzu.lg.jp/
 +加賀市,https://www.city.kaga.ishikawa.jp/
 +羽咋市,https://www.city.hakui.lg.jp/
  かほく市,http://www.city.kahoku.ishikawa.jp/
@@ -1249,7 +1249,7 @@
  中川村,http://www.vill.nakagawa.nagano.jp/
 -宮田村,https://www.vill.miyada.nagano.jp/?
 -松川町,http://www.matsukawa-town.jp/cms-sypher/www/normal_top.jsp
-+宮田村,http://www.vill.miyada.nagano.jp/
++宮田村,https://www.vill.miyada.nagano.jp/
 +松川町,http://www.matsukawa-town.jp/
  高森町,http://www.town.nagano-takamori.lg.jp/
  阿南町,http://www.town.anan.nagano.jp/
