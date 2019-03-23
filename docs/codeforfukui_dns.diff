@@ -215,6 +215,15 @@
  伊東市,www.city.ito.shizuoka.jp
  島田市,www.city.shimada.shizuoka.jp
  富士市,www.city.fuji.shizuoka.jp
+@@ -1084,7 +1090,7 @@
+ 春日井市,www.city.kasugai.lg.jp
+ 豊川市,www.city.toyokawa.lg.jp
+ 津島市,www.city.tsushima.lg.jp
+-碧南市,www.city.hekinan.aichi.jp
++碧南市,www.city.hekinan.lg.jp
+ 刈谷市,www.city.kariya.lg.jp
+ 豊田市,www.city.toyota.aichi.jp
+ 安城市,www.city.anjo.aichi.jp
 @@ -1177,6 +1183,7 @@
  豊郷町,www.town.toyosato.shiga.jp
  甲良町,www.kouratown.jp
@@ -232,7 +241,13 @@
  寝屋川市,www.city.neyagawa.osaka.jp
  河内長野市,www.city.kawachinagano.lg.jp
  松原市,www.city.matsubara.lg.jp
-@@ -1317,9 +1324,9 @@
+@@ -1312,14 +1319,14 @@
+ 西脇市,www.city.nishiwaki.lg.jp
+ 宝塚市,www.city.takarazuka.hyogo.jp
+ 三木市,www.city.miki.lg.jp
+-高砂市,www.city.takasago.hyogo.jp
++高砂市,www.city.takasago.lg.jp
+ 川西市,www.city.kawanishi.hyogo.jp
  小野市,www.city.ono.hyogo.jp
  三田市,www.city.sanda.lg.jp
  加西市,www.city.kasai.hyogo.jp
