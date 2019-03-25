@@ -221,7 +221,7 @@
  016322,http://www.shihoro.jp/
 -016331,http://www.kamishihoro.jp/index.php
 -016349,http://www.town.shikaoi.lg.jp/
-+016331,http://www.kamishihoro.jp/
++016331,https://www.kamishihoro.jp/
 +016349,https://www.town.shikaoi.lg.jp/
  016357,http://www.shintoku-town.jp/
  016365,http://www.town.shimizu.hokkaido.jp/
@@ -354,9 +354,10 @@
 +034029,https://www.town.hiraizumi.iwate.jp/
  034410,http://www.town.sumita.iwate.jp/
 -034614,http://www.town.otsuchi.iwate.jp/
-+034614,https://www.town.otsuchi.iwate.jp/
- 034827,http://www.town.yamada.iwate.jp/
+-034827,http://www.town.yamada.iwate.jp/
 -034835,http://www.town.iwaizumi.iwate.jp/
++034614,https://www.town.otsuchi.iwate.jp/
++034827,https://www.town.yamada.iwate.jp/
 +034835,http://www.town.iwaizumi.lg.jp/
  034843,http://www.vill.tanohata.iwate.jp/
  034851,http://www.vill.fudai.iwate.jp/
