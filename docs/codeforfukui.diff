@@ -1239,10 +1239,11 @@
  青木村,http://www.vill.aoki.nagano.jp/
 -長和町,http://town.nagawa.nagano.jp/
 -下諏訪町,http://www.town.shimosuwa.lg.jp/www/index.html
+-富士見町,http://www.town.fujimi.lg.jp/
+-原村,https://www.vill.hara.lg.jp/
 +長和町,https://town.nagawa.nagano.jp/
 +下諏訪町,http://www.town.shimosuwa.lg.jp/
- 富士見町,http://www.town.fujimi.lg.jp/
--原村,https://www.vill.hara.lg.jp/
++富士見町,https://www.town.fujimi.lg.jp/
 +原村,http://www.vill.hara.nagano.jp/
  辰野町,http://www.town.tatsuno.nagano.jp/
  箕輪町,http://www.town.minowa.lg.jp/
@@ -1701,7 +1702,12 @@
  泉南市,http://www.city.sennan.lg.jp/
  四條畷市,http://www.city.shijonawate.lg.jp/
  交野市,https://www.city.katano.osaka.jp/
-@@ -1284,95 +1291,95 @@
+@@ -1280,99 +1287,99 @@
+ 阪南市,http://www.city.hannan.lg.jp/
+ 島本町,http://www.shimamotocho.jp/
+ 豊能町,http://www.town.toyono.osaka.jp/
+-能勢町,http://www.town.nose.osaka.jp/
++能勢町,https://www.town.nose.osaka.jp/
  忠岡町,http://www.town.tadaoka.osaka.jp/
  熊取町,http://www.town.kumatori.lg.jp/
  田尻町,http://www.town.tajiri.osaka.jp/
@@ -2161,7 +2167,7 @@
 +大月町,http://www.town.otsuki.kochi.jp/
  三原村,http://www.vill.mihara.kochi.jp/
  黒潮町,http://www.town.kuroshio.lg.jp/
- 北九州市,http://www.city.kitakyushu.lg.jp/
+-北九州市,http://www.city.kitakyushu.lg.jp/
 -門司区,http://www.city.kitakyushu.lg.jp/moji/index.html
 -若松区,http://www.city.kitakyushu.lg.jp/wakamatsu/index.html
 -戸畑区,http://www.city.kitakyushu.lg.jp/tobata/index.html
@@ -2169,6 +2175,7 @@
 -小倉南区,http://www.city.kitakyushu.lg.jp/kokuraminami/index.html
 -八幡東区,http://www.city.kitakyushu.lg.jp/yahatahigashi/index.html
 -八幡西区,http://www.city.kitakyushu.lg.jp/yahatanishi/index.html
++北九州市,https://www.city.kitakyushu.lg.jp/
 +門司区,http://www.city.kitakyushu.lg.jp/moji/
 +若松区,http://www.city.kitakyushu.lg.jp/wakamatsu/
 +戸畑区,http://www.city.kitakyushu.lg.jp/tobata/

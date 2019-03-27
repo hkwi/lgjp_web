@@ -1389,7 +1389,8 @@
 -203505,http://www.town.nagawa.nagano.jp/
 +203505,https://town.nagawa.nagano.jp/
  203611,http://www.town.shimosuwa.lg.jp/
- 203629,http://www.town.fujimi.lg.jp/
+-203629,http://www.town.fujimi.lg.jp/
++203629,https://www.town.fujimi.lg.jp/
  203637,http://www.vill.hara.nagano.jp/
  203823,http://www.town.tatsuno.nagano.jp/
 -203831,http://www.town.minowa.nagano.jp/
@@ -1906,8 +1907,9 @@
  272329,http://www.city.hannan.lg.jp/
  273015,http://www.shimamotocho.jp/
  273210,http://www.town.toyono.osaka.jp/
- 273228,http://www.town.nose.osaka.jp/
+-273228,http://www.town.nose.osaka.jp/
 -273414,http://www.town.tadaoka.osaka.jp/index.htm
++273228,https://www.town.nose.osaka.jp/
 +273414,http://www.town.tadaoka.osaka.jp/
  273619,http://www.town.kumatori.lg.jp/
  273627,http://www.town.tajiri.osaka.jp/
@@ -2446,7 +2448,7 @@
 -394289,http://www.town.kuroshio.lg.jp
 -400009,http://www.pref.fukuoka.lg.jp/
 -401005,https://www.city.kitakyushu.lg.jp
-+401005,http://www.city.kitakyushu.lg.jp/
++401005,https://www.city.kitakyushu.lg.jp/
 +401013,http://www.city.kitakyushu.lg.jp/moji/
 +401030,http://www.city.kitakyushu.lg.jp/wakamatsu/
 +401056,http://www.city.kitakyushu.lg.jp/tobata/
