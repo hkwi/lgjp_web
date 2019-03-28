@@ -1,7 +1,11 @@
 --- codeforfukui
 +++ wikidata
-@@ -6,43 +6,44 @@
- 豊平区,http://www.city.sapporo.jp/toyohira/
+@@ -3,46 +3,47 @@
+ 北区,http://www.city.sapporo.jp/kitaku/
+ 東区,http://www.city.sapporo.jp/higashi/
+ 白石区,http://www.city.sapporo.jp/shiroishi/
+-豊平区,http://www.city.sapporo.jp/toyohira/
++豊平区,https://www.city.sapporo.jp/toyohira/
  南区,http://www.city.sapporo.jp/minami/
  西区,http://www.city.sapporo.jp/nishi/
 -厚別区,http://www.city.sapporo.jp/atsubetsu/
@@ -298,17 +302,20 @@
  洋野町,http://www.town.hirono.iwate.jp/
  一戸町,http://www.town.ichinohe.iwate.jp/
 -仙台市,http://www.city.sendai.jp/
-+仙台市,https://www.city.sendai.jp/
- 青葉区,http://www.city.sendai.jp/aobaku/
- 宮城野区,http://www.city.sendai.jp/miyaginoku/
+-青葉区,http://www.city.sendai.jp/aobaku/
+-宮城野区,http://www.city.sendai.jp/miyaginoku/
 -若林区,http://www.city.sendai.jp/wakabayashiku/
 -太白区,http://www.city.sendai.jp/taihakuku/
-+若林区,https://www.city.sendai.jp/wakabayashiku/
-+太白区,https://www.city.sendai.jp/taihakuku/
- 泉区,http://www.city.sendai.jp/izumiku/
+-泉区,http://www.city.sendai.jp/izumiku/
 -石巻市,http://www.city.ishinomaki.lg.jp/
 -塩竈市,http://www.city.shiogama.miyagi.jp/
 -気仙沼市,http://www.kesennuma.miyagi.jp/
++仙台市,https://www.city.sendai.jp/
++青葉区,https://www.city.sendai.jp/aobaku/
++宮城野区,https://www.city.sendai.jp/miyaginoku/
++若林区,https://www.city.sendai.jp/wakabayashiku/
++太白区,https://www.city.sendai.jp/taihakuku/
++泉区,https://www.city.sendai.jp/izumiku/
 +石巻市,https://www.city.ishinomaki.lg.jp/
 +塩竈市,https://www.city.shiogama.miyagi.jp/
 +気仙沼市,https://www.kesennuma.miyagi.jp/
@@ -752,7 +759,7 @@
  越生町,http://www.town.ogose.saitama.jp/
  滑川町,http://www.town.namegawa.lg.jp/
  嵐山町,http://www.town.ranzan.saitama.jp/
-@@ -583,142 +584,145 @@
+@@ -583,160 +584,163 @@
  川島町,https://www.town.kawajima.saitama.jp/
  吉見町,http://www.town.yoshimi.saitama.jp/
  鳩山町,http://www.town.hatoyama.saitama.jp/
@@ -962,11 +969,47 @@
  八丈町,http://www.town.hachijo.tokyo.jp/
  青ヶ島村,http://www.vill.aogashima.tokyo.jp/
  小笠原村,https://www.vill.ogasawara.tokyo.jp/
- 横浜市,http://www.city.yokohama.lg.jp/
+-横浜市,http://www.city.yokohama.lg.jp/
+-鶴見区,http://www.city.yokohama.lg.jp/tsurumi/
+-神奈川区,http://www.city.yokohama.lg.jp/kanagawa/
+-西区,http://www.city.yokohama.lg.jp/nishi/
+-中区,http://www.city.yokohama.lg.jp/naka/
+-南区,http://www.city.yokohama.lg.jp/minami/
+-保土ケ谷区,http://www.city.yokohama.lg.jp/hodogaya/
+-磯子区,http://www.city.yokohama.lg.jp/isogo/
+-金沢区,http://www.city.yokohama.lg.jp/kanazawa/
+-港北区,http://www.city.yokohama.lg.jp/kohoku/
+-戸塚区,http://www.city.yokohama.lg.jp/totsuka/
+-港南区,http://www.city.yokohama.lg.jp/konan/
+-旭区,http://www.city.yokohama.lg.jp/asahi/
+-緑区,http://www.city.yokohama.lg.jp/midori/
+-瀬谷区,http://www.city.yokohama.lg.jp/seya/
 +横浜市,http://www.city.yokohama.lg.jp/seisaku/seisaku/opendata/catalog.html
- 鶴見区,http://www.city.yokohama.lg.jp/tsurumi/
- 神奈川区,http://www.city.yokohama.lg.jp/kanagawa/
- 西区,http://www.city.yokohama.lg.jp/nishi/
++横浜市,https://www.city.yokohama.lg.jp/
++鶴見区,https://www.city.yokohama.lg.jp/tsurumi/
++神奈川区,https://www.city.yokohama.lg.jp/kanagawa/
++西区,https://www.city.yokohama.lg.jp/nishi/
++中区,https://www.city.yokohama.lg.jp/naka/
++南区,https://www.city.yokohama.lg.jp/minami/
++保土ケ谷区,https://www.city.yokohama.lg.jp/hodogaya/
++磯子区,https://www.city.yokohama.lg.jp/isogo/
++金沢区,https://www.city.yokohama.lg.jp/kanazawa/
++港北区,https://www.city.yokohama.lg.jp/kohoku/
++戸塚区,https://www.city.yokohama.lg.jp/totsuka/
++港南区,https://www.city.yokohama.lg.jp/konan/
++旭区,https://www.city.yokohama.lg.jp/asahi/
++緑区,https://www.city.yokohama.lg.jp/midori/
++瀬谷区,https://www.city.yokohama.lg.jp/seya/
+ 栄区,http://www.city.yokohama.lg.jp/sakae/
+-泉区,http://www.city.yokohama.lg.jp/izumi/
+-青葉区,http://www.city.yokohama.lg.jp/aoba/
+-都筑区,http://www.city.yokohama.lg.jp/tsuzuki/
++泉区,https://www.city.yokohama.lg.jp/izumi/
++青葉区,https://www.city.yokohama.lg.jp/aoba/
++都筑区,https://www.city.yokohama.lg.jp/tsuzuki/
+ 川崎市,http://www.city.kawasaki.jp/
+ 川崎区,http://www.city.kawasaki.jp/kawasaki/
+ 幸区,http://www.city.kawasaki.jp/saiwai/
 @@ -746,64 +750,66 @@
  宮前区,http://www.city.kawasaki.jp/miyamae/
  麻生区,http://www.city.kawasaki.jp/asao/
@@ -1553,9 +1596,7 @@
 +豊郷町,https://www.town.toyosato.shiga.jp/
  甲良町,http://www.kouratown.jp/
 -多賀町,http://www.town.taga.lg.jp/
-+多賀町,https://www.town.taga.lg.jp/
-+京都市,http://kyoto.travel/
- 京都市,http://www.city.kyoto.lg.jp/
+-京都市,http://www.city.kyoto.lg.jp/
 -北区,http://www.city.kyoto.lg.jp/kita/index.html
 -上京区,http://www.city.kyoto.lg.jp/kamigyo/index.html
 -左京区,http://www.city.kyoto.lg.jp/sakyo/index.html
@@ -1567,17 +1608,20 @@
 -伏見区,http://www.city.kyoto.lg.jp/fushimi/index.html
 -山科区,http://www.city.kyoto.lg.jp/yamasina/index.html
 -西京区,http://www.city.kyoto.lg.jp/nisikyo/index.html
-+北区,http://www.city.kyoto.lg.jp/kita/
-+上京区,http://www.city.kyoto.lg.jp/kamigyo/
-+左京区,http://www.city.kyoto.lg.jp/sakyo/
-+中京区,http://www.city.kyoto.lg.jp/nakagyo/
-+東山区,http://www.city.kyoto.lg.jp/higasiyama/
-+下京区,http://www.city.kyoto.lg.jp/shimogyo/
-+南区,http://www.city.kyoto.lg.jp/minami/
-+右京区,http://www.city.kyoto.lg.jp/ukyo/
-+伏見区,http://www.city.kyoto.lg.jp/fushimi/
-+山科区,http://www.city.kyoto.lg.jp/yamasina/
-+西京区,http://www.city.kyoto.lg.jp/nisikyo/
++多賀町,https://www.town.taga.lg.jp/
++京都市,http://kyoto.travel/
++京都市,https://www.city.kyoto.lg.jp/
++北区,https://www.city.kyoto.lg.jp/kita/
++上京区,https://www.city.kyoto.lg.jp/kamigyo/
++左京区,https://www.city.kyoto.lg.jp/sakyo/
++中京区,https://www.city.kyoto.lg.jp/nakagyo/
++東山区,https://www.city.kyoto.lg.jp/higasiyama/
++下京区,https://www.city.kyoto.lg.jp/shimogyo/
++南区,https://www.city.kyoto.lg.jp/minami/
++右京区,https://www.city.kyoto.lg.jp/ukyo/
++伏見区,https://www.city.kyoto.lg.jp/fushimi/
++山科区,https://www.city.kyoto.lg.jp/yamasina/
++西京区,https://www.city.kyoto.lg.jp/nisikyo/
  福知山市,http://www.city.fukuchiyama.kyoto.jp/
  舞鶴市,https://www.city.maizuru.kyoto.jp/
 -綾部市,http://www.city.ayabe.lg.jp/
@@ -1707,8 +1751,9 @@
  島本町,http://www.shimamotocho.jp/
  豊能町,http://www.town.toyono.osaka.jp/
 -能勢町,http://www.town.nose.osaka.jp/
+-忠岡町,http://www.town.tadaoka.osaka.jp/
 +能勢町,https://www.town.nose.osaka.jp/
- 忠岡町,http://www.town.tadaoka.osaka.jp/
++忠岡町,https://www.town.tadaoka.osaka.jp/
  熊取町,http://www.town.kumatori.lg.jp/
  田尻町,http://www.town.tajiri.osaka.jp/
 -岬町,http://www.town.misaki.osaka.jp/
