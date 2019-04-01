@@ -2348,11 +2348,12 @@
 -342122,http://www.city.higashihiroshima.hiroshima.jp/
 -342131,http://www.city.hatsukaichi.hiroshima.jp
 -342149,http://www.akitakata.jp/
+-342157,http://www.city.etajima.hiroshima.jp/
+-343021,http://www.town.fuchu.hiroshima.jp/
 +342122,https://www.city.higashihiroshima.lg.jp/
 +342131,https://www.city.hatsukaichi.hiroshima.jp/
 +342149,https://www.akitakata.jp/
- 342157,http://www.city.etajima.hiroshima.jp/
--343021,http://www.town.fuchu.hiroshima.jp/
++342157,https://www.city.etajima.hiroshima.jp/
 +343021,https://www.town.fuchu.hiroshima.jp/
  343048,http://www.town.kaita.lg.jp/
  343072,http://www.town.kumano.hiroshima.jp/
