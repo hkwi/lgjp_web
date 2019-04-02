@@ -41,7 +41,7 @@
  富谷市,www.tomiya-city.miyagi.jp
  蔵王町,www.town.zao.miyagi.jp
 -七ケ宿町,town.shichikashuku.miyagi.jp
-+七ヶ宿町,www.town.shichikashuku.miyagi.jp
++七ヶ宿町,town.shichikashuku.miyagi.jp
  大河原町,www.town.ogawara.miyagi.jp
  村田町,www.town.murata.miyagi.jp
  柴田町,www.town.shibata.miyagi.jp
@@ -54,12 +54,9 @@
  いわき市,www.city.iwaki.lg.jp
  白河市,www.city.shirakawa.fukushima.jp
  須賀川市,www.city.sukagawa.fukushima.jp
-@@ -379,9 +379,9 @@
- 大玉村,www.vill.otama.fukushima.jp
- 鏡石町,www.town.kagamiishi.fukushima.jp
+@@ -381,7 +381,7 @@
  天栄村,www.vill.tenei.fukushima.jp
--下郷町,www.town.shimogo.fukushima.jp
-+下郷町,town.shimogo.fukushima.jp
+ 下郷町,www.town.shimogo.fukushima.jp
  檜枝岐村,www.hinoemata.com
 -只見町,www.tadami.gr.jp
 +只見町,www.town.tadami.lg.jp
@@ -153,15 +150,6 @@
  加賀市,www.city.kaga.ishikawa.jp
  羽咋市,www.city.hakui.lg.jp
  かほく市,www.city.kahoku.ishikawa.jp
-@@ -918,7 +920,7 @@
- 川上村,www.vill.kawakami.nagano.jp
- 南牧村,www.minamimakimura.jp
- 南相木村,www.minamiaiki.jp
--北相木村,vill.kitaaiki.nagano.jp
-+北相木村,www.vill.kitaaiki.nagano.jp
- 佐久穂町,www.town.sakuho.nagano.jp
- 軽井沢町,www.town.karuizawa.lg.jp
- 御代田町,www.town.miyota.nagano.jp
 @@ -931,14 +933,14 @@
  辰野町,www.town.tatsuno.nagano.jp
  箕輪町,www.town.minowa.lg.jp
@@ -296,15 +284,6 @@
  西米良村,www.vill.nishimera.lg.jp
  木城町,www.kijo.jp
  川南町,www.town.kawaminami.miyazaki.jp
-@@ -1858,7 +1860,7 @@
- 東串良町,www.higashikushira.com
- 錦江町,www.town.kinko.lg.jp
- 南大隅町,www.town.minamiosumi.lg.jp
--肝付町,kimotsuki-town.jp
-+肝付町,www.kimotsuki-town.jp
- 中種子町,town.nakatane.kagoshima.jp
- 南種子町,www.town.minamitane.kagoshima.jp
- 屋久島町,www.town.yakushima.kagoshima.jp
 @@ -1891,7 +1893,7 @@
  本部町,www.town.motobu.okinawa.jp
  恩納村,www.vill.onna.okinawa.jp
