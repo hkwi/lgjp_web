@@ -18,4 +18,5 @@ SELECT ?code ?name ?site WHERE {
  FILTER NOT EXISTS { ?stmt pq:P642 ?x } # ～についての
 } ORDER BY ?code ?site
 ''')
-open("docs/wd.csv","w").write(info.serialize(format="csv").decode("UTF-8"))
+with open("docs/wd.csv","w") as f:
+	f.write(info.serialize(format="csv").decode("UTF-8"))
