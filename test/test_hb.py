@@ -6,6 +6,7 @@ import socket
 import unittest
 import concurrent.futures
 import requests
+import requests.exceptions
 import yaml
 from urllib.parse import urlparse, urlencode
 from urllib.request import urlopen
@@ -54,52 +55,71 @@ class TestAccess(unittest.TestCase):
 			raise Exception(repr(errors))
 
 	@unittest.skipUnless(os.environ.get("FULLSCAN") , "heavy")
-	def test_get(self):
-		import lgjp_web.wd
+	def test_fullscan(self):
+		import rdflib
+		g = rdflib.ConjunctiveGraph(store="SPARQLStore")
+		g.store.endpoint = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
+		info = g.query('''
+		SELECT ?s ?name ?site WHERE {
+		 ?s wdt:P429 ?code ; # 全国地方公共団体コード
+		    rdfs:label ?name .
+		  OPTIONAL {
+		    ?s p:P856 ?stmt .
+		    ?stmt ps:P856 ?site . # 公式サイト
+		  }
+		 FILTER ( lang(?name)="ja" )
+		 FILTER NOT EXISTS { ?s wdt:P31 wd:Q18663566 } # 分類 日本の廃止市町村
+		 FILTER NOT EXISTS { ?s wdt:P31 wd:Q850450 } # 分類 支庁
+		 FILTER NOT EXISTS { ?stmt pq:P642 ?x } # ～についての
+		} ORDER BY ?code ?site
+		''')
+		
 		def func(arg):
-			code, name, site = arg
-			info = {}
+			qname, name, site = arg
 			
-			entr = str(site)
+			info = {"qname": str(qname), "site": str(site), "hint": []}
 			try:
-				r = requests.get(entr)
+				r = requests.get(str(site)) # HEAD does not work
 				assert r.ok, r.reason
-				fin = r.url
+				info["land"] = r.url
 				
-				a = urlparse(entr)
-				b = urlparse(fin)
+				a = urlparse(site)
+				b = urlparse(r.url)
 				
 				if a.netloc != b.netloc:
-					if "www."+a.netloc == b.netloc:
-						pass
-					elif a.netloc == "www."+b.netloc:
-						pass
-					else:
-						info["MOVE"] = {"enter": entr, "final": fin}
-					return info
+					info["hint"] += ["MOVE"]
 				
 				if a.scheme=="http" and b.scheme=="https":
-					info["HTTPS"] = entr
+					info["hint"] += ["HTTPS"]
 				elif a.scheme=="https" and b.scheme=="http":
-					info["HTTP"] = entr
+					info["hint"] += ["HTTP"]
 				elif a.scheme != b.scheme:
-					info["SCHEME"] = entr
-				
+					info["hint"] += ["SCHEME"]
+			except requests.exceptions.SSLError as e:
+				info["hint"] += ["SSL"]
+				info["reason"] = e
 			except Exception as e:
-				info["ERROR"] = {"enter": entr, "reason": str(e)}
+				info["hint"] += ["ERROR"]
+				info["reason"] = e
+			
+			if info["hint"]:
+				print(info)
 			
 			return info
 		
 		p = concurrent.futures.ThreadPoolExecutor(10)
-		r = p.map(func, lgjp_web.wd.info)
-		errors = [x for x in r if x]
+		r = list(p.map(func, info))
 		
-		bulk = {}
-		for k in ("ERROR", "MOVE", "SCHEME", "HTTP", "HTTPS"):
-			bulk[k] = [e[k] for e in errors if k in e]
+		keys = "MOVE HTTPS HTTP SCHEME SSL ERROR".split()
+		errors = {}
+		for key in keys:
+			errors[key] = [
+				{k:v for k,v in x.items() if k not in ("hint",)}
+				for x in r if key in x["hint"]
+			]
 		
 		if errors:
-			raise Exception(yaml.dump(bulk))
+			raise Exception(yaml.dump(errors))
 
 if __name__=="__main__":
 	unittest.main()
