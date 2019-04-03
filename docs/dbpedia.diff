@@ -18,7 +18,7 @@
 +012025,https://www.city.hakodate.hokkaido.jp/
 +012033,https://www.city.otaru.lg.jp/
  012041,http://www.city.asahikawa.hokkaido.jp/
- 012050,http://www.city.muroran.lg.jp/
+-012050,http://www.city.muroran.lg.jp/
 -012068,http://www.city.kushiro.lg.jp/
 -012076,http://www.city.obihiro.hokkaido.jp/
 -012084,None
@@ -26,6 +26,7 @@
 -012106,http://www.city.iwamizawa.hokkaido.jp/
 -012114,http://www.city.abashiri.hokkaido.jp
 -012122,http://www.e-rumoi.jp/
++012050,https://www.city.muroran.lg.jp/
 +012068,https://www.city.kushiro.lg.jp/
 +012076,https://www.city.obihiro.hokkaido.jp/
 +012084,https://www.city.kitami.lg.jp/
@@ -163,9 +164,12 @@
  014630,http://www.vill.shimukappu.lg.jp/
  014648,http://www.town.wassamu.hokkaido.jp/
  014656,http://www.town.kembuchi.hokkaido.jp/
-@@ -111,54 +116,52 @@
+@@ -109,56 +114,54 @@
+ 014711,http://www.town.nakagawa.hokkaido.jp/
+ 014729,http://www.town.horokanai.hokkaido.jp/
  014818,http://www.town.mashike.hokkaido.jp/
- 014826,http://www.town.obira.hokkaido.jp/
+-014826,http://www.town.obira.hokkaido.jp/
++014826,https://www.town.obira.hokkaido.jp/
  014834,http://www.town.tomamae.lg.jp/
 -014842,http://www.town.haboro.hokkaido.jp/
 +014842,http://www.town.haboro.lg.jp/
@@ -1210,6 +1214,7 @@
 -152048,http://www.city.sanjo.niigata.jp/
 -152056,http://www.city.kashiwazaki.niigata.jp/
 -152064,http://www.city.shibata.niigata.jp/
+-152081,http://www.city.ojiya.niigata.jp/
 +144011,http://www.town.aikawa.kanagawa.jp/
 +144029,https://www.town.kiyokawa.kanagawa.jp/
 +151009,https://www.city.niigata.lg.jp/
@@ -1225,7 +1230,7 @@
 +152048,https://www.city.sanjo.niigata.jp/
 +152056,https://www.city.kashiwazaki.lg.jp/
 +152064,http://www.city.shibata.lg.jp/
- 152081,http://www.city.ojiya.niigata.jp/
++152081,https://www.city.ojiya.niigata.jp/
  152099,http://www.city.kamo.niigata.jp/
 -152102,http://www.echigo-tsumari.jp/
 -152102,http://www.city.tokamachi.niigata.jp/
@@ -2558,11 +2563,12 @@
  394033,http://www.town.ochi.kochi.jp/
 -394050,http://www.town.yusuhara.kochi.jp/index.php
 -394106,http://www.vill.hidaka.kochi.jp/
-+394050,http://www.town.yusuhara.kochi.jp/
-+394106,https://www.vill.hidaka.kochi.jp/
- 394114,http://www.town.kochi-tsuno.lg.jp/
+-394114,http://www.town.kochi-tsuno.lg.jp/
 -394122,http://www.town.shimanto.lg.jp
 -394246,http://www.town.otsuki.kochi.jp/
++394050,http://www.town.yusuhara.kochi.jp/
++394106,https://www.vill.hidaka.kochi.jp/
++394114,https://town.kochi-tsuno.lg.jp/
 +394122,https://www.town.shimanto.lg.jp/
 +394246,https://www.town.otsuki.kochi.jp/
  394271,http://www.vill.mihara.kochi.jp/

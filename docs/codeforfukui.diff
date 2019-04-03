@@ -1,6 +1,6 @@
 --- codeforfukui
 +++ wikidata
-@@ -3,10 +3,10 @@
+@@ -3,46 +3,46 @@
  北区,http://www.city.sapporo.jp/kitaku/
  東区,http://www.city.sapporo.jp/higashi/
  白石区,http://www.city.sapporo.jp/shiroishi/
@@ -13,8 +13,10 @@
  手稲区,http://www.city.sapporo.jp/teine/
  清田区,http://www.city.sapporo.jp/kiyota/
  函館市,https://www.city.hakodate.hokkaido.jp/
-@@ -15,34 +15,34 @@
- 室蘭市,http://www.city.muroran.lg.jp/
+ 小樽市,https://www.city.otaru.lg.jp/
+ 旭川市,http://www.city.asahikawa.hokkaido.jp/
+-室蘭市,http://www.city.muroran.lg.jp/
++室蘭市,https://www.city.muroran.lg.jp/
  釧路市,https://www.city.kushiro.lg.jp/
  帯広市,https://www.city.obihiro.hokkaido.jp/
 -北見市,http://www.city.kitami.lg.jp/
@@ -112,7 +114,7 @@
  北竜町,http://www.town.hokuryu.hokkaido.jp/
  沼田町,https://www.town.numata.hokkaido.jp/
  鷹栖町,http://www.town.takasu.hokkaido.jp/
-@@ -104,10 +104,10 @@
+@@ -104,61 +104,61 @@
  美瑛町,http://town.biei.hokkaido.jp/
  上富良野町,http://www.town.kamifurano.hokkaido.jp/
  中富良野町,http://www.town.nakafurano.lg.jp/
@@ -125,7 +127,13 @@
  下川町,http://www.town.shimokawa.hokkaido.jp/
  美深町,http://www.town.bifuka.hokkaido.jp/
  音威子府村,http://www.vill.otoineppu.hokkaido.jp/
-@@ -120,45 +120,45 @@
+ 中川町,http://www.town.nakagawa.hokkaido.jp/
+ 幌加内町,http://www.town.horokanai.hokkaido.jp/
+ 増毛町,http://www.town.mashike.hokkaido.jp/
+-小平町,http://www.town.obira.hokkaido.jp/
++小平町,https://www.town.obira.hokkaido.jp/
+ 苫前町,http://www.town.tomamae.lg.jp/
+ 羽幌町,http://www.town.haboro.lg.jp/
  初山別村,http://www.vill.shosanbetsu.lg.jp/
  遠別町,http://www.town.embetsu.hokkaido.jp/
  天塩町,http://www.teshiotown.hokkaido.jp/
@@ -1044,10 +1052,11 @@
 -三条市,http://www.city.sanjo.niigata.jp/
 -柏崎市,http://www.city.kashiwazaki.lg.jp/
 -新発田市,http://www.city.shibata.niigata.jp/
+-小千谷市,http://www.city.ojiya.niigata.jp/
 +三条市,https://www.city.sanjo.niigata.jp/
 +柏崎市,https://www.city.kashiwazaki.lg.jp/
 +新発田市,http://www.city.shibata.lg.jp/
- 小千谷市,http://www.city.ojiya.niigata.jp/
++小千谷市,https://www.city.ojiya.niigata.jp/
  加茂市,http://www.city.kamo.niigata.jp/
  十日町市,http://www.city.tokamachi.lg.jp/
  見附市,http://www.city.mitsuke.niigata.jp/
@@ -2166,12 +2175,7 @@
  いの町,http://www.town.ino.kochi.jp/
  仁淀川町,http://www.town.niyodogawa.lg.jp/
  中土佐町,https://www.town.nakatosa.lg.jp/
-@@ -1616,72 +1618,72 @@
- 越知町,http://www.town.ochi.kochi.jp/
- 檮原町,http://www.town.yusuhara.kochi.jp/
- 日高村,https://www.vill.hidaka.kochi.jp/
--津野町,https://town.kochi-tsuno.lg.jp/
-+津野町,http://www.town.kochi-tsuno.lg.jp/
+@@ -1620,68 +1622,68 @@
  四万十町,https://www.town.shimanto.lg.jp/
  大月町,https://www.town.otsuki.kochi.jp/
  三原村,http://www.vill.mihara.kochi.jp/

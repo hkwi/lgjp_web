@@ -14,7 +14,7 @@ code,name,site
 012025,函館市,https://www.city.hakodate.hokkaido.jp/
 012033,小樽市,https://www.city.otaru.lg.jp/
 012041,旭川市,http://www.city.asahikawa.hokkaido.jp/
-012050,室蘭市,http://www.city.muroran.lg.jp/
+012050,室蘭市,https://www.city.muroran.lg.jp/
 012068,釧路市,https://www.city.kushiro.lg.jp/
 012076,帯広市,https://www.city.obihiro.hokkaido.jp/
 012084,北見市,https://www.city.kitami.lg.jp/
@@ -116,7 +116,7 @@ code,name,site
 014711,中川町,http://www.town.nakagawa.hokkaido.jp/
 014729,幌加内町,http://www.town.horokanai.hokkaido.jp/
 014818,増毛町,http://www.town.mashike.hokkaido.jp/
-014826,小平町,http://www.town.obira.hokkaido.jp/
+014826,小平町,https://www.town.obira.hokkaido.jp/
 014834,苫前町,http://www.town.tomamae.lg.jp/
 014842,羽幌町,http://www.town.haboro.lg.jp/
 014851,初山別村,http://www.vill.shosanbetsu.lg.jp/
@@ -810,7 +810,7 @@ code,name,site
 152048,三条市,https://www.city.sanjo.niigata.jp/
 152056,柏崎市,https://www.city.kashiwazaki.lg.jp/
 152064,新発田市,http://www.city.shibata.lg.jp/
-152081,小千谷市,http://www.city.ojiya.niigata.jp/
+152081,小千谷市,https://www.city.ojiya.niigata.jp/
 152099,加茂市,http://www.city.kamo.niigata.jp/
 152102,十日町市,http://www.city.tokamachi.lg.jp/
 152111,見附市,http://www.city.mitsuke.niigata.jp/
@@ -1658,7 +1658,7 @@ code,name,site
 394033,越知町,http://www.town.ochi.kochi.jp/
 394050,檮原町,http://www.town.yusuhara.kochi.jp/
 394106,日高村,https://www.vill.hidaka.kochi.jp/
-394114,津野町,http://www.town.kochi-tsuno.lg.jp/
+394114,津野町,https://town.kochi-tsuno.lg.jp/
 394122,四万十町,https://www.town.shimanto.lg.jp/
 394246,大月町,https://www.town.otsuki.kochi.jp/
 394271,三原村,http://www.vill.mihara.kochi.jp/
