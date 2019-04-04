@@ -1242,7 +1242,8 @@
 -軽井沢町,http://www.town.karuizawa.lg.jp/www/toppage/0000000000000/APM03000.html
 +軽井沢町,https://www.town.karuizawa.lg.jp/
  御代田町,http://www.town.miyota.nagano.jp/
- 立科町,http://www.town.tateshina.nagano.jp/
+-立科町,http://www.town.tateshina.nagano.jp/
++立科町,https://www.town.tateshina.nagano.jp/
  青木村,http://www.vill.aoki.nagano.jp/
 -長和町,http://town.nagawa.nagano.jp/
 -下諏訪町,http://www.town.shimosuwa.lg.jp/www/index.html
@@ -1261,7 +1262,7 @@
 +南箕輪村,https://www.vill.minamiminowa.lg.jp/
 +中川村,https://www.vill.nakagawa.nagano.jp/
 +宮田村,https://www.vill.miyada.nagano.jp/
-+松川町,http://www.matsukawa-town.jp/
++松川町,https://www.town.matsukawa.lg.jp/
  高森町,http://www.town.nagano-takamori.lg.jp/
  阿南町,http://www.town.anan.nagano.jp/
 -阿智村,http://www.vill.achi.lg.jp/
@@ -2431,7 +2432,12 @@
  木城町,http://www.kijo.jp/
  川南町,http://www.town.kawaminami.miyazaki.jp/
  都農町,https://www.town.tsuno.lg.jp/
-@@ -1831,86 +1833,86 @@
+@@ -1827,90 +1829,90 @@
+ 諸塚村,https://www.vill.morotsuka.miyazaki.jp/
+ 椎葉村,http://www.vill.shiiba.miyazaki.jp/
+ 美郷町,http://www.town.miyazaki-misato.lg.jp/
+-高千穂町,http://www.town-takachiho.jp/
++高千穂町,https://www.town-takachiho.jp/
  日之影町,http://www.town.hinokage.lg.jp/
  五ヶ瀬町,http://www.town.gokase.miyazaki.jp/
  鹿児島市,http://www.city.kagoshima.lg.jp/

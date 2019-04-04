@@ -1450,10 +1450,11 @@
 -203092,http://www.town.sakuho.nagano.jp/
 -203211,http://www.town.karuizawa.nagano.jp/
 -203238,http://www.town.miyota.nagano.jp
+-203246,http://www.town.tateshina.nagano.jp/
 +203092,https://www.town.sakuho.nagano.jp/
 +203211,https://www.town.karuizawa.lg.jp/
 +203238,http://www.town.miyota.nagano.jp/
- 203246,http://www.town.tateshina.nagano.jp/
++203246,https://www.town.tateshina.nagano.jp/
  203491,http://www.vill.aoki.nagano.jp/
 -203505,http://www.town.nagawa.nagano.jp/
 +203505,https://town.nagawa.nagano.jp/
@@ -1468,11 +1469,12 @@
  203840,http://www.town.iijima.lg.jp/
 -203858,http://www.vill.minamiminowa.nagano.jp/
 -203866,http://www.vill.nakagawa.nagano.jp/
+-204021,http://www.matsukawa-town.jp/
+-204030,http://www.town.takamori.nagano.jp/
 +203858,https://www.vill.minamiminowa.lg.jp/
 +203866,https://www.vill.nakagawa.nagano.jp/
 +203882,https://www.vill.miyada.nagano.jp/
- 204021,http://www.matsukawa-town.jp/
--204030,http://www.town.takamori.nagano.jp/
++204021,https://www.town.matsukawa.lg.jp/
 +204030,http://www.town.nagano-takamori.lg.jp/
  204048,http://www.town.anan.nagano.jp/
 -204072,http://www.vill.achi.nagano.jp/
@@ -2907,8 +2909,9 @@
 +454290,https://www.vill.morotsuka.miyazaki.jp/
  454303,http://www.vill.shiiba.miyazaki.jp/
  454311,http://www.town.miyazaki-misato.lg.jp/
- 454419,http://www.town-takachiho.jp/
+-454419,http://www.town-takachiho.jp/
 -454427,http://www.hinokage.jp/web/index.shtml
++454419,https://www.town-takachiho.jp/
 +454427,http://www.town.hinokage.lg.jp/
  454435,http://www.town.gokase.miyazaki.jp/
 -460001,http://www.pref.kagoshima.jp/
