@@ -164,11 +164,13 @@
  014630,http://www.vill.shimukappu.lg.jp/
  014648,http://www.town.wassamu.hokkaido.jp/
  014656,http://www.town.kembuchi.hokkaido.jp/
-@@ -109,56 +114,54 @@
+@@ -108,57 +113,55 @@
+ 014702,http://www.vill.otoineppu.hokkaido.jp/
  014711,http://www.town.nakagawa.hokkaido.jp/
  014729,http://www.town.horokanai.hokkaido.jp/
- 014818,http://www.town.mashike.hokkaido.jp/
+-014818,http://www.town.mashike.hokkaido.jp/
 -014826,http://www.town.obira.hokkaido.jp/
++014818,https://www.town.mashike.hokkaido.jp/
 +014826,https://www.town.obira.hokkaido.jp/
  014834,http://www.town.tomamae.lg.jp/
 -014842,http://www.town.haboro.hokkaido.jp/
