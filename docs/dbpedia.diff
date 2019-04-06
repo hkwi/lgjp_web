@@ -791,7 +791,7 @@
 +103446,http://www.vill.shinto.gunma.jp/
  103454,http://www.town.yoshioka.gunma.jp/
 -103667,http://www.uenomura.ne.jp/index.html
-+103667,http://www.uenomura.ne.jp/
++103667,http://www.uenomura.jp/
  103675,http://www.town.kanna.gunma.jp/
 -103829,http://www.town.shimonita.lg.jp/
 +103829,https://www.town.shimonita.lg.jp/
@@ -1207,7 +1207,7 @@
 +143669,https://www.town.kaisei.kanagawa.jp/
 +143821,https://www.town.hakone.kanagawa.jp/
  143839,http://www.town-manazuru.jp/
- 143847,http://www.town.yugawara.kanagawa.jp/
+-143847,http://www.town.yugawara.kanagawa.jp/
 -144011,http://www.town.aikawa.kanagawa.jp/index.html
 -144029,http://www.town.kiyokawa.kanagawa.jp/index.html
 -150002,http://www.pref.niigata.lg.jp/
@@ -1217,6 +1217,7 @@
 -152056,http://www.city.kashiwazaki.niigata.jp/
 -152064,http://www.city.shibata.niigata.jp/
 -152081,http://www.city.ojiya.niigata.jp/
++143847,https://www.town.yugawara.kanagawa.jp/
 +144011,http://www.town.aikawa.kanagawa.jp/
 +144029,https://www.town.kiyokawa.kanagawa.jp/
 +151009,https://www.city.niigata.lg.jp/
