@@ -2241,7 +2241,7 @@
  313025,http://www.iwami.gr.jp/
  313254,http://www.town.wakasa.tottori.jp/
  313289,http://www1.town.chizu.tottori.jp/
-@@ -1368,458 +1421,452 @@
+@@ -1368,509 +1421,498 @@
  313700,http://www.yurihama.jp/
  313718,http://www.town.kotoura.tottori.jp/
  313726,http://www.e-hokuei.net/
@@ -2604,7 +2604,7 @@
 +401340,http://www.city.fukuoka.lg.jp/minami/
 +401358,http://www.city.fukuoka.lg.jp/nishi/
 +401366,https://www.city.fukuoka.lg.jp/jonan/
-+401374,http://www.city.fukuoka.lg.jp/sawara/
++401374,https://www.city.fukuoka.lg.jp/sawara/
 +402028,https://www.city.omuta.lg.jp/
 +402036,https://www.city.kurume.fukuoka.jp/
 +402044,https://www.city.nogata.fukuoka.jp/
@@ -2984,9 +2984,11 @@
  465275,http://www.town.tatsugo.lg.jp/
  465291,http://www.town.kikai.lg.jp/
  465305,http://www.tokunoshima-town.org/
-@@ -1828,49 +1875,44 @@
+ 465313,http://www.yui-amagi.com/
+ 465321,http://www.town.isen.kagoshima.jp/
  465330,http://www.town.wadomari.lg.jp/
- 465348,http://www.town.china.lg.jp/
+-465348,http://www.town.china.lg.jp/
++465348,https://www.town.china.lg.jp/
  465356,http://www.yoron.jp/
 -470007,http://www.pref.okinawa.lg.jp/
 -472018,http://www.city.naha.okinawa.jp/

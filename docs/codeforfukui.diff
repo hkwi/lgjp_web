@@ -2216,7 +2216,7 @@
 +南区,http://www.city.fukuoka.lg.jp/minami/
 +西区,http://www.city.fukuoka.lg.jp/nishi/
 +城南区,https://www.city.fukuoka.lg.jp/jonan/
-+早良区,http://www.city.fukuoka.lg.jp/sawara/
++早良区,https://www.city.fukuoka.lg.jp/sawara/
 +大牟田市,https://www.city.omuta.lg.jp/
 +久留米市,https://www.city.kurume.fukuoka.jp/
  直方市,https://www.city.nogata.fukuoka.jp/
@@ -2503,7 +2503,8 @@
 +天城町,http://www.yui-amagi.com/
  伊仙町,http://www.town.isen.kagoshima.jp/
  和泊町,http://www.town.wadomari.lg.jp/
- 知名町,http://www.town.china.lg.jp/
+-知名町,http://www.town.china.lg.jp/
++知名町,https://www.town.china.lg.jp/
  与論町,http://www.yoron.jp/
 -那覇市,http://www.city.naha.okinawa.jp/
 +那覇市,https://www.city.naha.okinawa.jp/
