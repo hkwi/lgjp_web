@@ -1195,7 +1195,7 @@
  道志村,http://www.vill.doshi.lg.jp/
 -西桂町,http://www.town.nishikatsura.yamanashi.jp/forms/top/top.aspx
 -忍野村,http://www.vill.oshino.lg.jp/
-+西桂町,http://www.town.nishikatsura.yamanashi.jp/
++西桂町,https://www.town.nishikatsura.yamanashi.jp/
 +忍野村,https://www.vill.oshino.lg.jp/
  山中湖村,http://www.vill.yamanakako.lg.jp/
 -鳴沢村,http://www.vill.narusawa.yamanashi.jp/forms/top/top.aspx
@@ -2270,9 +2270,10 @@
  鞍手町,http://www.town.kurate.lg.jp/
  桂川町,http://www.town.keisen.fukuoka.jp/
  筑前町,https://www.town.chikuzen.fukuoka.jp/
- 東峰村,http://www1.vill.toho.fukuoka.jp/
+-東峰村,http://www1.vill.toho.fukuoka.jp/
 -大刀洗町,http://www.town.tachiarai.fukuoka.jp/opening/
 -大木町,http://www.town.ooki.lg.jp/
++東峰村,http://vill.toho-info.com/
 +大刀洗町,http://www.town.tachiarai.fukuoka.jp/
 +大木町,https://www.town.ooki.lg.jp/
  広川町,http://www.town.hirokawa.fukuoka.jp/
