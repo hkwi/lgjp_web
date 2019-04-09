@@ -538,7 +538,7 @@ code,name,site
 111007,さいたま市,https://www.city.saitama.jp/
 111015,西区,https://www.city.saitama.jp/nishi/
 111023,北区,https://www.city.saitama.jp/kita/
-111031,大宮区,https://www.city.saitama.jp/omiya/index.html
+111031,大宮区,https://www.city.saitama.jp/omiya/
 111040,見沼区,https://www.city.saitama.jp/minuma/
 111058,中央区,https://www.city.saitama.jp/chuo/
 111066,桜区,https://www.city.saitama.jp/sakura/
@@ -1063,7 +1063,7 @@ code,name,site
 222135,掛川市,https://www.city.kakegawa.shizuoka.jp/
 222143,藤枝市,https://www.city.fujieda.shizuoka.jp/
 222151,御殿場市,https://www.city.gotemba.shizuoka.jp/
-222160,袋井市,http://www.city.fukuroi.shizuoka.jp/
+222160,袋井市,https://www.city.fukuroi.shizuoka.jp/
 222194,下田市,https://www.city.shimoda.shizuoka.jp/
 222208,裾野市,https://www.city.susono.shizuoka.jp/
 222216,湖西市,https://www.city.kosai.shizuoka.jp/
@@ -1849,7 +1849,7 @@ code,name,site
 442143,国東市,https://www.city.kunisaki.oita.jp/
 443221,姫島村,http://www.himeshima.jp/
 443417,日出町,https://www.town.hiji.lg.jp/
-444618,九重町,http://www.town.kokonoe.oita.jp/
+444618,九重町,https://www.town.kokonoe.oita.jp/
 444626,玖珠町,https://www.town.kusu.oita.jp/
 450006,宮崎県,http://www.pref.miyazaki.lg.jp
 452017,宮崎市,https://www.city.miyazaki.miyazaki.jp/

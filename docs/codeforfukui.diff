@@ -644,9 +644,7 @@
  さいたま市,https://www.city.saitama.jp/
 -西区,https://www.city.saitama.jp/nishi/index.html
 -北区,https://www.city.saitama.jp/kita/index.html
-+西区,https://www.city.saitama.jp/nishi/
-+北区,https://www.city.saitama.jp/kita/
- 大宮区,https://www.city.saitama.jp/omiya/index.html
+-大宮区,https://www.city.saitama.jp/omiya/index.html
 -見沼区,https://www.city.saitama.jp/minuma/index.html
 -中央区,https://www.city.saitama.jp/chuo/index.html
 -桜区,https://www.city.saitama.jp/sakura/index.html
@@ -656,6 +654,9 @@
 -岩槻区,https://www.city.saitama.jp/iwatsuki/index.html
 -川越市,http://www.city.kawagoe.saitama.jp/
 -熊谷市,http://www.city.kumagaya.lg.jp/
++西区,https://www.city.saitama.jp/nishi/
++北区,https://www.city.saitama.jp/kita/
++大宮区,https://www.city.saitama.jp/omiya/
 +見沼区,https://www.city.saitama.jp/minuma/
 +中央区,https://www.city.saitama.jp/chuo/
 +桜区,https://www.city.saitama.jp/sakura/
@@ -1377,8 +1378,9 @@
 +掛川市,https://www.city.kakegawa.shizuoka.jp/
  藤枝市,https://www.city.fujieda.shizuoka.jp/
 -御殿場市,http://www.city.gotemba.shizuoka.jp/
+-袋井市,http://www.city.fukuroi.shizuoka.jp/
 +御殿場市,https://www.city.gotemba.shizuoka.jp/
- 袋井市,http://www.city.fukuroi.shizuoka.jp/
++袋井市,https://www.city.fukuroi.shizuoka.jp/
  下田市,https://www.city.shimoda.shizuoka.jp/
 -裾野市,http://www.city.susono.shizuoka.jp/
 -湖西市,http://www.city.kosai.shizuoka.jp/
@@ -2409,8 +2411,9 @@
 +国東市,https://www.city.kunisaki.oita.jp/
  姫島村,http://www.himeshima.jp/
  日出町,https://www.town.hiji.lg.jp/
- 九重町,http://www.town.kokonoe.oita.jp/
+-九重町,http://www.town.kokonoe.oita.jp/
 -玖珠町,http://www.town.kusu.oita.jp/
++九重町,https://www.town.kokonoe.oita.jp/
 +玖珠町,https://www.town.kusu.oita.jp/
  宮崎市,https://www.city.miyazaki.miyazaki.jp/
  都城市,http://www.city.miyakonojo.miyazaki.jp/
