@@ -476,7 +476,8 @@
  田村市,http://www.city.tamura.lg.jp/
  南相馬市,https://www.city.minamisoma.lg.jp/
  伊達市,https://www.city.fukushima-date.lg.jp/
- 本宮市,http://www.city.motomiya.lg.jp/
+-本宮市,http://www.city.motomiya.lg.jp/
++本宮市,https://www.city.motomiya.lg.jp/
  桑折町,http://www.town.koori.fukushima.jp/
 -国見町,http://www.town.kunimi.fukushima.jp/
 -川俣町,http://www.town.kawamata.lg.jp/
@@ -1307,7 +1308,7 @@
  山ノ内町,http://www.town.yamanouchi.nagano.jp/
  木島平村,http://www.vill.kijimadaira.lg.jp/
  野沢温泉村,http://www.vill.nozawaonsen.nagano.jp/
-@@ -972,7 +974,7 @@
+@@ -972,17 +974,17 @@
  小川村,http://www.vill.ogawa.nagano.jp/
  飯綱町,https://www.town.iizuna.nagano.jp/
  栄村,http://www.vill.sakae.nagano.jp/
@@ -1315,8 +1316,11 @@
 +岐阜市,https://www.city.gifu.lg.jp/
  大垣市,http://www.city.ogaki.lg.jp/
  高山市,http://www.city.takayama.lg.jp/
- 多治見市,http://www.city.tajimi.lg.jp/
-@@ -982,7 +984,7 @@
+-多治見市,http://www.city.tajimi.lg.jp/
++多治見市,https://www.city.tajimi.lg.jp/
+ 関市,http://www.city.seki.gifu.jp/
+ 中津川市,http://www.city.nakatsugawa.gifu.jp/
+ 美濃市,http://www.city.mino.gifu.jp/
  瑞浪市,http://www.city.mizunami.lg.jp/
  羽島市,https://www.city.hashima.lg.jp/
  恵那市,http://www.city.ena.lg.jp/
@@ -1559,10 +1563,11 @@
 -湖南市,http://www.city.konan.shiga.jp/
 -高島市,http://www.city.takashima.lg.jp/www/toppage/0000000000000/APM03000.html
 -東近江市,http://www.city.higashiomi.shiga.jp/
+-米原市,http://www.city.maibara.lg.jp/
 +湖南市,https://www.city.konan.shiga.jp/
 +高島市,http://www.city.takashima.lg.jp/
 +東近江市,https://www.city.higashiomi.shiga.jp/
- 米原市,http://www.city.maibara.lg.jp/
++米原市,https://www.city.maibara.lg.jp/
  日野町,http://www.town.shiga-hino.lg.jp/
  竜王町,http://www.town.ryuoh.shiga.jp/
  愛荘町,http://www.town.aisho.shiga.jp/

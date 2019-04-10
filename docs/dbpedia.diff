@@ -583,9 +583,10 @@
  072117,http://www.city.tamura.lg.jp/
 -072125,http://www.city.minamisoma.lg.jp/
 -072133,http://www.city.date.fukushima.jp/
+-072141,http://www.city.motomiya.lg.jp/
 +072125,https://www.city.minamisoma.lg.jp/
 +072133,https://www.city.fukushima-date.lg.jp/
- 072141,http://www.city.motomiya.lg.jp/
++072141,https://www.city.motomiya.lg.jp/
  073016,http://www.town.koori.fukushima.jp/
 -073032,http://www.town.kunimi.fukushima.jp/
 -073083,http://www.town.kawamata.lg.jp/
@@ -1322,7 +1323,7 @@
  173240,http://www.town.kawakita.ishikawa.jp/
  173614,http://www.town.tsubata.ishikawa.jp/
  173657,http://www.town.uchinada.lg.jp/
-@@ -821,141 +852,129 @@
+@@ -821,545 +852,567 @@
  173860,http://www.hodatsushimizu.jp/
  174076,http://www.town.nakanoto.ishikawa.jp/
  174611,http://www.town.anamizu.ishikawa.jp/
@@ -1540,8 +1541,9 @@
 +212016,https://www.city.gifu.lg.jp/
  212024,http://www.city.ogaki.lg.jp/
  212032,http://www.city.takayama.lg.jp/
- 212041,http://www.city.tajimi.lg.jp/
-@@ -963,403 +982,437 @@
+-212041,http://www.city.tajimi.lg.jp/
++212041,https://www.city.tajimi.lg.jp/
+ 212059,http://www.city.seki.gifu.jp/
  212067,http://www.city.nakatsugawa.gifu.jp/
  212075,http://www.city.mino.gifu.jp/
  212083,http://www.city.mizunami.lg.jp/
@@ -1848,10 +1850,11 @@
 -252115,http://www.city.konan.shiga.jp/
 -252123,http://www.city.takashima.shiga.jp/
 -252131,http://www.city.higashiomi.shiga.jp/
+-252140,http://www.city.maibara.lg.jp/
 +252115,https://www.city.konan.shiga.jp/
 +252123,http://www.city.takashima.lg.jp/
 +252131,https://www.city.higashiomi.shiga.jp/
- 252140,http://www.city.maibara.lg.jp/
++252140,https://www.city.maibara.lg.jp/
  253839,http://www.town.shiga-hino.lg.jp/
  253847,http://www.town.ryuoh.shiga.jp/
 -254258,http://www.town.aisho.shiga.jp
