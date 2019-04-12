@@ -493,6 +493,15 @@
  南会津町,http://www.minamiaizu.org/
  北塩原村,http://www.vill.kitashiobara.fukushima.jp/
  西会津町,https://www.town.nishiaizu.fukushima.jp/
+@@ -410,7 +410,7 @@
+ 三春町,http://www.town.miharu.fukushima.jp/
+ 小野町,http://www.town.ono.fukushima.jp/
+ 広野町,http://www.town.hirono.fukushima.jp/
+-楢葉町,http://www.town.naraha.lg.jp/
++楢葉町,https://www.town.naraha.lg.jp/
+ 富岡町,https://www.tomioka-town.jp/
+ 川内村,http://www.kawauchimura.jp/
+ 大熊町,https://www.town.okuma.fukushima.jp/
 @@ -419,163 +419,163 @@
  葛尾村,https://www.katsurao.org/
  新地町,https://www.shinchi-town.jp/
@@ -522,7 +531,7 @@
  牛久市,http://www.city.ushiku.lg.jp/
 -つくば市,http://www.city.tsukuba.ibaraki.jp/
 -ひたちなか市,http://www.city.hitachinaka.lg.jp/
-+つくば市,http://www.city.tsukuba.lg.jp/
++つくば市,https://www.city.tsukuba.lg.jp/
 +ひたちなか市,https://www.city.hitachinaka.lg.jp/
  鹿嶋市,http://www.city.kashima.ibaraki.jp/
  潮来市,http://www.city.itako.lg.jp/
@@ -1329,7 +1338,15 @@
  土岐市,http://www.city.toki.lg.jp/
  各務原市,http://www.city.kakamigahara.lg.jp/
  可児市,http://www.city.kani.lg.jp/
-@@ -1005,48 +1007,48 @@
+@@ -998,55 +1000,55 @@
+ 養老町,http://www.town.yoro.gifu.jp/
+ 垂井町,http://www.town.tarui.lg.jp/
+ 関ケ原町,http://www.town.sekigahara.gifu.jp/
+-神戸町,http://www.town.godo.gifu.jp/
++神戸町,https://www.town.godo.gifu.jp/
+ 輪之内町,http://town.wanouchi.gifu.jp/
+ 安八町,http://www.town.anpachi.gifu.jp/
+ 揖斐川町,http://www.town.ibigawa.lg.jp/
  大野町,http://www.town-ono.jp/
  池田町,http://www.town.ikeda.gifu.jp/
  北方町,http://www.town.kitagata.gifu.jp/
@@ -1844,8 +1861,7 @@
  大和郡山市,https://www.city.yamatokoriyama.nara.jp/
  天理市,http://www.city.tenri.nara.jp/
 -橿原市,http://www.city.kashihara.nara.jp/
-+橿原市,https://www.city.kashihara.nara.jp/
- 桜井市,http://www.city.sakurai.lg.jp/
+-桜井市,http://www.city.sakurai.lg.jp/
 -五條市,http://www.city.gojo.lg.jp/www/toppage/0000000000000/APM03000.html
 -御所市,http://www.city.gose.nara.jp/
 -生駒市,http://www.city.ikoma.lg.jp/
@@ -1853,6 +1869,8 @@
 -葛城市,http://www.city.katsuragi.nara.jp/
 -宇陀市,http://www.city.uda.nara.jp/
 -山添村,http://www.vill.yamazoe.nara.jp/
++橿原市,https://www.city.kashihara.nara.jp/
++桜井市,https://www.city.sakurai.lg.jp/
 +五條市,https://www.city.gojo.lg.jp/
 +御所市,https://www.city.gose.nara.jp/
 +生駒市,https://www.city.ikoma.lg.jp/

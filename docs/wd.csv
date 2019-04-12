@@ -418,7 +418,7 @@ code,name,site
 075213,三春町,http://www.town.miharu.fukushima.jp/
 075221,小野町,http://www.town.ono.fukushima.jp/
 075418,広野町,http://www.town.hirono.fukushima.jp/
-075426,楢葉町,http://www.town.naraha.lg.jp/
+075426,楢葉町,https://www.town.naraha.lg.jp/
 075434,富岡町,https://www.tomioka-town.jp/
 075442,川内村,http://www.kawauchimura.jp/
 075451,大熊町,https://www.town.okuma.fukushima.jp/
@@ -443,7 +443,7 @@ code,name,site
 082163,笠間市,https://www.city.kasama.lg.jp/
 082171,取手市,https://www.city.toride.ibaraki.jp/
 082198,牛久市,http://www.city.ushiku.lg.jp/
-082201,つくば市,http://www.city.tsukuba.lg.jp/
+082201,つくば市,https://www.city.tsukuba.lg.jp/
 082210,ひたちなか市,https://www.city.hitachinaka.lg.jp/
 082228,鹿嶋市,http://www.city.kashima.ibaraki.jp/
 082236,潮来市,http://www.city.itako.lg.jp/
@@ -1022,7 +1022,7 @@ code,name,site
 213411,養老町,http://www.town.yoro.gifu.jp/
 213616,垂井町,http://www.town.tarui.lg.jp/
 213624,関ケ原町,http://www.town.sekigahara.gifu.jp/
-213811,神戸町,http://www.town.godo.gifu.jp/
+213811,神戸町,https://www.town.godo.gifu.jp/
 213829,輪之内町,http://town.wanouchi.gifu.jp/
 213837,安八町,http://www.town.anpachi.gifu.jp/
 214019,揖斐川町,http://www.town.ibigawa.lg.jp/
@@ -1375,7 +1375,7 @@ code,name,site
 292036,大和郡山市,https://www.city.yamatokoriyama.nara.jp/
 292044,天理市,http://www.city.tenri.nara.jp/
 292052,橿原市,https://www.city.kashihara.nara.jp/
-292061,桜井市,http://www.city.sakurai.lg.jp/
+292061,桜井市,https://www.city.sakurai.lg.jp/
 292079,五條市,https://www.city.gojo.lg.jp/
 292087,御所市,https://www.city.gose.nara.jp/
 292095,生駒市,https://www.city.ikoma.lg.jp/

@@ -639,7 +639,7 @@
  075418,http://www.town.hirono.fukushima.jp/
 -075426,http://www.town.naraha.lg.jp/index.html
 -075434,http://www.tomioka-town.jp/
-+075426,http://www.town.naraha.lg.jp/
++075426,https://www.town.naraha.lg.jp/
 +075434,https://www.tomioka-town.jp/
  075442,http://www.kawauchimura.jp/
 -075451,http://www.town.okuma.fukushima.jp/
@@ -684,7 +684,7 @@
  082198,http://www.city.ushiku.lg.jp/
 -082201,http://www.city.tsukuba.ibaraki.jp/
 -082210,http://www.city.hitachinaka.ibaraki.jp/
-+082201,http://www.city.tsukuba.lg.jp/
++082201,https://www.city.tsukuba.lg.jp/
 +082210,https://www.city.hitachinaka.lg.jp/
  082228,http://www.city.kashima.ibaraki.jp/
  082236,http://www.city.itako.lg.jp/
@@ -1569,8 +1569,9 @@
  213411,http://www.town.yoro.gifu.jp/
  213616,http://www.town.tarui.lg.jp/
  213624,http://www.town.sekigahara.gifu.jp/
- 213811,http://www.town.godo.gifu.jp/
+-213811,http://www.town.godo.gifu.jp/
 -213829,http://www.town.wanouchi.gifu.jp/
++213811,https://www.town.godo.gifu.jp/
 +213829,http://town.wanouchi.gifu.jp/
  213837,http://www.town.anpachi.gifu.jp/
 -214019,http://www.kegonji.or.jp/
@@ -2123,7 +2124,7 @@
 +292036,https://www.city.yamatokoriyama.nara.jp/
 +292044,http://www.city.tenri.nara.jp/
 +292052,https://www.city.kashihara.nara.jp/
-+292061,http://www.city.sakurai.lg.jp/
++292061,https://www.city.sakurai.lg.jp/
 +292079,https://www.city.gojo.lg.jp/
 +292087,https://www.city.gose.nara.jp/
 +292095,https://www.city.ikoma.lg.jp/
