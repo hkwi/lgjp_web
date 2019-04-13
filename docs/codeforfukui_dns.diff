@@ -72,7 +72,7 @@
  ひたちなか市,www.city.hitachinaka.lg.jp
  鹿嶋市,www.city.kashima.ibaraki.jp
  潮来市,www.city.itako.lg.jp
-@@ -470,7 +470,7 @@
+@@ -470,18 +470,18 @@
  鹿沼市,www.city.kanuma.tochigi.jp
  日光市,www.city.nikko.lg.jp
  小山市,www.city.oyama.tochigi.jp
@@ -81,7 +81,11 @@
  大田原市,www.city.ohtawara.tochigi.jp
  矢板市,www.city.yaita.tochigi.jp
  那須塩原市,www.city.nasushiobara.lg.jp
-@@ -481,7 +481,7 @@
+ さくら市,www.city.tochigi-sakura.lg.jp
+ 那須烏山市,www.city.nasukarasuyama.lg.jp
+ 下野市,www.city.shimotsuke.lg.jp
+-上三川町,www.town.kaminokawa.tochigi.jp
++上三川町,www.town.kaminokawa.lg.jp
  益子町,www.town.mashiko.tochigi.jp
  茂木町,www.town.motegi.tochigi.jp
  市貝町,www.town.ichikai.tochigi.jp

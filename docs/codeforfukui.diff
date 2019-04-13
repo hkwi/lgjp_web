@@ -371,7 +371,7 @@
  大郷町,http://www.town.miyagi-osato.lg.jp/
  大衡村,http://www.village.ohira.miyagi.jp/
  色麻町,http://www.town.shikama.miyagi.jp/
-@@ -301,40 +301,40 @@
+@@ -301,87 +301,87 @@
  女川町,http://www.town.onagawa.miyagi.jp/
  南三陸町,http://www.town.minamisanriku.miyagi.jp/
  秋田市,http://www.city.akita.akita.jp/
@@ -433,8 +433,11 @@
  東根市,https://www.city.higashine.yamagata.jp/
  尾花沢市,http://www.city.obanazawa.yamagata.jp/
  南陽市,http://www.city.nanyo.yamagata.jp/
-@@ -344,44 +344,44 @@
- 西川町,http://www.town.nishikawa.yamagata.jp/
+ 山辺町,https://www.town.yamanobe.yamagata.jp/
+ 中山町,https://www.town.nakayama.yamagata.jp/
+ 河北町,http://www.town.kahoku.yamagata.jp/
+-西川町,http://www.town.nishikawa.yamagata.jp/
++西川町,https://www.town.nishikawa.yamagata.jp/
  朝日町,https://www.town.asahi.yamagata.jp/
  大江町,http://www.town.oe.yamagata.jp/
 -大石田町,http://www.town.oishida.yamagata.jp/
@@ -588,10 +591,11 @@
 -さくら市,http://www.city.tochigi-sakura.lg.jp/
 -那須烏山市,http://www.city.nasukarasuyama.lg.jp/
 -下野市,http://www.city.shimotsuke.lg.jp/
+-上三川町,http://www.town.kaminokawa.tochigi.jp/
 +さくら市,https://www.city.tochigi-sakura.lg.jp/
 +那須烏山市,https://www.city.nasukarasuyama.lg.jp/
 +下野市,https://www.city.shimotsuke.lg.jp/
- 上三川町,http://www.town.kaminokawa.tochigi.jp/
++上三川町,https://www.town.kaminokawa.lg.jp/
  益子町,http://www.town.mashiko.tochigi.jp/
  茂木町,http://www.town.motegi.tochigi.jp/
 -市貝町,https://www.town.ichikai.tochigi.jp/forms/top/top.aspx
@@ -1330,7 +1334,8 @@
  関市,http://www.city.seki.gifu.jp/
  中津川市,http://www.city.nakatsugawa.gifu.jp/
  美濃市,http://www.city.mino.gifu.jp/
- 瑞浪市,http://www.city.mizunami.lg.jp/
+-瑞浪市,http://www.city.mizunami.lg.jp/
++瑞浪市,https://www.city.mizunami.lg.jp/
  羽島市,https://www.city.hashima.lg.jp/
  恵那市,http://www.city.ena.lg.jp/
 -美濃加茂市,http://www.city.minokamo.gifu.jp/shimin/

@@ -537,8 +537,9 @@
 +063011,https://www.town.yamanobe.yamagata.jp/
 +063029,https://www.town.nakayama.yamagata.jp/
  063215,http://www.town.kahoku.yamagata.jp/
- 063223,http://www.town.nishikawa.yamagata.jp/
+-063223,http://www.town.nishikawa.yamagata.jp/
 -063231,http://www.town.asahi.yamagata.jp/
++063223,https://www.town.nishikawa.yamagata.jp/
 +063231,https://www.town.asahi.yamagata.jp/
  063240,http://www.town.oe.yamagata.jp/
 -063410,http://www.town.oishida.yamagata.jp/
@@ -747,10 +748,11 @@
 -092142,http://www.city.tochigi-sakura.lg.jp/
 -092151,http://www.city.nasukarasuyama.lg.jp/
 -092169,http://www.city.shimotsuke.lg.jp
+-093017,http://www.town.kaminokawa.tochigi.jp/
 +092142,https://www.city.tochigi-sakura.lg.jp/
 +092151,https://www.city.nasukarasuyama.lg.jp/
 +092169,https://www.city.shimotsuke.lg.jp/
- 093017,http://www.town.kaminokawa.tochigi.jp/
++093017,https://www.town.kaminokawa.lg.jp/
  093424,http://www.town.mashiko.tochigi.jp/
  093432,http://www.town.motegi.tochigi.jp/
 -093441,http://www.town.ichikai.tochigi.jp/
@@ -1546,8 +1548,9 @@
  212059,http://www.city.seki.gifu.jp/
  212067,http://www.city.nakatsugawa.gifu.jp/
  212075,http://www.city.mino.gifu.jp/
- 212083,http://www.city.mizunami.lg.jp/
+-212083,http://www.city.mizunami.lg.jp/
 -212091,http://www.city.hashima.gifu.jp/
++212083,https://www.city.mizunami.lg.jp/
 +212091,https://www.city.hashima.lg.jp/
  212105,http://www.city.ena.lg.jp/
  212113,http://www.city.minokamo.gifu.jp/
