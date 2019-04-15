@@ -2868,12 +2868,13 @@
 -442062,http://www.city.usuki.oita.jp/
 -442071,http://www.city.tsukumi.oita.jp/
 -442089,http://www.city.taketa.oita.jp/
+-442097,http://www.city.bungotakada.oita.jp/
+-442101,http://www.city.kitsuki.lg.jp/
+-442119,http://www.city.usa.oita.jp/
 +442062,https://www.city.usuki.oita.jp/
 +442071,https://www.city.tsukumi.oita.jp/
 +442089,https://www.city.taketa.oita.jp/
- 442097,http://www.city.bungotakada.oita.jp/
--442101,http://www.city.kitsuki.lg.jp/
--442119,http://www.city.usa.oita.jp/
++442097,https://www.city.bungotakada.oita.jp/
 +442101,https://www.city.kitsuki.lg.jp/
 +442119,https://www.city.usa.oita.jp/
  442127,http://www.bungo-ohno.jp/
