@@ -1025,8 +1025,9 @@
 -123226,http://www.town.shisui.chiba.jp/
 +123226,https://www.town.shisui.chiba.jp/
  123293,http://www.town.sakae.chiba.jp/
- 123421,http://www.town.kozaki.chiba.jp/
+-123421,http://www.town.kozaki.chiba.jp/
 -123471,http://www.town.tako.chiba.jp/index.html
++123421,https://www.town.kozaki.chiba.jp/
 +123471,https://www.town.tako.chiba.jp/
  123498,http://www.town.tohnosho.chiba.jp/
  124036,http://www.town.kujukuri.chiba.jp/
@@ -1677,6 +1678,7 @@
 -230006,http://www.pref.aichi.jp/
 -232017,http://www.city.toyohashi.aichi.jp/
 -232025,http://www.city.okazaki.aichi.jp/index.htm
+-232033,http://www.city.ichinomiya.aichi.jp/
 +224618,https://www.town.morimachi.shizuoka.jp/
 +231002,http://www.city.nagoya.jp/
 +231011,http://www.city.nagoya.jp/chikusa/
@@ -1697,7 +1699,7 @@
 +231169,http://www.city.nagoya.jp/tempaku/
 +232017,http://www.city.toyohashi.lg.jp/
 +232025,http://www.city.okazaki.lg.jp/
- 232033,http://www.city.ichinomiya.aichi.jp/
++232033,https://www.city.ichinomiya.aichi.jp/
  232041,http://www.city.seto.aichi.jp/
 -232041,http://www.expo2005.or.jp/
 -232050,http://www.city.handa.lg.jp/
@@ -2871,13 +2873,14 @@
 -442097,http://www.city.bungotakada.oita.jp/
 -442101,http://www.city.kitsuki.lg.jp/
 -442119,http://www.city.usa.oita.jp/
+-442127,http://www.bungo-ohno.jp/
 +442062,https://www.city.usuki.oita.jp/
 +442071,https://www.city.tsukumi.oita.jp/
 +442089,https://www.city.taketa.oita.jp/
 +442097,https://www.city.bungotakada.oita.jp/
 +442101,https://www.city.kitsuki.lg.jp/
 +442119,https://www.city.usa.oita.jp/
- 442127,http://www.bungo-ohno.jp/
++442127,https://www.bungo-ohno.jp/
  442135,http://www.city.yufu.oita.jp/
 -442143,http://www.city.kunisaki.oita.jp/
 +442143,https://www.city.kunisaki.oita.jp/

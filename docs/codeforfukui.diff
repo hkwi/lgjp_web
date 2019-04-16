@@ -740,7 +740,7 @@
  越生町,http://www.town.ogose.saitama.jp/
  滑川町,http://www.town.namegawa.lg.jp/
  嵐山町,http://www.town.ranzan.saitama.jp/
-@@ -583,63 +583,63 @@
+@@ -583,71 +583,71 @@
  川島町,https://www.town.kawajima.saitama.jp/
  吉見町,http://www.town.yoshimi.saitama.jp/
  鳩山町,http://www.town.hatoyama.saitama.jp/
@@ -841,9 +841,10 @@
 -酒々井町,http://www.town.shisui.chiba.jp/
 +酒々井町,https://www.town.shisui.chiba.jp/
  栄町,http://www.town.sakae.chiba.jp/
- 神崎町,http://www.town.kozaki.chiba.jp/
+-神崎町,http://www.town.kozaki.chiba.jp/
++神崎町,https://www.town.kozaki.chiba.jp/
  多古町,https://www.town.tako.chiba.jp/
-@@ -647,7 +647,7 @@
+ 東庄町,http://www.town.tohnosho.chiba.jp/
  九十九里町,http://www.town.kujukuri.chiba.jp/
  芝山町,http://www.town.shibayama.lg.jp/
  横芝光町,http://www.town.yokoshibahikari.chiba.jp/
@@ -1443,8 +1444,9 @@
  天白区,http://www.city.nagoya.jp/tempaku/
  豊橋市,http://www.city.toyohashi.lg.jp/
 -岡崎市,http://www.city.okazaki.lg.jp/index.html
+-一宮市,http://www.city.ichinomiya.aichi.jp/
 +岡崎市,http://www.city.okazaki.lg.jp/
- 一宮市,http://www.city.ichinomiya.aichi.jp/
++一宮市,https://www.city.ichinomiya.aichi.jp/
  瀬戸市,http://www.city.seto.aichi.jp/
 -半田市,http://www.city.handa.lg.jp/
 -春日井市,http://www.city.kasugai.lg.jp/
@@ -2431,10 +2433,11 @@
 -豊後高田市,http://www.city.bungotakada.oita.jp/
 -杵築市,http://www.city.kitsuki.lg.jp/
 -宇佐市,http://www.city.usa.oita.jp/
+-豊後大野市,http://www.bungo-ohno.jp/
 +豊後高田市,https://www.city.bungotakada.oita.jp/
 +杵築市,https://www.city.kitsuki.lg.jp/
 +宇佐市,https://www.city.usa.oita.jp/
- 豊後大野市,http://www.bungo-ohno.jp/
++豊後大野市,https://www.bungo-ohno.jp/
  由布市,http://www.city.yufu.oita.jp/
 -国東市,http://www.city.kunisaki.oita.jp/
 +国東市,https://www.city.kunisaki.oita.jp/
