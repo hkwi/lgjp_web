@@ -86,7 +86,8 @@
 -013463,http://www.town.yakumo.lg.jp/
 +013463,https://www.town.yakumo.lg.jp/
  013471,http://www.town.oshamambe.lg.jp/
- 013617,http://www.hokkaido-esashi.jp/
+-013617,http://www.hokkaido-esashi.jp/
++013617,https://www.hokkaido-esashi.jp/
  013625,http://www.town.kaminokuni.lg.jp/
 -013633,http://www.town.assabu.lg.jp/
 +013633,https://www.town.assabu.lg.jp/
@@ -439,10 +440,11 @@
  043249,http://www.town.kawasaki.miyagi.jp/
  043419,http://www.town.marumori.miyagi.jp/
 -043613,http://www.town.watari.miyagi.jp/
-+043613,https://www.town.watari.miyagi.jp/
- 043621,http://www.town.yamamoto.miyagi.jp/
+-043621,http://www.town.yamamoto.miyagi.jp/
 -044016,http://www.town.matsushima.miyagi.jp/
 -044041,http://www.shichigahama.com/
++043613,https://www.town.watari.miyagi.jp/
++043621,https://www.town.yamamoto.miyagi.jp/
 +044016,http://www.town.miyagi-matsushima.lg.jp/
 +044041,https://www.shichigahama.com/
  044067,http://www.town.rifu.miyagi.jp/
@@ -593,12 +595,13 @@
 -073083,http://www.town.kawamata.lg.jp/
 -073229,https://www.vill.otama.fukushima.jp/index.html
 -073423,http://www.town.kagamiishi.fukushima.jp/
+-073440,http://www.vill.tenei.fukushima.jp/
+-073628,http://town.shimogo.fukushima.jp/
 +073032,https://www.town.kunimi.fukushima.jp/
 +073083,https://www.town.kawamata.lg.jp/
 +073229,https://www.vill.otama.fukushima.jp/
 +073423,https://www.town.kagamiishi.fukushima.jp/
- 073440,http://www.vill.tenei.fukushima.jp/
--073628,http://town.shimogo.fukushima.jp/
++073440,https://www.vill.tenei.fukushima.jp/
 +073628,https://www.town.shimogo.fukushima.jp/
  073644,http://www.hinoemata.com/
 -073679,http://www.tadami.gr.jp/
@@ -734,12 +737,13 @@
 -092045,http://www.city.sano.lg.jp/
 -092053,http://www.city.kanuma.tochigi.jp/
 -092061,http://www.city.nikko.lg.jp/
+-092088,http://www.city.oyama.tochigi.jp/
+-092096,http://www.city.moka.tochigi.jp/
 +092037,https://www.city.tochigi.lg.jp/
 +092045,https://www.city.sano.lg.jp/
 +092053,https://www.city.kanuma.tochigi.jp/
 +092061,https://www.city.nikko.lg.jp/
- 092088,http://www.city.oyama.tochigi.jp/
--092096,http://www.city.moka.tochigi.jp/
++092088,https://www.city.oyama.tochigi.jp/
 +092096,https://www.city.moka.lg.jp/
  092100,http://www.city.ohtawara.tochigi.jp/
 -092118,http://www.city.yaita.tochigi.jp/html/
@@ -1096,10 +1100,11 @@
 +132136,https://www.city.higashimurayama.tokyo.jp/
  132144,http://www.city.kokubunji.tokyo.jp/
  132152,http://www.city.kunitachi.tokyo.jp/
- 132187,http://www.city.fussa.tokyo.jp/
+-132187,http://www.city.fussa.tokyo.jp/
 -132195,http://www.city.komae.tokyo.jp/
 -132209,http://www.city.higashiyamato.lg.jp/
 -132217,http://www.city.kiyose.lg.jp/
++132187,https://www.city.fussa.tokyo.jp/
 +132195,https://www.city.komae.tokyo.jp/
 +132209,https://www.city.higashiyamato.lg.jp/
 +132217,https://www.city.kiyose.lg.jp/
@@ -2507,16 +2512,17 @@
 -382035,http://www.city.uwajima.ehime.jp/
 -382051,http://www.city.niihama.lg.jp/
 -382060,http://www.city.saijo.ehime.jp/
+-382078,http://www.city.ozu.ehime.jp/
+-382108,http://www.city.iyo.lg.jp/
+-382132,http://www.city.shikokuchuo.ehime.jp/
+-382141,http://seiyo-geo.jp/
+-382141,http://www.city.seiyo.ehime.jp/
 +382027,https://www.city.imabari.ehime.jp/
 +382035,https://www.city.uwajima.ehime.jp/
 +382043,http://www.city.yawatahama.ehime.jp/
 +382051,https://www.city.niihama.lg.jp/
 +382060,https://www.city.saijo.ehime.jp/
- 382078,http://www.city.ozu.ehime.jp/
--382108,http://www.city.iyo.lg.jp/
--382132,http://www.city.shikokuchuo.ehime.jp/
--382141,http://seiyo-geo.jp/
--382141,http://www.city.seiyo.ehime.jp/
++382078,https://www.city.ozu.ehime.jp/
 +382108,https://www.city.iyo.lg.jp/
 +382132,https://www.city.shikokuchuo.ehime.jp/
 +382141,https://www.city.seiyo.ehime.jp/

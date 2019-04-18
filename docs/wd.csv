@@ -56,7 +56,7 @@ code,name,site
 013455,森町,http://www.town.hokkaido-mori.lg.jp/
 013463,八雲町,https://www.town.yakumo.lg.jp/
 013471,長万部町,http://www.town.oshamambe.lg.jp/
-013617,江差町,http://www.hokkaido-esashi.jp/
+013617,江差町,https://www.hokkaido-esashi.jp/
 013625,上ノ国町,http://www.town.kaminokuni.lg.jp/
 013633,厚沢部町,https://www.town.assabu.lg.jp/
 013641,乙部町,http://www.town.otobe.lg.jp/
@@ -292,7 +292,7 @@ code,name,site
 043249,川崎町,http://www.town.kawasaki.miyagi.jp/
 043419,丸森町,http://www.town.marumori.miyagi.jp/
 043613,亘理町,https://www.town.watari.miyagi.jp/
-043621,山元町,http://www.town.yamamoto.miyagi.jp/
+043621,山元町,https://www.town.yamamoto.miyagi.jp/
 044016,松島町,http://www.town.miyagi-matsushima.lg.jp/
 044041,七ヶ浜町,https://www.shichigahama.com/
 044067,利府町,http://www.town.rifu.miyagi.jp/
@@ -386,7 +386,7 @@ code,name,site
 073083,川俣町,https://www.town.kawamata.lg.jp/
 073229,大玉村,https://www.vill.otama.fukushima.jp/
 073423,鏡石町,https://www.town.kagamiishi.fukushima.jp/
-073440,天栄村,http://www.vill.tenei.fukushima.jp/
+073440,天栄村,https://www.vill.tenei.fukushima.jp/
 073628,下郷町,https://www.town.shimogo.fukushima.jp/
 073644,檜枝岐村,http://www.hinoemata.com/
 073679,只見町,https://www.town.tadami.lg.jp/
@@ -479,7 +479,7 @@ code,name,site
 092045,佐野市,https://www.city.sano.lg.jp/
 092053,鹿沼市,https://www.city.kanuma.tochigi.jp/
 092061,日光市,https://www.city.nikko.lg.jp/
-092088,小山市,http://www.city.oyama.tochigi.jp/
+092088,小山市,https://www.city.oyama.tochigi.jp/
 092096,真岡市,https://www.city.moka.lg.jp/
 092100,大田原市,http://www.city.ohtawara.tochigi.jp/
 092118,矢板市,https://www.city.yaita.tochigi.jp/
@@ -708,7 +708,7 @@ code,name,site
 132136,東村山市,https://www.city.higashimurayama.tokyo.jp/
 132144,国分寺市,http://www.city.kokubunji.tokyo.jp/
 132152,国立市,http://www.city.kunitachi.tokyo.jp/
-132187,福生市,http://www.city.fussa.tokyo.jp/
+132187,福生市,https://www.city.fussa.tokyo.jp/
 132195,狛江市,https://www.city.komae.tokyo.jp/
 132209,東大和市,https://www.city.higashiyamato.lg.jp/
 132217,清瀬市,https://www.city.kiyose.lg.jp/
@@ -1614,7 +1614,7 @@ code,name,site
 382043,八幡浜市,http://www.city.yawatahama.ehime.jp/
 382051,新居浜市,https://www.city.niihama.lg.jp/
 382060,西条市,https://www.city.saijo.ehime.jp/
-382078,大洲市,http://www.city.ozu.ehime.jp/
+382078,大洲市,https://www.city.ozu.ehime.jp/
 382108,伊予市,https://www.city.iyo.lg.jp/
 382132,四国中央市,https://www.city.shikokuchuo.ehime.jp/
 382141,西予市,https://www.city.seiyo.ehime.jp/
