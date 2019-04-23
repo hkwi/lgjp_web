@@ -47,10 +47,11 @@
 +012190,https://mombetsu.jp/
  012203,http://www.city.shibetsu.lg.jp/
 -012211,http://www.city.nayoro.lg.jp
-+012211,http://www.city.nayoro.lg.jp/
- 012220,http://www.city.mikasa.hokkaido.jp/
+-012220,http://www.city.mikasa.hokkaido.jp/
 -012238,http://www.city.nemuro.hokkaido.jp/
 -012246,http://www.city.chitose.hokkaido.jp/
++012211,http://www.city.nayoro.lg.jp/
++012220,https://www.city.mikasa.hokkaido.jp/
 +012238,https://www.city.nemuro.hokkaido.jp/
 +012246,https://www.city.chitose.lg.jp/
  012254,http://www.city.takikawa.hokkaido.jp/
@@ -165,7 +166,7 @@
  014630,http://www.vill.shimukappu.lg.jp/
  014648,http://www.town.wassamu.hokkaido.jp/
  014656,http://www.town.kembuchi.hokkaido.jp/
-@@ -108,57 +113,55 @@
+@@ -108,58 +113,56 @@
  014702,http://www.vill.otoineppu.hokkaido.jp/
  014711,http://www.town.nakagawa.hokkaido.jp/
  014729,http://www.town.horokanai.hokkaido.jp/
@@ -242,11 +243,13 @@
  016322,http://www.shihoro.jp/
 -016331,http://www.kamishihoro.jp/index.php
 -016349,http://www.town.shikaoi.lg.jp/
+-016357,http://www.shintoku-town.jp/
 +016331,https://www.kamishihoro.jp/
 +016349,https://www.town.shikaoi.lg.jp/
- 016357,http://www.shintoku-town.jp/
++016357,https://www.shintoku-town.jp/
  016365,http://www.town.shimizu.hokkaido.jp/
  016373,http://www.memuro.net/
+ 016381,http://www.vill.nakasatsunai.hokkaido.jp/
 @@ -170,49 +173,45 @@
  016446,http://www.town.hokkaido-ikeda.lg.jp/
  016454,http://www.toyokoro.jp/
@@ -1590,8 +1593,9 @@
  214043,http://www.town.ikeda.gifu.jp/
  214213,http://www.town.kitagata.gifu.jp/
 -215015,http://www.town.sakahogi.gifu.jp/
+-215023,http://www.town.tomika.gifu.jp/
 +215015,https://www.town.sakahogi.gifu.jp/
- 215023,http://www.town.tomika.gifu.jp/
++215023,https://www.town.tomika.gifu.jp/
  215031,http://www.kawabe-gifu.jp/
  215040,http://www.hichiso.jp/
 -215058,http://www.town.yaotsu.gifu.jp/

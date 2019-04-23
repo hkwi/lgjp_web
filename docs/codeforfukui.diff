@@ -42,9 +42,10 @@
 +紋別市,https://mombetsu.jp/
 +士別市,http://www.city.shibetsu.lg.jp/
  名寄市,http://www.city.nayoro.lg.jp/
- 三笠市,http://www.city.mikasa.hokkaido.jp/
+-三笠市,http://www.city.mikasa.hokkaido.jp/
 -根室市,https://www.city.nemuro.hokkaido.jp/dcitynd.nsf
 -千歳市,http://www.city.chitose.hokkaido.jp/index_chitose.html
++三笠市,https://www.city.mikasa.hokkaido.jp/
 +根室市,https://www.city.nemuro.hokkaido.jp/
 +千歳市,https://www.city.chitose.lg.jp/
  滝川市,http://www.city.takikawa.hokkaido.jp/
@@ -115,7 +116,7 @@
  北竜町,http://www.town.hokuryu.hokkaido.jp/
  沼田町,https://www.town.numata.hokkaido.jp/
  鷹栖町,http://www.town.takasu.hokkaido.jp/
-@@ -104,61 +104,61 @@
+@@ -104,112 +104,112 @@
  美瑛町,http://town.biei.hokkaido.jp/
  上富良野町,http://www.town.kamifurano.hokkaido.jp/
  中富良野町,http://www.town.nakafurano.lg.jp/
@@ -196,7 +197,8 @@
  士幌町,http://www.shihoro.jp/
  上士幌町,https://www.kamishihoro.jp/
  鹿追町,https://www.town.shikaoi.lg.jp/
-@@ -166,50 +166,50 @@
+-新得町,http://www.shintoku-town.jp/
++新得町,https://www.shintoku-town.jp/
  清水町,http://www.town.shimizu.hokkaido.jp/
  芽室町,http://www.memuro.net/
  中札内村,http://www.vill.nakasatsunai.hokkaido.jp/
@@ -1362,8 +1364,9 @@
  池田町,http://www.town.ikeda.gifu.jp/
  北方町,http://www.town.kitagata.gifu.jp/
 -坂祝町,http://www.town.sakahogi.gifu.jp/
+-富加町,http://www.town.tomika.gifu.jp/
 +坂祝町,https://www.town.sakahogi.gifu.jp/
- 富加町,http://www.town.tomika.gifu.jp/
++富加町,https://www.town.tomika.gifu.jp/
  川辺町,http://www.kawabe-gifu.jp/
  七宗町,http://www.hichiso.jp/
  八百津町,https://www.town.yaotsu.lg.jp/
