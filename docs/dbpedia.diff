@@ -111,8 +111,9 @@
  013986,http://www.town.kimobetsu.hokkaido.jp/
  013994,http://www.town-kyogoku.jp/
 -014001,http://www.town.kutchan.hokkaido.jp/
+-014010,http://www.town.kyowa.hokkaido.jp/
 +014001,https://www.town.kutchan.hokkaido.jp/
- 014010,http://www.town.kyowa.hokkaido.jp/
++014010,https://www.town.kyowa.hokkaido.jp/
  014028,http://www.town.iwanai.hokkaido.jp/
  014036,http://www.vill.tomari.hokkaido.jp/
 -014044,http://www.vill.kamoenai.hokkaido.jp/
@@ -2299,7 +2300,8 @@
  323861,http://www.iinan.jp/
  324418,http://www.town.shimane-kawamoto.lg.jp/
  324485,http://www.town.shimane-misato.lg.jp/
- 324493,http://www.town.ohnan.lg.jp/
+-324493,http://www.town.ohnan.lg.jp/
++324493,https://www.town.ohnan.lg.jp/
  325015,http://www.town.tsuwano.lg.jp/
 -325058,http://www.town.yoshika.lg.jp/
 -325252,http://www.town.ama.shimane.jp/index.html
@@ -3009,7 +3011,8 @@
  465275,http://www.town.tatsugo.lg.jp/
  465291,http://www.town.kikai.lg.jp/
  465305,http://www.tokunoshima-town.org/
- 465313,http://www.yui-amagi.com/
+-465313,http://www.yui-amagi.com/
++465313,https://www.town.amagi.lg.jp/
  465321,http://www.town.isen.kagoshima.jp/
  465330,http://www.town.wadomari.lg.jp/
 -465348,http://www.town.china.lg.jp/
