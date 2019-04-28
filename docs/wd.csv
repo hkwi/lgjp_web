@@ -89,7 +89,7 @@ code,name,site
 014281,長沼町,https://www.maoi-net.jp/
 014290,栗山町,http://www.town.kuriyama.hokkaido.jp/
 014303,月形町,http://www.town.tsukigata.hokkaido.jp/
-014311,浦臼町,http://www.town.urausu.hokkaido.jp/
+014311,浦臼町,https://www.town.urausu.hokkaido.jp/
 014320,新十津川町,https://www.town.shintotsukawa.lg.jp/
 014338,妹背牛町,http://www.town.moseushi.hokkaido.jp/
 014346,秩父別町,http://www.town.chippubetsu.hokkaido.jp/
@@ -1665,13 +1665,13 @@ code,name,site
 394289,黒潮町,https://www.town.kuroshio.lg.jp/
 400009,福岡県,http://www.pref.fukuoka.lg.jp
 401005,北九州市,https://www.city.kitakyushu.lg.jp/
-401013,門司区,https://www.city.kitakyushu.lg.jp/moji/
+401013,門司区,https://www.city.kitakyushu.lg.jp/moji/index.html
 401030,若松区,https://www.city.kitakyushu.lg.jp/wakamatsu/
 401056,戸畑区,https://www.city.kitakyushu.lg.jp/tobata/
-401064,小倉北区,https://www.city.kitakyushu.lg.jp/kokurakita/
-401072,小倉南区,https://www.city.kitakyushu.lg.jp/kokuraminami/
-401081,八幡東区,https://www.city.kitakyushu.lg.jp/yahatahigashi/
-401099,八幡西区,https://www.city.kitakyushu.lg.jp/yahatanishi/
+401064,小倉北区,https://www.city.kitakyushu.lg.jp/kokurakita/index.html
+401072,小倉南区,https://www.city.kitakyushu.lg.jp/kokuraminami/index.html
+401081,八幡東区,https://www.city.kitakyushu.lg.jp/yahatahigashi/index.html
+401099,八幡西区,https://www.city.kitakyushu.lg.jp/yahatanishi/index.html
 401307,福岡市,http://www.city.fukuoka.lg.jp/
 401315,東区,http://www.city.fukuoka.lg.jp/higashi/index.html
 401323,博多区,https://www.city.fukuoka.lg.jp/hakata/

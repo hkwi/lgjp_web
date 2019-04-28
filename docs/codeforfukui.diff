@@ -104,11 +104,13 @@
  積丹町,http://www.town.shakotan.hokkaido.jp/
  古平町,http://www.town.furubira.lg.jp/
  仁木町,http://www.town.niki.hokkaido.jp/
-@@ -88,10 +88,10 @@
+@@ -87,11 +87,11 @@
+ 長沼町,https://www.maoi-net.jp/
  栗山町,http://www.town.kuriyama.hokkaido.jp/
  月形町,http://www.town.tsukigata.hokkaido.jp/
- 浦臼町,http://www.town.urausu.hokkaido.jp/
+-浦臼町,http://www.town.urausu.hokkaido.jp/
 -新十津川町,http://www.town.shintotsukawa.lg.jp/
++浦臼町,https://www.town.urausu.hokkaido.jp/
 +新十津川町,https://www.town.shintotsukawa.lg.jp/
  妹背牛町,http://www.town.moseushi.hokkaido.jp/
  秩父別町,http://www.town.chippubetsu.hokkaido.jp/
@@ -2238,13 +2240,13 @@
 -八幡西区,http://www.city.kitakyushu.lg.jp/yahatanishi/index.html
 +黒潮町,https://www.town.kuroshio.lg.jp/
 +北九州市,https://www.city.kitakyushu.lg.jp/
-+門司区,https://www.city.kitakyushu.lg.jp/moji/
++門司区,https://www.city.kitakyushu.lg.jp/moji/index.html
 +若松区,https://www.city.kitakyushu.lg.jp/wakamatsu/
 +戸畑区,https://www.city.kitakyushu.lg.jp/tobata/
-+小倉北区,https://www.city.kitakyushu.lg.jp/kokurakita/
-+小倉南区,https://www.city.kitakyushu.lg.jp/kokuraminami/
-+八幡東区,https://www.city.kitakyushu.lg.jp/yahatahigashi/
-+八幡西区,https://www.city.kitakyushu.lg.jp/yahatanishi/
++小倉北区,https://www.city.kitakyushu.lg.jp/kokurakita/index.html
++小倉南区,https://www.city.kitakyushu.lg.jp/kokuraminami/index.html
++八幡東区,https://www.city.kitakyushu.lg.jp/yahatahigashi/index.html
++八幡西区,https://www.city.kitakyushu.lg.jp/yahatanishi/index.html
  福岡市,http://www.city.fukuoka.lg.jp/
  東区,http://www.city.fukuoka.lg.jp/higashi/index.html
 -博多区,http://www.city.fukuoka.lg.jp/hakata/index.html

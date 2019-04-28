@@ -133,8 +133,9 @@
 +014281,https://www.maoi-net.jp/
 +014290,http://www.town.kuriyama.hokkaido.jp/
  014303,http://www.town.tsukigata.hokkaido.jp/
- 014311,http://www.town.urausu.hokkaido.jp/
+-014311,http://www.town.urausu.hokkaido.jp/
 -014320,http://www.town.shintotsukawa.lg.jp/index.html
++014311,https://www.town.urausu.hokkaido.jp/
 +014320,https://www.town.shintotsukawa.lg.jp/
  014338,http://www.town.moseushi.hokkaido.jp/
  014346,http://www.town.chippubetsu.hokkaido.jp/
@@ -2606,13 +2607,13 @@
 -401005,https://www.city.kitakyushu.lg.jp
 +394289,https://www.town.kuroshio.lg.jp/
 +401005,https://www.city.kitakyushu.lg.jp/
-+401013,https://www.city.kitakyushu.lg.jp/moji/
++401013,https://www.city.kitakyushu.lg.jp/moji/index.html
 +401030,https://www.city.kitakyushu.lg.jp/wakamatsu/
 +401056,https://www.city.kitakyushu.lg.jp/tobata/
-+401064,https://www.city.kitakyushu.lg.jp/kokurakita/
-+401072,https://www.city.kitakyushu.lg.jp/kokuraminami/
-+401081,https://www.city.kitakyushu.lg.jp/yahatahigashi/
-+401099,https://www.city.kitakyushu.lg.jp/yahatanishi/
++401064,https://www.city.kitakyushu.lg.jp/kokurakita/index.html
++401072,https://www.city.kitakyushu.lg.jp/kokuraminami/index.html
++401081,https://www.city.kitakyushu.lg.jp/yahatahigashi/index.html
++401099,https://www.city.kitakyushu.lg.jp/yahatanishi/index.html
  401307,http://www.city.fukuoka.lg.jp/
 -401307,http://www.city.fukuoka.lg.jp/index.html
 -402028,http://www.city.omuta.lg.jp/
