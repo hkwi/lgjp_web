@@ -2826,10 +2826,11 @@
  433641,http://www.town.gyokuto.kumamoto.jp/
  433675,http://www.town.nankan.lg.jp/
 -433683,http://www.town.nagasu.lg.jp/
-+433683,https://www.town.nagasu.lg.jp/
- 433691,http://www.town.nagomi.lg.jp/
+-433691,http://www.town.nagomi.lg.jp/
 -434035,http://www.town.ozu.kumamoto.jp/
 -434043,http://www.town.kikuyo.lg.jp/
++433683,https://www.town.nagasu.lg.jp/
++433691,https://www.town.nagomi.lg.jp/
 +434035,https://www.town.ozu.kumamoto.jp/
 +434043,https://www.town.kikuyo.lg.jp/
  434230,http://www.town.minamioguni.kumamoto.jp/

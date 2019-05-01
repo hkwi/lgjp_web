@@ -1839,7 +1839,7 @@
  三田市,http://www.city.sanda.lg.jp/
  加西市,http://www.city.kasai.hyogo.jp/
 -篠山市,https://www.city.sasayama.lg.jp/
-+篠山市,https://www.city.sasayama.hyogo.jp/
++丹波篠山市,https://www.city.sasayama.hyogo.jp/
  養父市,https://www.city.yabu.hyogo.jp/
 -丹波市,http://www.city.tamba.hyogo.jp/
 -南あわじ市,http://www.city.minamiawaji.hyogo.jp/
@@ -2406,8 +2406,9 @@
  玉東町,http://www.town.gyokuto.kumamoto.jp/
  南関町,http://www.town.nankan.lg.jp/
 -長洲町,https://www.town.nagasu.lg.jp/index.html
+-和水町,http://www.town.nagomi.lg.jp/
 +長洲町,https://www.town.nagasu.lg.jp/
- 和水町,http://www.town.nagomi.lg.jp/
++和水町,https://www.town.nagomi.lg.jp/
  大津町,https://www.town.ozu.kumamoto.jp/
 -菊陽町,http://www.town.kikuyo.lg.jp/
 +菊陽町,https://www.town.kikuyo.lg.jp/
