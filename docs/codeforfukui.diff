@@ -2344,7 +2344,7 @@
  鹿島市,https://www.city.saga-kashima.lg.jp/
  小城市,http://www.city.ogi.lg.jp/
  嬉野市,https://www.city.ureshino.lg.jp/
-@@ -1717,19 +1719,19 @@
+@@ -1717,64 +1719,64 @@
  太良町,https://www.town.tara.lg.jp/
  長崎市,http://www.city.nagasaki.lg.jp/
  佐世保市,http://www.city.sasebo.lg.jp/
@@ -2371,8 +2371,9 @@
 +時津町,https://www.town.togitsu.nagasaki.jp/
  東彼杵町,http://www.sonogi.jp/
  川棚町,http://www.kawatana.jp/
- 波佐見町,http://www.town.hasami.nagasaki.jp/
-@@ -1737,44 +1739,44 @@
+-波佐見町,http://www.town.hasami.nagasaki.jp/
++波佐見町,https://www.town.hasami.lg.jp/
+ 小値賀町,http://ojika.net/
  佐々町,http://www.sazacho-nagasaki.jp/
  新上五島町,http://official.shinkamigoto.net/
  熊本市,http://www.city.kumamoto.jp/
