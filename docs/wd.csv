@@ -91,7 +91,7 @@ code,name,site
 014303,月形町,http://www.town.tsukigata.hokkaido.jp/
 014311,浦臼町,https://www.town.urausu.hokkaido.jp/
 014320,新十津川町,https://www.town.shintotsukawa.lg.jp/
-014338,妹背牛町,http://www.town.moseushi.hokkaido.jp/
+014338,妹背牛町,https://www.town.moseushi.hokkaido.jp/
 014346,秩父別町,http://www.town.chippubetsu.hokkaido.jp/
 014362,雨竜町,https://www.town.uryu.hokkaido.jp/
 014371,北竜町,http://www.town.hokuryu.hokkaido.jp/
@@ -112,7 +112,7 @@ code,name,site
 014656,剣淵町,http://www.town.kembuchi.hokkaido.jp/
 014681,下川町,http://www.town.shimokawa.hokkaido.jp/
 014699,美深町,http://www.town.bifuka.hokkaido.jp/
-014702,音威子府村,http://www.vill.otoineppu.hokkaido.jp/
+014702,音威子府村,https://www.vill.otoineppu.hokkaido.jp/
 014711,中川町,http://www.town.nakagawa.hokkaido.jp/
 014729,幌加内町,http://www.town.horokanai.hokkaido.jp/
 014818,増毛町,https://www.town.mashike.hokkaido.jp/
@@ -335,6 +335,7 @@ code,name,site
 062014,山形市,https://www.city.yamagata-yamagata.lg.jp/
 062022,米沢市,http://www.city.yonezawa.yamagata.jp/
 062031,鶴岡市,https://www.city.tsuruoka.lg.jp/
+062031,鶴岡市,https://www.tsuruokacity.com
 062049,酒田市,https://www.city.sakata.lg.jp/
 062057,新庄市,https://www.city.shinjo.yamagata.jp/
 062065,寒河江市,https://www.city.sagae.yamagata.jp/

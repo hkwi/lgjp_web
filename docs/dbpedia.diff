@@ -121,7 +121,7 @@
  014052,http://www.town.shakotan.hokkaido.jp/
  014061,http://www.town.furubira.lg.jp/
  014079,http://www.town.niki.hokkaido.jp/
-@@ -73,33 +82,29 @@
+@@ -73,93 +82,87 @@
  014095,http://www.akaigawa.com/
  014231,http://www.town.nanporo.hokkaido.jp/
  014249,http://www.town.naie.hokkaido.jp/
@@ -135,9 +135,10 @@
  014303,http://www.town.tsukigata.hokkaido.jp/
 -014311,http://www.town.urausu.hokkaido.jp/
 -014320,http://www.town.shintotsukawa.lg.jp/index.html
+-014338,http://www.town.moseushi.hokkaido.jp/
 +014311,https://www.town.urausu.hokkaido.jp/
 +014320,https://www.town.shintotsukawa.lg.jp/
- 014338,http://www.town.moseushi.hokkaido.jp/
++014338,https://www.town.moseushi.hokkaido.jp/
  014346,http://www.town.chippubetsu.hokkaido.jp/
 -014362,http://www.town.uryu.hokkaido.jp/
 +014362,https://www.town.uryu.hokkaido.jp/
@@ -168,8 +169,10 @@
  014630,http://www.vill.shimukappu.lg.jp/
  014648,http://www.town.wassamu.hokkaido.jp/
  014656,http://www.town.kembuchi.hokkaido.jp/
-@@ -108,58 +113,56 @@
- 014702,http://www.vill.otoineppu.hokkaido.jp/
+ 014681,http://www.town.shimokawa.hokkaido.jp/
+ 014699,http://www.town.bifuka.hokkaido.jp/
+-014702,http://www.vill.otoineppu.hokkaido.jp/
++014702,https://www.vill.otoineppu.hokkaido.jp/
  014711,http://www.town.nakagawa.hokkaido.jp/
  014729,http://www.town.horokanai.hokkaido.jp/
 -014818,http://www.town.mashike.hokkaido.jp/
@@ -325,7 +328,7 @@
  024058,http://www.town.rokunohe.aomori.jp/
  024066,http://www.town.yokohama.lg.jp/
  024082,http://www.town.tohoku.lg.jp/
-@@ -220,202 +219,189 @@
+@@ -220,202 +219,190 @@
  024121,http://www.town.oirase.aomori.jp/
  024236,http://www.town.ooma.lg.jp/
  024244,http://www.vill.higashidoori.lg.jp/
@@ -530,6 +533,7 @@
 -062103,http://www.city.tendo.yamagata.jp/index.html
 -062111,http://www.city.higashine.yamagata.jp/
 +062031,https://www.city.tsuruoka.lg.jp/
++062031,https://www.tsuruokacity.com
 +062049,https://www.city.sakata.lg.jp/
 +062057,https://www.city.shinjo.yamagata.jp/
 +062065,https://www.city.sagae.yamagata.jp/
@@ -643,7 +647,7 @@
  075019,http://www.town.ishikawa.fukushima.jp/
  075027,http://www.vill.tamakawa.fukushima.jp/
  075035,http://www.vill.hirata.fukushima.jp/
-@@ -424,396 +410,441 @@
+@@ -424,396 +411,441 @@
  075213,http://www.town.miharu.fukushima.jp/
  075221,http://www.town.ono.fukushima.jp/
  075418,http://www.town.hirono.fukushima.jp/
@@ -1337,7 +1341,7 @@
  173240,http://www.town.kawakita.ishikawa.jp/
  173614,http://www.town.tsubata.ishikawa.jp/
  173657,http://www.town.uchinada.lg.jp/
-@@ -821,545 +852,567 @@
+@@ -821,545 +853,567 @@
  173860,http://www.hodatsushimizu.jp/
  174076,http://www.town.nakanoto.ishikawa.jp/
  174611,http://www.town.anamizu.ishikawa.jp/
@@ -2263,7 +2267,7 @@
  313025,http://www.iwami.gr.jp/
  313254,http://www.town.wakasa.tottori.jp/
  313289,http://www1.town.chizu.tottori.jp/
-@@ -1368,509 +1421,498 @@
+@@ -1368,509 +1422,498 @@
  313700,http://www.yurihama.jp/
  313718,http://www.town.kotoura.tottori.jp/
  313726,http://www.e-hokuei.net/
