@@ -161,10 +161,12 @@
 +014575,https://www.town.hokkaido-kamikawa.lg.jp/
 +014583,https://town.higashikawa.hokkaido.jp/
  014591,http://town.biei.hokkaido.jp/
- 014605,http://www.town.kamifurano.hokkaido.jp/
- 014613,http://www.town.nakafurano.lg.jp/
+-014605,http://www.town.kamifurano.hokkaido.jp/
+-014613,http://www.town.nakafurano.lg.jp/
 -014621,http://town.minamifurano.hokkaido.jp/
 -014621,http://www.minamifurano.jp/
++014605,https://www.town.kamifurano.hokkaido.jp/
++014613,https://www.town.nakafurano.lg.jp/
 +014621,https://www.town.minamifurano.hokkaido.jp/
  014630,http://www.vill.shimukappu.lg.jp/
  014648,http://www.town.wassamu.hokkaido.jp/

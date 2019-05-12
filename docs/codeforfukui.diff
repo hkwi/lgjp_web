@@ -120,11 +120,15 @@
  北竜町,http://www.town.hokuryu.hokkaido.jp/
  沼田町,https://www.town.numata.hokkaido.jp/
  鷹栖町,http://www.town.takasu.hokkaido.jp/
-@@ -104,112 +104,112 @@
+@@ -102,114 +102,114 @@
+ 上川町,https://www.town.hokkaido-kamikawa.lg.jp/
+ 東川町,https://town.higashikawa.hokkaido.jp/
  美瑛町,http://town.biei.hokkaido.jp/
- 上富良野町,http://www.town.kamifurano.hokkaido.jp/
- 中富良野町,http://www.town.nakafurano.lg.jp/
+-上富良野町,http://www.town.kamifurano.hokkaido.jp/
+-中富良野町,http://www.town.nakafurano.lg.jp/
 -南富良野町,http://www.town.minamifurano.hokkaido.jp/
++上富良野町,https://www.town.kamifurano.hokkaido.jp/
++中富良野町,https://www.town.nakafurano.lg.jp/
 +南富良野町,https://www.town.minamifurano.hokkaido.jp/
  占冠村,http://www.vill.shimukappu.lg.jp/
  和寒町,http://www.town.wassamu.hokkaido.jp/
