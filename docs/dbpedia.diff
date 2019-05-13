@@ -240,12 +240,13 @@
 -016047,http://www.niikappu.jp/
 -016071,http://www.town.urakawa.hokkaido.jp/
 -016080,http://www.hokkai.or.jp/samani/
+-016098,http://www.town.erimo.lg.jp/
+-016101,http://www.shinhidaka-hokkaido.jp/
+-016314,http://www.town.otofuke.hokkaido.jp/
 +016047,https://www.niikappu.jp/
 +016071,https://www.town.urakawa.hokkaido.jp/
 +016080,http://www.samani.jp/
- 016098,http://www.town.erimo.lg.jp/
--016101,http://www.shinhidaka-hokkaido.jp/
--016314,http://www.town.otofuke.hokkaido.jp/
++016098,https://www.town.erimo.lg.jp/
 +016101,https://www.shinhidaka-hokkaido.jp/
 +016314,https://www.town.otofuke.hokkaido.jp/
  016322,http://www.shihoro.jp/
@@ -1142,9 +1143,10 @@
 +133612,https://www.town.oshima.tokyo.jp/
  133621,http://www.toshimamura.org/
 -133639,http://www.niijima.com/
-+133639,https://www.niijima.com/
- 133647,http://vill.kouzushima.tokyo.jp/
+-133647,http://vill.kouzushima.tokyo.jp/
 -133817,http://www.miyakemura.com/
++133639,https://www.niijima.com/
++133647,https://vill.kouzushima.tokyo.jp/
 +133817,https://www.vill.miyake.tokyo.jp/
  133825,http://www.mikurasima.jp/
  134015,http://www.town.hachijo.tokyo.jp/
@@ -2781,7 +2783,7 @@
 -423076,http://webtown.nagayo.jp/
 -423084,http://www.town.togitsu.nagasaki.jp/
 +422100,https://www.city.iki.nagasaki.jp/
-+422118,http://www.city.goto.nagasaki.jp/
++422118,https://www.city.goto.nagasaki.jp/
 +422126,https://www.city.saikai.nagasaki.jp/
 +422134,https://www.city.unzen.nagasaki.jp/
 +422142,https://www.city.minamishimabara.lg.jp/

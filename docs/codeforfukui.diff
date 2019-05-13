@@ -199,9 +199,10 @@
 +新冠町,https://www.niikappu.jp/
  浦河町,https://www.town.urakawa.hokkaido.jp/
  様似町,http://www.samani.jp/
- えりも町,http://www.town.erimo.lg.jp/
+-えりも町,http://www.town.erimo.lg.jp/
 -新ひだか町,http://www.shinhidaka-hokkaido.jp/
 -音更町,http://www.town.otofuke.hokkaido.jp/
++えりも町,https://www.town.erimo.lg.jp/
 +新ひだか町,https://www.shinhidaka-hokkaido.jp/
 +音更町,https://www.town.otofuke.hokkaido.jp/
  士幌町,http://www.shihoro.jp/
@@ -960,9 +961,10 @@
  大島町,https://www.town.oshima.tokyo.jp/
  利島村,http://www.toshimamura.org/
 -新島村,http://www.niijima.com/
-+新島村,https://www.niijima.com/
- 神津島村,http://vill.kouzushima.tokyo.jp/
+-神津島村,http://vill.kouzushima.tokyo.jp/
 -三宅村,http://www.squashysoftware.com/
++新島村,https://www.niijima.com/
++神津島村,https://vill.kouzushima.tokyo.jp/
 +三宅村,https://www.vill.miyake.tokyo.jp/
  御蔵島村,http://www.mikurasima.jp/
  八丈町,http://www.town.hachijo.tokyo.jp/
@@ -2364,13 +2366,14 @@
 +松浦市,https://www.city-matsuura.jp/
  対馬市,http://www.city.tsushima.nagasaki.jp/
 -壱岐市,http://www.city.iki.nagasaki.jp/
-+壱岐市,https://www.city.iki.nagasaki.jp/
- 五島市,http://www.city.goto.nagasaki.jp/
+-五島市,http://www.city.goto.nagasaki.jp/
 -西海市,http://www.city.saikai.nagasaki.jp/
 -雲仙市,http://www.city.unzen.nagasaki.jp/
 -南島原市,http://www.city.minamishimabara.lg.jp/
 -長与町,http://webtown.nagayo.jp/
 -時津町,http://www.town.togitsu.nagasaki.jp/
++壱岐市,https://www.city.iki.nagasaki.jp/
++五島市,https://www.city.goto.nagasaki.jp/
 +西海市,https://www.city.saikai.nagasaki.jp/
 +雲仙市,https://www.city.unzen.nagasaki.jp/
 +南島原市,https://www.city.minamishimabara.lg.jp/
