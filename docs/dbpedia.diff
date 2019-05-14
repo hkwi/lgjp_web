@@ -2718,7 +2718,8 @@
 -406210,http://www.town.kanda.lg.jp/top.htm
 +406210,http://www.town.kanda.lg.jp/
  406252,http://www.town.miyako.lg.jp/
- 406422,http://www.town.yoshitomi.lg.jp/
+-406422,http://www.town.yoshitomi.lg.jp/
++406422,https://www.town.yoshitomi.lg.jp/
  406465,http://www.town.koge.lg.jp/
 -406473,http://www.town.chikujo.fukuoka.jp/
 -410004,http://www.pref.saga.lg.jp/
@@ -2943,9 +2944,10 @@
  454044,http://www.kijo.jp/
  454052,http://www.town.kawaminami.miyazaki.jp/
 -454061,http://www.town.tsuno.miyazaki.jp/
-+454061,https://www.town.tsuno.lg.jp/
- 454214,http://www.town.kadogawa.lg.jp/
+-454214,http://www.town.kadogawa.lg.jp/
 -454290,http://www.vill.morotsuka.miyazaki.jp/index.htm
++454061,https://www.town.tsuno.lg.jp/
++454214,https://www.town.kadogawa.lg.jp/
 +454290,https://www.vill.morotsuka.miyazaki.jp/
  454303,http://www.vill.shiiba.miyazaki.jp/
  454311,http://www.town.miyazaki-misato.lg.jp/

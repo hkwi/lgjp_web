@@ -2334,9 +2334,12 @@
  広川町,http://www.town.hirokawa.fukuoka.jp/
  香春町,https://www.town.kawara.fukuoka.jp/
  添田町,https://www.town.soeda.fukuoka.jp/
-@@ -1694,13 +1697,13 @@
+@@ -1692,15 +1695,15 @@
+ 福智町,http://www.town.fukuchi.lg.jp/
+ 苅田町,http://www.town.kanda.lg.jp/
  みやこ町,http://www.town.miyako.lg.jp/
- 吉富町,http://www.town.yoshitomi.lg.jp/
+-吉富町,http://www.town.yoshitomi.lg.jp/
++吉富町,https://www.town.yoshitomi.lg.jp/
  上毛町,http://www.town.koge.lg.jp/
 -築上町,http://www.town.chikujo.fukuoka.jp/
 +築上町,https://www.town.chikujo.fukuoka.jp/
@@ -2441,7 +2444,7 @@
  津奈木町,http://www.town.tsunagi.lg.jp/
  錦町,http://www.nishiki-machi.com/
  多良木町,http://www.town.taragi.lg.jp/
-@@ -1787,39 +1790,39 @@
+@@ -1787,130 +1790,130 @@
  あさぎり町,https://www.town.asagiri.lg.jp/
  苓北町,https://reihoku-kumamoto.jp/
  大分市,https://www.city.oita.oita.jp/
@@ -2497,7 +2500,8 @@
  木城町,http://www.kijo.jp/
  川南町,http://www.town.kawaminami.miyazaki.jp/
  都農町,https://www.town.tsuno.lg.jp/
-@@ -1827,90 +1830,90 @@
+-門川町,http://www.town.kadogawa.lg.jp/
++門川町,https://www.town.kadogawa.lg.jp/
  諸塚村,https://www.vill.morotsuka.miyazaki.jp/
  椎葉村,http://www.vill.shiiba.miyazaki.jp/
  美郷町,http://www.town.miyazaki-misato.lg.jp/
