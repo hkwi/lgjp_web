@@ -1,10 +1,12 @@
 --- codeforfukui
 +++ wikidata
-@@ -3,46 +3,46 @@
+@@ -2,47 +2,47 @@
+ 中央区,http://www.city.sapporo.jp/chuo/
  北区,http://www.city.sapporo.jp/kitaku/
  東区,http://www.city.sapporo.jp/higashi/
- 白石区,http://www.city.sapporo.jp/shiroishi/
+-白石区,http://www.city.sapporo.jp/shiroishi/
 -豊平区,http://www.city.sapporo.jp/toyohira/
++白石区,https://www.city.sapporo.jp/shiroishi/
 +豊平区,https://www.city.sapporo.jp/toyohira/
  南区,http://www.city.sapporo.jp/minami/
  西区,http://www.city.sapporo.jp/nishi/
@@ -1066,8 +1068,7 @@
 +箱根町,https://www.town.hakone.kanagawa.jp/
  真鶴町,http://www.town-manazuru.jp/
 -湯河原町,http://www.town.yugawara.kanagawa.jp/
-+湯河原町,https://www.town.yugawara.kanagawa.jp/
- 愛川町,http://www.town.aikawa.kanagawa.jp/
+-愛川町,http://www.town.aikawa.kanagawa.jp/
 -清川村,http://www.town.kiyokawa.kanagawa.jp/
 -新潟市,http://www.city.niigata.lg.jp/
 -北区,http://www.city.niigata.lg.jp/kita/index.html
@@ -1078,6 +1079,8 @@
 -南区,http://www.city.niigata.lg.jp/minami/index.html
 -西区,http://www.city.niigata.lg.jp/nishi/index.html
 -西蒲区,http://www.city.niigata.lg.jp/nishikan/index.html
++湯河原町,https://www.town.yugawara.kanagawa.jp/
++愛川町,https://www.town.aikawa.kanagawa.jp/
 +清川村,https://www.town.kiyokawa.kanagawa.jp/
 +新潟市,https://www.city.niigata.lg.jp/
 +北区,http://www.city.niigata.lg.jp/kita/
@@ -1865,11 +1868,12 @@
  たつの市,http://www.city.tatsuno.lg.jp/
 -猪名川町,http://www.town.inagawa.lg.jp/renewal/
 -多可町,http://www.takacho.jp/
-+猪名川町,https://www.town.inagawa.lg.jp/
-+多可町,https://www.town.taka.lg.jp/
- 稲美町,http://www.town.hyogo-inami.lg.jp/
+-稲美町,http://www.town.hyogo-inami.lg.jp/
 -播磨町,http://www.town.harima.lg.jp/
 -市川町,https://www.town.ichikawa.lg.jp/forms/top/top.aspx
++猪名川町,https://www.town.inagawa.lg.jp/
++多可町,https://www.town.taka.lg.jp/
++稲美町,https://www.town.hyogo-inami.lg.jp/
 +播磨町,https://www.town.harima.lg.jp/
 +市川町,https://www.town.ichikawa.lg.jp/
  福崎町,http://www.town.fukusaki.hyogo.jp/
@@ -2591,8 +2595,9 @@
  国頭村,http://www.vill.kunigami.okinawa.jp/
  大宜味村,http://www.vill.ogimi.okinawa.jp/
 -東村,http://www.vill.higashi.okinawa.jp/index.jsp
+-今帰仁村,http://www.nakijin.jp/
 +東村,http://www.vill.higashi.okinawa.jp/
- 今帰仁村,http://www.nakijin.jp/
++今帰仁村,https://www.nakijin.jp/
  本部町,http://www.town.motobu.okinawa.jp/
 -恩納村,http://www.vill.onna.okinawa.jp/
 +恩納村,https://www.vill.onna.okinawa.jp/

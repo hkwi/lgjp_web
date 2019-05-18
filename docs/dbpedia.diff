@@ -8,7 +8,7 @@
 +011011,http://www.city.sapporo.jp/chuo/
 +011029,http://www.city.sapporo.jp/kitaku/
 +011037,http://www.city.sapporo.jp/higashi/
-+011045,http://www.city.sapporo.jp/shiroishi/
++011045,https://www.city.sapporo.jp/shiroishi/
 +011053,https://www.city.sapporo.jp/toyohira/
 +011061,http://www.city.sapporo.jp/minami/
 +011070,http://www.city.sapporo.jp/nishi/
@@ -1242,7 +1242,7 @@
 -152064,http://www.city.shibata.niigata.jp/
 -152081,http://www.city.ojiya.niigata.jp/
 +143847,https://www.town.yugawara.kanagawa.jp/
-+144011,http://www.town.aikawa.kanagawa.jp/
++144011,https://www.town.aikawa.kanagawa.jp/
 +144029,https://www.town.kiyokawa.kanagawa.jp/
 +151009,https://www.city.niigata.lg.jp/
 +151017,http://www.city.niigata.lg.jp/kita/
@@ -2115,12 +2115,13 @@
  282294,http://www.city.tatsuno.lg.jp/
 -283011,http://www.town.inagawa.lg.jp/
 -283657,http://www.takacho.jp/index.html
-+283011,https://www.town.inagawa.lg.jp/
-+283657,https://www.town.taka.lg.jp/
- 283819,http://www.town.hyogo-inami.lg.jp/
+-283819,http://www.town.hyogo-inami.lg.jp/
 -283819,https://www.facebook.com/hyogo.inami
 -283827,http://www.town.harima.lg.jp/
 -284424,https://www.town.ichikawa.hyogo.jp/forms/top/top.aspx
++283011,https://www.town.inagawa.lg.jp/
++283657,https://www.town.taka.lg.jp/
++283819,https://www.town.hyogo-inami.lg.jp/
 +283827,https://www.town.harima.lg.jp/
 +284424,https://www.town.ichikawa.lg.jp/
  284432,http://www.town.fukusaki.hyogo.jp/
@@ -3055,7 +3056,8 @@
  473014,http://www.vill.kunigami.okinawa.jp/
  473022,http://www.vill.ogimi.okinawa.jp/
  473031,http://www.vill.higashi.okinawa.jp/
- 473065,http://www.nakijin.jp/
+-473065,http://www.nakijin.jp/
++473065,https://www.nakijin.jp/
  473081,http://www.town.motobu.okinawa.jp/
 -473081,http://oki-park.jp/ocean_park/
 -473111,http://www.vill.onna.okinawa.jp/
