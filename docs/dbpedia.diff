@@ -2682,10 +2682,12 @@
 +402311,https://www.city.nakagawa.lg.jp/
  403415,http://www.town.umi.lg.jp/
 -403423,http://www.town.sasaguri.fukuoka.jp/
-+403423,https://www.town.sasaguri.fukuoka.jp/
- 403431,http://www.town.shime.lg.jp/
- 403440,http://www.town.sue.fukuoka.jp/
+-403431,http://www.town.shime.lg.jp/
+-403440,http://www.town.sue.fukuoka.jp/
 -403458,http://www.town.shingu.fukuoka.jp
++403423,https://www.town.sasaguri.fukuoka.jp/
++403431,https://www.town.shime.lg.jp/
++403440,https://www.town.sue.fukuoka.jp/
 +403458,http://www.town.shingu.fukuoka.jp/
  403482,http://www.town.hisayama.fukuoka.jp/
  403491,http://www.town.kasuya.fukuoka.jp/
