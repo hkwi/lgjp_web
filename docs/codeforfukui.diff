@@ -197,8 +197,7 @@
 -日高町,http://www.town.hidaka.hokkaido.jp/
 +日高町,https://www.town.hidaka.hokkaido.jp/
  平取町,http://www.town.biratori.hokkaido.jp/
--新冠町,http://www.niikappu.jp/
-+新冠町,https://www.niikappu.jp/
+ 新冠町,http://www.niikappu.jp/
  浦河町,https://www.town.urakawa.hokkaido.jp/
  様似町,http://www.samani.jp/
 -えりも町,http://www.town.erimo.lg.jp/
@@ -1283,9 +1282,10 @@
  北相木村,http://vill.kitaaiki.nagano.jp/
  佐久穂町,https://www.town.sakuho.nagano.jp/
 -軽井沢町,http://www.town.karuizawa.lg.jp/www/toppage/0000000000000/APM03000.html
-+軽井沢町,https://www.town.karuizawa.lg.jp/
- 御代田町,http://www.town.miyota.nagano.jp/
+-御代田町,http://www.town.miyota.nagano.jp/
 -立科町,http://www.town.tateshina.nagano.jp/
++軽井沢町,https://www.town.karuizawa.lg.jp/
++御代田町,https://www.town.miyota.nagano.jp/
 +立科町,https://www.town.tateshina.nagano.jp/
  青木村,http://www.vill.aoki.nagano.jp/
 -長和町,http://town.nagawa.nagano.jp/

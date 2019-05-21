@@ -237,13 +237,12 @@
 -016012,http://www.town.hidaka.hokkaido.jp/
 +016012,https://www.town.hidaka.hokkaido.jp/
  016021,http://www.town.biratori.hokkaido.jp/
--016047,http://www.niikappu.jp/
+ 016047,http://www.niikappu.jp/
 -016071,http://www.town.urakawa.hokkaido.jp/
 -016080,http://www.hokkai.or.jp/samani/
 -016098,http://www.town.erimo.lg.jp/
 -016101,http://www.shinhidaka-hokkaido.jp/
 -016314,http://www.town.otofuke.hokkaido.jp/
-+016047,https://www.niikappu.jp/
 +016071,https://www.town.urakawa.hokkaido.jp/
 +016080,http://www.samani.jp/
 +016098,https://www.town.erimo.lg.jp/
@@ -1480,7 +1479,7 @@
 -203246,http://www.town.tateshina.nagano.jp/
 +203092,https://www.town.sakuho.nagano.jp/
 +203211,https://www.town.karuizawa.lg.jp/
-+203238,http://www.town.miyota.nagano.jp/
++203238,https://www.town.miyota.nagano.jp/
 +203246,https://www.town.tateshina.nagano.jp/
  203491,http://www.vill.aoki.nagano.jp/
 -203505,http://www.town.nagawa.nagano.jp/
