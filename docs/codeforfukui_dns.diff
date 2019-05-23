@@ -27,6 +27,15 @@
  豊富町,www.town.toyotomi.hokkaido.jp
  礼文町,www.town.rebun.hokkaido.jp
  利尻町,www.town.rishiri.hokkaido.jp
+@@ -139,7 +139,7 @@
+ 佐呂間町,www.town.saroma.hokkaido.jp
+ 遠軽町,engaru.jp
+ 湧別町,www.town.yubetsu.lg.jp
+-滝上町,www.town.takinoue.hokkaido.jp
++滝上町,town.takinoue.hokkaido.jp
+ 興部町,www.town.okoppe.lg.jp
+ 西興部村,www.vill.nishiokoppe.lg.jp
+ 雄武町,www.town.oumu.hokkaido.jp
 @@ -221,7 +221,7 @@
  東通村,www.vill.higashidoori.lg.jp
  風間浦村,www.kazamaura.jp
