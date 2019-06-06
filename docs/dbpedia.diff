@@ -454,11 +454,10 @@
 +042161,https://www.tomiya-city.miyagi.jp/
  043010,http://www.town.zao.miyagi.jp/
 -043028,http://www.town.shichikashuku.miyagi.jp/
--043214,http://www.town.ogawara.miyagi.jp/
++043028,https://town.shichikashuku.miyagi.jp/
+ 043214,http://www.town.ogawara.miyagi.jp/
 -043222,http://www.town.murata.miyagi.jp/index.html
 -043231,http://www.town.shibata.miyagi.jp/
-+043028,https://town.shichikashuku.miyagi.jp/
-+043214,https://www.town.ogawara.miyagi.jp/
 +043222,http://www.town.murata.miyagi.jp/
 +043231,https://www.town.shibata.miyagi.jp/
  043249,http://www.town.kawasaki.miyagi.jp/
@@ -1434,8 +1433,9 @@
 +194239,https://www.town.nishikatsura.yamanashi.jp/
 +194247,https://www.vill.oshino.lg.jp/
  194255,http://www.vill.yamanakako.lg.jp/
- 194298,http://www.vill.narusawa.yamanashi.jp/
+-194298,http://www.vill.narusawa.yamanashi.jp/
 -194301,http://www.town.fujikawaguchiko.lg.jp/
++194298,https://www.vill.narusawa.yamanashi.jp/
 +194301,https://www.town.fujikawaguchiko.lg.jp/
  194425,http://www.vill.kosuge.yamanashi.jp/
  194433,http://www.vill.tabayama.yamanashi.jp/
