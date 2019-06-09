@@ -74,9 +74,10 @@
 +新篠津村,https://www.vill.shinshinotsu.hokkaido.jp/
  松前町,http://www.town.matsumae.hokkaido.jp/
  福島町,http://www.town.fukushima.hokkaido.jp/
- 知内町,http://www.town.shiriuchi.hokkaido.jp/
+-知内町,http://www.town.shiriuchi.hokkaido.jp/
 -木古内町,http://www.town.kikonai.hokkaido.jp/
 -七飯町,http://www.town.nanae.hokkaido.jp/
++知内町,https://www.town.shiriuchi.hokkaido.jp/
 +木古内町,https://www.town.kikonai.hokkaido.jp/
 +七飯町,https://www.town.nanae.hokkaido.jp/
  鹿部町,http://www.town.shikabe.lg.jp/
@@ -1953,8 +1954,9 @@
 +広陵町,https://www.town.koryo.nara.jp/
  河合町,http://www.town.kawai.nara.jp/
  吉野町,http://www.town.yoshino.nara.jp/
- 大淀町,http://www.town.oyodo.lg.jp/
+-大淀町,http://www.town.oyodo.lg.jp/
 -下市町,http://www.town.shimoichi.lg.jp/
++大淀町,https://www.town.oyodo.lg.jp/
 +下市町,https://www.town.shimoichi.lg.jp/
  黒滝村,https://www.vill.kurotaki.nara.jp/
  天川村,http://www.vill.tenkawa.nara.jp/
@@ -2078,7 +2080,8 @@
 +西粟倉村,http://www.vill.nishiawakura.okayama.jp/
  久米南町,http://www.town.kumenan.okayama.jp/
  美咲町,http://www.town.misaki.okayama.jp/
- 吉備中央町,http://www.town.kibichuo.lg.jp/
+-吉備中央町,http://www.town.kibichuo.lg.jp/
++吉備中央町,https://www.town.kibichuo.lg.jp/
  広島市,http://www.city.hiroshima.lg.jp/
 -中区,http://www.city.hiroshima.lg.jp/www/genre/1001000001819/index.html
 -東区,http://www.city.hiroshima.lg.jp/www/genre/1001000001830/index.html
