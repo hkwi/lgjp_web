@@ -297,7 +297,7 @@
  五戸町,http://www.town.gonohe.aomori.jp/
  田子町,http://www.town.takko.lg.jp/
  南部町,http://www.town.aomori-nanbu.lg.jp/
-@@ -229,69 +229,69 @@
+@@ -229,70 +229,70 @@
  新郷村,http://www.vill.shingo.aomori.jp/
  盛岡市,http://www.city.morioka.iwate.jp/
  宮古市,http://www.city.miyako.iwate.jp/
@@ -393,12 +393,14 @@
 -七ヶ浜町,http://www.shichigahama.com/
 -利府町,http://www.town.rifu.miyagi.jp/www/toppage/0000000000000/APM03000.html
 -大和町,http://www.town.taiwa.miyagi.jp/
+-大郷町,http://www.town.miyagi-osato.lg.jp/
 +七ヶ浜町,https://www.shichigahama.com/
 +利府町,http://www.town.rifu.miyagi.jp/
 +大和町,https://www.town.taiwa.miyagi.jp/
- 大郷町,http://www.town.miyagi-osato.lg.jp/
++大郷町,https://www.town.miyagi-osato.lg.jp/
  大衡村,http://www.village.ohira.miyagi.jp/
  色麻町,http://www.town.shikama.miyagi.jp/
+ 加美町,http://www.town.kami.miyagi.jp/
 @@ -301,87 +301,88 @@
  女川町,http://www.town.onagawa.miyagi.jp/
  南三陸町,http://www.town.minamisanriku.miyagi.jp/
@@ -835,12 +837,11 @@
 -勝浦市,https://www.city.katsuura.lg.jp/forms/top/top.aspx
 -市原市,http://www.city.ichihara.chiba.jp/
 -流山市,http://www.city.nagareyama.chiba.jp/
--八千代市,http://www.city.yachiyo.chiba.jp/
--我孫子市,http://www.city.abiko.chiba.jp/
 +勝浦市,https://www.city.katsuura.lg.jp/
 +市原市,https://www.city.ichihara.chiba.jp/
 +流山市,https://www.city.nagareyama.chiba.jp/
-+八千代市,https://www.city.yachiyo.chiba.jp/
+ 八千代市,http://www.city.yachiyo.chiba.jp/
+-我孫子市,http://www.city.abiko.chiba.jp/
 +我孫子市,https://www.city.abiko.chiba.jp/
  鴨川市,http://www.city.kamogawa.lg.jp/
 -鎌ケ谷市,http://www.city.kamagaya.chiba.jp/
@@ -1595,7 +1596,8 @@
 +東員町,https://www.town.toin.lg.jp/
 +菰野町,http://www2.town.komono.mie.jp/
  朝日町,http://www.town.asahi.mie.jp/
- 川越町,http://www.town.kawagoe.mie.jp/
+-川越町,http://www.town.kawagoe.mie.jp/
++川越町,https://www.town.kawagoe.mie.jp/
  多気町,http://www.town.taki.mie.jp/
 -明和町,http://www.town.meiwa.mie.jp/
 +明和町,https://www.town.meiwa.mie.jp/

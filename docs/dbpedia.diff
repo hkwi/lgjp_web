@@ -473,10 +473,11 @@
 +044041,https://www.shichigahama.com/
  044067,http://www.town.rifu.miyagi.jp/
 -044211,http://www.town.taiwa.miyagi.jp/
-+044211,https://www.town.taiwa.miyagi.jp/
- 044229,http://www.town.miyagi-osato.lg.jp/
+-044229,http://www.town.miyagi-osato.lg.jp/
 -044237,http://www.town.tomiya.miyagi.jp/
 -044245,http://www.village.ohira.miyagi.jp/index.html
++044211,https://www.town.taiwa.miyagi.jp/
++044229,https://www.town.miyagi-osato.lg.jp/
 +044245,http://www.village.ohira.miyagi.jp/
  044440,http://www.town.shikama.miyagi.jp/
  044458,http://www.town.kami.miyagi.jp/
@@ -1010,7 +1011,10 @@
 -122181,http://www.city.katsuura.chiba.jp/
 -122190,http://www.city.ichihara.chiba.jp/
 -122203,http://www.city.nagareyama.chiba.jp/
--122211,http://www.city.yachiyo.chiba.jp/
++122181,https://www.city.katsuura.lg.jp/
++122190,https://www.city.ichihara.chiba.jp/
++122203,https://www.city.nagareyama.chiba.jp/
+ 122211,http://www.city.yachiyo.chiba.jp/
 -122220,http://www.city.abiko.chiba.jp/
 -122238,http://www.city.kamogawa.lg.jp
 -122246,http://www.city.kamagaya.chiba.jp/
@@ -1030,10 +1034,6 @@
 -122360,http://www.katorishi.com/
 -122378,http://www.city.sammu.lg.jp
 -122386,http://www.city.isumi.lg.jp
-+122181,https://www.city.katsuura.lg.jp/
-+122190,https://www.city.ichihara.chiba.jp/
-+122203,https://www.city.nagareyama.chiba.jp/
-+122211,https://www.city.yachiyo.chiba.jp/
 +122220,https://www.city.abiko.chiba.jp/
 +122238,http://www.city.kamogawa.lg.jp/
 +122246,https://www.city.kamagaya.chiba.jp/
@@ -1856,7 +1856,8 @@
 +243418,http://www2.town.komono.mie.jp/
  243434,http://www.town.asahi.mie.jp/
 -243434,http://www2.town.asahi.mie.jp/
- 243442,http://www.town.kawagoe.mie.jp/
+-243442,http://www.town.kawagoe.mie.jp/
++243442,https://www.town.kawagoe.mie.jp/
  244414,http://www.town.taki.mie.jp/
 -244422,http://www.town.meiwa.mie.jp/
 +244422,https://www.town.meiwa.mie.jp/
