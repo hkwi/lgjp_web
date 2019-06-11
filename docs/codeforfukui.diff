@@ -1383,7 +1383,7 @@
  土岐市,http://www.city.toki.lg.jp/
  各務原市,http://www.city.kakamigahara.lg.jp/
  可児市,http://www.city.kani.lg.jp/
-@@ -998,55 +1001,55 @@
+@@ -998,67 +1001,67 @@
  養老町,http://www.town.yoro.gifu.jp/
  垂井町,http://www.town.tarui.lg.jp/
  関ケ原町,http://www.town.sekigahara.gifu.jp/
@@ -1464,9 +1464,10 @@
  東伊豆町,https://www.town.higashiizu.shizuoka.jp/
  河津町,http://www.town.kawazu.shizuoka.jp/
  南伊豆町,http://www.town.minamiizu.shizuoka.jp/
-@@ -1054,11 +1057,11 @@
+ 松崎町,http://www.town.matsuzaki.shizuoka.jp/
  西伊豆町,http://www.town.nishiizu.shizuoka.jp/
- 函南町,http://www.town.kannami.shizuoka.jp/
+-函南町,http://www.town.kannami.shizuoka.jp/
++函南町,https://www.town.kannami.shizuoka.jp/
  清水町,http://www.town.shimizu.shizuoka.jp/
 -長泉町,http://japan.nagaizumi.org/
 -小山町,http://www.fuji-oyama.jp/index.html
