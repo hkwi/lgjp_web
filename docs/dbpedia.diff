@@ -1,6 +1,6 @@
 --- dbpedia
 +++ wikidata
-@@ -1,71 +1,80 @@
+@@ -1,218 +1,217 @@
 -010006,http://www.pref.hokkaido.lg.jp/
  011002,http://www.city.sapporo.jp/
 -012025,http://www.city.hakodate.hokkaido.jp/
@@ -126,7 +126,8 @@
  014052,http://www.town.shakotan.hokkaido.jp/
  014061,http://www.town.furubira.lg.jp/
  014079,http://www.town.niki.hokkaido.jp/
-@@ -73,146 +82,136 @@
+-014087,http://www.town.yoichi.hokkaido.jp/
++014087,https://www.town.yoichi.hokkaido.jp/
  014095,http://www.akaigawa.com/
  014231,http://www.town.nanporo.hokkaido.jp/
  014249,http://www.town.naie.hokkaido.jp/
@@ -1799,13 +1800,14 @@
 -232360,http://www.city.aichi-miyoshi.lg.jp/
 -232378,http://www.city.ama.aichi.jp/index.html
 -232386,http://www.city.nagakute.lg.jp/
-+232360,https://www.city.aichi-miyoshi.lg.jp/
-+232378,http://www.city.ama.aichi.jp/
-+232386,https://www.city.nagakute.lg.jp/
- 233021,http://www.town.aichi-togo.lg.jp/
+-233021,http://www.town.aichi-togo.lg.jp/
 -233421,http://www.town.toyoyama.lg.jp/
 -233617,http://www.town.oguchi.aichi.jp/
 -233625,http://www.town.fuso.lg.jp/
++232360,https://www.city.aichi-miyoshi.lg.jp/
++232378,http://www.city.ama.aichi.jp/
++232386,https://www.city.nagakute.lg.jp/
++233021,https://www.town.aichi-togo.lg.jp/
 +233421,https://www.town.toyoyama.lg.jp/
 +233617,http://www.town.oguchi.lg.jp/
 +233625,https://www.town.fuso.lg.jp/
@@ -2574,12 +2576,15 @@
 -383562,http://www.town.kamijima.ehime.jp/
 -383864,http://www.town.kumakogen.ehime.jp/
 -384011,http://www.town.masaki.ehime.jp/
+-384020,http://www.town.tobe.ehime.jp/
+-384224,http://www.town.uchiko.ehime.jp/
+-384429,http://www.town.ikata.ehime.jp/
 +383562,https://www.town.kamijima.lg.jp/
 +383864,https://www.kumakogen.jp/
 +384011,https://www.town.masaki.ehime.jp/
- 384020,http://www.town.tobe.ehime.jp/
- 384224,http://www.town.uchiko.ehime.jp/
- 384429,http://www.town.ikata.ehime.jp/
++384020,https://www.town.tobe.ehime.jp/
++384224,https://www.town.uchiko.ehime.jp/
++384429,https://www.town.ikata.ehime.jp/
  384844,http://www.town.matsuno.ehime.jp/
 -384887,http://www.town.kihoku.ehime.jp/
 +384887,https://www.town.kihoku.ehime.jp/

@@ -94,7 +94,7 @@
  乙部町,http://www.town.otobe.lg.jp/
  奥尻町,http://www.town.okushiri.lg.jp/
  今金町,http://www.town.imakane.lg.jp/
-@@ -66,15 +66,15 @@
+@@ -66,19 +66,19 @@
  黒松内町,http://www.kuromatsunai.com/
  蘭越町,http://www.town.rankoshi.hokkaido.jp/
  ニセコ町,https://www.town.niseko.lg.jp/
@@ -114,6 +114,11 @@
  積丹町,http://www.town.shakotan.hokkaido.jp/
  古平町,http://www.town.furubira.lg.jp/
  仁木町,http://www.town.niki.hokkaido.jp/
+-余市町,http://www.town.yoichi.hokkaido.jp/
++余市町,https://www.town.yoichi.hokkaido.jp/
+ 赤井川村,http://www.akaigawa.com/
+ 南幌町,http://www.town.nanporo.hokkaido.jp/
+ 奈井江町,http://www.town.naie.hokkaido.jp/
 @@ -87,11 +87,11 @@
  長沼町,https://www.maoi-net.jp/
  栗山町,http://www.town.kuriyama.hokkaido.jp/
@@ -1546,11 +1551,12 @@
 +みよし市,https://www.city.aichi-miyoshi.lg.jp/
  あま市,http://www.city.ama.aichi.jp/
 -長久手市,http://www.city.nagakute.lg.jp/index.html
-+長久手市,https://www.city.nagakute.lg.jp/
- 東郷町,http://www.town.aichi-togo.lg.jp/
+-東郷町,http://www.town.aichi-togo.lg.jp/
 -豊山町,http://www.town.toyoyama.lg.jp/
 -大口町,http://www.town.oguchi.aichi.jp/
 -扶桑町,http://www.town.fuso.lg.jp/
++長久手市,https://www.city.nagakute.lg.jp/
++東郷町,https://www.town.aichi-togo.lg.jp/
 +豊山町,https://www.town.toyoyama.lg.jp/
 +大口町,http://www.town.oguchi.lg.jp/
 +扶桑町,https://www.town.fuso.lg.jp/
@@ -2232,12 +2238,15 @@
 -上島町,http://www.town.kamijima.lg.jp
 -久万高原町,http://www.kumakogen.jp/
 -松前町,http://www.town.masaki.ehime.jp/
+-砥部町,http://www.town.tobe.ehime.jp/
+-内子町,http://www.town.uchiko.ehime.jp/
+-伊方町,http://www.town.ikata.ehime.jp/
 +上島町,https://www.town.kamijima.lg.jp/
 +久万高原町,https://www.kumakogen.jp/
 +松前町,https://www.town.masaki.ehime.jp/
- 砥部町,http://www.town.tobe.ehime.jp/
- 内子町,http://www.town.uchiko.ehime.jp/
- 伊方町,http://www.town.ikata.ehime.jp/
++砥部町,https://www.town.tobe.ehime.jp/
++内子町,https://www.town.uchiko.ehime.jp/
++伊方町,https://www.town.ikata.ehime.jp/
  松野町,http://www.town.matsuno.ehime.jp/
  鬼北町,https://www.town.kihoku.ehime.jp/
  愛南町,http://www.town.ainan.ehime.jp/

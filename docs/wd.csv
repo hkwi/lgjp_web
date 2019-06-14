@@ -80,7 +80,7 @@ code,name,site
 014052,積丹町,http://www.town.shakotan.hokkaido.jp/
 014061,古平町,http://www.town.furubira.lg.jp/
 014079,仁木町,http://www.town.niki.hokkaido.jp/
-014087,余市町,http://www.town.yoichi.hokkaido.jp/
+014087,余市町,https://www.town.yoichi.hokkaido.jp/
 014095,赤井川村,http://www.akaigawa.com/
 014231,南幌町,http://www.town.nanporo.hokkaido.jp/
 014249,奈井江町,http://www.town.naie.hokkaido.jp/
@@ -1140,7 +1140,7 @@ code,name,site
 232360,みよし市,https://www.city.aichi-miyoshi.lg.jp/
 232378,あま市,http://www.city.ama.aichi.jp/
 232386,長久手市,https://www.city.nagakute.lg.jp/
-233021,東郷町,http://www.town.aichi-togo.lg.jp/
+233021,東郷町,https://www.town.aichi-togo.lg.jp/
 233421,豊山町,https://www.town.toyoyama.lg.jp/
 233617,大口町,http://www.town.oguchi.lg.jp/
 233625,扶桑町,https://www.town.fuso.lg.jp/
@@ -1623,9 +1623,9 @@ code,name,site
 383562,上島町,https://www.town.kamijima.lg.jp/
 383864,久万高原町,https://www.kumakogen.jp/
 384011,松前町,https://www.town.masaki.ehime.jp/
-384020,砥部町,http://www.town.tobe.ehime.jp/
-384224,内子町,http://www.town.uchiko.ehime.jp/
-384429,伊方町,http://www.town.ikata.ehime.jp/
+384020,砥部町,https://www.town.tobe.ehime.jp/
+384224,内子町,https://www.town.uchiko.ehime.jp/
+384429,伊方町,https://www.town.ikata.ehime.jp/
 384844,松野町,http://www.town.matsuno.ehime.jp/
 384887,鬼北町,https://www.town.kihoku.ehime.jp/
 385069,愛南町,http://www.town.ainan.ehime.jp/
