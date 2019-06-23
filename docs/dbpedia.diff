@@ -513,7 +513,7 @@
 +052094,https://www.city.kazuno.akita.jp/
 +052108,https://www.city.yurihonjo.lg.jp/
 +052116,http://www.city.katagami.lg.jp/
-+052124,https://www.city.daisen.akita.jp/
++052124,http://www.city.daisen.akita.jp/
 +052132,https://www.city.kitaakita.akita.jp/
 +052141,https://www.city.nikaho.akita.jp/
 +052159,https://www.city.semboku.akita.jp/
@@ -1471,10 +1471,11 @@
 -202118,http://www.city.nakano.nagano.jp/
 +202118,https://www.city.nakano.nagano.jp/
  202126,http://www.city.omachi.nagano.jp/
- 202134,http://www.city.iiyama.nagano.jp/
+-202134,http://www.city.iiyama.nagano.jp/
 -202142,http://www.city.chino.lg.jp/
 -202151,http://www.city.shiojiri.nagano.jp/
 -202177,http://www.city.saku.nagano.jp/
++202134,https://www.city.iiyama.nagano.jp/
 +202142,https://www.city.chino.lg.jp/
 +202151,https://www.city.shiojiri.lg.jp/
 +202177,https://www.city.saku.nagano.jp/
@@ -1703,7 +1704,8 @@
  223026,http://www.town.kawazu.shizuoka.jp/
 -223026,http://www.town.kawazu.shizuoka.jp
  223042,http://www.town.minamiizu.shizuoka.jp/
- 223051,http://www.town.matsuzaki.shizuoka.jp/
+-223051,http://www.town.matsuzaki.shizuoka.jp/
++223051,https://www.town.matsuzaki.shizuoka.jp/
  223069,http://www.town.nishiizu.shizuoka.jp/
 -223255,http://www.town.kannami.shizuoka.jp/
 -223255,http://www.town.kannami.shizuoka.jp

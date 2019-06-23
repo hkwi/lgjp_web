@@ -421,14 +421,13 @@
 +鹿角市,https://www.city.kazuno.akita.jp/
  由利本荘市,https://www.city.yurihonjo.lg.jp/
  潟上市,http://www.city.katagami.lg.jp/
--大仙市,http://www.city.daisen.akita.jp/
+ 大仙市,http://www.city.daisen.akita.jp/
 -北秋田市,http://www.city.kitaakita.akita.jp/
 -にかほ市,http://www.city.nikaho.akita.jp/
 -仙北市,http://www.city.semboku.akita.jp/
 -小坂町,http://www.town.kosaka.akita.jp/
 -上小阿仁村,https://www.vill.kamikoani.akita.jp/forms/top/top.aspx
 -藤里町,http://www.town.fujisato.akita.jp/
-+大仙市,https://www.city.daisen.akita.jp/
 +北秋田市,https://www.city.kitaakita.akita.jp/
 +にかほ市,https://www.city.nikaho.akita.jp/
 +仙北市,https://www.city.semboku.akita.jp/
@@ -1283,10 +1282,11 @@
 -中野市,http://www.city.nakano.nagano.jp/
 +中野市,https://www.city.nakano.nagano.jp/
  大町市,http://www.city.omachi.nagano.jp/
- 飯山市,http://www.city.iiyama.nagano.jp/
+-飯山市,http://www.city.iiyama.nagano.jp/
 -茅野市,http://www.city.chino.lg.jp/www/index.html
 -塩尻市,http://www.city.shiojiri.lg.jp/
 -佐久市,http://www.city.saku.nagano.jp/
++飯山市,https://www.city.iiyama.nagano.jp/
 +茅野市,https://www.city.chino.lg.jp/
 +塩尻市,https://www.city.shiojiri.lg.jp/
 +佐久市,https://www.city.saku.nagano.jp/
@@ -1471,7 +1471,8 @@
  東伊豆町,https://www.town.higashiizu.shizuoka.jp/
  河津町,http://www.town.kawazu.shizuoka.jp/
  南伊豆町,http://www.town.minamiizu.shizuoka.jp/
- 松崎町,http://www.town.matsuzaki.shizuoka.jp/
+-松崎町,http://www.town.matsuzaki.shizuoka.jp/
++松崎町,https://www.town.matsuzaki.shizuoka.jp/
  西伊豆町,http://www.town.nishiizu.shizuoka.jp/
 -函南町,http://www.town.kannami.shizuoka.jp/
 +函南町,https://www.town.kannami.shizuoka.jp/
