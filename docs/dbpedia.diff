@@ -731,8 +731,9 @@
  082295,http://www.city.inashiki.lg.jp/
 -082295,http://www.city.inashiki.lg.jp/page/page002754.html
 -082309,http://www.city.kasumigaura.ibaraki.jp/
+-082317,http://www.city.sakuragawa.lg.jp/
 +082309,https://www.city.kasumigaura.lg.jp/
- 082317,http://www.city.sakuragawa.lg.jp/
++082317,http://www.city.sakuragawa.lg.jp/index.html
  082325,http://www.city.kamisu.ibaraki.jp/
 -082333,http://www.city.namegata.ibaraki.jp/
 -082341,http://www.city.hokota.lg.jp/index.html
@@ -823,7 +824,7 @@
 -103446,http://www.vill.shinto.gunma.jp/index.htm
 +102091,https://www.city.fujioka.gunma.jp/
 +102105,https://www.city.tomioka.lg.jp/
-+102113,http://www.city.annaka.lg.jp/
++102113,https://www.city.annaka.lg.jp/
 +102121,https://www.city.midori.gunma.jp/
 +103446,http://www.vill.shinto.gunma.jp/
  103454,http://www.town.yoshioka.gunma.jp/
@@ -1475,11 +1476,12 @@
 -202142,http://www.city.chino.lg.jp/
 -202151,http://www.city.shiojiri.nagano.jp/
 -202177,http://www.city.saku.nagano.jp/
+-202185,http://www.city.chikuma.lg.jp/
 +202134,https://www.city.iiyama.nagano.jp/
 +202142,https://www.city.chino.lg.jp/
 +202151,https://www.city.shiojiri.lg.jp/
 +202177,https://www.city.saku.nagano.jp/
- 202185,http://www.city.chikuma.lg.jp/
++202185,https://www.city.chikuma.lg.jp/
  202193,http://www.city.tomi.nagano.jp/
 -202207,http://www.city.azumino.nagano.jp/
 -203033,http://www.koumi-town.jp/index.html
@@ -2403,6 +2405,13 @@
 +336815,https://www.town.kibichuo.lg.jp/
  341002,http://www.city.hiroshima.lg.jp/
 -342025,http://www.city.kure.lg.jp/
+-342033,http://www.city.takehara.lg.jp/
+-342041,http://www.city.mihara.hiroshima.jp/
+-342050,http://www.city.onomichi.hiroshima.jp/
+-342076,http://www.city.fukuyama.hiroshima.jp/
+-342084,http://www.city.fuchu.hiroshima.jp/
+-342092,http://www.city.miyoshi.hiroshima.jp/
+-342106,http://www.city.shobara.hiroshima.jp/
 +341011,http://www.city.hiroshima.lg.jp/naka/
 +341029,http://www.city.hiroshima.lg.jp/higashi/
 +341037,http://www.city.hiroshima.lg.jp/minami/
@@ -2412,13 +2421,7 @@
 +341070,http://www.city.hiroshima.lg.jp/aki/
 +341088,http://www.city.hiroshima.lg.jp/saeki/
 +342025,https://www.city.kure.lg.jp/
- 342033,http://www.city.takehara.lg.jp/
--342041,http://www.city.mihara.hiroshima.jp/
--342050,http://www.city.onomichi.hiroshima.jp/
--342076,http://www.city.fukuyama.hiroshima.jp/
--342084,http://www.city.fuchu.hiroshima.jp/
--342092,http://www.city.miyoshi.hiroshima.jp/
--342106,http://www.city.shobara.hiroshima.jp/
++342033,https://www.city.takehara.lg.jp/
 +342041,https://www.city.mihara.hiroshima.jp/
 +342050,https://www.city.onomichi.hiroshima.jp/
 +342076,https://www.city.fukuyama.hiroshima.jp/

@@ -584,10 +584,9 @@
  坂東市,http://www.city.bando.lg.jp/
 -稲敷市,http://www.city.inashiki.lg.jp/index.html
 -かすみがうら市,http://www.city.kasumigaura.lg.jp/
--桜川市,http://www.city.sakuragawa.lg.jp/index.html
 +稲敷市,http://www.city.inashiki.lg.jp/
 +かすみがうら市,https://www.city.kasumigaura.lg.jp/
-+桜川市,http://www.city.sakuragawa.lg.jp/
+ 桜川市,http://www.city.sakuragawa.lg.jp/index.html
  神栖市,http://www.city.kamisu.ibaraki.jp/
 -行方市,http://www.city.namegata.ibaraki.jp/
 -鉾田市,http://www.city.hokota.lg.jp/
@@ -661,9 +660,10 @@
  渋川市,http://www.city.shibukawa.lg.jp/
  藤岡市,https://www.city.fujioka.gunma.jp/
 -富岡市,http://www.city.tomioka.lg.jp/www/toppage/0000000000000/APM03000.html
-+富岡市,https://www.city.tomioka.lg.jp/
- 安中市,http://www.city.annaka.lg.jp/
+-安中市,http://www.city.annaka.lg.jp/
 -みどり市,http://www.city.midori.gunma.jp/www/toppage/0000000000000/APM03000.html
++富岡市,https://www.city.tomioka.lg.jp/
++安中市,https://www.city.annaka.lg.jp/
 +みどり市,https://www.city.midori.gunma.jp/
  榛東村,http://www.vill.shinto.gunma.jp/
  吉岡町,http://www.town.yoshioka.gunma.jp/
@@ -1286,11 +1286,12 @@
 -茅野市,http://www.city.chino.lg.jp/www/index.html
 -塩尻市,http://www.city.shiojiri.lg.jp/
 -佐久市,http://www.city.saku.nagano.jp/
+-千曲市,http://www.city.chikuma.lg.jp/
 +飯山市,https://www.city.iiyama.nagano.jp/
 +茅野市,https://www.city.chino.lg.jp/
 +塩尻市,https://www.city.shiojiri.lg.jp/
 +佐久市,https://www.city.saku.nagano.jp/
- 千曲市,http://www.city.chikuma.lg.jp/
++千曲市,https://www.city.chikuma.lg.jp/
  東御市,http://www.city.tomi.nagano.jp/
 -安曇野市,http://www.city.azumino.nagano.jp/
 +安曇野市,https://www.city.azumino.nagano.jp/
@@ -2104,6 +2105,13 @@
 -安芸区,http://www.city.hiroshima.lg.jp/www/genre/1001000001884/index.html
 -佐伯区,http://www.city.hiroshima.lg.jp/www/genre/1001000001912/index.html
 -呉市,http://www.city.kure.lg.jp/
+-竹原市,http://www.city.takehara.lg.jp/
+-三原市,http://www.city.mihara.hiroshima.jp/
+-尾道市,http://www.city.onomichi.hiroshima.jp/www/normal_top.html
+-福山市,http://www.city.fukuyama.hiroshima.jp/
+-府中市,http://www.city.fuchu.hiroshima.jp/
+-三次市,https://www.city.miyoshi.hiroshima.jp/index.html
+-庄原市,http://www.city.shobara.hiroshima.jp/
 +中区,http://www.city.hiroshima.lg.jp/naka/
 +東区,http://www.city.hiroshima.lg.jp/higashi/
 +南区,http://www.city.hiroshima.lg.jp/minami/
@@ -2113,13 +2121,7 @@
 +安芸区,http://www.city.hiroshima.lg.jp/aki/
 +佐伯区,http://www.city.hiroshima.lg.jp/saeki/
 +呉市,https://www.city.kure.lg.jp/
- 竹原市,http://www.city.takehara.lg.jp/
--三原市,http://www.city.mihara.hiroshima.jp/
--尾道市,http://www.city.onomichi.hiroshima.jp/www/normal_top.html
--福山市,http://www.city.fukuyama.hiroshima.jp/
--府中市,http://www.city.fuchu.hiroshima.jp/
--三次市,https://www.city.miyoshi.hiroshima.jp/index.html
--庄原市,http://www.city.shobara.hiroshima.jp/
++竹原市,https://www.city.takehara.lg.jp/
 +三原市,https://www.city.mihara.hiroshima.jp/
 +尾道市,https://www.city.onomichi.hiroshima.jp/
 +福山市,https://www.city.fukuyama.hiroshima.jp/
