@@ -1080,11 +1080,7 @@
 -山北町,http://www.town.yamakita.kanagawa.jp/
 -開成町,https://www.town.kaisei.kanagawa.jp/forms/top/top.aspx
 -箱根町,http://www.town.hakone.kanagawa.jp/
-+松田町,https://town.matsuda.kanagawa.jp/
-+山北町,https://www.town.yamakita.kanagawa.jp/
-+開成町,https://www.town.kaisei.kanagawa.jp/
-+箱根町,https://www.town.hakone.kanagawa.jp/
- 真鶴町,http://www.town-manazuru.jp/
+-真鶴町,http://www.town-manazuru.jp/
 -湯河原町,http://www.town.yugawara.kanagawa.jp/
 -愛川町,http://www.town.aikawa.kanagawa.jp/
 -清川村,http://www.town.kiyokawa.kanagawa.jp/
@@ -1097,6 +1093,11 @@
 -南区,http://www.city.niigata.lg.jp/minami/index.html
 -西区,http://www.city.niigata.lg.jp/nishi/index.html
 -西蒲区,http://www.city.niigata.lg.jp/nishikan/index.html
++松田町,https://town.matsuda.kanagawa.jp/
++山北町,https://www.town.yamakita.kanagawa.jp/
++開成町,https://www.town.kaisei.kanagawa.jp/
++箱根町,https://www.town.hakone.kanagawa.jp/
++真鶴町,https://www.town.manazuru.kanagawa.jp/
 +湯河原町,https://www.town.yugawara.kanagawa.jp/
 +愛川町,https://www.town.aikawa.kanagawa.jp/
 +清川村,https://www.town.kiyokawa.kanagawa.jp/
@@ -1598,12 +1599,13 @@
 -いなべ市,http://www.city.inabe.mie.jp/
 -志摩市,http://www.city.shima.mie.jp/
 -伊賀市,http://www.city.iga.lg.jp/
+-木曽岬町,http://www.town.kisosaki.lg.jp/
+-東員町,http://www.town.toin.lg.jp/
+-菰野町,http://www2.town.komono.mie.jp/www/index.html
 +いなべ市,https://www.city.inabe.mie.jp/
 +志摩市,https://www.city.shima.mie.jp/
 +伊賀市,https://www.city.iga.lg.jp/
- 木曽岬町,http://www.town.kisosaki.lg.jp/
--東員町,http://www.town.toin.lg.jp/
--菰野町,http://www2.town.komono.mie.jp/www/index.html
++木曽岬町,https://www.town.kisosaki.lg.jp/
 +東員町,https://www.town.toin.lg.jp/
 +菰野町,http://www2.town.komono.mie.jp/
  朝日町,http://www.town.asahi.mie.jp/
