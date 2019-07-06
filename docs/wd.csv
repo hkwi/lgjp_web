@@ -232,7 +232,7 @@ code,name,site
 024503,新郷村,http://www.vill.shingo.aomori.jp/
 030007,岩手県,https://www.pref.iwate.jp/
 032018,盛岡市,http://www.city.morioka.iwate.jp/
-032026,宮古市,http://www.city.miyako.iwate.jp/
+032026,宮古市,https://www.city.miyako.iwate.jp/
 032034,大船渡市,https://www.city.ofunato.iwate.jp/
 032051,花巻市,https://www.city.hanamaki.iwate.jp/
 032069,北上市,https://www.city.kitakami.iwate.jp/
@@ -482,7 +482,7 @@ code,name,site
 092061,日光市,https://www.city.nikko.lg.jp/
 092088,小山市,https://www.city.oyama.tochigi.jp/
 092096,真岡市,https://www.city.moka.lg.jp/
-092100,大田原市,http://www.city.ohtawara.tochigi.jp/
+092100,大田原市,https://www.city.ohtawara.tochigi.jp/
 092118,矢板市,https://www.city.yaita.tochigi.jp/
 092134,那須塩原市,http://www.city.nasushiobara.lg.jp/
 092142,さくら市,https://www.city.tochigi-sakura.lg.jp/
@@ -682,7 +682,7 @@ code,name,site
 131091,品川区,https://www.city.shinagawa.tokyo.jp/
 131105,目黒区,https://www.city.meguro.tokyo.jp/
 131113,大田区,https://www.city.ota.tokyo.jp/
-131121,世田谷区,http://www.city.setagaya.lg.jp/
+131121,世田谷区,https://www.city.setagaya.lg.jp/
 131130,渋谷区,https://www.city.shibuya.tokyo.jp/
 131148,中野区,https://www.city.tokyo-nakano.lg.jp/
 131156,杉並区,https://www.city.suginami.tokyo.jp/
@@ -880,7 +880,7 @@ code,name,site
 182061,勝山市,https://www.city.katsuyama.fukui.jp/
 182079,鯖江市,https://www.city.sabae.fukui.jp/
 182087,あわら市,http://www.city.awara.lg.jp/
-182095,越前市,http://www.city.echizen.lg.jp/
+182095,越前市,https://www.city.echizen.lg.jp/
 182109,坂井市,https://www.city.fukui-sakai.lg.jp/
 183229,永平寺町,https://www.town.eiheiji.lg.jp/
 183822,池田町,http://www.town.ikeda.fukui.jp/
@@ -1075,7 +1075,7 @@ code,name,site
 222267,牧之原市,https://www.city.makinohara.shizuoka.jp/
 223018,東伊豆町,https://www.town.higashiizu.shizuoka.jp/
 223026,河津町,http://www.town.kawazu.shizuoka.jp/
-223042,南伊豆町,http://www.town.minamiizu.shizuoka.jp/
+223042,南伊豆町,https://www.town.minamiizu.shizuoka.jp/
 223051,松崎町,https://www.town.matsuzaki.shizuoka.jp/
 223069,西伊豆町,http://www.town.nishiizu.shizuoka.jp/
 223255,函南町,https://www.town.kannami.shizuoka.jp/
@@ -1149,7 +1149,7 @@ code,name,site
 234273,飛島村,http://www.vill.tobishima.aichi.jp/
 234419,阿久比町,https://www.town.agui.lg.jp/
 234427,東浦町,https://www.town.aichi-higashiura.lg.jp/
-234451,南知多町,http://www.town.minamichita.lg.jp/
+234451,南知多町,https://www.town.minamichita.lg.jp/
 234460,美浜町,http://www.town.aichi-mihama.lg.jp/
 234478,武豊町,http://www.town.taketoyo.lg.jp/
 235016,幸田町,http://www.town.kota.lg.jp/
@@ -1176,7 +1176,7 @@ code,name,site
 243418,菰野町,http://www2.town.komono.mie.jp/
 243434,朝日町,http://www.town.asahi.mie.jp/
 243442,川越町,https://www.town.kawagoe.mie.jp/
-244414,多気町,http://www.town.taki.mie.jp/
+244414,多気町,https://www.town.taki.mie.jp/
 244422,明和町,https://www.town.meiwa.mie.jp/
 244431,大台町,http://www.odaitown.jp/
 244619,玉城町,https://kizuna.town.tamaki.mie.jp/
@@ -1196,7 +1196,7 @@ code,name,site
 252085,栗東市,https://www.city.ritto.lg.jp/
 252093,甲賀市,http://www.city.koka.lg.jp/
 252107,野洲市,http://www.city.yasu.lg.jp/
-252115,湖南市,https://www.city.konan.shiga.jp/
+252115,湖南市,https://www.city.shiga-konan.lg.jp/
 252123,高島市,http://www.city.takashima.lg.jp/
 252131,東近江市,https://www.city.higashiomi.shiga.jp/
 252140,米原市,https://www.city.maibara.lg.jp/
@@ -1281,7 +1281,7 @@ code,name,site
 272027,岸和田市,https://www.city.kishiwada.osaka.jp/
 272035,豊中市,https://www.city.toyonaka.osaka.jp/
 272043,池田市,http://www.city.ikeda.osaka.jp/
-272051,吹田市,http://www.city.suita.osaka.jp/
+272051,吹田市,https://www.city.suita.osaka.jp/
 272060,泉大津市,http://www.city.izumiotsu.lg.jp/
 272078,高槻市,http://www.city.takatsuki.osaka.jp/
 272086,貝塚市,https://www.city.kaizuka.lg.jp/
@@ -1363,7 +1363,7 @@ code,name,site
 283819,稲美町,https://www.town.hyogo-inami.lg.jp/
 283827,播磨町,https://www.town.harima.lg.jp/
 284424,市川町,https://www.town.ichikawa.lg.jp/
-284432,福崎町,http://www.town.fukusaki.hyogo.jp/
+284432,福崎町,https://www.town.fukusaki.hyogo.jp/
 284467,神河町,https://www.town.kamikawa.hyogo.jp/
 284645,太子町,http://www.town.hyogo-taishi.lg.jp/
 284815,上郡町,http://www.town.kamigori.hyogo.jp/
