@@ -127,8 +127,9 @@
  014061,http://www.town.furubira.lg.jp/
  014079,http://www.town.niki.hokkaido.jp/
 -014087,http://www.town.yoichi.hokkaido.jp/
+-014095,http://www.akaigawa.com/
 +014087,https://www.town.yoichi.hokkaido.jp/
- 014095,http://www.akaigawa.com/
++014095,https://www.akaigawa.com/
  014231,http://www.town.nanporo.hokkaido.jp/
  014249,http://www.town.naie.hokkaido.jp/
 -014257,http://www.town.kamisunagawa.hokkaido.jp/
@@ -1331,10 +1332,11 @@
 -162108,http://www.city.nanto.toyama.jp/
 -162116,http://www.city.imizu.toyama.jp
 -163210,http://www.vill.funahashi.toyama.jp/index.html
+-163228,http://www.town.kamiichi.toyama.jp/
 +162108,https://www.city.nanto.toyama.jp/
 +162116,https://www.city.imizu.toyama.jp/
 +163210,http://www.vill.funahashi.toyama.jp/
- 163228,http://www.town.kamiichi.toyama.jp/
++163228,https://www.town.kamiichi.toyama.jp/
  163236,http://www.town.tateyama.toyama.jp/
 -163422,http://www.town.nyuzen.toyama.jp/index.html
 -163431,http://www.town.asahi.toyama.jp/
@@ -2399,9 +2401,10 @@
 +332160,https://www.city.asakuchi.lg.jp/
 +333468,https://www.town.wake.lg.jp/
  334235,http://www.town.hayashima.lg.jp/
- 334456,http://www.town.satosho.okayama.jp/
+-334456,http://www.town.satosho.okayama.jp/
 -334618,http://www.kingparts.co.jp/users/r313/index.shtml
 -334618,http://www.town.yakage.lg.jp//
++334456,https://www.town.satosho.okayama.jp/
 +334618,http://www.town.yakage.lg.jp/
  335860,http://www.vill.shinjo.okayama.jp/
  336068,http://www.town.kagamino.lg.jp/
@@ -2569,9 +2572,10 @@
 +373869,https://www.town.utazu.lg.jp/
 +373877,https://www.town.ayagawa.lg.jp/
  374032,http://www.town.kotohira.kagawa.jp/
- 374041,http://www.town.tadotsu.kagawa.jp/
+-374041,http://www.town.tadotsu.kagawa.jp/
 -374067,http://www.town.manno.lg.jp/
 -380008,http://www.pref.ehime.jp/
++374041,https://www.town.tadotsu.kagawa.jp/
 +374067,https://www.town.manno.lg.jp/
  382019,http://www.city.matsuyama.ehime.jp/
 -382027,http://www.city.imabari.ehime.jp/

@@ -94,7 +94,7 @@
  乙部町,http://www.town.otobe.lg.jp/
  奥尻町,http://www.town.okushiri.lg.jp/
  今金町,http://www.town.imakane.lg.jp/
-@@ -66,19 +66,19 @@
+@@ -66,20 +66,20 @@
  黒松内町,http://www.kuromatsunai.com/
  蘭越町,http://www.town.rankoshi.hokkaido.jp/
  ニセコ町,https://www.town.niseko.lg.jp/
@@ -115,10 +115,12 @@
  古平町,http://www.town.furubira.lg.jp/
  仁木町,http://www.town.niki.hokkaido.jp/
 -余市町,http://www.town.yoichi.hokkaido.jp/
+-赤井川村,http://www.akaigawa.com/
 +余市町,https://www.town.yoichi.hokkaido.jp/
- 赤井川村,http://www.akaigawa.com/
++赤井川村,https://www.akaigawa.com/
  南幌町,http://www.town.nanporo.hokkaido.jp/
  奈井江町,http://www.town.naie.hokkaido.jp/
+ 上砂川町,http://town.kamisunagawa.hokkaido.jp/
 @@ -87,11 +87,11 @@
  長沼町,https://www.maoi-net.jp/
  栗山町,http://www.town.kuriyama.hokkaido.jp/
@@ -1171,8 +1173,9 @@
 +南砺市,https://www.city.nanto.toyama.jp/
 +射水市,https://www.city.imizu.toyama.jp/
  舟橋村,http://www.vill.funahashi.toyama.jp/
- 上市町,http://www.town.kamiichi.toyama.jp/
+-上市町,http://www.town.kamiichi.toyama.jp/
 -立山町,http://www.town.tateyama.toyama.jp/pub/
++上市町,https://www.town.kamiichi.toyama.jp/
 +立山町,http://www.town.tateyama.toyama.jp/
  入善町,https://www.town.nyuzen.toyama.jp/
  朝日町,https://www.town.asahi.toyama.jp/
@@ -2031,7 +2034,7 @@
  岩美町,http://www.iwami.gr.jp/
  若桜町,http://www.town.wakasa.tottori.jp/
  智頭町,http://www1.town.chizu.tottori.jp/
-@@ -1421,50 +1424,50 @@
+@@ -1421,84 +1424,84 @@
  北栄町,http://www.e-hokuei.net/
  日吉津村,http://www.hiezu.jp/
  大山町,https://www.daisen.jp/
@@ -2103,9 +2106,10 @@
 +浅口市,https://www.city.asakuchi.lg.jp/
 +和気町,https://www.town.wake.lg.jp/
  早島町,http://www.town.hayashima.lg.jp/
- 里庄町,http://www.town.satosho.okayama.jp/
+-里庄町,http://www.town.satosho.okayama.jp/
++里庄町,https://www.town.satosho.okayama.jp/
  矢掛町,http://www.town.yakage.lg.jp/
-@@ -1472,33 +1475,33 @@
+ 新庄村,http://www.vill.shinjo.okayama.jp/
  鏡野町,http://www.town.kagamino.lg.jp/
  勝央町,http://www.town.shoo.lg.jp/
  奈義町,http://www.town.nagi.okayama.jp/
@@ -2235,11 +2239,13 @@
  土庄町,http://www.town.tonosho.kagawa.jp/
  小豆島町,http://www.town.shodoshima.lg.jp/
  三木町,https://www.town.miki.lg.jp/
-@@ -1566,29 +1569,29 @@
+@@ -1565,30 +1568,30 @@
+ 宇多津町,https://www.town.utazu.lg.jp/
  綾川町,https://www.town.ayagawa.lg.jp/
  琴平町,http://www.town.kotohira.kagawa.jp/
- 多度津町,http://www.town.tadotsu.kagawa.jp/
+-多度津町,http://www.town.tadotsu.kagawa.jp/
 -まんのう町,http://www.town.manno.lg.jp/
++多度津町,https://www.town.tadotsu.kagawa.jp/
 +まんのう町,https://www.town.manno.lg.jp/
  松山市,http://www.city.matsuyama.ehime.jp/
  今治市,https://www.city.imabari.ehime.jp/
