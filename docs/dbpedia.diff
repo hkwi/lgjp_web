@@ -2603,14 +2603,15 @@
 -384020,http://www.town.tobe.ehime.jp/
 -384224,http://www.town.uchiko.ehime.jp/
 -384429,http://www.town.ikata.ehime.jp/
+-384844,http://www.town.matsuno.ehime.jp/
+-384887,http://www.town.kihoku.ehime.jp/
 +383562,https://www.town.kamijima.lg.jp/
 +383864,https://www.kumakogen.jp/
 +384011,https://www.town.masaki.ehime.jp/
 +384020,https://www.town.tobe.ehime.jp/
 +384224,https://www.town.uchiko.ehime.jp/
 +384429,https://www.town.ikata.ehime.jp/
- 384844,http://www.town.matsuno.ehime.jp/
--384887,http://www.town.kihoku.ehime.jp/
++384844,https://www.town.matsuno.ehime.jp/
 +384887,https://www.town.kihoku.ehime.jp/
  385069,http://www.town.ainan.ehime.jp/
 -390003,http://www.pref.kochi.lg.jp/
@@ -2920,7 +2921,7 @@
 +434426,https://www.town.kashima.kumamoto.jp/
 +434434,https://www.town.mashiki.lg.jp/
 +434442,https://www.town.kosa.kumamoto.jp/
-+434477,http://www.town.kumamoto-yamato.lg.jp/
++434477,https://www.town.kumamoto-yamato.lg.jp/
  434680,http://www.hikawacyou.hinokuni-net.jp/
  434825,http://www.ashikita-t.kumamoto-sgn.jp/
 -434841,http://portal.kumamoto-net.ne.jp/town_tsunagi/default.asp

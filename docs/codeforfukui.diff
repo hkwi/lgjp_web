@@ -2271,13 +2271,14 @@
 -砥部町,http://www.town.tobe.ehime.jp/
 -内子町,http://www.town.uchiko.ehime.jp/
 -伊方町,http://www.town.ikata.ehime.jp/
+-松野町,http://www.town.matsuno.ehime.jp/
 +上島町,https://www.town.kamijima.lg.jp/
 +久万高原町,https://www.kumakogen.jp/
 +松前町,https://www.town.masaki.ehime.jp/
 +砥部町,https://www.town.tobe.ehime.jp/
 +内子町,https://www.town.uchiko.ehime.jp/
 +伊方町,https://www.town.ikata.ehime.jp/
- 松野町,http://www.town.matsuno.ehime.jp/
++松野町,https://www.town.matsuno.ehime.jp/
  鬼北町,https://www.town.kihoku.ehime.jp/
  愛南町,http://www.town.ainan.ehime.jp/
 -高知市,http://www.city.kochi.kochi.jp/
@@ -2510,7 +2511,8 @@
  嘉島町,https://www.town.kashima.kumamoto.jp/
  益城町,https://www.town.mashiki.lg.jp/
  甲佐町,https://www.town.kosa.kumamoto.jp/
- 山都町,http://www.town.kumamoto-yamato.lg.jp/
+-山都町,http://www.town.kumamoto-yamato.lg.jp/
++山都町,https://www.town.kumamoto-yamato.lg.jp/
  氷川町,http://www.hikawacyou.hinokuni-net.jp/
 -芦北町,http://www.ashikita-t.kumamoto-sgn.jp/www/toppage/0000000000000/APM03000.html
 +芦北町,http://www.ashikita-t.kumamoto-sgn.jp/
