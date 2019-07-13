@@ -110,9 +110,10 @@
  013943,http://www.town.rankoshi.hokkaido.jp/
 -013951,http://www.town.niseko.lg.jp/
 -013960,http://www.makkari.info/
+-013978,http://www.vill.rusutsu.lg.jp/
 +013951,https://www.town.niseko.lg.jp/
 +013960,https://www.vill.makkari.lg.jp/
- 013978,http://www.vill.rusutsu.lg.jp/
++013978,https://www.vill.rusutsu.lg.jp/
  013986,http://www.town.kimobetsu.hokkaido.jp/
  013994,http://www.town-kyogoku.jp/
 -014001,http://www.town.kutchan.hokkaido.jp/
@@ -976,10 +977,9 @@
  113859,http://www.town.kamisato.saitama.jp/
 -114081,http://www.town.yorii.saitama.jp/
 -114421,http://www.town.miyashiro.saitama.jp/
--114642,http://www.town.sugito.lg.jp/
 +114081,https://www.town.yorii.saitama.jp/
 +114421,https://www.town.miyashiro.lg.jp/
-+114642,https://www.town.sugito.lg.jp/
+ 114642,http://www.town.sugito.lg.jp/
  114651,http://www.town.matsubushi.lg.jp/
 -120006,https://www.pref.chiba.lg.jp/
 -120006,http://maruchiba.jp/index.html/
@@ -1436,9 +1436,10 @@
  193461,http://www.town.ichikawamisato.yamanashi.jp/
 -193640,http://www.town.hayakawa.yamanashi.jp/index.html
 -193658,http://www.town.minobu.yamanashi.jp/
+-193666,http://www.town.nanbu.yamanashi.jp/
 +193640,http://www.town.hayakawa.yamanashi.jp/
 +193658,https://www.town.minobu.lg.jp/
- 193666,http://www.town.nanbu.yamanashi.jp/
++193666,https://www.town.nanbu.yamanashi.jp/
  193682,http://www.town.fujikawa.yamanashi.jp/
  193844,http://www.town.showa.yamanashi.jp/
  194221,http://www.vill.doshi.lg.jp/
@@ -1822,7 +1823,7 @@
 +232386,https://www.city.nagakute.lg.jp/
 +233021,https://www.town.aichi-togo.lg.jp/
 +233421,https://www.town.toyoyama.lg.jp/
-+233617,http://www.town.oguchi.lg.jp/
++233617,https://www.town.oguchi.lg.jp/
 +233625,https://www.town.fuso.lg.jp/
  234249,http://www.town.oharu.aichi.jp/
  234257,http://www.town.kanie.aichi.jp/
@@ -2275,11 +2276,12 @@
 +303046,https://www.town.kimino.wakayama.jp/
  303411,http://www.town.katsuragi.wakayama.jp/
 -303437,http://www.town.kudoyama.wakayama.jp/
-+303437,https://www.town.kudoyama.wakayama.jp/
- 303445,http://www.town.koya.wakayama.jp/
+-303445,http://www.town.koya.wakayama.jp/
 -303615,http://www.town.yuasa.wakayama.jp/index.html
 -303623,http://www.town.hirogawa.wakayama.jp/
 -303666,http://www.town.aridagawa.lg.jp/
++303437,https://www.town.kudoyama.wakayama.jp/
++303445,https://www.town.koya.wakayama.jp/
 +303615,http://www.town.yuasa.wakayama.jp/
 +303623,https://www.town.hirogawa.wakayama.jp/
 +303666,https://www.town.aridagawa.lg.jp/

@@ -99,8 +99,9 @@
  蘭越町,http://www.town.rankoshi.hokkaido.jp/
  ニセコ町,https://www.town.niseko.lg.jp/
 -真狩村,http://makkari.info/
+-留寿都村,http://www.vill.rusutsu.lg.jp/
 +真狩村,https://www.vill.makkari.lg.jp/
- 留寿都村,http://www.vill.rusutsu.lg.jp/
++留寿都村,https://www.vill.rusutsu.lg.jp/
  喜茂別町,http://www.town.kimobetsu.hokkaido.jp/
  京極町,http://www.town-kyogoku.jp/
 -倶知安町,http://www.town.kutchan.hokkaido.jp/
@@ -802,10 +803,9 @@
  上里町,http://www.town.kamisato.saitama.jp/
 -寄居町,http://www.town.yorii.saitama.jp/
 -宮代町,http://www.town.miyashiro.lg.jp/
--杉戸町,http://www.town.sugito.lg.jp/
 +寄居町,https://www.town.yorii.saitama.jp/
 +宮代町,https://www.town.miyashiro.lg.jp/
-+杉戸町,https://www.town.sugito.lg.jp/
+ 杉戸町,http://www.town.sugito.lg.jp/
  松伏町,http://www.town.matsubushi.lg.jp/
 -千葉市,http://www.city.chiba.jp/
 -中央区,http://www.city.chiba.jp/chuo/index.html
@@ -1036,7 +1036,7 @@
  川崎市,http://www.city.kawasaki.jp/
  川崎区,http://www.city.kawasaki.jp/kawasaki/
  幸区,http://www.city.kawasaki.jp/saiwai/
-@@ -746,141 +747,143 @@
+@@ -746,206 +747,208 @@
  宮前区,http://www.city.kawasaki.jp/miyamae/
  麻生区,http://www.city.kawasaki.jp/asao/
  相模原市,http://www.city.sagamihara.kanagawa.jp/
@@ -1255,7 +1255,8 @@
  市川三郷町,http://www.town.ichikawamisato.yamanashi.jp/
  早川町,http://www.town.hayakawa.yamanashi.jp/
  身延町,https://www.town.minobu.lg.jp/
-@@ -888,64 +891,64 @@
+-南部町,http://www.town.nanbu.yamanashi.jp/
++南部町,https://www.town.nanbu.yamanashi.jp/
  富士川町,http://www.town.fujikawa.yamanashi.jp/
  昭和町,http://www.town.showa.yamanashi.jp/
  道志村,http://www.vill.doshi.lg.jp/
@@ -1570,7 +1571,7 @@
 +長久手市,https://www.city.nagakute.lg.jp/
 +東郷町,https://www.town.aichi-togo.lg.jp/
 +豊山町,https://www.town.toyoyama.lg.jp/
-+大口町,http://www.town.oguchi.lg.jp/
++大口町,https://www.town.oguchi.lg.jp/
 +扶桑町,https://www.town.fuso.lg.jp/
  大治町,http://www.town.oharu.aichi.jp/
  蟹江町,http://www.town.kanie.aichi.jp/
@@ -2008,7 +2009,8 @@
 +紀美野町,https://www.town.kimino.wakayama.jp/
  かつらぎ町,http://www.town.katsuragi.wakayama.jp/
  九度山町,https://www.town.kudoyama.wakayama.jp/
- 高野町,http://www.town.koya.wakayama.jp/
+-高野町,http://www.town.koya.wakayama.jp/
++高野町,https://www.town.koya.wakayama.jp/
  湯浅町,http://www.town.yuasa.wakayama.jp/
  広川町,https://www.town.hirogawa.wakayama.jp/
 -有田川町,http://www.town.aridagawa.lg.jp/
