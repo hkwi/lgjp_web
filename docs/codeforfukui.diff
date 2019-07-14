@@ -1801,7 +1801,7 @@
 +西区,http://www.city.sakai.lg.jp/nishi/
 +南区,http://www.city.sakai.lg.jp/minami/
 +北区,http://www.city.sakai.lg.jp/kita/
-+美原区,http://www.city.sakai.lg.jp/mihara/
++美原区,https://www.city.sakai.lg.jp/mihara/
 +岸和田市,https://www.city.kishiwada.osaka.jp/
 +豊中市,https://www.city.toyonaka.osaka.jp/
  池田市,http://www.city.ikeda.osaka.jp/
@@ -2037,7 +2037,7 @@
  岩美町,http://www.iwami.gr.jp/
  若桜町,http://www.town.wakasa.tottori.jp/
  智頭町,http://www1.town.chizu.tottori.jp/
-@@ -1421,84 +1424,84 @@
+@@ -1421,85 +1424,85 @@
  北栄町,http://www.e-hokuei.net/
  日吉津村,http://www.hiezu.jp/
  大山町,https://www.daisen.jp/
@@ -2161,14 +2161,16 @@
 -安芸高田市,http://www.akitakata.jp/ja/
 -江田島市,http://www.city.etajima.hiroshima.jp/cms/
 -府中町,http://www.town.fuchu.hiroshima.jp/
+-海田町,http://www.town.kaita.lg.jp/
 +東広島市,https://www.city.higashihiroshima.lg.jp/
 +廿日市市,https://www.city.hatsukaichi.hiroshima.jp/
 +安芸高田市,https://www.akitakata.jp/
 +江田島市,https://www.city.etajima.hiroshima.jp/
 +府中町,https://www.town.fuchu.hiroshima.jp/
- 海田町,http://www.town.kaita.lg.jp/
++海田町,https://www.town.kaita.lg.jp/
  熊野町,http://www.town.kumano.hiroshima.jp/
  坂町,http://www.town.saka.lg.jp/
+ 安芸太田町,http://www.akiota.jp/
 @@ -1507,37 +1510,37 @@
  大崎上島町,http://www.town.osakikamijima.hiroshima.jp/
  世羅町,http://www.town.sera.hiroshima.jp/
