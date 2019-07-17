@@ -354,9 +354,10 @@
 -024252,http://www.kazamaura.jp/
 -024261,http://www.sai.e-shimokita.jp/
 -024261,http://www.sai.e-shimokita.jp
+-024414,http://www.town.sannohe.aomori.jp/
 +024252,https://www.kazamaura.jp/
 +024261,http://www.vill.sai.lg.jp/
- 024414,http://www.town.sannohe.aomori.jp/
++024414,https://www.town.sannohe.aomori.jp/
  024422,http://www.town.gonohe.aomori.jp/
 -024431,http://www.town.takko.aomori.jp/
 +024431,http://www.town.takko.lg.jp/
@@ -2418,12 +2419,13 @@
  336238,http://www.town.nagi.okayama.jp/
  336432,http://www.vill.nishiawakura.okayama.jp/
 -336637,http://www.town.kumenan.okayama.jp/index.html
-+336637,http://www.town.kumenan.okayama.jp/
- 336661,http://www.town.misaki.okayama.jp/
+-336661,http://www.town.misaki.okayama.jp/
 -336661,http://www.town.misaki.okayama.jp/‎
 -336815,http://www.kingparts.co.jp/users/r313/index.shtml
 -336815,http://www.town.kibichuo.lg.jp/
 -340006,http://www.pref.hiroshima.lg.jp/
++336637,http://www.town.kumenan.okayama.jp/
++336661,https://www.town.misaki.okayama.jp/
 +336815,https://www.town.kibichuo.lg.jp/
  341002,http://www.city.hiroshima.lg.jp/
 -342025,http://www.city.kure.lg.jp/
@@ -3093,7 +3095,8 @@
 -465259,http://www.amami-setouchi.org/
 +465259,https://www.town.setouchi.lg.jp/
  465275,http://www.town.tatsugo.lg.jp/
- 465291,http://www.town.kikai.lg.jp/
+-465291,http://www.town.kikai.lg.jp/
++465291,https://www.town.kikai.lg.jp/
  465305,http://www.tokunoshima-town.org/
 -465313,http://www.yui-amagi.com/
 +465313,https://www.town.amagi.lg.jp/
