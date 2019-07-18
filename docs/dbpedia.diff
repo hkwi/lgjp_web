@@ -670,7 +670,7 @@
  075019,http://www.town.ishikawa.fukushima.jp/
  075027,http://www.vill.tamakawa.fukushima.jp/
  075035,http://www.vill.hirata.fukushima.jp/
-@@ -423,397 +410,442 @@
+@@ -423,943 +410,1010 @@
  075051,http://www.town.furudono.fukushima.jp/
  075213,http://www.town.miharu.fukushima.jp/
  075221,http://www.town.ono.fukushima.jp/
@@ -1371,9 +1371,10 @@
  173240,http://www.town.kawakita.ishikawa.jp/
  173614,http://www.town.tsubata.ishikawa.jp/
  173657,http://www.town.uchinada.lg.jp/
-@@ -821,545 +853,567 @@
+ 173843,http://www.town.shika.lg.jp/
  173860,http://www.hodatsushimizu.jp/
- 174076,http://www.town.nakanoto.ishikawa.jp/
+-174076,http://www.town.nakanoto.ishikawa.jp/
++174076,https://www.town.nakanoto.ishikawa.jp/
  174611,http://www.town.anamizu.ishikawa.jp/
 -174637,http://www.town.noto.ishikawa.jp/
 -180009,http://www.pref.fukui.lg.jp
@@ -1403,7 +1404,7 @@
  184047,http://www.town.minamiechizen.lg.jp/
 -184233,http://www.town.echizen.fukui.jp/
 -184420,http://www.town.mihama.fukui.jp
-+184233,http://www.town.echizen.fukui.jp/index.html
++184233,https://www.town.echizen.fukui.jp/index.html
 +184420,http://www.town.mihama.fukui.jp/
  184811,http://www.town.takahama.fukui.jp/
 -184837,http://www.town.ohi.fukui.jp/sypher/www/normal_top.jsp
@@ -3101,8 +3102,9 @@
 -465313,http://www.yui-amagi.com/
 +465313,https://www.town.amagi.lg.jp/
  465321,http://www.town.isen.kagoshima.jp/
- 465330,http://www.town.wadomari.lg.jp/
+-465330,http://www.town.wadomari.lg.jp/
 -465348,http://www.town.china.lg.jp/
++465330,https://www.town.wadomari.lg.jp/
 +465348,https://www.town.china.lg.jp/
  465356,http://www.yoron.jp/
 -470007,http://www.pref.okinawa.lg.jp/
