@@ -515,6 +515,7 @@
 -053031,None
 -053279,http://www.vill.kamikoani.akita.jp/forms/top/top.aspx
 -053465,http://www.town.fujisato.akita.jp/index.html
+-053481,http://www.town.mitane.akita.jp/
 +052094,https://www.city.kazuno.akita.jp/
 +052108,https://www.city.yurihonjo.lg.jp/
 +052116,http://www.city.katagami.lg.jp/
@@ -525,7 +526,7 @@
 +053031,https://www.town.kosaka.akita.jp/
 +053279,https://www.vill.kamikoani.akita.jp/
 +053465,https://www.town.fujisato.akita.jp/
- 053481,http://www.town.mitane.akita.jp/
++053481,https://www.town.mitane.akita.jp/
  053490,http://www.town.happou.akita.jp/
 -053490,http://www.town.happou.akita.jp
  053619,http://www.town.gojome.akita.jp/
@@ -848,10 +849,11 @@
 -104213,http://www.town.nakanojo.gunma.jp/
 +104213,https://town.nakanojo.gunma.jp/
  104248,http://www.town.naganohara.gunma.jp/
- 104256,http://www.vill.tsumagoi.gunma.jp/
+-104256,http://www.vill.tsumagoi.gunma.jp/
 -104264,http://www.town.kusatsu.gunma.jp/
 -104281,http://www.vill.takayama.gunma.jp/
 -104299,http://www.town.higashiagatsuma.gunma.jp
++104256,https://www.vill.tsumagoi.gunma.jp/
 +104264,https://www.town.kusatsu.gunma.jp/
 +104281,https://vill.takayama.gunma.jp/
 +104299,http://www.town.higashiagatsuma.gunma.jp/
@@ -1078,11 +1080,13 @@
 +124109,http://www.town.yokoshibahikari.chiba.jp/
 +124214,https://www.town.ichinomiya.chiba.jp/
  124222,http://www.town.mutsuzawa.chiba.jp/
- 124231,http://www.vill.chosei.chiba.jp/
+-124231,http://www.vill.chosei.chiba.jp/
 -124249,http://www.town.shirako.chiba.jp/
-+124249,http://www.town.shirako.lg.jp/
- 124265,http://www.town.nagara.chiba.jp/
+-124265,http://www.town.nagara.chiba.jp/
 -124273,http://www.chonan-machi.jp/
++124231,https://www.vill.chosei.chiba.jp/
++124249,http://www.town.shirako.lg.jp/
++124265,https://www.town.nagara.chiba.jp/
 +124273,https://www.town.chonan.chiba.jp/
  124419,http://www.town.otaki.chiba.jp/
  124435,http://www.town.onjuku.chiba.jp/
@@ -1404,11 +1408,12 @@
  184047,http://www.town.minamiechizen.lg.jp/
 -184233,http://www.town.echizen.fukui.jp/
 -184420,http://www.town.mihama.fukui.jp
-+184233,https://www.town.echizen.fukui.jp/index.html
-+184420,http://www.town.mihama.fukui.jp/
- 184811,http://www.town.takahama.fukui.jp/
+-184811,http://www.town.takahama.fukui.jp/
 -184837,http://www.town.ohi.fukui.jp/sypher/www/normal_top.jsp
 -184837,http://www.town.ohi.fukui.jp
++184233,https://www.town.echizen.fukui.jp/index.html
++184420,http://www.town.mihama.fukui.jp/
++184811,https://www.town.takahama.fukui.jp/
 +184837,https://www.town.ohi.fukui.jp/
  185019,http://www.town.fukui-wakasa.lg.jp/
 -190004,http://www.pref.yamanashi.jp/
@@ -2300,7 +2305,8 @@
  303917,http://www.town.minabe.lg.jp/
  303925,http://www.town.hidakagawa.lg.jp/
  304018,http://www.town.shirahama.wakayama.jp/
- 304042,http://www.town.kamitonda.lg.jp/
+-304042,http://www.town.kamitonda.lg.jp/
++304042,https://www.town.kamitonda.lg.jp/
  304069,http://www.town.susami.lg.jp/
 -304212,http://www.town.nachikatsuura.wakayama.jp/
 -304221,http://www.town.taiji.wakayama.jp/index.html
