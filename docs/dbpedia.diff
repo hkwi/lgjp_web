@@ -621,16 +621,17 @@
 -072125,http://www.city.minamisoma.lg.jp/
 -072133,http://www.city.date.fukushima.jp/
 -072141,http://www.city.motomiya.lg.jp/
-+072125,https://www.city.minamisoma.lg.jp/
-+072133,https://www.city.fukushima-date.lg.jp/
-+072141,https://www.city.motomiya.lg.jp/
- 073016,http://www.town.koori.fukushima.jp/
+-073016,http://www.town.koori.fukushima.jp/
 -073032,http://www.town.kunimi.fukushima.jp/
 -073083,http://www.town.kawamata.lg.jp/
 -073229,https://www.vill.otama.fukushima.jp/index.html
 -073423,http://www.town.kagamiishi.fukushima.jp/
 -073440,http://www.vill.tenei.fukushima.jp/
 -073628,http://town.shimogo.fukushima.jp/
++072125,https://www.city.minamisoma.lg.jp/
++072133,https://www.city.fukushima-date.lg.jp/
++072141,https://www.city.motomiya.lg.jp/
++073016,https://www.town.koori.fukushima.jp/
 +073032,https://www.town.kunimi.fukushima.jp/
 +073083,https://www.town.kawamata.lg.jp/
 +073229,https://www.vill.otama.fukushima.jp/
@@ -1725,11 +1726,12 @@
 -223026,http://www.town.kawazu.shizuoka.jp
 -223042,http://www.town.minamiizu.shizuoka.jp/
 -223051,http://www.town.matsuzaki.shizuoka.jp/
-+223042,https://www.town.minamiizu.shizuoka.jp/
-+223051,https://www.town.matsuzaki.shizuoka.jp/
- 223069,http://www.town.nishiizu.shizuoka.jp/
+-223069,http://www.town.nishiizu.shizuoka.jp/
 -223255,http://www.town.kannami.shizuoka.jp/
 -223255,http://www.town.kannami.shizuoka.jp
++223042,https://www.town.minamiizu.shizuoka.jp/
++223051,https://www.town.matsuzaki.shizuoka.jp/
++223069,https://www.town.nishiizu.shizuoka.jp/
 +223255,https://www.town.kannami.shizuoka.jp/
  223417,http://www.town.shimizu.shizuoka.jp/
 -223425,http://japan.nagaizumi.org/
