@@ -2624,6 +2624,12 @@
 -384429,http://www.town.ikata.ehime.jp/
 -384844,http://www.town.matsuno.ehime.jp/
 -384887,http://www.town.kihoku.ehime.jp/
+-385069,http://www.town.ainan.ehime.jp/
+-390003,http://www.pref.kochi.lg.jp/
+-392014,http://www.city.kochi.kochi.jp/
+-392022,http://www.city.muroto.kochi.jp/
+-392031,http://www.city.aki.kochi.jp/
+-392049,http://www.city.nankoku.lg.jp/
 +383562,https://www.town.kamijima.lg.jp/
 +383864,https://www.kumakogen.jp/
 +384011,https://www.town.masaki.ehime.jp/
@@ -2632,12 +2638,7 @@
 +384429,https://www.town.ikata.ehime.jp/
 +384844,https://www.town.matsuno.ehime.jp/
 +384887,https://www.town.kihoku.ehime.jp/
- 385069,http://www.town.ainan.ehime.jp/
--390003,http://www.pref.kochi.lg.jp/
--392014,http://www.city.kochi.kochi.jp/
--392022,http://www.city.muroto.kochi.jp/
--392031,http://www.city.aki.kochi.jp/
--392049,http://www.city.nankoku.lg.jp/
++385069,https://www.town.ainan.ehime.jp/
 +392014,https://www.city.kochi.kochi.jp/
 +392022,https://www.city.muroto.kochi.jp/
 +392031,https://www.city.aki.kochi.jp/
@@ -2847,7 +2848,7 @@
 -422029,http://www.city.sasebo.nagasaki.jp/
 -422037,http://www.city.shimabara.lg.jp/
 -422045,http://www.city.isahaya.nagasaki.jp/
-+422029,http://www.city.sasebo.lg.jp/
++422029,https://www.city.sasebo.lg.jp/
 +422037,https://www.city.shimabara.lg.jp/
 +422045,https://www.city.isahaya.nagasaki.jp/
  422053,http://www.city.omura.nagasaki.jp/
