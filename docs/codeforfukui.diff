@@ -837,11 +837,12 @@
 +館山市,https://www.city.tateyama.chiba.jp/
 +木更津市,https://www.city.kisarazu.lg.jp/
  松戸市,https://www.city.matsudo.chiba.jp/
- 野田市,http://www.city.noda.chiba.jp/
+-野田市,http://www.city.noda.chiba.jp/
 -茂原市,http://www.city.mobara.chiba.jp/
 -成田市,http://www.city.narita.chiba.jp/
 -佐倉市,http://www.city.sakura.lg.jp/
 -東金市,http://www.city.togane.chiba.jp/
++野田市,https://www.city.noda.chiba.jp/
 +茂原市,https://www.city.mobara.chiba.jp/
 +成田市,https://www.city.narita.chiba.jp/
 +佐倉市,https://www.city.sakura.lg.jp/
@@ -1308,13 +1309,14 @@
 -塩尻市,http://www.city.shiojiri.lg.jp/
 -佐久市,http://www.city.saku.nagano.jp/
 -千曲市,http://www.city.chikuma.lg.jp/
+-東御市,http://www.city.tomi.nagano.jp/
+-安曇野市,http://www.city.azumino.nagano.jp/
 +飯山市,https://www.city.iiyama.nagano.jp/
 +茅野市,https://www.city.chino.lg.jp/
 +塩尻市,https://www.city.shiojiri.lg.jp/
 +佐久市,https://www.city.saku.nagano.jp/
 +千曲市,https://www.city.chikuma.lg.jp/
- 東御市,http://www.city.tomi.nagano.jp/
--安曇野市,http://www.city.azumino.nagano.jp/
++東御市,https://www.city.tomi.nagano.jp/
 +安曇野市,https://www.city.azumino.nagano.jp/
  小海町,http://www.koumi-town.jp/
 -川上村,http://www.vill.kawakami.nagano.jp/www/index.html
@@ -1588,10 +1590,11 @@
 +扶桑町,https://www.town.fuso.lg.jp/
  大治町,http://www.town.oharu.aichi.jp/
  蟹江町,http://www.town.kanie.aichi.jp/
- 飛島村,http://www.vill.tobishima.aichi.jp/
+-飛島村,http://www.vill.tobishima.aichi.jp/
 -阿久比町,http://www.town.agui.lg.jp/
 -東浦町,http://www.town.aichi-higashiura.lg.jp/
 -南知多町,http://www.town.minamichita.lg.jp/
++飛島村,https://www.vill.tobishima.aichi.jp/
 +阿久比町,https://www.town.agui.lg.jp/
 +東浦町,https://www.town.aichi-higashiura.lg.jp/
 +南知多町,https://www.town.minamichita.lg.jp/

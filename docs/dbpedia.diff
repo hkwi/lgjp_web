@@ -1005,15 +1005,16 @@
 -122050,http://www.city.tateyama.chiba.jp/
 -122068,http://www.city.kisarazu.lg.jp/
 -122076,http://www.city.matsudo.chiba.jp/
-+122041,https://www.city.funabashi.lg.jp/
-+122050,https://www.city.tateyama.chiba.jp/
-+122068,https://www.city.kisarazu.lg.jp/
-+122076,https://www.city.matsudo.chiba.jp/
- 122084,http://www.city.noda.chiba.jp/
+-122084,http://www.city.noda.chiba.jp/
 -122106,http://www.city.mobara.chiba.jp/
 -122114,http://www.city.narita.chiba.jp/
 -122122,http://www.city.sakura.chiba.jp/
 -122131,http://www.city.togane.chiba.jp/
++122041,https://www.city.funabashi.lg.jp/
++122050,https://www.city.tateyama.chiba.jp/
++122068,https://www.city.kisarazu.lg.jp/
++122076,https://www.city.matsudo.chiba.jp/
++122084,https://www.city.noda.chiba.jp/
 +122106,https://www.city.mobara.chiba.jp/
 +122114,https://www.city.narita.chiba.jp/
 +122122,https://www.city.sakura.lg.jp/
@@ -1497,16 +1498,17 @@
 -202151,http://www.city.shiojiri.nagano.jp/
 -202177,http://www.city.saku.nagano.jp/
 -202185,http://www.city.chikuma.lg.jp/
+-202193,http://www.city.tomi.nagano.jp/
+-202207,http://www.city.azumino.nagano.jp/
+-203033,http://www.koumi-town.jp/index.html
+-203041,http://www.vill.kawakami.nagano.jp/index.html
+-203050,http://www.minamimakimura.jp/yakuba/
 +202134,https://www.city.iiyama.nagano.jp/
 +202142,https://www.city.chino.lg.jp/
 +202151,https://www.city.shiojiri.lg.jp/
 +202177,https://www.city.saku.nagano.jp/
 +202185,https://www.city.chikuma.lg.jp/
- 202193,http://www.city.tomi.nagano.jp/
--202207,http://www.city.azumino.nagano.jp/
--203033,http://www.koumi-town.jp/index.html
--203041,http://www.vill.kawakami.nagano.jp/index.html
--203050,http://www.minamimakimura.jp/yakuba/
++202193,https://www.city.tomi.nagano.jp/
 +202207,https://www.city.azumino.nagano.jp/
 +203033,http://www.koumi-town.jp/
 +203041,http://www.vill.kawakami.nagano.jp/
@@ -1840,10 +1842,11 @@
 +233625,https://www.town.fuso.lg.jp/
  234249,http://www.town.oharu.aichi.jp/
  234257,http://www.town.kanie.aichi.jp/
- 234273,http://www.vill.tobishima.aichi.jp/
+-234273,http://www.vill.tobishima.aichi.jp/
 -234419,http://www.town.agui.lg.jp/
 -234427,http://www.town.aichi-higashiura.lg.jp/
 -234451,http://www.town.minamichita.lg.jp/
++234273,https://www.vill.tobishima.aichi.jp/
 +234419,https://www.town.agui.lg.jp/
 +234427,https://www.town.aichi-higashiura.lg.jp/
 +234451,https://www.town.minamichita.lg.jp/
