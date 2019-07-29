@@ -329,8 +329,9 @@
  奥州市,https://www.city.oshu.iwate.jp/
  滝沢市,http://www.city.takizawa.iwate.jp/
 -雫石町,http://www.town.shizukuishi.iwate.jp/
+-葛巻町,http://www.town.kuzumaki.iwate.jp/
 +雫石町,https://www.town.shizukuishi.iwate.jp/
- 葛巻町,http://www.town.kuzumaki.iwate.jp/
++葛巻町,https://www.town.kuzumaki.iwate.jp/
  岩手町,http://town.iwate.iwate.jp/
  紫波町,http://www.town.shiwa.iwate.jp/
 -矢巾町,http://www.town.yahaba.iwate.jp/
@@ -1433,10 +1434,11 @@
 +坂祝町,https://www.town.sakahogi.gifu.jp/
 +富加町,https://www.town.tomika.gifu.jp/
  川辺町,http://www.kawabe-gifu.jp/
- 七宗町,http://www.hichiso.jp/
+-七宗町,http://www.hichiso.jp/
++七宗町,https://www.hichiso.jp/
  八百津町,https://www.town.yaotsu.lg.jp/
 -白川町,http://www.town.shirakawa.lg.jp/forms/top/top.aspx
-+白川町,http://www.town.shirakawa.lg.jp/
++白川町,https://www.town.shirakawa.lg.jp/
  東白川村,https://www.vill.higashishirakawa.gifu.jp/
 -御嵩町,http://www.town.mitake.gifu.jp/index.cfm
 +御嵩町,http://www.town.mitake.gifu.jp/
@@ -2648,13 +2650,15 @@
 +姶良市,https://www.city.aira.lg.jp/
  三島村,http://mishimamura.com/
  十島村,http://www.tokara.jp/
- さつま町,http://www.satsuma-net.jp/
+-さつま町,http://www.satsuma-net.jp/
++さつま町,https://www.satsuma-net.jp/
  長島町,https://www.town.nagashima.lg.jp/
- 湧水町,http://www.town.yusui.kagoshima.jp/
+-湧水町,http://www.town.yusui.kagoshima.jp/
 -大崎町,http://www.town.kagoshima-osaki.lg.jp/
 -東串良町,http://www.higashikushira.com/main/html/
 -錦江町,http://www.town.kinko.lg.jp/
 -南大隅町,http://www.town.minamiosumi.lg.jp/
++湧水町,https://www.town.yusui.kagoshima.jp/
 +大崎町,https://www.town.kagoshima-osaki.lg.jp/
 +東串良町,http://www.higashikushira.com/
 +錦江町,https://www.town.kinko.lg.jp/

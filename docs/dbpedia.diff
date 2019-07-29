@@ -401,7 +401,7 @@
 +032158,https://www.city.oshu.iwate.jp/
 +032166,http://www.city.takizawa.iwate.jp/
 +033014,https://www.town.shizukuishi.iwate.jp/
-+033022,http://www.town.kuzumaki.iwate.jp/
++033022,https://www.town.kuzumaki.iwate.jp/
 +033031,http://town.iwate.iwate.jp/
 +033219,http://www.town.shiwa.iwate.jp/
 +033227,https://www.town.yahaba.iwate.jp/
@@ -1654,12 +1654,13 @@
 +215015,https://www.town.sakahogi.gifu.jp/
 +215023,https://www.town.tomika.gifu.jp/
  215031,http://www.kawabe-gifu.jp/
- 215040,http://www.hichiso.jp/
+-215040,http://www.hichiso.jp/
 -215058,http://www.town.yaotsu.gifu.jp/
 -215066,http://www.town.shirakawa.lg.jp/forms/top/top.aspx
 -215074,http://www.vill.higashishirakawa.gifu.jp/
++215040,https://www.hichiso.jp/
 +215058,https://www.town.yaotsu.lg.jp/
-+215066,http://www.town.shirakawa.lg.jp/
++215066,https://www.town.shirakawa.lg.jp/
 +215074,https://www.vill.higashishirakawa.gifu.jp/
  215210,http://www.town.mitake.gifu.jp/
 -216046,http://www.shirakawa-go.org/
@@ -3085,11 +3086,9 @@
 +462250,https://www.city.aira.lg.jp/
  463035,http://mishimamura.com/
 -463043,http://www.tokara.jp/index.html
-+463043,http://www.tokara.jp/
- 463922,http://www.satsuma-net.jp/
+-463922,http://www.satsuma-net.jp/
 -464040,http://www.town.nagashima.lg.jp/
-+464040,https://www.town.nagashima.lg.jp/
- 464520,http://www.town.yusui.kagoshima.jp/
+-464520,http://www.town.yusui.kagoshima.jp/
 -464686,http://www.town.kagoshima-osaki.lg.jp/
 -464821,http://www.higashikushira.com/main/html/
 -464902,http://www.town.kinko.lg.jp/
@@ -3098,6 +3097,10 @@
 -465011,http://town.nakatane.kagoshima.jp/
 -465020,http://town.minamitane.kagoshima.jp/
 -465054,http://www.town.yakushima.kagoshima.jp
++463043,http://www.tokara.jp/
++463922,https://www.satsuma-net.jp/
++464040,https://www.town.nagashima.lg.jp/
++464520,https://www.town.yusui.kagoshima.jp/
 +464686,https://www.town.kagoshima-osaki.lg.jp/
 +464821,http://www.higashikushira.com/
 +464902,https://www.town.kinko.lg.jp/
