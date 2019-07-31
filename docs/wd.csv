@@ -1430,7 +1430,7 @@ code,name,site
 303810,美浜町,http://www.town.mihama.wakayama.jp/
 303828,日高町,http://www.town.wakayama-hidaka.lg.jp/
 303836,由良町,http://www.town.yura.wakayama.jp/
-303909,印南町,http://www.town.wakayama-inami.lg.jp/
+303909,印南町,https://www.town.wakayama-inami.lg.jp/
 303917,みなべ町,http://www.town.minabe.lg.jp/
 303925,日高川町,http://www.town.hidakagawa.lg.jp/
 304018,白浜町,http://www.town.shirahama.wakayama.jp/
@@ -1460,7 +1460,7 @@ code,name,site
 313904,伯耆町,http://www.houki-town.jp/
 314013,日南町,http://www.town.nichinan.lg.jp/
 314021,日野町,https://www.town.hino.tottori.jp/
-314030,江府町,http://www.town-kofu.jp/
+314030,江府町,https://www.town-kofu.jp/
 320005,島根県,https://www.pref.shimane.lg.jp/
 322016,松江市,https://www.city.matsue.shimane.jp/
 322024,浜田市,http://www.city.hamada.shimane.jp/
@@ -1824,7 +1824,7 @@ code,name,site
 434825,芦北町,http://www.ashikita-t.kumamoto-sgn.jp/
 434841,津奈木町,http://www.town.tsunagi.lg.jp/
 435015,錦町,http://www.nishiki-machi.com/
-435058,多良木町,http://www.town.taragi.lg.jp/
+435058,多良木町,https://www.town.taragi.lg.jp/
 435066,湯前町,https://www.town.yunomae.lg.jp/
 435074,水上村,https://www.vill.mizukami.lg.jp/
 435104,相良村,https://www.vill.sagara.lg.jp/
@@ -1874,7 +1874,7 @@ code,name,site
 454061,都農町,https://www.town.tsuno.lg.jp/
 454214,門川町,https://www.town.kadogawa.lg.jp/
 454290,諸塚村,https://www.vill.morotsuka.miyazaki.jp/
-454303,椎葉村,http://www.vill.shiiba.miyazaki.jp/
+454303,椎葉村,https://www.vill.shiiba.miyazaki.jp/
 454311,美郷町,http://www.town.miyazaki-misato.lg.jp/
 454419,高千穂町,https://www.town-takachiho.jp/
 454427,日之影町,http://www.town.hinokage.lg.jp/

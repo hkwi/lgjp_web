@@ -2016,7 +2016,7 @@
  十津川村,https://www.vill.totsukawa.lg.jp/
  下北山村,http://www.vill.shimokitayama.nara.jp/
  上北山村,http://vill.kamikitayama.nara.jp/
-@@ -1383,16 +1386,16 @@
+@@ -1383,34 +1386,34 @@
  有田市,https://www.city.arida.lg.jp/
  御坊市,http://www.city.gobo.wakayama.jp/
  田辺市,http://www.city.tanabe.lg.jp/
@@ -2037,7 +2037,8 @@
  美浜町,http://www.town.mihama.wakayama.jp/
  日高町,http://www.town.wakayama-hidaka.lg.jp/
  由良町,http://www.town.yura.wakayama.jp/
-@@ -1400,17 +1403,17 @@
+-印南町,http://www.town.wakayama-inami.lg.jp/
++印南町,https://www.town.wakayama-inami.lg.jp/
  みなべ町,http://www.town.minabe.lg.jp/
  日高川町,http://www.town.hidakagawa.lg.jp/
  白浜町,http://www.town.shirahama.wakayama.jp/
@@ -2068,12 +2069,13 @@
  伯耆町,http://www.houki-town.jp/
  日南町,http://www.town.nichinan.lg.jp/
  日野町,https://www.town.hino.tottori.jp/
- 江府町,http://www.town-kofu.jp/
+-江府町,http://www.town-kofu.jp/
 -松江市,http://www.city.matsue.shimane.jp/
 -浜田市,http://www.city.hamada.shimane.jp/www/toppage/0000000000000/APM03000.html
 -出雲市,http://www.city.izumo.shimane.jp/www/toppage/0000000000000/APM03000.html
 -益田市,http://www.city.masuda.lg.jp/
 -大田市,http://www.city.ohda.lg.jp/
++江府町,https://www.town-kofu.jp/
 +松江市,https://www.city.matsue.shimane.jp/
 +浜田市,http://www.city.hamada.shimane.jp/
 +出雲市,http://www.city.izumo.shimane.jp/
@@ -2458,7 +2460,7 @@
  鹿島市,https://www.city.saga-kashima.lg.jp/
  小城市,http://www.city.ogi.lg.jp/
  嬉野市,https://www.city.ureshino.lg.jp/
-@@ -1716,65 +1719,65 @@
+@@ -1716,68 +1719,68 @@
  白石町,https://www.town.shiroishi.lg.jp/
  太良町,https://www.town.tara.lg.jp/
  長崎市,http://www.city.nagasaki.lg.jp/
@@ -2549,7 +2551,11 @@
 +芦北町,http://www.ashikita-t.kumamoto-sgn.jp/
  津奈木町,http://www.town.tsunagi.lg.jp/
  錦町,http://www.nishiki-machi.com/
- 多良木町,http://www.town.taragi.lg.jp/
+-多良木町,http://www.town.taragi.lg.jp/
++多良木町,https://www.town.taragi.lg.jp/
+ 湯前町,https://www.town.yunomae.lg.jp/
+ 水上村,https://www.vill.mizukami.lg.jp/
+ 相良村,https://www.vill.sagara.lg.jp/
 @@ -1787,130 +1790,130 @@
  あさぎり町,https://www.town.asagiri.lg.jp/
  苓北町,https://reihoku-kumamoto.jp/
@@ -2610,7 +2616,8 @@
 -門川町,http://www.town.kadogawa.lg.jp/
 +門川町,https://www.town.kadogawa.lg.jp/
  諸塚村,https://www.vill.morotsuka.miyazaki.jp/
- 椎葉村,http://www.vill.shiiba.miyazaki.jp/
+-椎葉村,http://www.vill.shiiba.miyazaki.jp/
++椎葉村,https://www.vill.shiiba.miyazaki.jp/
  美郷町,http://www.town.miyazaki-misato.lg.jp/
 -高千穂町,http://www.town-takachiho.jp/
 +高千穂町,https://www.town-takachiho.jp/
