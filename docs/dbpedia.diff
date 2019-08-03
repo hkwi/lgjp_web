@@ -313,10 +313,11 @@
  022055,http://www.city.goshogawara.lg.jp/
  022063,http://www.city.towada.lg.jp/
 -022071,http://www.city.misawa.lg.jp/index.cfm/1,html
-+022071,https://www.city.misawa.lg.jp/
- 022080,http://www.city.mutsu.lg.jp/
+-022080,http://www.city.mutsu.lg.jp/
 -022098,http://www.city.tsugaru.aomori.jp/
 -022101,http://www.city.hirakawa.lg.jp/index.html
++022071,https://www.city.misawa.lg.jp/
++022080,https://www.city.mutsu.lg.jp/
 +022098,https://www.city.tsugaru.aomori.jp/
 +022101,https://www.city.hirakawa.lg.jp/
  023019,http://www.town.hiranai.aomori.jp/
@@ -1838,6 +1839,7 @@
 -233421,http://www.town.toyoyama.lg.jp/
 -233617,http://www.town.oguchi.aichi.jp/
 -233625,http://www.town.fuso.lg.jp/
+-234249,http://www.town.oharu.aichi.jp/
 +232360,https://www.city.aichi-miyoshi.lg.jp/
 +232378,http://www.city.ama.aichi.jp/
 +232386,https://www.city.nagakute.lg.jp/
@@ -1845,7 +1847,7 @@
 +233421,https://www.town.toyoyama.lg.jp/
 +233617,https://www.town.oguchi.lg.jp/
 +233625,https://www.town.fuso.lg.jp/
- 234249,http://www.town.oharu.aichi.jp/
++234249,https://www.town.oharu.aichi.jp/
  234257,http://www.town.kanie.aichi.jp/
 -234273,http://www.vill.tobishima.aichi.jp/
 -234419,http://www.town.agui.lg.jp/
@@ -2762,7 +2764,7 @@
 -402290,http://www.city.miyama.lg.jp
 +402265,https://www.city.miyawaka.lg.jp/
 +402273,http://www.city.kama.lg.jp/
-+402281,http://www.city.asakura.lg.jp/
++402281,https://www.city.asakura.lg.jp/
  402290,http://www.city.miyama.lg.jp/
  402303,http://www.city.itoshima.lg.jp/
 -403059,http://www.town.fukuoka-nakagawa.lg.jp/

@@ -269,9 +269,10 @@
  五所川原市,http://www.city.goshogawara.lg.jp/
  十和田市,http://www.city.towada.lg.jp/
 -三沢市,http://www.city.misawa.lg.jp/
-+三沢市,https://www.city.misawa.lg.jp/
- むつ市,http://www.city.mutsu.lg.jp/
+-むつ市,http://www.city.mutsu.lg.jp/
 -つがる市,http://www.city.tsugaru.aomori.jp/
++三沢市,https://www.city.misawa.lg.jp/
++むつ市,https://www.city.mutsu.lg.jp/
 +つがる市,https://www.city.tsugaru.aomori.jp/
  平川市,https://www.city.hirakawa.lg.jp/
  平内町,http://www.town.hiranai.aomori.jp/
@@ -1592,12 +1593,13 @@
 -豊山町,http://www.town.toyoyama.lg.jp/
 -大口町,http://www.town.oguchi.aichi.jp/
 -扶桑町,http://www.town.fuso.lg.jp/
+-大治町,http://www.town.oharu.aichi.jp/
 +長久手市,https://www.city.nagakute.lg.jp/
 +東郷町,https://www.town.aichi-togo.lg.jp/
 +豊山町,https://www.town.toyoyama.lg.jp/
 +大口町,https://www.town.oguchi.lg.jp/
 +扶桑町,https://www.town.fuso.lg.jp/
- 大治町,http://www.town.oharu.aichi.jp/
++大治町,https://www.town.oharu.aichi.jp/
  蟹江町,http://www.town.kanie.aichi.jp/
 -飛島村,http://www.vill.tobishima.aichi.jp/
 -阿久比町,http://www.town.agui.lg.jp/
@@ -2414,7 +2416,7 @@
 +宮若市,https://www.city.miyawaka.lg.jp/
  嘉麻市,http://www.city.kama.lg.jp/
 -朝倉市,http://www.city.asakura.lg.jp/www/toppage/0000000000000/APM03000.html
-+朝倉市,http://www.city.asakura.lg.jp/
++朝倉市,https://www.city.asakura.lg.jp/
  みやま市,http://www.city.miyama.lg.jp/
  糸島市,http://www.city.itoshima.lg.jp/
 -那珂川町,https://www.city.nakagawa.lg.jp/
