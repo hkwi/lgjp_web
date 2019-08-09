@@ -566,7 +566,7 @@
 -土浦市,http://www.city.tsuchiura.lg.jp/index.html
 +水戸市,https://www.city.mito.lg.jp/
 +日立市,https://www.city.hitachi.lg.jp/
-+土浦市,http://www.city.tsuchiura.lg.jp/
++土浦市,https://www.city.tsuchiura.lg.jp/index.html
  古河市,https://www.city.ibaraki-koga.lg.jp/
 -石岡市,http://www.city.ishioka.lg.jp/
 +石岡市,https://www.city.ishioka.lg.jp/
@@ -1400,7 +1400,7 @@
  山ノ内町,http://www.town.yamanouchi.nagano.jp/
  木島平村,http://www.vill.kijimadaira.lg.jp/
  野沢温泉村,http://www.vill.nozawaonsen.nagano.jp/
-@@ -972,17 +975,17 @@
+@@ -972,19 +975,19 @@
  小川村,http://www.vill.ogawa.nagano.jp/
  飯綱町,https://www.town.iizuna.nagano.jp/
  栄村,http://www.vill.sakae.nagano.jp/
@@ -1421,8 +1421,11 @@
 +恵那市,https://www.city.ena.lg.jp/
 +美濃加茂市,http://www.city.minokamo.gifu.jp/
  土岐市,http://www.city.toki.lg.jp/
- 各務原市,http://www.city.kakamigahara.lg.jp/
+-各務原市,http://www.city.kakamigahara.lg.jp/
++各務原市,https://www.city.kakamigahara.lg.jp/
  可児市,http://www.city.kani.lg.jp/
+ 山県市,https://www.city.yamagata.gifu.jp/
+ 瑞穂市,http://www.city.mizuho.lg.jp/
 @@ -998,67 +1001,67 @@
  養老町,http://www.town.yoro.gifu.jp/
  垂井町,http://www.town.tarui.lg.jp/
@@ -2480,7 +2483,8 @@
 +佐世保市,https://www.city.sasebo.lg.jp/
 +島原市,https://www.city.shimabara.lg.jp/
  諫早市,https://www.city.isahaya.nagasaki.jp/
- 大村市,http://www.city.omura.nagasaki.jp/
+-大村市,http://www.city.omura.nagasaki.jp/
++大村市,https://www.city.omura.nagasaki.jp/
  平戸市,https://www.city.hirado.nagasaki.jp/
 -松浦市,http://www.city-matsuura.jp/www/toppage/0000000000000/APM03000.html
 +松浦市,https://www.city-matsuura.jp/

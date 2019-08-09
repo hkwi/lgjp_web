@@ -697,6 +697,10 @@
 -080004,http://www.pref.ibaraki.lg.jp/
 -082015,http://www.city.mito.lg.jp/
 -082023,http://www.city.hitachi.lg.jp/
+-082031,http://www.city.tsuchiura.lg.jp/
+-082040,http://www.city.ibaraki-koga.lg.jp/
+-082058,http://www.city.ishioka.lg.jp/
+-082074,http://www.city.yuki.lg.jp/index.html
 +075451,https://www.town.okuma.fukushima.jp/
 +075469,https://www.town.fukushima-futaba.lg.jp/
 +075477,https://www.town.namie.fukushima.jp/
@@ -705,10 +709,7 @@
 +075647,http://www.vill.iitate.fukushima.jp/
 +082015,https://www.city.mito.lg.jp/
 +082023,https://www.city.hitachi.lg.jp/
- 082031,http://www.city.tsuchiura.lg.jp/
--082040,http://www.city.ibaraki-koga.lg.jp/
--082058,http://www.city.ishioka.lg.jp/
--082074,http://www.city.yuki.lg.jp/index.html
++082031,https://www.city.tsuchiura.lg.jp/index.html
 +082040,https://www.city.ibaraki-koga.lg.jp/
 +082058,https://www.city.ishioka.lg.jp/
  082074,http://www.city.yuki.lg.jp/
@@ -1624,7 +1625,8 @@
 +212105,https://www.city.ena.lg.jp/
  212113,http://www.city.minokamo.gifu.jp/
  212121,http://www.city.toki.lg.jp/
- 212130,http://www.city.kakamigahara.lg.jp/
+-212130,http://www.city.kakamigahara.lg.jp/
++212130,https://www.city.kakamigahara.lg.jp/
  212148,http://www.city.kani.lg.jp/
 -212156,http://www.city.yamagata.gifu.jp/
 +212156,https://www.city.yamagata.gifu.jp/
@@ -2861,12 +2863,13 @@
 -422029,http://www.city.sasebo.nagasaki.jp/
 -422037,http://www.city.shimabara.lg.jp/
 -422045,http://www.city.isahaya.nagasaki.jp/
+-422053,http://www.city.omura.nagasaki.jp/
+-422070,http://www.city.hirado.nagasaki.jp/
+-422088,http://www.city-matsuura.jp/
 +422029,https://www.city.sasebo.lg.jp/
 +422037,https://www.city.shimabara.lg.jp/
 +422045,https://www.city.isahaya.nagasaki.jp/
- 422053,http://www.city.omura.nagasaki.jp/
--422070,http://www.city.hirado.nagasaki.jp/
--422088,http://www.city-matsuura.jp/
++422053,https://www.city.omura.nagasaki.jp/
 +422070,https://www.city.hirado.nagasaki.jp/
 +422088,https://www.city-matsuura.jp/
  422096,http://www.city.tsushima.nagasaki.jp/
