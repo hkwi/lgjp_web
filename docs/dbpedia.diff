@@ -202,7 +202,7 @@
  015121,http://www.town.hamatonbetsu.hokkaido.jp/
  015130,http://www.town.nakatombetsu.hokkaido.jp/
 -015148,http://www.town.esashi.hokkaido.jp/
-+015148,http://www.esashi.jp/
++015148,https://www.esashi.jp/
  015164,http://www.town.toyotomi.hokkaido.jp/
 -015172,http://www.town.rebun.hokkaido.jp/
 +015172,https://www.town.rebun.hokkaido.jp/
@@ -349,7 +349,7 @@
  024058,http://www.town.rokunohe.aomori.jp/
  024066,http://www.town.yokohama.lg.jp/
  024082,http://www.town.tohoku.lg.jp/
-@@ -220,1146 +219,1202 @@
+@@ -220,1146 +219,1201 @@
  024121,http://www.town.oirase.aomori.jp/
  024236,http://www.town.ooma.lg.jp/
  024244,http://www.vill.higashidoori.lg.jp/
@@ -531,8 +531,9 @@
 +053481,https://www.town.mitane.akita.jp/
  053490,http://www.town.happou.akita.jp/
 -053490,http://www.town.happou.akita.jp
- 053619,http://www.town.gojome.akita.jp/
+-053619,http://www.town.gojome.akita.jp/
 -053635,None
++053619,https://www.town.gojome.akita.jp/
 +053635,https://www.town.hachirogata.akita.jp/
  053660,http://www.town.ikawa.akita.jp/
 -053686,http://www.ogata.or.jp/index.html
@@ -1314,7 +1315,6 @@
 -152242,http://www.sado-longride.com/index.html
 -152242,http://www.city.sado.niigata.jp/
 -152251,http://www.city.uonuma.niigata.jp/
-+152242,https://www.city.sado.niigata.jp/
 +152242,https://www.city.sado.niigata.jp/
 +152251,https://www.city.uonuma.niigata.jp/
  152269,http://www.city.minamiuonuma.niigata.jp/
@@ -2355,7 +2355,7 @@
  313025,http://www.iwami.gr.jp/
  313254,http://www.town.wakasa.tottori.jp/
  313289,http://www1.town.chizu.tottori.jp/
-@@ -1368,509 +1423,498 @@
+@@ -1368,509 +1422,498 @@
  313700,http://www.yurihama.jp/
  313718,http://www.town.kotoura.tottori.jp/
  313726,http://www.e-hokuei.net/
