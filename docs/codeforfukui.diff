@@ -187,10 +187,11 @@
 -津別町,http://www.town.tsubetsu.hokkaido.jp/
 -斜里町,http://www.town.shari.hokkaido.jp/
 -清里町,http://www.town.kiyosato.hokkaido.jp/
+-小清水町,http://www.town.koshimizu.hokkaido.jp/
 +津別町,https://www.town.tsubetsu.hokkaido.jp/
 +斜里町,https://www.town.shari.hokkaido.jp/
 +清里町,https://www.town.kiyosato.hokkaido.jp/
- 小清水町,http://www.town.koshimizu.hokkaido.jp/
++小清水町,https://www.town.koshimizu.hokkaido.jp/
  訓子府町,http://www.town.kunneppu.hokkaido.jp/
  置戸町,http://www.town.oketo.hokkaido.jp/
 -佐呂間町,http://www.town.saroma.hokkaido.jp/
@@ -1096,7 +1097,8 @@
 +南足柄市,https://www.city.minamiashigara.kanagawa.jp/
 +綾瀬市,https://www.city.ayase.kanagawa.jp/
  葉山町,http://www.town.hayama.lg.jp/
- 寒川町,http://www.town.samukawa.kanagawa.jp/
+-寒川町,http://www.town.samukawa.kanagawa.jp/
++寒川町,https://www.town.samukawa.kanagawa.jp/
  大磯町,http://www.town.oiso.kanagawa.jp/
  二宮町,http://www.town.ninomiya.kanagawa.jp/
 -中井町,https://www.town.nakai.kanagawa.jp/forms/top/top.aspx
@@ -2629,10 +2631,11 @@
 +高原町,https://www.town.takaharu.lg.jp/
  国富町,http://www.town.kunitomi.miyazaki.jp/
 -綾町,http://www.town.aya.miyazaki.jp/ayatown/
-+綾町,https://www.town.aya.miyazaki.jp/
- 高鍋町,http://www.town.takanabe.miyazaki.jp/
+-高鍋町,http://www.town.takanabe.miyazaki.jp/
 -新富町,http://www.town.shintomi.miyazaki.jp/
 -西米良村,http://www.vill.nishimera.lg.jp/
++綾町,https://www.town.aya.miyazaki.jp/
++高鍋町,https://www.town.takanabe.lg.jp/
 +新富町,http://www.town.shintomi.lg.jp/
 +西米良村,https://www.vill.nishimera.lg.jp/
  木城町,http://www.kijo.jp/

@@ -217,7 +217,7 @@
 +015440,https://www.town.tsubetsu.hokkaido.jp/
 +015458,https://www.town.shari.hokkaido.jp/
 +015466,https://www.town.kiyosato.hokkaido.jp/
-+015474,http://www.town.koshimizu.hokkaido.jp/
++015474,https://www.town.koshimizu.hokkaido.jp/
  015491,http://www.town.kunneppu.hokkaido.jp/
  015504,http://www.town.oketo.hokkaido.jp/
 -015521,http://www.town.saroma.hokkaido.jp/index.html
@@ -1249,10 +1249,11 @@
 -142174,http://www.city.minamiashigara.kanagawa.jp/index.html
 -142182,http://www.city.ayase.kanagawa.jp/
 -143014,http://town.hayama.lg.jp/
+-143219,http://www.town.samukawa.kanagawa.jp/
 +142174,https://www.city.minamiashigara.kanagawa.jp/
 +142182,https://www.city.ayase.kanagawa.jp/
 +143014,http://www.town.hayama.lg.jp/
- 143219,http://www.town.samukawa.kanagawa.jp/
++143219,https://www.town.samukawa.kanagawa.jp/
  143413,http://www.town.oiso.kanagawa.jp/
  143421,http://www.town.ninomiya.kanagawa.jp/
 -143618,http://www.town.nakai.kanagawa.jp/
@@ -3043,10 +3044,11 @@
 +453617,https://www.town.takaharu.lg.jp/
  453820,http://www.town.kunitomi.miyazaki.jp/
 -453838,http://www.town.aya.miyazaki.jp/ayatown/
-+453838,https://www.town.aya.miyazaki.jp/
- 454010,http://www.town.takanabe.miyazaki.jp/
+-454010,http://www.town.takanabe.miyazaki.jp/
 -454028,http://www.town.shintomi.miyazaki.jp/
 -454036,http://www.nishimera.jp/
++453838,https://www.town.aya.miyazaki.jp/
++454010,https://www.town.takanabe.lg.jp/
 +454028,http://www.town.shintomi.lg.jp/
 +454036,https://www.vill.nishimera.lg.jp/
  454044,http://www.kijo.jp/
