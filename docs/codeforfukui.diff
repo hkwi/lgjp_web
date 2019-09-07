@@ -759,9 +759,10 @@
  東松山市,http://www.city.higashimatsuyama.lg.jp/
 -春日部市,http://www.city.kasukabe.lg.jp/
 -狭山市,http://www.city.sayama.saitama.jp/
+-羽生市,http://www.city.hanyu.lg.jp/
 +春日部市,https://www.city.kasukabe.lg.jp/
 +狭山市,https://www.city.sayama.saitama.jp/
- 羽生市,http://www.city.hanyu.lg.jp/
++羽生市,https://www.city.hanyu.lg.jp/
  鴻巣市,http://www.city.kounosu.saitama.jp/
  深谷市,http://www.city.fukaya.saitama.jp/
 -上尾市,http://www.city.ageo.lg.jp/
@@ -929,9 +930,10 @@
  鋸南町,http://www.town.kyonan.chiba.jp/
 -千代田区,http://www.city.chiyoda.lg.jp/
 -中央区,http://www.city.chuo.lg.jp/
+-港区,http://www.city.minato.tokyo.jp/
 +千代田区,https://www.city.chiyoda.lg.jp/
 +中央区,https://www.city.chuo.lg.jp/
- 港区,http://www.city.minato.tokyo.jp/
++港区,https://www.city.minato.tokyo.jp/
  新宿区,http://www.city.shinjuku.lg.jp/
  文京区,https://www.city.bunkyo.lg.jp/
  台東区,http://www.city.taito.lg.jp/
@@ -2262,8 +2264,9 @@
 +徳島市,https://www.city.tokushima.tokushima.jp/
  鳴門市,https://www.city.naruto.tokushima.jp/
  小松島市,https://www.city.komatsushima.tokushima.jp/
- 阿南市,http://www.city.anan.tokushima.jp/
+-阿南市,http://www.city.anan.tokushima.jp/
 -吉野川市,http://www.city.yoshinogawa.lg.jp/
++阿南市,https://www.city.anan.tokushima.jp/
 +吉野川市,https://www.city.yoshinogawa.lg.jp/
  阿波市,https://www.city.awa.lg.jp/
  美馬市,http://www.city.mima.lg.jp/
