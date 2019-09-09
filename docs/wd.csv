@@ -998,7 +998,7 @@ code,name,site
 206024,栄村,http://www.vill.sakae.nagano.jp/
 210005,岐阜県,https://www.pref.gifu.lg.jp/
 212016,岐阜市,https://www.city.gifu.lg.jp/
-212024,大垣市,http://www.city.ogaki.lg.jp/
+212024,大垣市,https://www.city.ogaki.lg.jp/
 212032,高山市,http://www.city.takayama.lg.jp/
 212041,多治見市,https://www.city.tajimi.lg.jp/
 212059,関市,http://www.city.seki.gifu.jp/
@@ -1345,7 +1345,7 @@ code,name,site
 282146,宝塚市,http://www.city.takarazuka.hyogo.jp/
 282154,三木市,https://www.city.miki.lg.jp/
 282162,高砂市,http://www.city.takasago.lg.jp/
-282171,川西市,http://www.city.kawanishi.hyogo.jp/
+282171,川西市,https://www.city.kawanishi.hyogo.jp/
 282189,小野市,https://www.city.ono.hyogo.jp/
 282197,三田市,https://www.city.sanda.lg.jp/
 282201,加西市,http://www.city.kasai.hyogo.jp/
@@ -1782,7 +1782,7 @@ code,name,site
 423831,小値賀町,http://ojika.net/
 423912,佐々町,http://www.sazacho-nagasaki.jp/
 424111,新上五島町,http://official.shinkamigoto.net/
-430005,熊本県,http://www.pref.kumamoto.jp
+430005,熊本県,https://www.pref.kumamoto.jp/
 431001,熊本市,http://www.city.kumamoto.jp/
 431010,中央区,http://www.city.kumamoto.jp/chuo/
 431028,東区,http://www.city.kumamoto.jp/higashi/
@@ -1862,7 +1862,7 @@ code,name,site
 452076,串間市,http://www.city.kushima.lg.jp/
 452084,西都市,http://www.saito-city.jp/
 452092,えびの市,https://www.city.ebino.lg.jp/
-453412,三股町,http://www.town.mimata.lg.jp/
+453412,三股町,https://www.town.mimata.lg.jp/
 453617,高原町,https://www.town.takaharu.lg.jp/
 453820,国富町,http://www.town.kunitomi.miyazaki.jp/
 453838,綾町,https://www.town.aya.miyazaki.jp/
@@ -1943,7 +1943,7 @@ code,name,site
 473111,恩納村,https://www.vill.onna.okinawa.jp/
 473138,宜野座村,http://www.vill.ginoza.okinawa.jp/
 473146,金武町,https://www.city.naha.okinawa.jp/
-473154,伊江村,http://www.iejima.org/
+473154,伊江村,https://www.iejima.org/
 473243,読谷村,http://www.yomitan.jp/
 473251,嘉手納町,http://www.town.kadena.okinawa.jp/
 473260,北谷町,https://www.chatan.jp/

@@ -1422,8 +1422,9 @@
  飯綱町,https://www.town.iizuna.nagano.jp/
  栄村,http://www.vill.sakae.nagano.jp/
 -岐阜市,http://www.city.gifu.lg.jp/
+-大垣市,http://www.city.ogaki.lg.jp/
 +岐阜市,https://www.city.gifu.lg.jp/
- 大垣市,http://www.city.ogaki.lg.jp/
++大垣市,https://www.city.ogaki.lg.jp/
  高山市,http://www.city.takayama.lg.jp/
 -多治見市,http://www.city.tajimi.lg.jp/
 +多治見市,https://www.city.tajimi.lg.jp/
@@ -1940,9 +1941,10 @@
  宝塚市,http://www.city.takarazuka.hyogo.jp/
 -三木市,http://www.city.miki.lg.jp/
 -高砂市,http://www.city.takasago.hyogo.jp/
+-川西市,http://www.city.kawanishi.hyogo.jp/
 +三木市,https://www.city.miki.lg.jp/
 +高砂市,http://www.city.takasago.lg.jp/
- 川西市,http://www.city.kawanishi.hyogo.jp/
++川西市,https://www.city.kawanishi.hyogo.jp/
  小野市,https://www.city.ono.hyogo.jp/
 -三田市,http://www.city.sanda.lg.jp/
 +三田市,https://www.city.sanda.lg.jp/
@@ -2633,9 +2635,10 @@
  串間市,http://www.city.kushima.lg.jp/
  西都市,http://www.saito-city.jp/
 -えびの市,http://www.city.ebino.lg.jp/
-+えびの市,https://www.city.ebino.lg.jp/
- 三股町,http://www.town.mimata.lg.jp/
+-三股町,http://www.town.mimata.lg.jp/
 -高原町,http://www.town.takaharu.lg.jp/
++えびの市,https://www.city.ebino.lg.jp/
++三股町,https://www.town.mimata.lg.jp/
 +高原町,https://www.town.takaharu.lg.jp/
  国富町,http://www.town.kunitomi.miyazaki.jp/
 -綾町,http://www.town.aya.miyazaki.jp/ayatown/
@@ -2755,8 +2758,9 @@
 +恩納村,https://www.vill.onna.okinawa.jp/
  宜野座村,http://www.vill.ginoza.okinawa.jp/
 -金武町,http://www.town.kin.okinawa.jp/
+-伊江村,http://www.iejima.org/
 +金武町,https://www.city.naha.okinawa.jp/
- 伊江村,http://www.iejima.org/
++伊江村,https://www.iejima.org/
  読谷村,http://www.yomitan.jp/
  嘉手納町,http://www.town.kadena.okinawa.jp/
 -北谷町,http://www.chatan.jp/
