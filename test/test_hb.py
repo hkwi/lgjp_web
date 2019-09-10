@@ -66,11 +66,12 @@ class TestAccess(unittest.TestCase):
 		  OPTIONAL {
 		    ?s p:P856 ?stmt .
 		    ?stmt ps:P856 ?site . # 公式サイト
+		    FILTER NOT EXISTS { ?stmt pq:P642 ?x } # ～についての
+		    FILTER NOT EXISTS { ?stmt pq:P582 ?y } # 終了日
 		  }
 		 FILTER ( lang(?name)="ja" )
 		 FILTER NOT EXISTS { ?s wdt:P31 wd:Q18663566 } # 分類 日本の廃止市町村
 		 FILTER NOT EXISTS { ?s wdt:P31 wd:Q850450 } # 分類 支庁
-		 FILTER NOT EXISTS { ?stmt pq:P642 ?x } # ～についての
 		} ORDER BY ?code ?site
 		''')
 		
@@ -79,7 +80,7 @@ class TestAccess(unittest.TestCase):
 			
 			info = {"qname": str(qname), "site": str(site), "hint": []}
 			try:
-				r = requests.get(str(site)) # HEAD does not work
+				r = requests.get(str(site), timeout=30) # HEAD does not work
 				assert r.ok, r.reason
 				info["land"] = r.url
 				
