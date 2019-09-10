@@ -1618,10 +1618,11 @@
 -206024,http://www.vill.sakae.nagano.jp/index.html
 -210005,http://www.pref.gifu.lg.jp/
 -212016,http://www.city.gifu.lg.jp/
+-212024,http://www.city.ogaki.lg.jp/
 +205907,https://www.town.iizuna.nagano.jp/
 +206024,http://www.vill.sakae.nagano.jp/
 +212016,https://www.city.gifu.lg.jp/
- 212024,http://www.city.ogaki.lg.jp/
++212024,https://www.city.ogaki.lg.jp/
  212032,http://www.city.takayama.lg.jp/
 -212041,http://www.city.tajimi.lg.jp/
 +212041,https://www.city.tajimi.lg.jp/
@@ -2168,11 +2169,12 @@
  282146,http://www.city.takarazuka.hyogo.jp/
 -282154,http://www.city.miki.lg.jp/
 -282162,http://www.city.takasago.hyogo.jp/
-+282154,https://www.city.miki.lg.jp/
-+282162,http://www.city.takasago.lg.jp/
- 282171,http://www.city.kawanishi.hyogo.jp/
+-282171,http://www.city.kawanishi.hyogo.jp/
 -282189,http://www.city.ono.hyogo.jp/
 -282197,http://www.city.sanda.lg.jp/
++282154,https://www.city.miki.lg.jp/
++282162,http://www.city.takasago.lg.jp/
++282171,https://www.city.kawanishi.hyogo.jp/
 +282189,https://www.city.ono.hyogo.jp/
 +282197,https://www.city.sanda.lg.jp/
  282201,http://www.city.kasai.hyogo.jp/
@@ -3045,7 +3047,7 @@
 -453617,http://www.town.takaharu.miyazaki.jp/
 +452084,http://www.saito-city.jp/
 +452092,https://www.city.ebino.lg.jp/
-+453412,http://www.town.mimata.lg.jp/
++453412,https://www.town.mimata.lg.jp/
 +453617,https://www.town.takaharu.lg.jp/
  453820,http://www.town.kunitomi.miyazaki.jp/
 -453838,http://www.town.aya.miyazaki.jp/ayatown/
@@ -3189,7 +3191,7 @@
 -473154,http://www.iejima.org/ieson/
 -473243,http://www.vill.yomitan.okinawa.jp/
 +473146,https://www.city.naha.okinawa.jp/
-+473154,http://www.iejima.org/
++473154,https://www.iejima.org/
 +473243,http://www.yomitan.jp/
  473251,http://www.town.kadena.okinawa.jp/
 -473260,http://www.chatan.jp/
