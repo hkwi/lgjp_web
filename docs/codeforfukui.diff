@@ -1471,10 +1471,14 @@
 -御嵩町,http://www.town.mitake.gifu.jp/index.cfm
 +御嵩町,http://www.town.mitake.gifu.jp/
  白川村,http://shirakawa-go.org/
- 静岡市,http://www.city.shizuoka.jp/
- 葵区,http://www.city.shizuoka.jp/aoi.html
- 駿河区,http://www.city.shizuoka.jp/suruga.html
- 清水区,http://www.city.shizuoka.jp/shimizu.html
+-静岡市,http://www.city.shizuoka.jp/
+-葵区,http://www.city.shizuoka.jp/aoi.html
+-駿河区,http://www.city.shizuoka.jp/suruga.html
+-清水区,http://www.city.shizuoka.jp/shimizu.html
++静岡市,https://www.city.shizuoka.lg.jp/
++葵区,https://www.city.shizuoka.lg.jp/aoi.html
++駿河区,https://www.city.shizuoka.lg.jp/suruga.html
++清水区,https://www.city.shizuoka.lg.jp/shimizu.html
  浜松市,https://www.city.hamamatsu.shizuoka.jp/
 -中区,https://www.city.hamamatsu.shizuoka.jp/c-shinko/ward/nakaku/index.html
 -東区,https://www.city.hamamatsu.shizuoka.jp/e-shinko/ward/higashiku/index.html
@@ -1691,7 +1695,7 @@
 -長浜市,http://www.city.nagahama.lg.jp/
 +紀宝町,https://www.town.kiho.lg.jp/
 +大津市,https://www.city.otsu.lg.jp/
-+彦根市,https://www.city.hikone.shiga.jp/
++彦根市,https://www.city.hikone.lg.jp/
 +長浜市,https://www.city.nagahama.lg.jp/
  近江八幡市,http://www.city.omihachiman.shiga.jp/
 -草津市,http://www.city.kusatsu.shiga.jp/
@@ -2353,11 +2357,13 @@
  安芸市,https://www.city.aki.kochi.jp/
  南国市,https://www.city.nankoku.lg.jp/
  土佐市,http://www.city.tosa.lg.jp/
-@@ -1601,14 +1604,14 @@
+@@ -1600,15 +1603,15 @@
+ 香美市,https://www.city.kami.lg.jp/
  東洋町,http://www.town.toyo.kochi.jp/
  奈半利町,http://www.town.nahari.kochi.jp/
- 田野町,http://www.chugei.or.jp/tano/
+-田野町,http://www.chugei.or.jp/tano/
 -安田町,http://www.town.yasuda.kochi.jp/
++田野町,http://tanocho.jp/
 +安田町,https://www.town.yasuda.kochi.jp/
  北川村,http://www.kitagawamura.jp/
  馬路村,http://www.vill.umaji.kochi.jp/

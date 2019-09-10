@@ -1040,10 +1040,10 @@ code,name,site
 215210,御嵩町,http://www.town.mitake.gifu.jp/
 216046,白川村,http://shirakawa-go.org/
 220001,静岡県,https://www.pref.shizuoka.jp
-221007,静岡市,http://www.city.shizuoka.jp/
-221015,葵区,http://www.city.shizuoka.jp/aoi.html
-221023,駿河区,http://www.city.shizuoka.jp/suruga.html
-221031,清水区,http://www.city.shizuoka.jp/shimizu.html
+221007,静岡市,https://www.city.shizuoka.lg.jp/
+221015,葵区,https://www.city.shizuoka.lg.jp/aoi.html
+221023,駿河区,https://www.city.shizuoka.lg.jp/suruga.html
+221031,清水区,https://www.city.shizuoka.lg.jp/shimizu.html
 221309,浜松市,https://www.city.hamamatsu.shizuoka.jp/
 221317,中区,https://www.city.hamamatsu.shizuoka.jp/c-shinko/ward/nakaku/
 221325,東区,https://www.city.hamamatsu.shizuoka.jp/e-shinko/ward/higashiku/
@@ -1188,7 +1188,7 @@ code,name,site
 245623,紀宝町,https://www.town.kiho.lg.jp/
 250007,滋賀県,https://www.pref.shiga.lg.jp/
 252018,大津市,https://www.city.otsu.lg.jp/
-252026,彦根市,https://www.city.hikone.shiga.jp/
+252026,彦根市,https://www.city.hikone.lg.jp/
 252034,長浜市,https://www.city.nagahama.lg.jp/
 252042,近江八幡市,http://www.city.omihachiman.shiga.jp/
 252069,草津市,https://www.city.kusatsu.shiga.jp/
@@ -1643,7 +1643,7 @@ code,name,site
 392120,香美市,https://www.city.kami.lg.jp/
 393011,東洋町,http://www.town.toyo.kochi.jp/
 393029,奈半利町,http://www.town.nahari.kochi.jp/
-393037,田野町,http://www.chugei.or.jp/tano/
+393037,田野町,http://tanocho.jp/
 393045,安田町,https://www.town.yasuda.kochi.jp/
 393053,北川村,http://www.kitagawamura.jp/
 393061,馬路村,http://www.vill.umaji.kochi.jp/

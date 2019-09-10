@@ -1690,10 +1690,10 @@
 -222038,http://www.city.numazu.shizuoka.jp/
 -222054,http://www.city.atami.shizuoka.jp/
 +216046,http://shirakawa-go.org/
-+221007,http://www.city.shizuoka.jp/
-+221015,http://www.city.shizuoka.jp/aoi.html
-+221023,http://www.city.shizuoka.jp/suruga.html
-+221031,http://www.city.shizuoka.jp/shimizu.html
++221007,https://www.city.shizuoka.lg.jp/
++221015,https://www.city.shizuoka.lg.jp/aoi.html
++221023,https://www.city.shizuoka.lg.jp/suruga.html
++221031,https://www.city.shizuoka.lg.jp/shimizu.html
 +221309,https://www.city.hamamatsu.shizuoka.jp/
 +221317,https://www.city.hamamatsu.shizuoka.jp/c-shinko/ward/nakaku/
 +221325,https://www.city.hamamatsu.shizuoka.jp/e-shinko/ward/higashiku/
@@ -1945,7 +1945,7 @@
 -252093,http://www.ja-koukagun.jp/
 +245623,https://www.town.kiho.lg.jp/
 +252018,https://www.city.otsu.lg.jp/
-+252026,https://www.city.hikone.shiga.jp/
++252026,https://www.city.hikone.lg.jp/
 +252034,https://www.city.nagahama.lg.jp/
 +252042,http://www.city.omihachiman.shiga.jp/
 +252069,https://www.city.kusatsu.shiga.jp/
@@ -2687,8 +2687,9 @@
 +392120,https://www.city.kami.lg.jp/
 +393011,http://www.town.toyo.kochi.jp/
  393029,http://www.town.nahari.kochi.jp/
- 393037,http://www.chugei.or.jp/tano/
+-393037,http://www.chugei.or.jp/tano/
 -393045,http://www.town.yasuda.kochi.jp/
++393037,http://tanocho.jp/
 +393045,https://www.town.yasuda.kochi.jp/
  393053,http://www.kitagawamura.jp/
 -393061,http://www.vill.umaji.kochi.jp/html/index.htm

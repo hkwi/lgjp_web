@@ -204,6 +204,21 @@
  根羽村,nebamura.jp
  下條村,www.vill-shimojo.jp
  売木村,www.urugi.jp
+@@ -1014,10 +1017,10 @@
+ 東白川村,www.vill.higashishirakawa.gifu.jp
+ 御嵩町,www.town.mitake.gifu.jp
+ 白川村,shirakawa-go.org
+-静岡市,www.city.shizuoka.jp
+-葵区,www.city.shizuoka.jp
+-駿河区,www.city.shizuoka.jp
+-清水区,www.city.shizuoka.jp
++静岡市,www.city.shizuoka.lg.jp
++葵区,www.city.shizuoka.lg.jp
++駿河区,www.city.shizuoka.lg.jp
++清水区,www.city.shizuoka.lg.jp
+ 浜松市,www.city.hamamatsu.shizuoka.jp
+ 中区,www.city.hamamatsu.shizuoka.jp
+ 東区,www.city.hamamatsu.shizuoka.jp
 @@ -1054,7 +1057,7 @@
  西伊豆町,www.town.nishiizu.shizuoka.jp
  函南町,www.town.kannami.shizuoka.jp
@@ -240,6 +255,15 @@
  伊勢市,www.city.ise.mie.jp
  松阪市,www.city.matsusaka.mie.jp
  桑名市,www.city.kuwana.lg.jp
+@@ -1159,7 +1162,7 @@
+ 御浜町,www.town.mihama.mie.jp
+ 紀宝町,www.town.kiho.lg.jp
+ 大津市,www.city.otsu.lg.jp
+-彦根市,www.city.hikone.shiga.jp
++彦根市,www.city.hikone.lg.jp
+ 長浜市,www.city.nagahama.lg.jp
+ 近江八幡市,www.city.omihachiman.shiga.jp
+ 草津市,www.city.kusatsu.shiga.jp
 @@ -1167,7 +1170,7 @@
  栗東市,www.city.ritto.lg.jp
  甲賀市,www.city.koka.lg.jp
@@ -312,6 +336,15 @@
  勝浦町,www.town.katsuura.lg.jp
  上勝町,www.kamikatsu.jp
  佐那河内村,www.vill.sanagochi.lg.jp
+@@ -1600,7 +1603,7 @@
+ 香美市,www.city.kami.lg.jp
+ 東洋町,www.town.toyo.kochi.jp
+ 奈半利町,www.town.nahari.kochi.jp
+-田野町,www.chugei.or.jp
++田野町,tanocho.jp
+ 安田町,www.town.yasuda.kochi.jp
+ 北川村,www.kitagawamura.jp
+ 馬路村,www.vill.umaji.kochi.jp
 @@ -1645,7 +1648,7 @@
  柳川市,www.city.yanagawa.fukuoka.jp
  八女市,www.city.yame.fukuoka.jp
