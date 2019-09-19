@@ -1,6 +1,6 @@
 --- codeforfukui
 +++ wikidata
-@@ -2,62 +2,62 @@
+@@ -2,84 +2,84 @@
  中央区,http://www.city.sapporo.jp/chuo/
  北区,http://www.city.sapporo.jp/kitaku/
  東区,http://www.city.sapporo.jp/higashi/
@@ -95,9 +95,11 @@
 +厚沢部町,https://www.town.assabu.lg.jp/
 +乙部町,https://www.town.otobe.lg.jp/
  奥尻町,http://www.town.okushiri.lg.jp/
- 今金町,http://www.town.imakane.lg.jp/
+-今金町,http://www.town.imakane.lg.jp/
++今金町,https://www.town.imakane.lg.jp/
  せたな町,http://www.town.setana.lg.jp/
-@@ -66,20 +66,20 @@
+ 島牧村,http://www.vill.shimamaki.lg.jp/
+ 寿都町,http://www.town.suttu.lg.jp/
  黒松内町,http://www.kuromatsunai.com/
  蘭越町,http://www.town.rankoshi.hokkaido.jp/
  ニセコ町,https://www.town.niseko.lg.jp/
@@ -2480,9 +2482,12 @@
  広川町,http://www.town.hirokawa.fukuoka.jp/
  香春町,https://www.town.kawara.fukuoka.jp/
  添田町,https://www.town.soeda.fukuoka.jp/
-@@ -1692,15 +1695,15 @@
+@@ -1690,17 +1693,17 @@
+ 大任町,http://www.town.oto.fukuoka.jp/
+ 赤村,http://www.akamura.net/
  福智町,http://www.town.fukuchi.lg.jp/
- 苅田町,http://www.town.kanda.lg.jp/
+-苅田町,http://www.town.kanda.lg.jp/
++苅田町,https://www.town.kanda.lg.jp/
  みやこ町,http://www.town.miyako.lg.jp/
 -吉富町,http://www.town.yoshitomi.lg.jp/
 +吉富町,https://www.town.yoshitomi.lg.jp/
