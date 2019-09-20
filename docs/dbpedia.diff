@@ -1357,11 +1357,7 @@
 -162116,http://www.city.imizu.toyama.jp
 -163210,http://www.vill.funahashi.toyama.jp/index.html
 -163228,http://www.town.kamiichi.toyama.jp/
-+162108,https://www.city.nanto.toyama.jp/
-+162116,https://www.city.imizu.toyama.jp/
-+163210,http://www.vill.funahashi.toyama.jp/
-+163228,https://www.town.kamiichi.toyama.jp/
- 163236,http://www.town.tateyama.toyama.jp/
+-163236,http://www.town.tateyama.toyama.jp/
 -163422,http://www.town.nyuzen.toyama.jp/index.html
 -163431,http://www.town.asahi.toyama.jp/
 -170003,http://www.pref.ishikawa.lg.jp
@@ -1373,6 +1369,11 @@
 -172057,http://www.city.suzu.ishikawa.jp/
 -172065,http://www.city.kaga.ishikawa.jp/
 -172073,http://www.city.hakui.ishikawa.jp/sypher/www/index.jsp
++162108,https://www.city.nanto.toyama.jp/
++162116,https://www.city.imizu.toyama.jp/
++163210,http://www.vill.funahashi.toyama.jp/
++163228,https://www.town.kamiichi.toyama.jp/
++163236,https://www.town.tateyama.toyama.jp/
 +163422,https://www.town.nyuzen.toyama.jp/
 +163431,https://www.town.asahi.toyama.jp/
 +172014,https://www4.city.kanazawa.lg.jp/
