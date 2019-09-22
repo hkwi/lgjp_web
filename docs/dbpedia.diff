@@ -203,9 +203,10 @@
  015121,http://www.town.hamatonbetsu.hokkaido.jp/
  015130,http://www.town.nakatombetsu.hokkaido.jp/
 -015148,http://www.town.esashi.hokkaido.jp/
-+015148,https://www.esashi.jp/
- 015164,http://www.town.toyotomi.hokkaido.jp/
+-015164,http://www.town.toyotomi.hokkaido.jp/
 -015172,http://www.town.rebun.hokkaido.jp/
++015148,https://www.esashi.jp/
++015164,https://www.town.toyotomi.hokkaido.jp/
 +015172,https://www.town.rebun.hokkaido.jp/
  015181,http://www.town.rishiri.hokkaido.jp/
  015199,http://www.town.rishirifuji.hokkaido.jp/
@@ -226,10 +227,11 @@
  015555,http://engaru.jp/
 -015598,http://www.town.yubetsu.lg.jp/
 -015601,http://town.takinoue.hokkaido.jp/
+-015610,http://www.town.okoppe.lg.jp/
+-015628,http://www.vill.nishiokoppe.hokkaido.jp/index.html
 +015598,https://www.town.yubetsu.lg.jp/
 +015601,https://town.takinoue.hokkaido.jp/
- 015610,http://www.town.okoppe.lg.jp/
--015628,http://www.vill.nishiokoppe.hokkaido.jp/index.html
++015610,https://www.town.okoppe.lg.jp/
 +015628,https://www.vill.nishiokoppe.lg.jp/
  015636,http://www.town.oumu.hokkaido.jp/
  015644,http://www.town.ozora.hokkaido.jp/
