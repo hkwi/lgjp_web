@@ -274,8 +274,9 @@
  016373,http://www.memuro.net/
  016381,http://www.vill.nakasatsunai.hokkaido.jp/
 -016390,http://www.sarabetsu.jp/
+-016411,http://www.town.taiki.hokkaido.jp/
 +016390,https://www.sarabetsu.jp/
- 016411,http://www.town.taiki.hokkaido.jp/
++016411,https://www.town.taiki.hokkaido.jp/
  016420,http://www.town.hiroo.hokkaido.jp/
 -016438,http://www.town.makubetsu.lg.jp/
 -016446,http://www.town.hokkaido-ikeda.lg.jp/
@@ -292,13 +293,14 @@
 -016624,http://www.akkeshi-town.jp/
 -016632,http://www.townhamanaka.jp/index.html
 -016641,http://www.town.shibecha.hokkaido.jp/yakuba/
-+016624,https://www.akkeshi-town.jp/
-+016632,https://www.townhamanaka.jp/
-+016641,http://www.town.shibecha.hokkaido.jp/
- 016659,http://www.town.teshikaga.hokkaido.jp/
+-016659,http://www.town.teshikaga.hokkaido.jp/
 -016675,http://www.vill.tsurui.lg.jp/
 -016683,http://www.town.shiranuka.lg.jp/
 -016918,http://betsukai.jp/
++016624,https://www.akkeshi-town.jp/
++016632,https://www.townhamanaka.jp/
++016641,http://www.town.shibecha.hokkaido.jp/
++016659,https://www.town.teshikaga.hokkaido.jp/
 +016675,https://www.vill.tsurui.lg.jp/
 +016683,https://www.town.shiranuka.lg.jp/
 +016918,https://betsukai.jp/
@@ -1253,13 +1255,14 @@
  142131,http://www.city.yamato.lg.jp/
 -142140,http://www.city.isehara.kanagawa.jp/
 -142158,http://www.city.ebina.kanagawa.jp/
-+142140,https://www.city.isehara.kanagawa.jp/
-+142158,https://www.city.ebina.kanagawa.jp/
- 142166,http://www.city.zama.kanagawa.jp/
+-142166,http://www.city.zama.kanagawa.jp/
 -142174,http://www.city.minamiashigara.kanagawa.jp/index.html
 -142182,http://www.city.ayase.kanagawa.jp/
 -143014,http://town.hayama.lg.jp/
 -143219,http://www.town.samukawa.kanagawa.jp/
++142140,https://www.city.isehara.kanagawa.jp/
++142158,https://www.city.ebina.kanagawa.jp/
++142166,https://www.city.zama.kanagawa.jp/
 +142174,https://www.city.minamiashigara.kanagawa.jp/
 +142182,https://www.city.ayase.kanagawa.jp/
 +143014,http://www.town.hayama.lg.jp/
@@ -1884,7 +1887,7 @@
  234478,http://www.town.taketoyo.lg.jp/
 -235016,http://www.town.kota.aichi.jp/
 -235610,http://www.town.shitara.aichi.jp/
-+235016,http://www.town.kota.lg.jp/
++235016,https://www.town.kota.lg.jp/
 +235610,http://www.town.shitara.lg.jp/
  235628,http://www.town.toei.aichi.jp/
  235636,http://www.vill.toyone.aichi.jp/
@@ -2567,7 +2570,7 @@
 +355020,http://www.town.abu.lg.jp/
 +362018,https://www.city.tokushima.tokushima.jp/
 +362026,https://www.city.naruto.tokushima.jp/
-+362034,https://www.city.komatsushima.tokushima.jp/
++362034,https://www.city.komatsushima.lg.jp/
 +362042,https://www.city.anan.tokushima.jp/
 +362051,https://www.city.yoshinogawa.lg.jp/
 +362069,https://www.city.awa.lg.jp/
@@ -2883,10 +2886,7 @@
 -414255,http://www.town.shiroishi.lg.jp/
 -414417,http://www.town.tara.saga.jp/index.php
 -420000,http://www.pref.nagasaki.lg.jp/
-+414247,https://www.town.kouhoku.saga.jp/
-+414255,https://www.town.shiroishi.lg.jp/
-+414417,https://www.town.tara.lg.jp/
- 422011,http://www.city.nagasaki.lg.jp/
+-422011,http://www.city.nagasaki.lg.jp/
 -422011,http://www.at-nagasaki.jp/
 -422029,http://www.city.sasebo.nagasaki.jp/
 -422037,http://www.city.shimabara.lg.jp/
@@ -2894,6 +2894,10 @@
 -422053,http://www.city.omura.nagasaki.jp/
 -422070,http://www.city.hirado.nagasaki.jp/
 -422088,http://www.city-matsuura.jp/
++414247,https://www.town.kouhoku.saga.jp/
++414255,https://www.town.shiroishi.lg.jp/
++414417,https://www.town.tara.lg.jp/
++422011,https://www.city.nagasaki.lg.jp/
 +422029,https://www.city.sasebo.lg.jp/
 +422037,https://www.city.shimabara.lg.jp/
 +422045,https://www.city.isahaya.nagasaki.jp/
@@ -2919,10 +2923,11 @@
 -423220,http://kawatana.jp/
 -423238,http://www.town.hasami.lg.jp/
 -423831,http://www.ojika.net/
+-423912,http://www.sazacho-nagasaki.jp/
 +423220,https://kawatana.jp/
 +423238,https://www.town.hasami.lg.jp/
 +423831,http://ojika.net/
- 423912,http://www.sazacho-nagasaki.jp/
++423912,https://www.sazacho-nagasaki.jp/
  424111,http://official.shinkamigoto.net/
 -430005,http://www.pref.kumamoto.jp/
  431001,http://www.city.kumamoto.jp/

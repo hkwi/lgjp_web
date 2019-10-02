@@ -169,7 +169,7 @@ code,name,site
 016373,芽室町,http://www.memuro.net/
 016381,中札内村,http://www.vill.nakasatsunai.hokkaido.jp/
 016390,更別村,https://www.sarabetsu.jp/
-016411,大樹町,http://www.town.taiki.hokkaido.jp/
+016411,大樹町,https://www.town.taiki.hokkaido.jp/
 016420,広尾町,http://www.town.hiroo.hokkaido.jp/
 016438,幕別町,https://www.town.makubetsu.lg.jp/
 016446,池田町,https://www.town.hokkaido-ikeda.lg.jp/
@@ -182,7 +182,7 @@ code,name,site
 016624,厚岸町,https://www.akkeshi-town.jp/
 016632,浜中町,https://www.townhamanaka.jp/
 016641,標茶町,http://www.town.shibecha.hokkaido.jp/
-016659,弟子屈町,http://www.town.teshikaga.hokkaido.jp/
+016659,弟子屈町,https://www.town.teshikaga.hokkaido.jp/
 016675,鶴居村,https://www.vill.tsurui.lg.jp/
 016683,白糠町,https://www.town.shiranuka.lg.jp/
 016918,別海町,https://betsukai.jp/
@@ -780,7 +780,7 @@ code,name,site
 142131,大和市,http://www.city.yamato.lg.jp/
 142140,伊勢原市,https://www.city.isehara.kanagawa.jp/
 142158,海老名市,https://www.city.ebina.kanagawa.jp/
-142166,座間市,http://www.city.zama.kanagawa.jp/
+142166,座間市,https://www.city.zama.kanagawa.jp/
 142174,南足柄市,https://www.city.minamiashigara.kanagawa.jp/
 142182,綾瀬市,https://www.city.ayase.kanagawa.jp/
 143014,葉山町,http://www.town.hayama.lg.jp/
@@ -1152,7 +1152,7 @@ code,name,site
 234451,南知多町,https://www.town.minamichita.lg.jp/
 234460,美浜町,http://www.town.aichi-mihama.lg.jp/
 234478,武豊町,http://www.town.taketoyo.lg.jp/
-235016,幸田町,http://www.town.kota.lg.jp/
+235016,幸田町,https://www.town.kota.lg.jp/
 235610,設楽町,http://www.town.shitara.lg.jp/
 235628,東栄町,http://www.town.toei.aichi.jp/
 235636,豊根村,http://www.vill.toyone.aichi.jp/
@@ -1568,7 +1568,7 @@ code,name,site
 360007,徳島県,https://www.pref.tokushima.lg.jp/
 362018,徳島市,https://www.city.tokushima.tokushima.jp/
 362026,鳴門市,https://www.city.naruto.tokushima.jp/
-362034,小松島市,https://www.city.komatsushima.tokushima.jp/
+362034,小松島市,https://www.city.komatsushima.lg.jp/
 362042,阿南市,https://www.city.anan.tokushima.jp/
 362051,吉野川市,https://www.city.yoshinogawa.lg.jp/
 362069,阿波市,https://www.city.awa.lg.jp/
@@ -1761,7 +1761,7 @@ code,name,site
 414255,白石町,https://www.town.shiroishi.lg.jp/
 414417,太良町,https://www.town.tara.lg.jp/
 420000,長崎県,https://www.pref.nagasaki.jp/
-422011,長崎市,http://www.city.nagasaki.lg.jp/
+422011,長崎市,https://www.city.nagasaki.lg.jp/
 422029,佐世保市,https://www.city.sasebo.lg.jp/
 422037,島原市,https://www.city.shimabara.lg.jp/
 422045,諫早市,https://www.city.isahaya.nagasaki.jp/
@@ -1780,7 +1780,7 @@ code,name,site
 423220,川棚町,https://kawatana.jp/
 423238,波佐見町,https://www.town.hasami.lg.jp/
 423831,小値賀町,http://ojika.net/
-423912,佐々町,http://www.sazacho-nagasaki.jp/
+423912,佐々町,https://www.sazacho-nagasaki.jp/
 424111,新上五島町,http://official.shinkamigoto.net/
 430005,熊本県,https://www.pref.kumamoto.jp/
 431001,熊本市,http://www.city.kumamoto.jp/
