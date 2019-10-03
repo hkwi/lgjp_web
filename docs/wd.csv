@@ -12,12 +12,14 @@ code,name,site
 011096,手稲区,http://www.city.sapporo.jp/teine/
 011100,清田区,http://www.city.sapporo.jp/kiyota/
 012025,函館市,https://www.city.hakodate.hokkaido.jp/
+012025,函館市,https://www.city.hakodate.hokkaido.jp/docs/2014013100457/
+012025,函館市,https://www.city.hakodate.hokkaido.jp/docs/2014020200096/
 012033,小樽市,https://www.city.otaru.lg.jp/
 012041,旭川市,https://www.city.asahikawa.hokkaido.jp/
 012050,室蘭市,https://www.city.muroran.lg.jp/
 012068,釧路市,https://www.city.kushiro.lg.jp/
 012076,帯広市,https://www.city.obihiro.hokkaido.jp/
-012084,北見市,https://www.city.kitami.lg.jp/
+012084,北見市,http://www.city.kitami.lg.jp/
 012092,夕張市,https://www.city.yubari.lg.jp/
 012106,岩見沢市,https://www.city.iwamizawa.hokkaido.jp/
 012114,網走市,https://www.city.abashiri.hokkaido.jp/
@@ -765,8 +767,6 @@ code,name,site
 141518,緑区,http://www.city.sagamihara.kanagawa.jp/midoriku/
 141526,中央区,http://www.city.sagamihara.kanagawa.jp/chuoku/
 141534,南区,http://www.city.sagamihara.kanagawa.jp/minamiku/
-142018,横須賀市,https://www.city.hakodate.hokkaido.jp/docs/2014013100457/
-142018,横須賀市,https://www.city.hakodate.hokkaido.jp/docs/2014020200096/
 142018,横須賀市,https://www.city.yokosuka.kanagawa.jp/
 142034,平塚市,http://www.city.hiratsuka.kanagawa.jp/
 142042,鎌倉市,http://www.city.kamakura.kanagawa.jp/
