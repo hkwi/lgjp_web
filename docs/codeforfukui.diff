@@ -2260,11 +2260,12 @@
  世羅町,http://www.town.sera.hiroshima.jp/
  神石高原町,http://www.jinsekigun.jp/
 -下関市,http://www.city.shimonoseki.lg.jp/www/toppage/0000000000000/APM03000.html
-+下関市,http://www.city.shimonoseki.lg.jp/
- 宇部市,http://www.city.ube.yamaguchi.jp/
+-宇部市,http://www.city.ube.yamaguchi.jp/
 -山口市,http://www.city.yamaguchi.lg.jp/
 -萩市,http://www.city.hagi.lg.jp/
 -防府市,http://www.city.hofu.yamaguchi.jp/
++下関市,http://www.city.shimonoseki.lg.jp/
++宇部市,https://www.city.ube.yamaguchi.jp/
 +山口市,https://www.city.yamaguchi.lg.jp/
 +萩市,https://www.city.hagi.lg.jp/
 +防府市,https://www.city.hofu.yamaguchi.jp/

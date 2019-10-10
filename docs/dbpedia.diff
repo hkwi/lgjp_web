@@ -2530,7 +2530,7 @@
  345458,http://www.jinsekigun.jp/
 -350001,http://www.pref.yamaguchi.lg.jp/
  352012,http://www.city.shimonoseki.lg.jp/
- 352021,http://www.city.ube.yamaguchi.jp/
+-352021,http://www.city.ube.yamaguchi.jp/
 -352039,http://www.city.yamaguchi.lg.jp/
 -352047,http://www.city.hagi.lg.jp/
 -352063,http://www.city.hofu.yamaguchi.jp/
@@ -2540,6 +2540,7 @@
 -352110,http://www.city.nagato.yamaguchi.jp/
 -352128,http://www.city-yanai.jp/
 -352136,http://www2.city.mine.lg.jp/www/toppage/0000000000000/APM03000.html
++352021,https://www.city.ube.yamaguchi.jp/
 +352039,https://www.city.yamaguchi.lg.jp/
 +352047,https://www.city.hagi.lg.jp/
 +352063,https://www.city.hofu.yamaguchi.jp/
