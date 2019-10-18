@@ -99,9 +99,10 @@
  奥尻町,http://www.town.okushiri.lg.jp/
 -今金町,http://www.town.imakane.lg.jp/
 -せたな町,http://www.town.setana.lg.jp/
+-島牧村,http://www.vill.shimamaki.lg.jp/
 +今金町,https://www.town.imakane.lg.jp/
 +せたな町,https://www.town.setana.lg.jp/
- 島牧村,http://www.vill.shimamaki.lg.jp/
++島牧村,https://www.vill.shimamaki.lg.jp/
  寿都町,http://www.town.suttu.lg.jp/
  黒松内町,http://www.kuromatsunai.com/
  蘭越町,http://www.town.rankoshi.hokkaido.jp/
@@ -293,8 +294,9 @@
  蓬田村,http://www.vill.yomogita.lg.jp/
  外ヶ浜町,http://www.town.sotogahama.lg.jp/
  鰺ヶ沢町,http://www.town.ajigasawa.lg.jp/
- 深浦町,http://www.town.fukaura.lg.jp/
+-深浦町,http://www.town.fukaura.lg.jp/
 -西目屋村,http://www.nishimeya.jp/
++深浦町,https://www.town.fukaura.lg.jp/
 +西目屋村,https://www.nishimeya.jp/
  藤崎町,http://www.town.fujisaki.lg.jp/
  大鰐町,http://www.town.owani.lg.jp/

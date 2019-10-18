@@ -106,10 +106,11 @@
  013676,http://www.town.okushiri.lg.jp/
 -013706,http://www.town.imakane.lg.jp/index.php
 -013714,http://www.town.setana.lg.jp/index.php
+-013919,http://www.vill.shimamaki.lg.jp/
+-013927,http://www.town.suttu.lg.jp/index.html
 +013706,https://www.town.imakane.lg.jp/
 +013714,https://www.town.setana.lg.jp/
- 013919,http://www.vill.shimamaki.lg.jp/
--013927,http://www.town.suttu.lg.jp/index.html
++013919,https://www.vill.shimamaki.lg.jp/
 +013927,http://www.town.suttu.lg.jp/
  013935,http://www.kuromatsunai.com/
  013943,http://www.town.rankoshi.hokkaido.jp/
@@ -338,7 +339,7 @@
 -023230,None
 -023434,http://www.nishimeya.jp/index.asp
 +023213,http://www.town.ajigasawa.lg.jp/
-+023230,http://www.town.fukaura.lg.jp/
++023230,https://www.town.fukaura.lg.jp/
 +023434,https://www.nishimeya.jp/
  023612,http://www.town.fujisaki.lg.jp/
  023621,http://www.town.owani.lg.jp/
