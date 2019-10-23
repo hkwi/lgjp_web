@@ -19,7 +19,7 @@ class TestDataSet(unittest.TestCase):
 		import lgjp_web.wd
 		import lgjp_web.base
 		base = set([r["code"].value for r in lgjp_web.base.info])
-		ex = set([code.value for code, name, site in lgjp_web.wd.info if code[2:5] != "000"])
+		ex = set([r.code.value for r in lgjp_web.wd.info if r.code[2:5] != "000"])
 		assert base==ex, repr([base-ex, ex-base])
 	
 	def test_codeforfukui(self):
@@ -38,7 +38,7 @@ class TestAccess(unittest.TestCase):
 	def test_dns(self):
 		import lgjp_web.wd
 		def func(arg):
-			code, name, site = arg
+			code, name, site = arg.code, arg.name, arg.site
 			host = urlparse(site).netloc
 			try:
 				socket.gethostbyname(host)
@@ -60,7 +60,7 @@ class TestAccess(unittest.TestCase):
 		info = lgjp_web.wd.info
 		
 		def func(arg):
-			qname, name, site = arg
+			qname, name, site = arg.s, arg.name, arg.site
 			
 			info = {"qname": str(qname), "site": str(site), "hint": []}
 			try:
@@ -85,7 +85,7 @@ class TestAccess(unittest.TestCase):
 				info["reason"] = e
 			except Exception as e:
 				info["hint"] += ["ERROR"]
-				info["reason"] = e
+				info["reason"] = str(e)
 			
 			if info["hint"]:
 				print(info)

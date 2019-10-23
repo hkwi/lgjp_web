@@ -19,7 +19,7 @@ for r in csv.DictReader(io.TextIOWrapper(urlopen(remote))):
 	base.append("%s,%s" % (name, r["url"]))
 	
 ex = ["%s,%s" % (name.value, str(site))
-	for code, name, site in lgjp_web.wd.info if code[2:5] != "000"]
+	for qname, code, name, site in lgjp_web.wd.info if code[2:5] != "000"]
 with open("docs/codeforfukui.diff","w") as w:
 	for l in difflib.unified_diff(base, ex, fromfile="codeforfukui", tofile="wikidata"):
 		w.write(l)
@@ -35,7 +35,7 @@ for r in csv.DictReader(io.TextIOWrapper(urlopen(remote))):
 	base.append("%s,%s" % (name, urlparse(r["url"]).netloc))
 
 ex = []
-for code, name, site in lgjp_web.wd.info:
+for qname, code, name, site in lgjp_web.wd.info:
 	if code[2:5] == "000":
 		continue
 	

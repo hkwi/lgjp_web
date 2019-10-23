@@ -2,3 +2,4 @@ rdflib
 requests
 SPARQLWrapper
 pyyaml
+sslyze

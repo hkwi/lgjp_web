@@ -22,7 +22,7 @@ for code,name,homepage in info:
 	base.append("%s,%s" % (code[:5]+code[6:], homepage))
 
 ex = []
-for code, name, site in lgjp_web.wd.info:
+for qname, code, name, site in lgjp_web.wd.info:
 	if code[2:5] == "000":
 		continue
 	

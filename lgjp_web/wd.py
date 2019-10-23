@@ -1,11 +1,16 @@
 # coding: UTF-8
 # Wikidata to CSV
 import rdflib
+import csv
 
 g = rdflib.ConjunctiveGraph(store="SPARQLStore")
+# https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service
 g.store.endpoint = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
+# https://meta.wikimedia.org/wiki/User-Agent_policy
+g.store.agent = "https://github.com/hkwi/lgjp_web"
+
 info = g.query('''
-SELECT ?code ?name ?site WHERE {
+SELECT ?s ?code ?name ?site WHERE {
  ?s wdt:P429 ?code ; # 全国地方公共団体コード
     rdfs:label ?name .
   OPTIONAL {
@@ -19,8 +24,10 @@ SELECT ?code ?name ?site WHERE {
  FILTER NOT EXISTS { ?s wdt:P31 wd:Q850450 } # 分類 支庁
 } ORDER BY ?code ?site
 ''')
-with open("docs/wd.csv","w") as f:
-	f.write(info.serialize(format="csv").decode("UTF-8"))
+with open("docs/wd.csv","w", encoding="UTF-8") as f:
+	csv.writer(f).writerows([
+		[r[x] for x in "code name site".split()]
+		for r in info])
 
 # How to update the official website:
 # - If the item has a new site, add an additional statement with preferred rank. 
