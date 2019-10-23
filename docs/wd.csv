@@ -1,4 +1,3 @@
-code,name,site
 010006,北海道,http://www.pref.hokkaido.lg.jp/
 011002,札幌市,http://www.city.sapporo.jp/
 011011,中央区,http://www.city.sapporo.jp/chuo/
@@ -871,7 +870,7 @@ code,name,site
 173860,宝達志水町,http://www.hodatsushimizu.jp/
 174076,中能登町,https://www.town.nakanoto.ishikawa.jp/
 174611,穴水町,http://www.town.anamizu.ishikawa.jp/
-174637,能登町,http://www.town.noto.lg.jp/
+174637,能登町,https://www.town.noto.lg.jp/
 180009,福井県,https://www.pref.fukui.lg.jp/
 182010,福井市,https://www.city.fukui.lg.jp/
 182028,敦賀市,https://www.city.tsuruga.lg.jp/
