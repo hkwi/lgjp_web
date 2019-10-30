@@ -2009,7 +2009,7 @@
 -香美町,http://www.town.mikata-kami.lg.jp/www/toppage/0000000000000/APM03000.html
 +上郡町,http://www.town.kamigori.hyogo.jp/
 +佐用町,http://www.town.sayo.lg.jp/
-+香美町,http://www.town.mikata-kami.lg.jp/
++香美町,https://www.town.mikata-kami.lg.jp/
  新温泉町,https://www.town.shinonsen.hyogo.jp/
 -奈良市,http://www.city.nara.lg.jp/www/toppage/0000000000000/APM03000.html
 -大和高田市,http://www.city.yamatotakada.nara.jp/
@@ -2312,9 +2312,12 @@
  神山町,http://www.town.kamiyama.lg.jp/
  那賀町,http://www.town.tokushima-naka.lg.jp/
  牟岐町,https://www.town.tokushima-mugi.lg.jp/
-@@ -1550,14 +1553,14 @@
+@@ -1548,16 +1551,16 @@
+ 藍住町,https://www.town.aizumi.lg.jp/
+ 板野町,http://www.town.itano.tokushima.jp/
  上板町,https://www.townkamiita.jp/
- つるぎ町,http://www.town.tokushima-tsurugi.lg.jp/
+-つるぎ町,http://www.town.tokushima-tsurugi.lg.jp/
++つるぎ町,https://www.town.tokushima-tsurugi.lg.jp/
  東みよし町,https://www.town.higashimiyoshi.lg.jp/
 -高松市,http://www.city.takamatsu.kagawa.jp/
 +高松市,https://www.city.takamatsu.kagawa.jp/
