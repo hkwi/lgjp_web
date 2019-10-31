@@ -1244,10 +1244,11 @@
  142042,http://www.city.kamakura.kanagawa.jp/
 -142051,http://www.city.fujisawa.kanagawa.jp/
 -142069,http://www.city.odawara.kanagawa.jp/
+-142077,http://www.city.chigasaki.kanagawa.jp/
+-142085,http://www.city.zushi.kanagawa.jp/
 +142051,https://www.city.fujisawa.kanagawa.jp/
 +142069,https://www.city.odawara.kanagawa.jp/
- 142077,http://www.city.chigasaki.kanagawa.jp/
--142085,http://www.city.zushi.kanagawa.jp/
++142077,https://www.city.chigasaki.kanagawa.jp/
 +142085,https://www.city.zushi.kanagawa.jp/
  142107,http://www.city.miura.kanagawa.jp/
  142115,http://www.city.hadano.kanagawa.jp/

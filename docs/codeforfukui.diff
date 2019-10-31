@@ -1097,10 +1097,11 @@
  鎌倉市,http://www.city.kamakura.kanagawa.jp/
 -藤沢市,http://www.city.fujisawa.kanagawa.jp/
 -小田原市,http://www.city.odawara.kanagawa.jp/
+-茅ヶ崎市,http://www.city.chigasaki.kanagawa.jp/
+-逗子市,http://www.city.zushi.kanagawa.jp/
 +藤沢市,https://www.city.fujisawa.kanagawa.jp/
 +小田原市,https://www.city.odawara.kanagawa.jp/
- 茅ヶ崎市,http://www.city.chigasaki.kanagawa.jp/
--逗子市,http://www.city.zushi.kanagawa.jp/
++茅ヶ崎市,https://www.city.chigasaki.kanagawa.jp/
 +逗子市,https://www.city.zushi.kanagawa.jp/
  三浦市,http://www.city.miura.kanagawa.jp/
 -秦野市,http://www.city.hadano.kanagawa.jp/www/index.html
