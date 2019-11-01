@@ -1149,13 +1149,14 @@
  132047,http://www.city.mitaka.tokyo.jp/
 -132055,http://www.city.ome.tokyo.jp/
 -132063,http://www.city.fuchu.tokyo.jp/
-+132055,https://www.city.ome.tokyo.jp/
-+132063,https://www.city.fuchu.tokyo.jp/
- 132071,http://www.city.akishima.lg.jp/
+-132071,http://www.city.akishima.lg.jp/
 -132071,http://www.city.akishima.lg.jp/index.html
 -132080,http://www.city.chofu.tokyo.jp
 -132098,http://www.city.machida.tokyo.jp/
 -132101,http://www.city.koganei.lg.jp/
++132055,https://www.city.ome.tokyo.jp/
++132063,https://www.city.fuchu.tokyo.jp/
++132071,https://www.city.akishima.lg.jp/
 +132080,https://www.city.chofu.tokyo.jp/
 +132098,https://www.city.machida.tokyo.jp/
 +132101,https://www.city.koganei.lg.jp/
@@ -2559,7 +2560,8 @@
 +352161,https://www.city.sanyo-onoda.lg.jp/
 +353051,https://www.town.suo-oshima.lg.jp/
  353213,http://www.town.waki.lg.jp/
- 353418,http://www.town.kaminoseki.lg.jp/
+-353418,http://www.town.kaminoseki.lg.jp/
++353418,https://www.town.kaminoseki.lg.jp/
  353434,http://www.town.tabuse.lg.jp/
 -353442,http://www.town.hirao.lg.jp/home/html/main.html
  353442,http://www.town.hirao.lg.jp/
