@@ -559,6 +559,15 @@
  南会津町,http://www.minamiaizu.org/
  北塩原村,http://www.vill.kitashiobara.fukushima.jp/
  西会津町,https://www.town.nishiaizu.fukushima.jp/
+@@ -395,7 +398,7 @@
+ 昭和村,http://www.vill.showa.fukushima.jp/
+ 会津美里町,http://www.town.aizumisato.fukushima.jp/
+ 西郷村,https://www.vill.nishigo.fukushima.jp/
+-泉崎村,http://www.vill.izumizaki.fukushima.jp/
++泉崎村,https://www.vill.izumizaki.fukushima.jp/
+ 中島村,http://www.vill-nakajima.jp/
+ 矢吹町,http://www.town.yabuki.fukushima.jp/
+ 棚倉町,http://www.town.tanagura.fukushima.jp/
 @@ -404,13 +407,13 @@
  鮫川村,https://www.vill.samegawa.fukushima.jp/
  石川町,http://www.town.ishikawa.fukushima.jp/
@@ -1248,8 +1257,9 @@
  川北町,http://www.town.kawakita.ishikawa.jp/
  津幡町,http://www.town.tsubata.ishikawa.jp/
 -内灘町,http://www.town.uchinada.lg.jp/webapps/www/index.jsp
+-志賀町,http://www.town.shika.lg.jp/
 +内灘町,http://www.town.uchinada.lg.jp/
- 志賀町,http://www.town.shika.lg.jp/
++志賀町,https://www.town.shika.lg.jp/
  宝達志水町,http://www.hodatsushimizu.jp/
 -中能登町,http://www.town.nakanoto.ishikawa.jp/webapps/www/index.jsp
 +中能登町,https://www.town.nakanoto.ishikawa.jp/
@@ -1935,8 +1945,9 @@
 +太子町,https://www.town.taishi.osaka.jp/
  河南町,http://www.town.kanan.osaka.jp/
 -千早赤阪村,http://www.vill.chihayaakasaka.osaka.jp/
+-神戸市,http://www.city.kobe.lg.jp/
 +千早赤阪村,https://www.vill.chihayaakasaka.osaka.jp/
- 神戸市,http://www.city.kobe.lg.jp/
++神戸市,https://www.city.kobe.lg.jp/
  東灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/
  灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/nada/
  兵庫区,http://www.city.kobe.lg.jp/ward/kuyakusho/hyogo/
