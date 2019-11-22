@@ -559,6 +559,15 @@
  南会津町,http://www.minamiaizu.org/
  北塩原村,http://www.vill.kitashiobara.fukushima.jp/
  西会津町,https://www.town.nishiaizu.fukushima.jp/
+@@ -395,7 +398,7 @@
+ 昭和村,http://www.vill.showa.fukushima.jp/
+ 会津美里町,http://www.town.aizumisato.fukushima.jp/
+ 西郷村,https://www.vill.nishigo.fukushima.jp/
+-泉崎村,http://www.vill.izumizaki.fukushima.jp/
++泉崎村,https://www.vill.izumizaki.fukushima.jp/
+ 中島村,http://www.vill-nakajima.jp/
+ 矢吹町,http://www.town.yabuki.fukushima.jp/
+ 棚倉町,http://www.town.tanagura.fukushima.jp/
 @@ -404,13 +407,13 @@
  鮫川村,https://www.vill.samegawa.fukushima.jp/
  石川町,http://www.town.ishikawa.fukushima.jp/
@@ -1102,7 +1111,7 @@
 -逗子市,http://www.city.zushi.kanagawa.jp/
 +藤沢市,https://www.city.fujisawa.kanagawa.jp/
 +小田原市,https://www.city.odawara.kanagawa.jp/
-+茅ヶ崎市,None
++茅ヶ崎市,https://www.city.chigasaki.kanagawa.jp/
 +逗子市,https://www.city.zushi.kanagawa.jp/
  三浦市,http://www.city.miura.kanagawa.jp/
 -秦野市,http://www.city.hadano.kanagawa.jp/www/index.html
@@ -1248,8 +1257,9 @@
  川北町,http://www.town.kawakita.ishikawa.jp/
  津幡町,http://www.town.tsubata.ishikawa.jp/
 -内灘町,http://www.town.uchinada.lg.jp/webapps/www/index.jsp
+-志賀町,http://www.town.shika.lg.jp/
 +内灘町,http://www.town.uchinada.lg.jp/
- 志賀町,http://www.town.shika.lg.jp/
++志賀町,https://www.town.shika.lg.jp/
  宝達志水町,http://www.hodatsushimizu.jp/
 -中能登町,http://www.town.nakanoto.ishikawa.jp/webapps/www/index.jsp
 +中能登町,https://www.town.nakanoto.ishikawa.jp/
@@ -1935,19 +1945,28 @@
 +太子町,https://www.town.taishi.osaka.jp/
  河南町,http://www.town.kanan.osaka.jp/
 -千早赤阪村,http://www.vill.chihayaakasaka.osaka.jp/
-+千早赤阪村,https://www.vill.chihayaakasaka.osaka.jp/
- 神戸市,http://www.city.kobe.lg.jp/
- 東灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/
- 灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/nada/
- 兵庫区,http://www.city.kobe.lg.jp/ward/kuyakusho/hyogo/
- 長田区,http://www.city.kobe.lg.jp/ward/kuyakusho/nagata/
+-神戸市,http://www.city.kobe.lg.jp/
+-東灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/
+-灘区,http://www.city.kobe.lg.jp/ward/kuyakusho/nada/
+-兵庫区,http://www.city.kobe.lg.jp/ward/kuyakusho/hyogo/
+-長田区,http://www.city.kobe.lg.jp/ward/kuyakusho/nagata/
 -須磨区,http://www.city.kobe.lg.jp/ward/kuyakusho/suma/
-+須磨区,http://www.city.kobe.lg.jp/ward/kuyakusho/suma
- 垂水区,http://www.city.kobe.lg.jp/ward/kuyakusho/tarumi/
- 北区,http://www.city.kobe.lg.jp/ward/kuyakusho/kita/
- 中央区,http://www.city.kobe.lg.jp/ward/kuyakusho/chuou/
- 西区,http://www.city.kobe.lg.jp/ward/kuyakusho/nishi/
+-垂水区,http://www.city.kobe.lg.jp/ward/kuyakusho/tarumi/
+-北区,http://www.city.kobe.lg.jp/ward/kuyakusho/kita/
+-中央区,http://www.city.kobe.lg.jp/ward/kuyakusho/chuou/
+-西区,http://www.city.kobe.lg.jp/ward/kuyakusho/nishi/
 -姫路市,http://www.city.himeji.lg.jp/
++千早赤阪村,https://www.vill.chihayaakasaka.osaka.jp/
++神戸市,https://www.city.kobe.lg.jp/
++東灘区,https://www.city.kobe.lg.jp/kuyakusho/higashinadaku/
++灘区,https://www.city.kobe.lg.jp/kuyakusho/nadaku/
++兵庫区,https://www.city.kobe.lg.jp/kuyakusho/hyogoku/
++長田区,https://www.city.kobe.lg.jp/kuyakusho/nagataku/
++須磨区,https://www.city.kobe.lg.jp/kuyakusho/sumaku/
++垂水区,https://www.city.kobe.lg.jp/kuyakusho/tarumiku/
++北区,https://www.city.kobe.lg.jp/kuyakusho/kitaku/
++中央区,https://www.city.kobe.lg.jp/kuyakusho/chuoku/
++西区,https://www.city.kobe.lg.jp/kuyakusho/nishiku/
 +姫路市,https://www.city.himeji.lg.jp/
  尼崎市,http://www.city.amagasaki.hyogo.jp/
 -明石市,http://www.city.akashi.lg.jp/

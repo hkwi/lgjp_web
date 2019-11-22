@@ -671,9 +671,10 @@
  074462,http://www.vill.showa.fukushima.jp/
  074471,http://www.town.aizumisato.fukushima.jp/
 -074616,http://www.vill.nishigo.fukushima.jp/
-+074616,https://www.vill.nishigo.fukushima.jp/
- 074641,http://www.vill.izumizaki.fukushima.jp/
+-074641,http://www.vill.izumizaki.fukushima.jp/
 -074659,http://www.vill-nakajima.jp/forms/top/top.aspx
++074616,https://www.vill.nishigo.fukushima.jp/
++074641,https://www.vill.izumizaki.fukushima.jp/
 +074659,http://www.vill-nakajima.jp/
  074667,http://www.town.yabuki.fukushima.jp/
  074811,http://www.town.tanagura.fukushima.jp/
@@ -1249,7 +1250,7 @@
 -142085,http://www.city.zushi.kanagawa.jp/
 +142051,https://www.city.fujisawa.kanagawa.jp/
 +142069,https://www.city.odawara.kanagawa.jp/
-+142077,None
++142077,https://www.city.chigasaki.kanagawa.jp/
 +142085,https://www.city.zushi.kanagawa.jp/
  142107,http://www.city.miura.kanagawa.jp/
  142115,http://www.city.hadano.kanagawa.jp/
@@ -1404,7 +1405,8 @@
  173240,http://www.town.kawakita.ishikawa.jp/
  173614,http://www.town.tsubata.ishikawa.jp/
  173657,http://www.town.uchinada.lg.jp/
- 173843,http://www.town.shika.lg.jp/
+-173843,http://www.town.shika.lg.jp/
++173843,https://www.town.shika.lg.jp/
  173860,http://www.hodatsushimizu.jp/
 -174076,http://www.town.nakanoto.ishikawa.jp/
 +174076,https://www.town.nakanoto.ishikawa.jp/
@@ -2149,18 +2151,19 @@
  273821,http://www.town.kanan.osaka.jp/
 -273830,http://www.vill.chihayaakasaka.osaka.jp/
 -280003,http://web.pref.hyogo.lg.jp/
-+273830,https://www.vill.chihayaakasaka.osaka.jp/
- 281000,http://www.city.kobe.lg.jp/
+-281000,http://www.city.kobe.lg.jp/
 -282014,http://www.city.himeji.lg.jp
-+281018,http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/
-+281026,http://www.city.kobe.lg.jp/ward/kuyakusho/nada/
-+281051,http://www.city.kobe.lg.jp/ward/kuyakusho/hyogo/
-+281069,http://www.city.kobe.lg.jp/ward/kuyakusho/nagata/
-+281077,http://www.city.kobe.lg.jp/ward/kuyakusho/suma
-+281085,http://www.city.kobe.lg.jp/ward/kuyakusho/tarumi/
-+281093,http://www.city.kobe.lg.jp/ward/kuyakusho/kita/
-+281107,http://www.city.kobe.lg.jp/ward/kuyakusho/chuou/
-+281115,http://www.city.kobe.lg.jp/ward/kuyakusho/nishi/
++273830,https://www.vill.chihayaakasaka.osaka.jp/
++281000,https://www.city.kobe.lg.jp/
++281018,https://www.city.kobe.lg.jp/kuyakusho/higashinadaku/
++281026,https://www.city.kobe.lg.jp/kuyakusho/nadaku/
++281051,https://www.city.kobe.lg.jp/kuyakusho/hyogoku/
++281069,https://www.city.kobe.lg.jp/kuyakusho/nagataku/
++281077,https://www.city.kobe.lg.jp/kuyakusho/sumaku/
++281085,https://www.city.kobe.lg.jp/kuyakusho/tarumiku/
++281093,https://www.city.kobe.lg.jp/kuyakusho/kitaku/
++281107,https://www.city.kobe.lg.jp/kuyakusho/chuoku/
++281115,https://www.city.kobe.lg.jp/kuyakusho/nishiku/
 +282014,https://www.city.himeji.lg.jp/
  282022,http://www.city.amagasaki.hyogo.jp/
 -282031,http://www.city.akashi.lg.jp/
