@@ -3,3 +3,4 @@ requests
 SPARQLWrapper
 pyyaml
 sslyze
+selenium

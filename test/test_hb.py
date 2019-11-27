@@ -10,6 +10,7 @@ import requests.exceptions
 import yaml
 from urllib.parse import urlparse, urlencode
 from urllib.request import urlopen
+from selenium import webdriver
 
 class TestDataSet(unittest.TestCase):
 	def test_codeset(self):
@@ -59,17 +60,36 @@ class TestAccess(unittest.TestCase):
 		import lgjp_web.wd
 		info = lgjp_web.wd.info
 		
+		web = None
+		if os.environ.get("USE_BROWSER"):
+			# It would take about 2 hours
+			# chrome driver options were taken from ember-cli
+			# https://github.com/ember-cli/ember-cli/blob/master/blueprints/app/files/testem.js
+			opts = webdriver.ChromeOptions()
+			opts.add_argument('--no-sandbox')
+			opts.add_argument('--headless')
+			opts.add_argument('--disable-dev-shm-usage')
+			opts.add_argument('--disable-software-rasterizer')
+			opts.add_argument('--mute-audio')
+			opts.add_argument('--window-size=1440,900')
+			web = webdriver.Chrome(options=opts)
+		
 		def func(arg):
 			qname, name, site = arg.s, arg.name, arg.site
 			
 			info = {"qname": str(qname), "site": str(site), "hint": []}
 			try:
-				r = requests.get(str(site), timeout=30) # HEAD does not work
-				assert r.ok, r.reason
-				info["land"] = r.url
+				if web:
+					web.get(str(site))
+					land_url = web.current_url
+				else:
+					r = requests.get(str(site), timeout=30) # HEAD does not work
+					assert r.ok, r.reason
+					land_url = r.url
 				
+				info["land"] = land_url
 				a = urlparse(site)
-				b = urlparse(r.url)
+				b = urlparse(land_url)
 				
 				if a.netloc != b.netloc:
 					info["hint"] += ["MOVE"]
@@ -92,8 +112,11 @@ class TestAccess(unittest.TestCase):
 			
 			return info
 		
-		p = concurrent.futures.ThreadPoolExecutor(10)
-		r = list(p.map(func, info))
+		if web:
+			r = [func(arg) for arg in info]
+		else:
+			p = concurrent.futures.ThreadPoolExecutor(10)
+			r = list(p.map(func, info))
 		
 		keys = "MOVE HTTPS HTTP SCHEME SSL ERROR".split()
 		errors = {}
