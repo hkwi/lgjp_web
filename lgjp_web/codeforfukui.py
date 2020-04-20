@@ -9,7 +9,7 @@ except:
 	from urllib import urlopen
 	from urlparse import urlparse
 
-remote = "https://raw.githubusercontent.com/codeforfukui/localgovjp/gh-pages/localgovjp-utf8.csv"
+remote = "https://github.com/code4fukui/localgovjp/raw/master/localgovjp-utf8.csv"
 base = []
 for r in csv.DictReader(io.TextIOWrapper(urlopen(remote))):
 	name = r["city"]
